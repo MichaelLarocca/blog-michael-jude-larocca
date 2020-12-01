@@ -24,6 +24,12 @@ module.exports = {
     `gatsby-plugin-sharp`,
     `gatsby-plugin-google-analytics`,
     {
+      resolve: `gatsby-plugin-google-analytics`,
+      options: {
+        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
+      },
+    },
+    {
       resolve: `gatsby-source-filesystem`,
       options: {
         path: `${__dirname}/posts`,
@@ -83,12 +89,6 @@ module.exports = {
         theme_color: `#663399`,
         display: `minimal-ui`,
         icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
-      },
-    },
-    {
-      resolve: `gatsby-plugin-google-analytics`,
-      options: {
-        trackingId: process.env.GOOGLE_ANALYTICS_TRACKING_ID || "none",
       },
     },
     `gatsby-plugin-netlify-cms`,
