@@ -1,7 +1,7 @@
 "use strict"
 
 module.exports = {
-  url: "https://developer-diary.netlify.com",
+  url: "https://selftaughttxg.com",
   title: "Self-Taught TXG (The X Generation)",
   tagline:
     "This blog documents the self-taught coding journey of a Generation X programmer.",
