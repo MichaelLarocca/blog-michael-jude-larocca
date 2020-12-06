@@ -36,7 +36,8 @@ CustomShareBlock.propTypes = {
 }
 
 CustomShareBlock.defaultProps = {
-  url: "https://mywebsite.com/page-to-share/",
+  // url: "https://mywebsite.com/page-to-share/",
+  url: "https://selftaughttxg.com/page-to-share/",
   title: "Default value of title",
   siteName: "Default value of excerpt",
 }
