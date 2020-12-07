@@ -617,7 +617,7 @@ pre tt:after {
 }
 
 /* Added */
-h1,
+/* h1,
 h2,
 h3 {
   text-align: center;
@@ -625,7 +625,7 @@ h3 {
 blockquote {
   background-color: whitesmoke;
   padding: 25px;
-}
+} */
 
 @media only screen and (max-width: 480px) {
   html {
