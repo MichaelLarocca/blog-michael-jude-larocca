@@ -32,9 +32,9 @@ const AboutPage = props => {
           <SEO title="About" />
           <div className="mt-3">
             <h2 className="heading">About</h2>
-            <p>
-              This blog documents the self-taught coding journey of a Generation X programmer.",
-            </p>
+            <p><em>This blog documents the self-taught coding journey of a generation X programmer.</em></p>
+            <p>Hello, I'm Michael. Like many people, I am an aspiring self-taught web developer.</p>
+            <p>My goal for this blog is to document and share the progress of my self-taught coding journey. </p>
             <br />
           </div>
         </div>
