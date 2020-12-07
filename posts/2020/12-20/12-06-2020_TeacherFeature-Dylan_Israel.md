@@ -29,7 +29,7 @@ Then, I came across this video. It inspired me to start learning and to earn the
 
 #
 
- Since then, I've been following Dylan's YouTube channel [coding 360](https://www.youtube.com/user/pizzapokerguy87). I find it to be educating, informative, and entertaining.
+ Since then, I've been following Dylan's YouTube channel [Coding Tutorials 360](https://www.youtube.com/user/pizzapokerguy87). I find it to be educating, informative, and entertaining.
 
  ---
 
@@ -66,7 +66,7 @@ Dylan has courses available on Scrimba, Thinkster, SkillShare, & Udemy.
 
 Dylan's latest course is a festive one, and there is still time to get in on the fun! 
 
-Check out Dylan's latest course, "[24 days if JavaScriptmas](https://scrimba.com/learn/adventcalendar)" available now for free on [Scrimba](https://scrimba.com/). 
+Check out Dylan's latest course, "[24 days if JavaScriptmas](https://scrimba.com/learn/adventcalendar)" available now on [Scrimba](https://scrimba.com/). 
 
 ### See the details below:
 ####*24 days of #JavaScriptmas*
