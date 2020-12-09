@@ -66,7 +66,7 @@ Dylan has courses available on Scrimba, Thinkster, SkillShare, & Udemy.
 
 Dylan's latest course is a festive one, and there is still time to get in on the fun! 
 
-Check out Dylan's latest course, "[24 days if JavaScriptmas](https://scrimba.com/learn/adventcalendar)" available now on [Scrimba](https://scrimba.com/). 
+Check out Dylan's latest course, "[24 days of JavaScriptmas](https://scrimba.com/learn/adventcalendar)" available now on [Scrimba](https://scrimba.com/). 
 
 ### See the details below:
 ####*24 days of #JavaScriptmas*
