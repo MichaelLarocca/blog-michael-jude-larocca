@@ -194,5 +194,12 @@ module.exports = {
       size: 20,
       color: "",
     },
+    {
+      tag: "review",
+      tech: "Review",
+      name: "",
+      size: 20,
+      color: "",
+    },
   ],
 }
