@@ -10,7 +10,7 @@ module.exports = {
     name: "Michael Jude Larocca",
     bio: "Self-taught web developer and musician",
     contacts: {
-      linkedin: "https://www.linkedin.com/",
+      linkedin: "https://www.linkedin.com/in/michael-larocca-9315a3202",
       github: "https://github.com/MichaelLarocca",
       stackoverflow: "https://stackoverflow.com/",
       freecodecamp:

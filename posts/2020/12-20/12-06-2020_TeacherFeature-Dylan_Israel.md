@@ -1,5 +1,5 @@
 ---
-title: "Teacher Feature : Dylan Israel"
+title: "Teacher Feature: Dylan Israel"
 tags:
   [
     "teacher",
