@@ -180,8 +180,8 @@ We learned together that there are many ways to write a program to solve the sam
 | 12/17/2020    | [Different Symbols Naive](https://scrimba.com/scrim/coe8245cdab3a72a408c7f148) |
 | 12/18/2020    | [Array Previous Left](https://scrimba.com/scrim/coc7f43598212dc2084207286)     |
 | 12/19/2020    | [Alphabet Subsequence](https://scrimba.com/scrim/coa03494ea84fe271e576214d) |
-| 12/20/2020    | Coming soon!          |
-| 12/21/2020    | Coming soon!          |
+| 12/20/2020    | [Domain Type](https://scrimba.com/scrim/coc0e48489d423fe601c99bc5) |
+| 12/21/2020    | [Sum of 2](https://scrimba.com/scrim/co5494242b3e9589eaa7dd141) |
 | 12/22/2020    | Coming soon!          |
 | 12/23/2020    | Coming soon!          |
 | 12/24/2020    | Coming soon!          |
