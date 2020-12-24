@@ -184,7 +184,7 @@ We learned together that there are many ways to write a program to solve the sam
 | 12/21/2020    | [Sum of 2](https://scrimba.com/scrim/co5494242b3e9589eaa7dd141) |
 | 12/22/2020    | [Extract Matrix Column](https://scrimba.com/scrim/cob9e4c129925ab58b9c58280) |
 | 12/23/2020    | [Social Media Input](https://scrimba.com/scrim/co53242be9477ff017910a833) |
-| 12/24/2020    | Coming soon!          |
+| 12/24/2020    | [Test your Agility - (Coded along with the JavaScriptmas live stream!)](https://scrimba.com/scrim/co6244be7bb2811bd24932e71) |
 
 ---
 
