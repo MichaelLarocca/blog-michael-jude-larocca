@@ -183,7 +183,7 @@ We learned together that there are many ways to write a program to solve the sam
 | 12/20/2020    | [Domain Type](https://scrimba.com/scrim/coc0e48489d423fe601c99bc5) |
 | 12/21/2020    | [Sum of 2](https://scrimba.com/scrim/co5494242b3e9589eaa7dd141) |
 | 12/22/2020    | [Extract Matrix Column](https://scrimba.com/scrim/cob9e4c129925ab58b9c58280) |
-| 12/23/2020    | Coming soon!          |
+| 12/23/2020    | [Social Media Input](https://scrimba.com/scrim/co53242be9477ff017910a833) |
 | 12/24/2020    | Coming soon!          |
 
 ---
