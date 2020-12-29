@@ -49,10 +49,6 @@ date: "2020-12-27"
 The course originated with a question posted on Scrimba's Discord channel, asking the students if they would be interested in an "JavaScript Challenges Advent Calendar."
 
 They received an enthusiastic response from their students and then created the course in just three weeks!
-<!-- 
-### Students enrolled!
-![Image of 7000 +]()
-### 7,740 elves are already working on the challenges! -->
 
 --- 
 
@@ -249,6 +245,7 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | Sekti Wicaksono            | [Listed each challenge in posts](https://dev.to/sekti92) |
 | SHEY Louis CHIA             | [My #JavascriptMas 2020](https://medium.com/@shloch2007/my-javascriptmas-2020-227113a9fdde)   |
 | Stacy Hung                 | [Decoding the coder: my path to front-end development](https://www.stacyhung.com/blog/javascriptmas.html) |
+| Surbhi | ['Tis the season to be learning Javascript](https://blog.surbhi.dev/scrimba-challenges) |
 | Tulkas Astaldo  | [JavaScriptmas Solutions!](https://dev.to/tulkasastaldo9/javascriptmas-solutions-16e4) |
 | Valters Melderis | [Journey is not always more important than the destination.](https://valciic.hashnode.dev/destination-not-journey) |
 
@@ -261,6 +258,8 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 ### GitHub: Scrimba Class of 2020
 
 **(During the JavaScriptmas live stream, I invited anyone interested in working on a collaborative GitHub project I created.)**
+
+![Scrimba Class of 2020](img/12-27-20/ClassOf2020.png)
 
 As I elaborated in course suggestions on Scrimba's Discord channel, I took the initiative and created a GitHub project for student collaborative practice. As it is an open-source group project, everyone is entitled to add this project to their portfolio! https://github.com/MichaelLarocca/Scrimba-Class-of-2020
 
