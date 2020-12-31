@@ -33,11 +33,11 @@ date: "2020-12-27"
 ### Topics covered in the live stream:
 * The origin of the JavaScriptmas course
 * Upcoming courses
-* Straw Poll (Student vote for potential courses)
 * JavaScriptmas Stats
 * Student Submissions
 * Community-generated articles
 * Solving the final JavaScriptmas challenge (live!)
+* Straw Poll (Student vote for potential courses)
 * Announcing the "in live chat" daily winner
 * Announcing the grand prize winner
 
