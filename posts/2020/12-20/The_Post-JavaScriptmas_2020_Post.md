@@ -46,7 +46,7 @@ date: "2020-12-27"
 ### The origin of the JavaScriptmas course
 ![Image Discord Advent Calender](img/12-27-20/Advent.png)
 
-The course originated with a question posted on Scrimba's Discord channel, asking the students if they would be interested in an "JavaScript Challenges Advent Calendar."
+The course originated with a question posted on Scrimba's Discord channel, asking the students if they would be interested in a "JavaScript Challenges Advent Calendar."
 
 They received an enthusiastic response from their students and then created the course in just three weeks!
 
@@ -127,7 +127,7 @@ The [***Terminal tweet app***](https://scrimba.com/scrim/co63c470fb7acea4dd6f836
 
 ![Roll the 3-dimensional dice](img/12-27-20/Dice-Dave.png)
 
-The [***Roll the 3-dimensional dice***](https://scrimba.com/scrim/co60a4282b9ca0666acef2036), created by **Dave Alger**, was breath-taking. His project received a lot of recognition on Scrimba's JavaScriptmas Discord channel. The die was 3-dimensionally styled, with a red see-through color. When you clicked on the dice, it raises and then spins in 3d! He also created an actual game with it, and when you win, an excellent "Win Screen" that included falling snowflakes is displayed.
+The [***Roll the 3-dimensional dice***](https://scrimba.com/scrim/co60a4282b9ca0666acef2036), created by **Dave Alger**, was breath-taking. His project received a lot of recognition on Scrimba's JavaScriptmas Discord channel. The die was 3-dimensionally styled, with a red see-through color. When you clicked on the die, it raises and then spins in 3d! He also created an actual game with it, and when you win, an excellent "Win Screen" that included falling snowflakes is displayed.
 
 A quote from ***Star Wars Episode I*** comes to mind when I hear the name  **Dave Alger**, "We will watch your career with great interest!"
 
@@ -136,7 +136,7 @@ A quote from ***Star Wars Episode I*** comes to mind when I hear the name  **Dav
 ### Community-generated article
 * Diana Marin on Hash node
 * Sekti Wicaksono on Dev.to
-* Michael Larocca's personal blogs
+* Michael Larocca's personal blog
 
 ![From Zero to Code](img/12-27-20/FromZeroToCode.png)
 
@@ -184,7 +184,7 @@ I then set the blog up as a subdomain on my website.
 ```
 blog.michaeljudelarocca.com
 ```
-I then decided to purchase another custom domain name. I decided on "**selftaughttxg.com.**" Since I am a self-taught X Generation programmer, I came up with a "**play on words**" to my favorite Star Trek series, "**Star Trek TNG (The Next Generation)**." It also pays homage to my favorite podcast, "**Self-Taught or Not.**"
+I then decided to purchase another custom domain name. I decided on "**selftaughttxg.com.**" Since I am a self-taught X Generation programmer, I came up with a "**play on words**" to my favorite Star Trek series, "**Star Trek TNG (The Next Generation)**." It also pays homage to my favorite podcast, "**[Self-Taught or Not.](https://www.selftaughtornot.com/)**"
 
 Finally, I set up my purchased selftaughttxg.com domain as an alias to my blog.michaeljudelarocca.com.
 
