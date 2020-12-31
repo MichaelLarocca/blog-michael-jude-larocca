@@ -229,6 +229,7 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | Fernando Armonelli Fiedler |[My very first blog entry (#Javascriptmas)](https://fernandoarfie.hashnode.dev/my-very-first-blog-entry-javascriptmas) |
 | Gheorghe Madalina Eleonora  | [My JavaScriptmas Journey 🎄](https://madalinaeleonorag.medium.com/my-javascriptmas-journey-69a29ea5845a) |
 | Ginab972                    | [#JavaScriptmas](https://dev.to/ginab972/javascriptmas-fmp) |
+| Ivana Markovic| [24 days of JavaScriptmas challenge by scrimba-my solutions](https://dev.to/ipetrovic82/24-days-of-javascriptmas-challenge-by-scrimba-3hg9) |
 | J                          |[My experience of completing "24 Days of #JavaScriptmas" challenge by Scrimba](https://randomness.hashnode.dev/my-experience-of-completing-24-days-of-javascriptmas-challenge-by-scrimba) |
 | Joseph Mawa                 | [JavaScriptmas interview type coding challenges](https://dev.to/nibble/interview-type-coding-challenges-3i6i) |
 | Kaustubh Damania            | [24 days of Javascriptmas](https://dev.to/kaustubhdamania/24-days-of-javascriptmas-16h4) |
