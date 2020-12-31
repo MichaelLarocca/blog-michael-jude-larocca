@@ -210,6 +210,7 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 
 | Author                     |      Blogs/Articles    |
 | -------------              | :-----------: |
+| Aaron Kessler | [Scrimbas JavaScriptmas: More satisfying than chocolate!](https://dev.to/jstask82/scrimbas-javascriptmas-more-satisfying-than-chocolate-4hba) | 
 | Abhijith Sreekar           | [JS Advent Calendar #javascriptmas](https://dev.to/nasreekar/js-advent-calendar-javascriptmas-4lk8) |
 | Angel                       | [24 days of #Javascriptmas solutions]()  |
 | Ashim Ghimire              | [Scrimba, JavaScriptmas Challenge](https://aghimire85.hashnode.dev/scrimba-javascriptmas-challenge) |
@@ -217,14 +218,18 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | Betul TAS  | [Solutions for 24 Days of #JavaScriptmas 🎄](https://ebetulo.hashnode.dev/solutions-for-24-days-of-javascriptmas) |
 | Bishnu Prasad Chowdhury     | [2020 — JAVASCRIPT RAMPUP](https://bishnu1986.medium.com/2020-javascript-rampup-850b37915fa6)  |
 | Brad Fabian  | [JavaScriptmas - 24 Days of Javascript Cheer](https://fabiandev.hashnode.dev/javascriptmas-24-days-of-javascript-cheer) |
+| Brandon McConnell | [My simplistic entries for Scrimba's 2020 #JavaScriptmas advent calendar](https://dev.to/brandonmcconnell/my-simplistic-entries-for-scrimba-s-2020-javascriptmas-advent-calendar-63) | 
 | Darlene Wong    | [My Kind of Advent Calendar: #Javascriptmas](https://dev.to/darlenew/my-kind-of-advent-calendar-javascriptmas-3me2)    |
 | ⊃∧∨∈                       | [24 Days of JavaScriptmas](https://dev.to/davealger/24-days-of-javascriptmas-552l)   |
+| Davinderpal Singh Rehal| [Taking on the JavaScriptmas Challenge](https://dev.to/davinderpalrehal/taking-on-the-javascriptmas-challenge-4a6h)|
 | Davor Jovanović            |[My journey through 24 Days of #JavaScriptmas 😊](https://hashnode.com/post/my-journey-through-24-days-of-javascriptmas-ckj33mt7k003mvls19b5of2d9) |
 | Diana Marín                | [From zero to code: #JavaScriptmas](https://zerotocode.hashnode.dev/from-zero-to-code-javascriptmas) | 
 | Dmitriy Sukach  | [JavaScriptmas Challenge by Scrimba](https://sukach.hashnode.dev/javascriptmas-challenge-by-scrimba) |
 | Dominic Myers  | [2020 24 days of #JavaScriptmas](https://drmsite.blogspot.com/2020/12/24-days-of-javascriptmas-ongoing.html) |
 | Durga Prasad|[Programming: Stop passive learning, Start Scrimba](https://javascriptweb.hashnode.dev/programming-stop-passive-learning-start-scrimba)|
 | Ezequiel_Caste  | [JavaScriptmas Solutions](https://dev.to/ezequiel_caste/javascriptmas-solutions-5gc8) |
+| Fatah Nur Alam Majid | [Scrimba Javascriptmas Event 2020](https://fatahnuram.medium.com/scrimba-javascriptmas-event-2020-ba1450ff6479) |
+| Fatma Drk | [#Javascriptmas 2020](https://mecravingcode.hashnode.dev/javascriptmas-2020) |
 | Felix Yeung                |[Merry #JavaScriptmas](https://blog.felixyeung.dev/scrimba-javascriptmas-2020) |
 | Fernando Armonelli Fiedler |[My very first blog entry (#Javascriptmas)](https://fernandoarfie.hashnode.dev/my-very-first-blog-entry-javascriptmas) |
 | Gheorghe Madalina Eleonora  | [My JavaScriptmas Journey 🎄](https://madalinaeleonorag.medium.com/my-javascriptmas-journey-69a29ea5845a) |
@@ -234,21 +239,25 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | Joseph Mawa                 | [JavaScriptmas interview type coding challenges](https://dev.to/nibble/interview-type-coding-challenges-3i6i) |
 | Kaustubh Damania            | [24 days of Javascriptmas](https://dev.to/kaustubhdamania/24-days-of-javascriptmas-16h4) |
 | Kris van der Ven                            | [24 Days of #JavaScriptmas (Completed)](http://krisvanderven.nl/blogs/14)   |
+| Luis T| [24 Days of#JavaScriptmas](https://letorruella.com/javascriptmas/)|
 | Matty                            | [24 Days Of JavaScriptmas](https://hashnode.com/post/24-days-of-javascriptmas-ckiywvqsj01nbd4s1frzg7gho) |
-|  MartWebb                           | [Scrimba's JavaScriptmas](https://dev.to/martwebb/scrimba-s-javascriptmas-366n)     |
+| MartWebb                           | [Scrimba's JavaScriptmas](https://dev.to/martwebb/scrimba-s-javascriptmas-366n)     |
 | Melisa Surja  | [Javascriptmas Solutions](https://blog.melisa-surja.me/javascriptmas-solutions)   |
 | Michael Jude Larocca | [Scrimba: JavaScriptmas 2020](https://selftaughttxg.com/2020/12-20/Scrimba-JavaScriptmas_2020/) |
 | Musa   | [24 days of #JavaScriptmas with Scrimba](https://musabas.medium.com/24-days-of-javascriptmas-with-scrimba-b394e0b46a0a)   |
 | Namous Yesmine  | [Scrimba Javascriptmas 24 Challenges](https://dev.to/namousyesmine/scrimba-javascriptmas-24-challenges-nc0)   |
 | Narcisa Badea  | [JavaScriptmas - 24 Days of Javascript Fun 🎄](https://dev.to/narcisabadea/javascriptmas-24-days-of-javascript-fun-584g) |
+| oshka | [JavaScriptmas 2020](https://olkace.wordpress.com/) |
 | palak jain | [My 24 days of Javascriptmas!](https://palak.hashnode.dev/my-24-days-of-javascriptmas)   |
 | Pr0grammingTeenager                            | [JavaScriptmas!](https://dev.to/dgx37/javascriptmas-2j80) |
 | Sekti Wicaksono            | [Listed each challenge in posts](https://dev.to/sekti92) |
 | SHEY Louis CHIA             | [My #JavascriptMas 2020](https://medium.com/@shloch2007/my-javascriptmas-2020-227113a9fdde)   |
 | Stacy Hung                 | [Decoding the coder: my path to front-end development](https://www.stacyhung.com/blog/javascriptmas.html) |
 | Surbhi | ['Tis the season to be learning Javascript](https://blog.surbhi.dev/scrimba-challenges) |
+| Tim Gardner| [#JavaScriptmas 2020](https://dev.to/xi80r6/javascriptmas-2020-47b5)|
 | Tulkas Astaldo  | [JavaScriptmas Solutions!](https://dev.to/tulkasastaldo9/javascriptmas-solutions-16e4) |
 | Valters Melderis | [Journey is not always more important than the destination.](https://valciic.hashnode.dev/destination-not-journey) |
+| Vishal | [#Javascriptmas 2020](https://dev.to/xcvishal/javascriptmas-2020-397h) |
 
 ###### ***NOTE: If your blog/article is not in the list or contains errors, please contact me and I will be glad to add it/fix!***
 
