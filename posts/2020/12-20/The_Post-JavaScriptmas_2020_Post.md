@@ -180,13 +180,21 @@ While reviewing my blog, they noted that I posted it on a custom named domain.
 
 To go into more detail, I decided to make my blog into a fun learning project. To create it, I used a community built Gatsby starter blog, created by [Will Ward](https://www.gatsbyjs.com/starters/willjw3/gatsby-starter-developer-diary), in conjunction with GitHub and Netlify. 
 
-I then set the blog up as a subdomain on my website. 
+I then set the blog up as a subdomain on my website: 
 ```
 blog.michaeljudelarocca.com
 ```
-I then decided to purchase another custom domain name. I decided on "**selftaughttxg.com.**" Since I am a self-taught X Generation programmer, I came up with a "**play on words**" to my favorite Star Trek series, "**Star Trek TNG (The Next Generation)**." It also pays homage to my favorite podcast, "**[Self-Taught or Not.](https://www.selftaughtornot.com/)**"
 
-Finally, I set up my purchased selftaughttxg.com domain as an alias to my blog.michaeljudelarocca.com.
+I then decided to purchase another custom domain name: 
+```
+selftaughttxg.com
+```
+
+Since I am a self-taught X Generation programmer, I came up with a "**play on words**" to my favorite Star Trek series, "**Star Trek TNG (The Next Generation)**." 
+
+It also pays homage to my favorite podcast, "**[Self-Taught or Not.](https://www.selftaughtornot.com/)**"
+
+Finally, I set up my purchased **selftaughttxg.com** domain as an alias to my **blog.michaeljudelarocca.com**.
 
 ![Domains](img/12-27-20/Domains.png)
 
@@ -216,6 +224,7 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | Ashim Ghimire              | [Scrimba, JavaScriptmas Challenge](https://aghimire85.hashnode.dev/scrimba-javascriptmas-challenge) |
 | Aykut Mayali  | [JS+XMAS #JavaScriptmas](https://aykutmayali.medium.com/js-xmas-javascriptmas-2fb536b483c6) |
 | Betul TAS  | [Solutions for 24 Days of #JavaScriptmas 🎄](https://ebetulo.hashnode.dev/solutions-for-24-days-of-javascriptmas) |
+| Bhagwanani | [#JavaScriptmas by Scrimba](https://www.linkedin.com/pulse/javascriptmas-scrimba-gaurav-bhagwanani/) |
 | Bishnu Prasad Chowdhury     | [2020 — JAVASCRIPT RAMPUP](https://bishnu1986.medium.com/2020-javascript-rampup-850b37915fa6)  |
 | Brad Fabian  | [JavaScriptmas - 24 Days of Javascript Cheer](https://fabiandev.hashnode.dev/javascriptmas-24-days-of-javascript-cheer) |
 | Brandon McConnell | [My simplistic entries for Scrimba's 2020 #JavaScriptmas advent calendar](https://dev.to/brandonmcconnell/my-simplistic-entries-for-scrimba-s-2020-javascriptmas-advent-calendar-63) | 
@@ -250,6 +259,7 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | oshka | [JavaScriptmas 2020](https://olkace.wordpress.com/) |
 | palak jain | [My 24 days of Javascriptmas!](https://palak.hashnode.dev/my-24-days-of-javascriptmas)   |
 | Pr0grammingTeenager                            | [JavaScriptmas!](https://dev.to/dgx37/javascriptmas-2j80) |
+| Renzo | [🎅24 days of #JavaScriptmas](https://dev.to/w3renzo/24-days-of-javascriptmas-21b5) |
 | Sekti Wicaksono            | [Listed each challenge in posts](https://dev.to/sekti92) |
 | SHEY Louis CHIA             | [My #JavascriptMas 2020](https://medium.com/@shloch2007/my-javascriptmas-2020-227113a9fdde)   |
 | Stacy Hung                 | [Decoding the coder: my path to front-end development](https://www.stacyhung.com/blog/javascriptmas.html) |
