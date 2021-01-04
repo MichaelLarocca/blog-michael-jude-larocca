@@ -249,6 +249,7 @@ What a brilliant idea Scrimba proposed to their students. If Scrimba could only 
 | Kaustubh Damania            | [24 days of Javascriptmas](https://dev.to/kaustubhdamania/24-days-of-javascriptmas-16h4) |
 | Kris van der Ven                            | [24 Days of #JavaScriptmas (Completed)](http://krisvanderven.nl/blogs/14)   |
 | Luis T| [24 Days of#JavaScriptmas](https://letorruella.com/javascriptmas/)|
+| Louise Iyengar | [Scrimba's JavaScriptmas Challenges](https://dev.to/louisei/scrimba-s-javascriptmas-challenges-3cke) |
 | Matty                            | [24 Days Of JavaScriptmas](https://hashnode.com/post/24-days-of-javascriptmas-ckiywvqsj01nbd4s1frzg7gho) |
 | MartWebb                           | [Scrimba's JavaScriptmas](https://dev.to/martwebb/scrimba-s-javascriptmas-366n)     |
 | Melisa Surja  | [Javascriptmas Solutions](https://blog.melisa-surja.me/javascriptmas-solutions)   |
