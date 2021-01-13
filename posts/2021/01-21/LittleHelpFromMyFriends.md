@@ -59,13 +59,15 @@ After taking long breaks from coding, I do find it more challenging to come back
 
 ### You are not alone
 
-There is a thriving online community that you can reach out to for help and support. 
+There is a thriving online community that you can reach out to for "**help**" and support. 
+
+![Help](img/01-10-21/beatles-help.jpg)
 
 **You do not have to limit your questions to just technical issues.** 
 
 ![Study Group](img/01-10-21/Philip-2.png)
 
-**Sometimes all you need is a little encouragement, and the encouragement you receive can give you the endurance to continue your learning journey.** 
+**Sometimes "all you need is a little encouragement," and the encouragement you receive can give you the endurance to continue your learning journey.** 
 
 ![Study Group](img/01-10-21/DS-1.png)
 
