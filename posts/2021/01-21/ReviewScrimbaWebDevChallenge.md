@@ -47,7 +47,7 @@ Making commitments to code is a great way to create a steady schedule to practic
 
 ---
 
-**Mission Amazing Currency Converter**: [Accepted](https://scrimba.com/scrim/co73b4276bf76dc547cda4d7f)
+**Mission Currency Converter**: [Accepted](https://scrimba.com/scrim/co73b4276bf76dc547cda4d7f)
 
 **Mission  Agent**: [TXG-007](https://github.com/MichaelLarocca)
 
