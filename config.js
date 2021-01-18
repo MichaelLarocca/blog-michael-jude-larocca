@@ -2,7 +2,7 @@
 
 module.exports = {
   url: "https://selftaughttxg.com",
-  title: "Self-Taught TXG (The X Generation)",
+  title: "",
   tagline:
     "This blog documents the self-taught coding journey of a Generation X programmer.",
   copyright: "2020",

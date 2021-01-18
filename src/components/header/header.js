@@ -8,8 +8,10 @@ import MobilePageLinks from "./MobilePageLinks"
 import SocialLinks from "./SocialLinks"
 import MobileBio from "./MobileBio"
 import "./header.css"
+import TXG from "../../images/TXG-0.jpg"
 
 const Header = ({ siteTitle, tagline, author, contacts }) => {
+  // const Header = ({ tagline, author, contacts }) => {
 
   return (
     <header
@@ -18,10 +20,11 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
         background: `black`
       }}
     >
+    <img src={TXG} height="75px" width="275px"/>
       <div className="head-elements"
         style={{
           margin: `0`,
-          padding: `.75rem`
+          // padding: `.75rem`
         }}
       >
         <h1 className="head-logo ml-4" style={{ margin: 0 }}>
