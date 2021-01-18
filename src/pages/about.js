@@ -31,6 +31,7 @@ const AboutPage = props => {
         <div className="post-main">
           <SEO title="About" />
           <div className="mt-3">
+            {/* <img src="../images/TXG-2.jpg"> */}
             <h2 className="heading">About</h2>
             <p><em><strong>This blog documents the self-taught coding journey of a Generation X programmer.</strong></em></p>
             <p>Hello, I'm Michael. Like many people, I am an aspiring self-taught web developer.</p>
