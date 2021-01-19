@@ -13,7 +13,6 @@ p, .title {
 }
 
 
-
 @media only screen and (max-width: 850px) {
   .sidebar{display: none;}
   .index-main{

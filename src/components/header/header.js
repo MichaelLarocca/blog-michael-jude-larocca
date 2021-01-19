@@ -15,7 +15,7 @@ import TXG_0 from "../../images/TXG-0.jpg"
 
 const Header = ({ siteTitle, tagline, author, contacts }) => {
   // const Header = ({ tagline, author, contacts }) => {
-
+//  height="75px" width="275px"
   return (
     <header
       className="head-main"
@@ -23,7 +23,7 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
         background: `black`
       }}
     >
-    <a href="https://selftaughttxg.com/"><img src={TXG_0} height="75px" width="275px"/></a>
+    <a href="https://selftaughttxg.com/"><img src={TXG_0}/></a>
       <div className="head-elements"
         style={{
           margin: `0`,
