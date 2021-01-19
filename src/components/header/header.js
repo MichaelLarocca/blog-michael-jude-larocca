@@ -10,7 +10,7 @@ import MobileBio from "./MobileBio"
 import "./header.css"
 
 // import TXG from "../../images/TXG-0.jpg"
-import TXG_0 from "../../images/TXG-0.jpg"
+import TXG_0 from "/icons/TXG-0.jpg"
 
 const Header = ({ siteTitle, tagline, author, contacts }) => {
   // const Header = ({ tagline, author, contacts }) => {
