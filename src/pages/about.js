@@ -9,7 +9,7 @@ import Sidebar from "../components/sidebar/Sidebar"
 import TechTag from "../components/tags/TechTag"
 
 // import TXG from "../images/TXG-2.jpg"
-import TXG from "../../images/TXG-2.jpg"
+import TXG_2 from "../../images/TXG-2.jpg"
 
 const AboutPage = props => {
   const labels = props.data.site.siteMetadata.labels
@@ -34,7 +34,7 @@ const AboutPage = props => {
         <div className="post-main">
           <SEO title="About" />
           <div className="mt-3">
-            <img src={TXG}/>
+            <img src={TXG_2}/>
             <p></p>
             <h2 className="heading">About</h2>
             <p><em><strong>This blog documents the self-taught coding journey of a Generation X programmer.</strong></em></p>
