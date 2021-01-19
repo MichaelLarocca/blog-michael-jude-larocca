@@ -8,7 +8,8 @@ import "./index.css"
 import Sidebar from "../components/sidebar/Sidebar"
 import TechTag from "../components/tags/TechTag"
 
-import TXG from "../images/TXG-2.jpg"
+// import TXG from "../images/TXG-2.jpg"
+import TXG from "../../images/TXG-2.jpg"
 
 const AboutPage = props => {
   const labels = props.data.site.siteMetadata.labels

@@ -8,6 +8,8 @@ import MobilePageLinks from "./MobilePageLinks"
 import SocialLinks from "./SocialLinks"
 import MobileBio from "./MobileBio"
 import "./header.css"
+
+// import TXG from "../../images/TXG-0.jpg"
 import TXG from "../../images/TXG-0.jpg"
 
 const Header = ({ siteTitle, tagline, author, contacts }) => {
@@ -20,7 +22,7 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
         background: `black`
       }}
     >
-    <img src={TXG} height="75px" width="275px"/>
+    <a href="https://selftaughttxg.com/"><img src={TXG} height="75px" width="275px"/></a>
       <div className="head-elements"
         style={{
           margin: `0`,
