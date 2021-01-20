@@ -263,7 +263,7 @@ We are hosting a live stream on January 20th at 4pm GMT [over on Youtube.](https
 
 Making commitments to code and sticking to your committed schedule will significantly improve your programming skills. 
 
-Signing up for Scrimba's Weekly Web Dev Challenges provides you with a codding commitment that's easy to keep, that's fun, and that is also engaging. 
+Signing up for Scrimba's Weekly Web Dev Challenges provides you with a coding commitment that's easy to keep, that's fun, and that is also engaging. 
 
 So please consider signing up today and join in on the fun!
 
