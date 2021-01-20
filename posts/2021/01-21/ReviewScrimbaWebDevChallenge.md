@@ -182,12 +182,13 @@ To which I would frantically reply, "Negative! Negative! There is no time to ref
 
 | Scrimba Agent              | Mission Blog  |
 | -------------              | :-----------: |
+|Ambreen Khan|[Coding Challenge 1: Currency Converter](https://thetechjournal.netlify.app/codingchallenges/challenge-1)|
 |Bishnu Prasad Chowdhury|[Weekly Web Dev Challenge : Currency Converter](https://bishnu1986.medium.com/weekly-web-dev-challenge-currency-converter-b061c610b7a)|
 |Kuntal Das|[Creating a Currency Converter with pure JS with exchangerate api](https://25ckuntaldas.medium.com/creating-a-currency-converter-with-pure-javascript-with-fetch-api-52622aab7879)|
-|palak jain|[How to make a currency converter using vanilla Javascript ?](https://palak.hashnode.dev/how-to-make-a-currency-converter-using-vanilla-javascript)|
+|Palak Jain|[How to make a currency converter using vanilla Javascript ?](https://palak.hashnode.dev/how-to-make-a-currency-converter-using-vanilla-javascript)|
 |RAJ|[Weekly Web Dev Challenge: currency converter!](https://blogs.verreauxblack.biz/weekly-web-dev-challenge-currency-converter)|
 |Sebastian Bains|[Build a Live Currency Converter with plain JS](https://dev.to/dev_london/build-a-live-currency-converter-with-plain-js-42o2)|
-|yubaraj singh|[My first Scrimba web weekly challenge: currency exchange](https://dev.to/yubarajsingh/my-first-scrimba-web-weekly-challenge-388p)|
+|Yubaraj Singh|[My first Scrimba web weekly challenge: currency exchange](https://dev.to/yubarajsingh/my-first-scrimba-web-weekly-challenge-388p)|
 
 **🕵️ Attention: Mission blogs of Scrimba agents currently undercover may have been missed! If your mission blog is not listed, please contact me, agent TXG-007, provide a link to your blog, and I will add it!**
 
