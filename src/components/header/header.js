@@ -12,6 +12,7 @@ import "./header.css"
 // import TXG from "../../images/TXG-0.jpg"
 // import TXG_0 from "/icons/TXG-0.jpg"
 import TXG_0 from "../../images/TXG-0.jpg"
+// import SpaceImage from "../../images/pexels-space.jpeg"
 
 const Header = ({ siteTitle, tagline, author, contacts }) => {
   // const Header = ({ tagline, author, contacts }) => {
@@ -20,7 +21,11 @@ const Header = ({ siteTitle, tagline, author, contacts }) => {
     <header
       className="head-main"
       style={{
-        background: `black`
+        background: `black`,
+        // background: {SpaceImage},
+        // backgroundRepeat: noRepeat,
+        // backgroundPosition: center, 
+        // backgroundSize:cover,
       }}
     >
     <a href="https://selftaughttxg.com/"><img src={TXG_0}/></a>

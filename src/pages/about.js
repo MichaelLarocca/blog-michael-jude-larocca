@@ -37,9 +37,9 @@ const AboutPage = props => {
           <div className="mt-3">
             {/* <img src="/icons/TXG-2.jpg"/> */}
             <img src={TXG_2}/>
-            <p></p>
+            <p><strong>Weekly articles from a self-taught Generation X programmer</strong></p>
             <h2 className="heading">About</h2>
-            <p><em><strong>This blog documents the self-taught coding journey of a Generation X programmer.</strong></em></p>
+            {/* <p><em><strong>This blog documents the self-taught coding journey of a Generation X programmer.</strong></em></p> */}
             <p>Hello, I'm Michael. Like many people, I am an aspiring self-taught web developer.</p>
             <p>My goal for this blog is to document and share the progress of my self-taught coding journey. </p>
             <br />
