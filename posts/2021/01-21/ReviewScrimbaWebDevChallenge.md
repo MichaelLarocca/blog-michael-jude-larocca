@@ -189,6 +189,7 @@ To which I would frantically reply, "Negative! Negative! There is no time to ref
 |Palak Jain|[How to make a currency converter using vanilla Javascript ?](https://palak.hashnode.dev/how-to-make-a-currency-converter-using-vanilla-javascript)|
 |RAJ|[Weekly Web Dev Challenge: currency converter!](https://blogs.verreauxblack.biz/weekly-web-dev-challenge-currency-converter)|
 |Sebastian Bains|[Build a Live Currency Converter with plain JS](https://dev.to/dev_london/build-a-live-currency-converter-with-plain-js-42o2)|
+|Tom|[REACT Currency Converter Challenge](https://dev.to/doublenemesis/react-currency-converter-challenge-2855)|
 |Yubaraj Singh|[My first Scrimba web weekly challenge: currency exchange](https://dev.to/yubarajsingh/my-first-scrimba-web-weekly-challenge-388p)|
 
 **🕵️ Attention: Mission blogs of Scrimba agents currently undercover may have been missed! If your mission blog is not listed, please contact me, agent TXG-007, provide a link to your blog, and I will add it!**
