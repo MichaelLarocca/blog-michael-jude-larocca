@@ -189,7 +189,7 @@ We learned together that there are many ways to write a program to solve the sam
 ---
 
 ### Coming soon!
-![Certificate - JavaScriptmas](img/Certificate-JavaScriptmas.jpg)
+![Certificate - JavaScriptmas](img/Scrimba-JavaScriptmas-2020.png)
 
 ---
 ### Scrimba's Javascriptmas Course
