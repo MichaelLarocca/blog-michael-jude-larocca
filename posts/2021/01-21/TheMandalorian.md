@@ -18,9 +18,9 @@ date: "2021-01-24"
 
 ![The Mandalorian](img/01-27-21/Project-The-Mandalorian.png)
 
-**This week's Scrimba's Weekly Web Dev Challenge is to create a "Budget Calculator."**  
+### This week's Scrimba's Weekly Web Dev Challenge is to create a "Budget Calculator."  
 
-**The budget calculator challenge instructs us to create a program that checks if you have enough currency to make a purchase. We can also style it in any way we like!**
+### The budget calculator challenge instructs us to create a program that checks if you have enough currency to make a purchase. We can also style it in any way we like!
 
 ---
 
@@ -44,107 +44,17 @@ I am showcasing the Weekly Web Dev Challenge, "**Short-Changed**," presented to 
 
 I was delighted to see that I received positive feedback on it!
 
-![Leeane](img/01-27-21/Comment-Star-Wars.png)
+![Leanne](img/01-27-21/Comment-Star-Wars.png)
 
 ![Radical Coder](img/01-27-21/Comment-Rad.png)
 
 ---
 
-### How I created this project 
-
-**The JavaScript function:**
-
-For the JavaScript function, Radical Coder provided us an object representing a coin purse. The program he instructed us to write should return **true/false** depending on whether or not the user has enough change to complete a purchase at the given price.
-
-**I calculated the currency of each item as follows:**
-
-```javascript
-const quatersToDollars = sampleTest.quarters / 4;
-const dimesToDollars = sampleTest.dimes / 10; 
-const nickelsToDollars = sampleTest.nickels / 20;  
-const penniesToDollars =  sampleTest.pennies / 100;   
-```
-
-**I then returned the total amount:**
-
-```javascript
-const totalChangeToDollars = (quatersToDollars + dimesToDollars + nickelsToDollars + penniesToDollars);  
-
-const totalChange = totalChangeToDollars.toFixed(2);    
-```
-
-**I then created a true and false message to return:**
-
-```javascript
-const messageTrue = `Congratulations! You just hired the Mandalorian!`;
-
-const messageFalse = `You do not have enough Republic credits to hire the Mandalorian.`; 
-```
-
-**Finally, I returned the answer:**
-
-```javascript
-totalChange > sampleTest.price ? pc.innerText = messageTrue : pc.innerText = messageFalse;
-```
-
----
-
-### The Previous and Next Buttons:
-
-**Unfortunately, I was unable to solve this part of the challenge on my own.** 
-
-To finish this part of the program, I analyzed one of my brilliant classmate's projects, **Palak Jain's**. 
-
-Here is a link to her "[Short-Changed](https://scrimba.com/scrim/codaf4912af68bc7581b39722)" project that I referenced.
-
-To program the previous and next buttons, I had to create an array to store a new set of object values.
-
-```javascript
-
-```
-
-When the user clicks the next button, a new set of object values are created and stored.
-
-```javascript
-
-```
-
-When you click the previous button, you can cycle back through the object's stored values.
- 
-```javascript
-
-```
-
----
-
-Along with my "[Review: Scrimba's Weekly Web Dev Challenge
-](https://selftaughttxg.com/2021/01-21/ReviewScrimbaWebDevChallenge/)" post, **Palak Jain's** most recent project, "**Amazing Currency Converter**," was just featured on Scrimba's YouTube live stream!
-
-You can see both of our work featured on Scrimba's [The Weekly Web Dev Challenge - LIVE!](https://www.youtube.com/watch?v=zK4ekjzp7-s&t=771s) YouTube video.
-
-#### You can learn more about **Palak Jain** on her [GitHub page](https://github.com/Palak-coder626).
-
----
-
-<iframe width="853" height="480" src="https://www.youtube.com/embed/zK4ekjzp7-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-*Time Stamp: 7:50 - Palak Jain*
-
-*Time Stamp: 24:45 - Michael Larocca*
-
----
-
-**Pro-tip**
-
-*There will be times when you have to reference others' code to solve issues. When you do, please give them the credit they deserve.*
-
----
 
 ### How I styled the project
 
-Add images to Scrims.
+**Added images to the Scrim**
+
 A great feature that Scrimba supports is creating a folder and then adding images to it.
 
 I searched online for images of Star Wars currency, known as "**Republic Credits**." I cropped each of four images to represent pennies, nickels, dimes, and quarters and then added them to the image folder. 
@@ -191,7 +101,7 @@ To display the **Republic Credit** symbol next to the project's currency, I used
 
 ### Buttons 
 
-Finally, I created buttons that matched the color scheme of the background image
+Finally, I created buttons that matched the color scheme of the background image.
 
 ```css
 button {
@@ -204,16 +114,131 @@ button {
 ```
 
 ---
+### How I programed this project 
 
+**The JavaScript function:**
+
+For the JavaScript function, Radical Coder provided us an object representing a coin purse. The program he instructed us to write should return **true/false** depending on whether or not the user has enough change to complete a purchase at the given price.
+
+**I calculated the currency of each item as follows:**
+
+```javascript
+const quatersToDollars = sampleTest.quarters / 4;
+const dimesToDollars = sampleTest.dimes / 10; 
+const nickelsToDollars = sampleTest.nickels / 20;  
+const penniesToDollars =  sampleTest.pennies / 100;   
+```
+
+**I then created a total amount variable:**
+
+```javascript
+const totalChangeToDollars = (quatersToDollars + dimesToDollars + nickelsToDollars + penniesToDollars);  
+
+const totalChange = totalChangeToDollars.toFixed(2);    
+```
+
+**I then created true and false messages to return:**
+
+```javascript
+const messageTrue = `Congratulations! You just hired the Mandalorian!`;
+
+const messageFalse = `You do not have enough Republic credits to hire the Mandalorian.`; 
+```
+
+**Finally, I returned the answer:**
+
+```javascript
+totalChange > sampleTest.price ? pc.innerText = messageTrue : pc.innerText = messageFalse;
+```
+
+---
+
+### The Previous and Next Buttons:
+
+**Unfortunately, I was unable to solve this part of the challenge on my own.** 
+
+To finish this part of the program, I analyzed one of my brilliant classmate's projects, **Palak Jain's**. 
+
+Here is a link to her "[Short-Changed](https://scrimba.com/scrim/codaf4912af68bc7581b39722)" project that I referenced.
+
+---
+
+After studying **Palak Jain's** code, I understood that I was supposed to utilize the already imported object with five values stored.
+
+```javascript
+import { testPurses } from "./shortChangeTests.js"
+```
+
+**Now with the knowledge of working with an array of five values, I refactored my code appropriately.**
+
+```javascript
+const quatersToDollars = testPurses[i].quarters / 4;
+const dimesToDollars = testPurses[i].dimes / 10; 
+const nickelsToDollars = testPurses[i].nickels / 20;  
+const penniesToDollars = testPurses[i].pennies / 100;   
+
+totalChange > testPurses[i].price ? pc.innerText = messageTrue : pc.innerText = messageFalse;
+```
+
+**Finally, I used Palak Jain's functions to make the next and previous buttons "fully operational."**
+ 
+```javascript
+function nCase(){
+    if(i<(testPurses.length-1))
+    {
+        i=i+1;
+    }else{
+        i=0;
+    }
+    enoughChange();
+}
+function prevCase(){
+    if(i>0){
+        i=i-1;
+    }else{
+        i=testPurses.length-1;
+    }
+    enoughChange();
+}
+```
+
+---
+
+**Pro-tip**
+
+*There will be times when you have to reference others' code to solve issues. When you do, please give them the credit they deserve.*
+
+---
+
+### Scrimba's Live Stream
+
+Along with my "[Review: Scrimba's Weekly Web Dev Challenge
+](https://selftaughttxg.com/2021/01-21/ReviewScrimbaWebDevChallenge/)" post, **Palak Jain's** most recent project, "[Amazing Currency Converter](https://scrimba.com/scrim/co15b43758eb9d21938be556c)," was just featured on Scrimba's YouTube live stream!
+
+You can see both of our work featured on Scrimba's [The Weekly Web Dev Challenge - LIVE!](https://www.youtube.com/watch?v=zK4ekjzp7-s&t=771s) YouTube video.
+
+Thank you, Scrimba, for showcasing our work!
+#### You can learn more about **Palak Jain** on her [GitHub page](https://github.com/Palak-coder626).
+
+---
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/zK4ekjzp7-s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+*Time Stamp: 7:50 - Palak Jain*
+
+*Time Stamp: 24:45 - Michael Larocca*
+
+---
+### Now it's time to run the program.
+
+#### Please make sure to have enough "Republic Credits" to hire The Mandalorian.
+
+#### Baby Yoda is counting on you!
 
 ![Baby Yoda](img/01-27-21/baby-yoda.jpg)
 *All rights reserved by Disney and Lucasfilm.* 
-
-#### Now it's time to run the program!
-
-#### Please make sure to have enough Republic Credits to hire The Mandalorian.
-
-#### Baby Yoda is counting on you!
 
 ---
 
@@ -267,8 +292,8 @@ We are hosting a live stream on **January 27th at 4pm GMT** [over on Youtube.](h
 
 ### Key Points
 
-* When referencing others' code, please give them the credit they deserve
 * Making a coding schedule and committing to it is beneficial to you
+* When referencing others' code, please give them the credit they deserve
 * Publishing your work is excellent for building your personal brand
 
 ---
