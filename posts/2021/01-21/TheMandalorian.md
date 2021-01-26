@@ -49,13 +49,15 @@ I was delighted to see that I received positive feedback on it!
 ![Radical Coder](img/01-27-21/Comment-Rad.png)
 
 ---
-
-
 ### How I styled the project
+
+![Short Changed](img/01-27-21/Short-Changed.png)
 
 **Added images to the Scrim**
 
 A great feature that Scrimba supports is creating a folder and then adding images to it.
+
+![Republic Credits](img/01-27-21/Credits.png)
 
 I searched online for images of Star Wars currency, known as "**Republic Credits**." I cropped each of four images to represent pennies, nickels, dimes, and quarters and then added them to the image folder. 
 
@@ -76,6 +78,7 @@ Of course, I showcased "**The Mandalorian**" in the [Razor Crest](https://starwa
 
 --- 
 
+![Credit](img/01-27-21/Credit.png)
 ### Transparent PNG
 
 One of my favorite programming styling effects is working with transparent PNG files. 
@@ -99,6 +102,7 @@ To display the **Republic Credit** symbol next to the project's currency, I used
 
 ---
 
+![Buttons](img/01-27-21/Buttons.png)
 ### Buttons 
 
 Finally, I created buttons that matched the color scheme of the background image.
@@ -153,6 +157,7 @@ totalChange > sampleTest.price ? pc.innerText = messageTrue : pc.innerText = mes
 
 ---
 
+![Death Star](img/01-27-21/fully-operational-not-yet.jpg)
 ### The Previous and Next Buttons:
 
 **Unfortunately, I was unable to solve this part of the challenge on my own.** 
@@ -180,6 +185,8 @@ const penniesToDollars = testPurses[i].pennies / 100;
 totalChange > testPurses[i].price ? pc.innerText = messageTrue : pc.innerText = messageFalse;
 ```
 
+<!-- ![Fully Operational](img/01-27-21/fully-operational.jpg) -->
+
 **Finally, I used Palak Jain's functions to make the next and previous buttons "fully operational."**
  
 ```javascript
@@ -201,6 +208,8 @@ function prevCase(){
     enoughChange();
 }
 ```
+
+![Death Star](img/01-27-21/fully-operational-DS.jpg)
 
 ---
 
@@ -254,16 +263,16 @@ Thank you, Scrimba, for showcasing our work!
 
 | Scrimba Guild Bounty Hunter | Bounty Contract | Bounty Blog |
 | -------------               | :-----------:   | :---------: |
+| Tom                         |   Budget Calculator (Video Scrim)| https://scrimba.com/scrim/cpMamJHq  |
+**Attention:** Scrimba Guild Bounty Hunters currently on the job; if your mission blog is not listed, please contact me, "Droid TXG-11," and I will add it!
 
 ---
-
-
 ### Special Event
 
 ***There is still time to get in on the fun! See the details below:***
 
 **Time for the challenge 🤺**
-Your task is to wire up a currency converter and style it in any way you like. Click below to go to the challenge and get started on your solution.
+Your task is to wire up a budget calculator and style it in any way you like. Click below to go to the challenge and get started on your solution.
 
 **Competition Time**
 
@@ -302,7 +311,7 @@ We are hosting a live stream on **January 27th at 4pm GMT** [over on Youtube.](h
 
 When learning to code, there will be times when you need to reference other programmers' work to get your code working. Research is part of the learning process. When you do reference others' code, please make sure to give them the credit they deserve.
 
-Also, making commitments to code and sticking to your committed schedule will significantly improve your programming skills. Signing up for Scrimba's Weekly Web Dev Challenges provides you with a codding commitment that's easy to keep, that's fun, and that is also engaging. 
+Also, making commitments to code and sticking to your committed schedule will significantly improve your programming skills. Signing up for Scrimba's Weekly Web Dev Challenges provides you with a coding commitment that's easy to keep, that's fun, and that is also engaging. 
 
 So please consider signing up today and join in on the fun!
 
