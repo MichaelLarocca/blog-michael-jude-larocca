@@ -253,7 +253,7 @@ Thank you, Scrimba, for showcasing our work!
 
 **Scrimba tells us that publicly displaying our work is great for building our personal brand and gives us something to show off in coding interviews in the future.**
 
-**I believe it is a big personal step to create a blog and to put yourself out there. So in this article, I am showcasing every "Budget Calculator" blog post, live stream or video tutorial that my classmates made!**
+**I believe it is a big personal step to create a public post and put yourself out there. So in this article, I am showcasing every "Budget Calculator" blog post, live stream, or video tutorial that my classmates made!**
 
 
 
@@ -269,7 +269,9 @@ Thank you, Scrimba, for showcasing our work!
 | Himani  | [Weekly Web Dev Challenge: Budgeting Tool](https://himanidave98.medium.com/weekly-web-dev-challenge-budgeting-tool-db019e29673) |
 | Tom                         | [Budget Calculator (Video Scrim)](https://scrimba.com/scrim/cpMamJHq)  |
 
-**Attention:** Scrimba Guild Bounty Hunters currently on the job; if your mission blog is not listed, please contact me, "Droid TXG-11," and I will add it!
+**Attention:Scrimba Guild Bounty Hunters currently on the job; if your mission blog is not listed, please contact me, "Droid TXG-11," and I will add it!**
+
+**Contact:** michaeljudelarocca@gmail.com
 
 ---
 ### Special Event
