@@ -12,9 +12,9 @@ date: "2021-01-24"
 <!-- 
 ### Before I started my blog, I created a Star Wars-themed project, and now it is an excellent opportunity to showcase it. -->
 
-## This week, I'm showcasing a Star Wars-themed project that I'm submitting for Scrimba's Weekly Web Dev Challenge. 
+### This week, I'm showcasing a Star Wars-themed project that I'm submitting for Scrimba's Weekly Web Dev Challenge. 
 
-## To get the program "fully operational," I needed help from a fellow Scrimba student.
+### To get the program "fully operational," I needed help from a fellow Scrimba student.
 
 ![The Mandalorian](img/01-27-21/Project-The-Mandalorian.png)
 
@@ -253,7 +253,9 @@ Thank you, Scrimba, for showcasing our work!
 
 **Scrimba tells us that publicly displaying our work is great for building our personal brand and gives us something to show off in coding interviews in the future.**
 
-**I believe it is a big personal step to create a blog and to put yourself out there. So in this article, I am showcasing every "Budget Calculator" blog post that my classmates made!**
+**I believe it is a big personal step to create a blog and to put yourself out there. So in this article, I am showcasing every "Budget Calculator" blog post, live stream or video tutorial that my classmates made!**
+
+
 
 ![Bounty Hunters](img/01-27-21/bounty-hunters.jpg)
 
@@ -261,9 +263,12 @@ Thank you, Scrimba, for showcasing our work!
 
 ### Scrimba Guild Bounty Hunters
 
-| Scrimba Guild Bounty Hunter | Bounty Contract | Bounty Blog |
-| -------------               | :-----------:   | :---------: |
-| Tom                         |   Budget Calculator (Video Scrim)| https://scrimba.com/scrim/cpMamJHq  |
+| Scrimba Guild Bounty Hunter | Bounty Blog |
+| -------------               | :---------: |
+| Ambreen Khan  | [Budget Tracker](https://ambreenkhan.dev/codingchallenges/challenge-2)  |
+| Himani  | [Weekly Web Dev Challenge: Budgeting Tool](https://himanidave98.medium.com/weekly-web-dev-challenge-budgeting-tool-db019e29673) |
+| Tom                         | [Budget Calculator (Video Scrim)](https://scrimba.com/scrim/cpMamJHq)  |
+
 **Attention:** Scrimba Guild Bounty Hunters currently on the job; if your mission blog is not listed, please contact me, "Droid TXG-11," and I will add it!
 
 ---
@@ -317,6 +322,6 @@ So please consider signing up today and join in on the fun!
 
 ![Bounty Contract  Reward](img/01-27-21/Bounty-Contract-Rewards.jpg)
 
-**Your Bounty reward is becoming a better programmer by signing up for Scrimba Weekly Web Dev Challenges delivered to your mailbox!**
+**Your bounty reward is becoming a better programmer by signing up for Scrimba Weekly Web Dev Challenges delivered to your mailbox!**
 
 [Accept the Bounty Contract?](https://click.convertkit-mail.com/lmukm7q7mesmhq2mkec6/3oh8pqqvtkhdwpg62wsr/aHR0cHM6Ly9zY3JpbWJhLmNvbS9zY3JpbS9jbzcxZjRiZTdiOGE2N2JjODQ4NjY0YjNlP3V0bV9zb3VyY2U9bmV3c2xldHRlciZ1dG1fbWVkaXVtPWVtYWlsJnV0bV9jYW1wYWlnbj13ZWVrbHl3ZWJkZXZjaGFsbGVuZ2U=)
