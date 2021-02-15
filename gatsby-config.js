@@ -7,7 +7,7 @@ module.exports = {
     url: siteConfig.url,
     title: siteConfig.title,
     tagline: siteConfig.tagline,
-    description: `This blog documents the self-taught coding journey of a Generation X programmer.`,
+    description: `Weekly articles from a self-taught Generation X programmer.`,
     author: siteConfig.author.name,
     contacts: {
       linkedin: siteConfig.author.contacts.linkedin,
@@ -89,8 +89,8 @@ module.exports = {
         background_color: `#663399`,
         theme_color: `#663399`,
         display: `minimal-ui`,
-        icon: `src/images/Icon-TXG_Black.png`,
-        // icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
+        // icon: `src/images/Icon-TXG_Black.png`,
+        icon: `src/images/gatsby-icon.png`, // This path is relative to the root of the site.
       },
     },
     `gatsby-plugin-netlify-cms`,
