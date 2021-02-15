@@ -170,7 +170,7 @@ To start, I "**Remixed**" the Greeting Card project, created by the Scratch team
 
 ![The Christmas e-card](img/02-14-21/Christmas-card-12.png)
 
-I then redesigned the Greeting Card project with a Christmas theme. My daughter and I then sang and recorded "**We Wish You a Merry Christmas**" with a twist! We changed the lyrics to "**and all the gifts or cole you deserve!**" We changed the lyrics to foreshadow the game we made.
+I then redesigned the Greeting Card project with a Christmas theme. My daughter and I then sang and recorded "**We Wish You a Merry Christmas**" with a twist! We changed the lyrics to "**and all the gifts or coal you deserve!**" We changed the lyrics to foreshadow the game we made.
 
 #### Created the game
 
@@ -178,7 +178,7 @@ I then redesigned the Greeting Card project with a Christmas theme. My daughter 
 
 [Play the game: Christmas Card and Game 2018](https://scratch.mit.edu/projects/264093902/)
 
-In the game, you deliver cole or gifts to houses that are marked naughty or nice. You control "**Santa Daddy's**" sleigh while you or a second player control "**Santa Daddy's Little Helper**" to launch cole or gifts.
+In the game, you deliver coal or gifts to houses that are marked naughty or nice. You control "**Santa Daddy's**" sleigh while you or a second player control "**Santa Daddy's Little Helper**" to launch coal or gifts.
 
 ---
 
@@ -192,7 +192,7 @@ In the game, you deliver cole or gifts to houses that are marked naughty or nice
 
 Using Scratch's music code blocks, I created music for the game. 
 
-When you deliver cole to a naughty house, the melody of the song "**Nuttin' for Christmas**" is played.
+When you deliver coal to a naughty house, the melody of the song "**Nuttin' for Christmas**" is played.
 
 When you deliver gifts to a nice house, the melody of the song "**We Wish You a Merry Christmas**" plays.
 
