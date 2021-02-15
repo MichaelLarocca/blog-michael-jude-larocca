@@ -4,8 +4,8 @@ module.exports = {
   url: "https://selftaughttxg.com",
   title: "",
   tagline:
-    "This blog documents the self-taught coding journey of a Generation X programmer.",
-  copyright: "2020",
+    "Weekly articles from a self-taught Generation X programmer",
+  copyright: "2021",
   author: {
     name: "Michael Jude Larocca",
     bio: "Self-taught web developer and musician",
