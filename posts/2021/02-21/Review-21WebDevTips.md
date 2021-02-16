@@ -60,15 +60,13 @@ The consistency with semicolons and boolean tips is not constrained to React!
 
 ---
 
-
 ### Tip 3: Dry Principles 
 
 The term "**Dry**" stands for "**Don't repeat yourself**." Using "**Dry**" principles is an important concept to understand when writing code.
 
 In the exercise, we rewrite the monotonous code provided by using a for loop instead.
 
-**Here is a link to my solution:**
-[https://scrimba.com/scrim/co5a845468cd238c632a8bfba](https://scrimba.com/scrim/co5a845468cd238c632a8bfba)
+[Here is a link to my solution](https://scrimba.com/scrim/co5a845468cd238c632a8bfba)
 
 ![Dry Principles ](img/02-07-21/Dry.jpg)
 
@@ -114,8 +112,7 @@ In this exercise, a program to reverse a string is provided. We are asked to wri
 
 I got to write my first unit test, and it worked on the first try!
 
-***Here is my solution:***
-[https://scrimba.com/learn/21tips/tip-5-unit-testing-co76043c68e6fea75662d981f](https://scrimba.com/learn/21tips/tip-5-unit-testing-co76043c68e6fea75662d981f)
+[Here is a link to my solution](https://scrimba.com/learn/21tips/tip-5-unit-testing-co76043c68e6fea75662d981f)
 
 ![Reverse](img/02-07-21/Reverse.jpg)
 
@@ -167,8 +164,7 @@ Interestingly, the method "**includes**" does not work with an array of strings 
 
 In this challenge, we have to refactor the given code using TypeScript on a program that checks if movies are available to rent.
 
-**Here is my solution:**
-[https://scrimba.com/learn/21tips/tip-72-typescript-challenge-coe1b4d61b4675dbfd3868999](https://scrimba.com/learn/21tips/tip-72-typescript-challenge-coe1b4d61b4675dbfd3868999)
+[Here is a link to my solution](https://scrimba.com/learn/21tips/tip-72-typescript-challenge-coe1b4d61b4675dbfd3868999)
 
 ![TypeScript](img/02-07-21/TypeScript.jpg)
 
@@ -263,7 +259,7 @@ textDisplay.innerHTML = isGameOver ? 'Oh no! You lost!' : 'YAY! You WON!'
 **Challenge:**
 We get to write a ternary operation to display an emoji, based on the variable "**isGameOver**" true or false results!
 
-**Here is my solution:** [https://scrimba.com/scrim/co1524c48bd68b27f6af9b8e9](https://scrimba.com/scrim/co1524c48bd68b27f6af9b8e9)
+[Here is a link to my solution](https://scrimba.com/scrim/co1524c48bd68b27f6af9b8e9)
 
 ![Ternary](img/02-07-21/Ternary.jpg)
 
@@ -285,8 +281,7 @@ This section presents a program that displays a happy or sad face based on a var
 
 We are asked to create a new variable, "**isFlirty**," that has a true or false value. If the variable "**isHappy**" is true, and the variable "**isFlirty**" is true, we are asked to make an eye wink.
 
-**Here is my solution:**
-[https://scrimba.com/scrim/codc041439b0a9956e115bd0e](https://scrimba.com/scrim/codc041439b0a9956e115bd0e)
+[Here is a link to my solution](https://scrimba.com/scrim/codc041439b0a9956e115bd0e)
 
 ![Flirty](img/02-07-21/Flirty.jpg)
 
@@ -352,8 +347,7 @@ In this section, Ania shares helpful tools that she uses.
 
 **JSONView**
 
-[JSONView
-](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) is a Google Chrome extension used to format JSON files. Without it, viewing a JSON file is just one continuous line of text.
+[JSONView](https://chrome.google.com/webstore/detail/jsonview/chklaanhfefbnpoihckbnefhakgolnmc?hl=en) is a Google Chrome extension used to format JSON files. Without it, viewing a JSON file is just one continuous line of text.
 
 The formated view adds color to strings and integers, and Ania also states that using the extension makes it easier to work with an API.
 
@@ -370,8 +364,7 @@ This tool lets you inspect and edit the React components. It also allows you to 
 **{JSON} Placeholder**
 
 Free to use fake online REST API for testing and prototyping.
-[{JSON} Placeholder
-](https://jsonplaceholder.typicode.com/)
+[JSON Placeholder](https://jsonplaceholder.typicode.com/)
 
 Ania explains that the {JSON} Placeholder is great for beginners to use for practice projects. I will definitely get good use out of this!
 
