@@ -358,7 +358,7 @@ We will be forking the current challenge, Film Database. Here are the provided i
 
 ![Controls](img/02-01-21/controls.jpg)
 
-**Controles (beginning from the left)**
+**Controls (beginning from the left)**
 * The blue play button
 * The blue timeline
 * Timestamp
