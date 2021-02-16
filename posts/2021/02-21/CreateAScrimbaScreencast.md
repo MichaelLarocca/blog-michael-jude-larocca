@@ -270,6 +270,21 @@ You cycle through your slides using the "**arrow**" keys.
 You are now ready to record your screencast. Proceed with the creating screencast instructions previously provided, present your slides while you are recording by clicking on the slide to "**maximize and minimize**" them, and use the arrow keys to cycle through them.
 
 ---
+
+### Resync your slides
+
+You have the flexibility to make changes to your Google Slides.
+
+**After you make changes to your Google Slides, In your Scrimba screencast:**
+
+* Click the ellipses next to "Explorer."
+* Select "Resync with Google Slides."
+
+![Click the ellipses next to Explorer](img/02-01-21/Import-Google-Slides-00.png)
+
+![Resync with Google Slides](img/02-01-21/Import-Google-Slides-11.png)
+
+---
 ### Create a screencast playlist to make a course
 
 ![Playlist](img/02-01-21/playlist.jpg)
