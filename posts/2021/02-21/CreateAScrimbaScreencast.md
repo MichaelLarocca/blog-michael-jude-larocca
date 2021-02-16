@@ -85,9 +85,16 @@ Scrimba's screencast technology also makes it possible for your viewers to inter
 * Choose your template (We're working with the "HTML, CSS, JavaScript" template) 
 * Click the "Submit" button
 
-You now created a new scrim. Now you are ready to make a "**presentation**" folder and add the appropriate files to it.
+---
+##### I will be covering two methods of creating a presentation for your screencast:
+1. The first method will be creating a slide show with HTML files
+2. The second method will be creating a slide show with Google Sheets
 
 ---
+
+### Creating a slide show with HTML files
+
+You now created a new scrim. Now you are ready to make a "**presentation**" folder and add the appropriate files to it.
 
 **Let's get organized**
 
@@ -190,7 +197,79 @@ You can also record over portions of your screencast, pausing on the timestamp a
 **Tip:** You can make a clone of your screencast to edit and test. This method will prevent any unintended edits to your screencast.
 
 ---
+### Create a presentation with Google Slides
 
+Leanne from Scrimba brought my attention to an additional way to create a slide show presentation in your screencast. Using this method, you will create a slide show presentation the same way the Scrimba instructors do, with Google Slides.
+
+---
+### Google Slides
+
+Google Slides is a presentation program included as part of the free, web-based Google Docs Editors suite offered by Google. 
+
+### How to create a Google slide show
+
+**In Google Slides, start a new blank presentation.**
+
+![start a new blank presentation](img/02-01-21\Import-Google-Slides-10.png)
+
+### Create your slides
+
+I am creating a simple slide show by copying screenshot images of my previously made slides for demonstration purposes.
+
+To create my first slide, I deleted the default "**Click to add title**" and "**Click to add subtitle**." I then dragged and dropped my screenshot images to the slide.
+
+![Google Slides](img/02-01-21/Google-Slides.png)
+
+Using this method, I proceeded to create the rest of my slides.
+
+### Publish to the web
+
+After creating your slides, you need to publish your slides to the web.
+
+to publish your slides to the web, select "**File, Publish to the web**." 
+
+![Publish to the web](img/02-01-21/Import-Google-Slides-05.png)
+
+**Publish to the web dialog box**
+
+![Publish to the web dialog box](img/02-01-21/Import-Google-Slides-06.png)
+
+**Click the Publish button.**
+
+![are you sure you want to publish this section](img/02-01-21/Import-Google-Slides-07.png)
+
+**Click ok.**
+
+![Publish to the web](img/02-01-21/Import-Google-Slides-08.png)
+
+**Copy the created published link**
+
+---
+### In your Scrimba screencast
+
+Click the ellipses next to "**Explorer**."
+
+![Import Google Slides](img/02-01-21/Import-Google-Slides-00.png)
+
+Select "**Import Google Slides**."
+
+![Link to presentation](img/02-01-21/Import-Google-Slides-01.png)
+
+Paste your copied link to "**Link back presentation**."
+
+![Link to presentation](img/02-01-21/Import-Google-Slides-04.png)
+
+### Your slides
+
+![Your slides](img/02-01-21/Import-Google-Slides-09.png)
+
+On the bottom left side of your Scrimba screencast, you will now see your slides.
+
+You cycle through your slides using the "**arrow**" keys.
+
+You are now ready to record your screencast. Proceed with the creating screencast instructions previously provided, present your slides while you are recording by clicking on the slide to "**maximize and minimize**" them, and use the arrow keys to cycle through them.
+
+---
 ### Create a screencast playlist to make a course
 
 ![Playlist](img/02-01-21/playlist.jpg)
@@ -305,10 +384,12 @@ Displays the metadata that you add to your screencast, as well as showing your s
 **Note:** Comments are temporarily disabled. In the meantime, join our discussions on Discord.
 
 ---
+### My submitted challenge (⭐️Film Database⭐️)
 
-**My submitted challenge (⭐️latest challenge⭐️)**
+![Blockbuster](img/02-01-21/Slide-2.png)
+#### *Here is a link to my recorded and edited screencast of solving the "Film Database" challenge.*
 
-[TXG - Block Buster: The Weekly Web Dev Challenge: Film Database](https://scrimba.com/scrim/cdq886Ak)
+**[TXG - Block Buster: The Weekly Web Dev Challenge: Film Database](https://scrimba.com/scrim/cdq886Ak)**
 
 ---
 
