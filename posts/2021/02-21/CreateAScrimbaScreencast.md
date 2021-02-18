@@ -61,7 +61,7 @@ Your work will also provide a valuable resource for yourself to reference and gi
 
 ---
 
-**What's Needed to make a tutorial**
+**What's needed to make a tutorial**
 * Code editor
 * Software for recording and editing
 * A place to showcase your tutorial	
@@ -178,7 +178,7 @@ A "Record" dialog box will appear asking you to select your audio source.
 * Noise Suppression
 * Echo Cancellation
 * Auto-Gain
-* debug
+* Debug
 
 Click "**CONFIRM**" after you make your selections.
 
@@ -226,7 +226,7 @@ Using this method, I proceeded to create the rest of my slides.
 
 After creating your slides, you need to publish your slides to the web.
 
-to publish your slides to the web, select "**File, Publish to the web**." 
+To publish your slides to the web, select "**File, Publish to the web**." 
 
 ![Publish to the web](img/02-01-21/Import-Google-Slides-05.png)
 
@@ -488,8 +488,7 @@ I want to say a special thank you to **Tom** for bringing this to the Scrimba co
 
 **Tom** created a screencast of himself solving a Scrimba Weekly Web Dev Challenge, proving it to be a valuable and viable way to share and display your work.
 
-Along with my "[Do you have enough Republic Credits to hire The Mandalorian?
-](https://selftaughttxg.com/2021/01-21/TheMandalorian/)" article, **Tom's** most recent project, [Budget Calculator](https://scrimba.com/scrim/cpMamJHq) was just featured on Scrimba's YouTube live stream!
+Along with my "[Do you have enough Republic Credits to hire The Mandalorian?](https://selftaughttxg.com/2021/01-21/TheMandalorian/)" article, **Tom's** most recent project, [Budget Calculator](https://scrimba.com/scrim/cpMamJHq) was just featured on Scrimba's YouTube live stream!
 
 You can see both of our work featured on Scrimba's [The Weekly Web Dev Challenge - LIVE!](https://www.youtube.com/watch?v=vu1di3lONFE) YouTube video.
 
