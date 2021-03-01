@@ -1,5 +1,5 @@
 ---
-title: "Teacher Feature: Jesse Hall (Code Stackr)"
+title: "Teacher Feature: Jesse Hall (codeSTACKr)"
 tags:
   [
     "teacher",
@@ -113,11 +113,11 @@ Once again, I would like to point out that Jesse's whole approach to the program
 
 ---
 
-### Code Stackr Logo
+### codeSTACKr Logo
 
-![Code Stackr Logo](img/02-28-21/CodeStackr-logo.png)
+![codeSTACKr Logo](img/02-28-21/CodeStackr-logo.png)
 
-### As a musician, I take notice of and highly value logos. In my opinion, the official "Code Stackr" logo is the best in tech!
+### As a musician, I take notice of and highly value logos. In my opinion, the official "codeSTACKr" logo is the best in tech!
 
 **Let's take a closer look and break it down, or more accurately, unstack it!**
 
@@ -139,11 +139,11 @@ Once again, I would like to point out that Jesse's whole approach to the program
 
 ### The "C & S" box and the "codeSTACKr" text combined create a formidable logo!
 
-![Code Stackr Logo](img/02-28-21/CodeStackr-logo.png)
+![codeSTACKr Logo](img/02-28-21/CodeStackr-logo.png)
 
 ---
 
-#### They say that "imitation is the highest form of flattery." So naturally, when it came my time to create a logo for "Self-Taught TXG," I provided [Design Desk](https://www.fiverr.com/design_desk/create-3-original-logo-with-vector-source-file?context_referrer=logo_maker_banner&source=gallery-listing&ref_ctx_id=bc5f47b4-4d2f-4fc1-b92a-939ff2d05e95&pckg_id=1&pos=3&context_type=rating&funnel=10f6ae96-c261-468c-ae21-99a3c6a28b9a), through Fiverr, with the Code Stackr Logo to reference!
+#### They say that "imitation is the highest form of flattery." So naturally, when it came my time to create a logo for "Self-Taught TXG," I provided [Design Desk](https://www.fiverr.com/design_desk/create-3-original-logo-with-vector-source-file?context_referrer=logo_maker_banner&source=gallery-listing&ref_ctx_id=bc5f47b4-4d2f-4fc1-b92a-939ff2d05e95&pckg_id=1&pos=3&context_type=rating&funnel=10f6ae96-c261-468c-ae21-99a3c6a28b9a), through Fiverr, with the codeSTACKr Logo to reference!
 
 ---
 
@@ -151,15 +151,15 @@ Once again, I would like to point out that Jesse's whole approach to the program
 
 ---
 
-### Here is the finalized color version of my logo after submitting the Code Stackr logo as a reference.
+### Here is the finalized color version of my logo after submitting the codeSTACKr logo as a reference.
 
 ![Logos](img/02-28-21/TXG-Color-Logo.jpg)
 
 ---
 
-### Code Stackr Links
+### codeSTACKr Links
 
-![Code Stackr Logo](img/02-28-21/Jesse-YouTube.png)
+![codeSTACKr Logo](img/02-28-21/Jesse-YouTube.png)
 
 ### Jesse has created many valuable resources for the web dev community, and I am looking forward to learning a lot more from him.
 
