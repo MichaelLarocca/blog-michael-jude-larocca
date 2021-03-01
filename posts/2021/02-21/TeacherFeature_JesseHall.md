@@ -12,7 +12,7 @@ date: "2021-02-28"
 
 ### As a self-taught developer, it is sometimes difficult to find direction with so much information out there.
 
-### With the odds stacked against us, In this week's article, Jesse Hall helps us unstack it!
+### With the odds stacked against us, in this week's article, Jesse Hall helps us unstack it!
 
 ![Jesse Hall](img/02-28-21/jesse.jpg)
 
