@@ -19,7 +19,7 @@ date: "2021-03-08"
 
 ---
 
-**In addition to web development recourses, Scrimba provides its students with many opportunities to learn and grow as developers. This week, Scrimba appointed a tech recruiter to look over several students' LinkedIn portfolios and CVs.**
+**In addition to web development resources, Scrimba provides its students with many opportunities to learn and grow as developers. This week, Scrimba appointed a tech recruiter to look over several students' LinkedIn portfolios and CVs.**
 
 **To better understand what tech recruiters are looking for in a LinkedIn profile, I submitted mine for the YouTube live stream review!**  
 
@@ -157,10 +157,11 @@ In the experience section, I entered "**Microsoft Specialist**."
 
 After rewatching Scrimba's last [LinkedIn tech recruiter YouTube live stream](https://www.youtube.com/watch?v=_KdwmOw3TMc), I realized that I could add the details of the programs that I wrote here. So the details of my customized programs that I removed from the summary were added back here.
 
-Also, I added the rest of my work experience with details here.
-Produce Pro Support Team
-Customer Service Representative
-Truck Router
+**Also, I added the rest of my work experience with details here:**
+
+* Produce Pro Support Team
+* Customer Service Representative
+* Truck Router
 
 ---
 
@@ -172,16 +173,6 @@ Truck Router
 * freeCodeCamp
 * Solo Learn
 * Udemy
-
----
-
-Licenses & Certifications
-I add all of my course completion certificates from
-Scrimba
-Codecademy
-freeCodeCamp
-Solo Learn
-Udemy
 
 ---
 
