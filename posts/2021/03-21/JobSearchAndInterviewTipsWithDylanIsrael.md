@@ -25,7 +25,7 @@ He created the YouTube channel 360 Tutorials during his coding journey, created 
 
 Dylan also frequently Livestreams YouTube videos where he answers questions from his viewers' comments.
 
-Will all of the premium web dev content that Dylan creates, indeed you will hear about him soon!
+With all of the premium web dev content that Dylan creates, indeed you will hear about him soon!
 
 ---
 
@@ -38,7 +38,7 @@ Will all of the premium web dev content that Dylan creates, indeed you will hear
 
 ### How Dylan transitioned into tech
 
-The Livestream starts with Scrimba's host, Leanne, asking Dylan how he transitioned into tech. Dylan is comfortably transparent as he describes putting in a half-effort while attending college for five years until he eventually dropped out and his job delivering pizza.
+The Livestream starts with Scrimba's host, Leanne, asking Dylan how he transitioned into tech. Dylan is comfortably transparent as he describes putting in a half-effort while attending college for five years until he eventually dropped out and about his job delivering pizza.
 
 **Dylan decided to pursue a career in tech after googling jobs that met the following criteria:**
 
@@ -154,7 +154,7 @@ Dylan brings up an interesting point: he was up against many other applicants in
 
 When he applied to jobs in Tampa, Florida, he was only up against a dozen.
 
-He also noticed that he was getting a much higher volume of callbacks and responses from jobs he applied to that were posted within 24hours.
+He also noticed that he was getting a much higher volume of callbacks and responses from jobs he applied to that were posted within 24 hours.
 
 In time, when you have years of work history, projects, and presence, the jobs will start coming to you. **This is how Dylan landed the job at Amazon. They reached out to him!**   Dylan also has recruiters reaching out to him regularly.
 
@@ -231,9 +231,8 @@ Dylan explains that side projects do not have to be a sacrificial task. When you
 
 ### Some skills, you will learn in the workforce
 
-**Some skill sets you will acquire when you are in the real**
+**Some skill sets you will acquire when you are in the real work world**
 
-* work world
 * Agile
 * Git
 
@@ -247,7 +246,7 @@ Dylan quotes, "**Don't sweat it. When the time comes, you will learn it**."
 
 ### The ability to learn
 
-Dylan explains what companies interview for, "it's not what you know, necessarily, it's what you have the ability to learn."
+Dylan explains what companies interview for, "**it's not what you know, necessarily, it's what you have the ability to learn**."
 
 ---
 
@@ -265,7 +264,7 @@ Dylan advises, "**if you meet 50% of the requirements, go ahead and apply**."
 
 * Something that you can monetize
 * API projects / asynchronous code
-* Crud application
+* CRUD application
 
 Using the listed recommendations, Dylan suggests creating a project on a topic that you are passionate about.
 
@@ -277,7 +276,7 @@ To transition into a tech career, you will have to accept the reality that you a
 
 There will be a learning curve and some sacrifice.
 
-You may have to take a pay cut to get that first developer job.
+You may even have to take a pay cut to get that first developer job.
 
 ---
 
