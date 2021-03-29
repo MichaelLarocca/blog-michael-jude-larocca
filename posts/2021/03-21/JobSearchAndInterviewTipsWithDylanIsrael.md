@@ -75,7 +75,7 @@ Also, it is often that in good faith, your **closest confidants** will be unsupp
 
 ---
 
-### What would have Dylan do differently
+### What Dylan would have done differently
 
 Dylan explains, from his humble beginnings, that he was always frugal.
 
@@ -112,7 +112,7 @@ Dylan used his uncomfortable situation to motivate himself, which eventually tur
 
 Dylan explains, to become a web developer, you must be consistent. Code every day until you get a job.
 
-**Also, he warns us people wait way too long to:**
+**Also, he warns us that people wait way too long to:**
 
 * Interview for Jobs
 * Jump Jobs
