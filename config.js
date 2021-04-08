@@ -2,9 +2,9 @@
 
 module.exports = {
   url: "https://selftaughttxg.com",
-  title: "Self-Taught TXG",
+  title: "",
   tagline:
-    "Weekly articles from a self-taught Generation X programmer",
+    "Self-Taught TXG: Weekly articles from a self-taught Generation X programmer",
   copyright: "2021",
   author: {
     name: "Michael Jude Larocca",
