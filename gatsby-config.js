@@ -23,7 +23,6 @@ module.exports = {
     `gatsby-transformer-sharp`,
     `gatsby-plugin-sharp`,
     `gatsby-plugin-google-analytics`,
-    `gatsby-plugin-canonical-urls`,
     {
       resolve: `gatsby-plugin-google-analytics`,
       options: {
