@@ -35,7 +35,7 @@ I decided this to be an excellent opportunity to create a "seemingly easy" proje
 
 ### Star Wars Dice Duel
 
-![Star Wars Dice Duel](img/04-05-21/StarWarsDiceDuel.png);
+![Star Wars Dice Duel](img/04-05-21/StarWarsDiceDuel.png)
 
 ### [Play the game!](https://starwars-dice-duel.netlify.app/)
 
@@ -332,6 +332,7 @@ btnResetGame.addEventListener("click", gameStart);
 ```
 
 ![All too easy](img/04-05-21/AllTooEasy.png)
+*All rights reserved by Disney and Lucasfilm.*
 
 ---
 
@@ -353,6 +354,7 @@ I found and used the lightsaber sounds from [soundboard.com](https://www.soundbo
 ### Coding the sound
 
 !["It's not my fault!"](img/04-05-21/ItsNotMyFault.png)
+*All rights reserved by Disney and Lucasfilm.*
 
 Star Wars fans will understand the irony of me correctly coding the syntax for the sound effects, but resulting in the program breaking and then me exclaiming, "**It's not my fault!**"
 
