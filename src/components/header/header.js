@@ -11,7 +11,10 @@ import "./header.css"
 
 // import TXG from "../../images/TXG-0.jpg"
 // import TXG_0 from "/icons/TXG-0.jpg"
-import TXG_0 from "../../images/TXG-0.jpg"
+
+// import TXG_0 from "../../images/TXG-0.jpg"
+import TXG_0 from "../../images/Logo-Black-Slogan.jpg"
+
 // import SpaceImage from "../../images/pexels-space.jpeg"
 
 const Header = ({ siteTitle, tagline, author, contacts }) => {
