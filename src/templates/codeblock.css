@@ -1,6 +1,6 @@
 code[class*="language-"],
 pre[class*="language-"] {
-	color: rgb(20, 7, 7);
+	color: whitesmoke;
 	background: none;
 	text-shadow: none;
 	font-family: Consolas, Monaco, 'Andale Mono', 'Ubuntu Mono', monospace;
@@ -78,7 +78,7 @@ pre[class*="language-"] {
 
 :not(pre) > code[class*="language-"],
 pre[class*="language-"] {
-	background: beige;
+	background: #111;
 }
 
 /* Inline code */
@@ -110,7 +110,7 @@ pre[class*="language-"] {
 .token.constant,
 .token.symbol,
 .token.deleted {
-	color: #905;
+	color: rgb(206, 26, 167);
 }
 
 .token.selector,
@@ -119,7 +119,7 @@ pre[class*="language-"] {
 .token.char,
 .token.builtin,
 .token.inserted {
-	color: #690;
+	color: rgb(19, 158, 26);
 }
 
 .token.operator,
@@ -127,8 +127,8 @@ pre[class*="language-"] {
 .token.url,
 .language-css .token.string,
 .style .token.string {
-	color: #9a6e3a;
-	background: hsla(0, 0%, 100%, .5);
+	color: #c77005;
+	background: black;
 }
 
 .token.atrule,
@@ -139,13 +139,13 @@ pre[class*="language-"] {
 
 .token.function,
 .token.class-name {
-	color: #DD4A68;
+	color: #fd0033;
 }
 
 .token.regex,
 .token.important,
 .token.variable {
-	color: #e90;
+	color: rgb(238, 182, 0);
 }
 
 .token.important,
