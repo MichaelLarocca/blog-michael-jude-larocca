@@ -19,7 +19,7 @@ date: "2021-04-12"
 
 ### Find out as much as you can
 
-The first tip that Molly provides us is to find out as much as we can about the interview.
+The first tip that tech recruiter Molly-May Gallagher provides us is to find out as much as we can about the interview.
 
 **Is there going to be:**
 
