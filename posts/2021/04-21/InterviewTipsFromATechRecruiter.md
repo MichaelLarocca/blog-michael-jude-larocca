@@ -247,6 +247,8 @@ Molly suggests to her clients to never bring up their other offers during the in
 
 ![Interview](img/04-12-21/interview.jpeg)
 
+---
+
 ### Conclusion
 
 As self-taught developers, learning how to prepare for interviews properly is just as important as learning how to code correctly. 
