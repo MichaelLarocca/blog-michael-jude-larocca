@@ -68,6 +68,10 @@ To assist, Molly provides candidates with a **preparation document**, which high
 
 ---
 
+![Take notes](img/04-12-21/take-notes.jpg)
+
+---
+
 ### Your previous job
 
 If you are asked about why you are leaving your current job, Molly suggests avoiding **extremes**.
@@ -138,7 +142,7 @@ With this method of going over your work history in advance, it will most likely
 
 If we have gaps in our work history and it comes up during the interview, Molly suggests that we be honest. If you're not, and they have already researched your work history, there will be conflicting information.
 
-Molly then makes a point of letting us know that**we are not going to be penalized for gaps in our work history** and that they are most likely asking about it through curiosity.
+Molly then makes a point of letting us know that **we are not going to be penalized for gaps in our work history** and that they are most likely asking about it through curiosity.
 
 *Another tip Molly has for us is to make sure our information is up to date on "all of our platforms" to prevent conflicting information.*
 
@@ -158,7 +162,7 @@ Also, if they know your current salary, they may lower their initial offer.
 
 ### Are employers forthcoming with feedback
 
-How forthcoming are employers with feedback? Molly explains that some of the feedback she gets from employers are genuine and some of the feedback is preset "they are not a good culture fit" type of answers.
+How forthcoming are employers with feedback? Molly explains that some of the feedback she gets from employers are genuine, and some of the feedback is preset "they are not a good culture fit" type of answers.
 
 *In my opinion, it sounds like companies use standardized answers as an "umbrella" to protect themselves from being accused of discrimination.*
 
@@ -200,7 +204,7 @@ In fact, Molly suggests not directly asking the question " what their company wi
 * Is it the benefits package that has kept you working here
 * If you've been getting job offers, what has kept you here
 
-*Molly suggests that we get our answer by going around the question of what their company will do for you, not by directly answering it.*
+*Molly suggests that we get our answer by going around the question of what their company will do for you, not by directly asking it.*
 
 ---
 
@@ -241,10 +245,12 @@ Molly suggests to her clients to never bring up their other offers during the in
 
 ---
 
+![Interview](img/04-12-21/interview.jpeg)
+
 ### Conclusion
 
 As self-taught developers, learning how to prepare for interviews properly is just as important as learning how to code correctly. 
 
-Scrimba's Livestream with a tech recruiter Molly May provided us with valuable insight on what to expect from coding interviews, how to prepare effectively, and the questions we should ask them.
+Scrimba's Livestream with a tech recruiter Molly-May Gallagher provided us with valuable insight on what to expect from coding interviews, how to prepare effectively, and the questions we should ask them.
 
 Knowing what the interviewers are looking for allows us to prepare appropriately, ultimately giving us a better chance of getting hired.
