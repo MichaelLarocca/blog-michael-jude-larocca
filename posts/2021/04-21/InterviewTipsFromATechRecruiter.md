@@ -9,7 +9,9 @@ date: "2021-04-12"
 ---
 ---
 
-## Would you like to learn what to expect from coding interviews, how to prepare effectively, and what questions you should ask them? Let's find out together in this week's article!
+<!-- ## Would you like to learn what to expect from coding interviews, how to prepare effectively, and what questions you should ask them? Let's find out together in this week's article! -->
+
+## Would you like to learn what to expect from coding interviews, how to prepare effectively, and what questions you should ask them? Let's find out together in this week's article with tech a recruiter!
 
 ![Molly May Gallager](img/04-12-21/InterviewTipsWithMollyMayGallager.png)
 
