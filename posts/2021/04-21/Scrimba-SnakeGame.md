@@ -195,6 +195,8 @@ I am loosely modeling this game board in the style of an arcade cabinet.
 
 ![Pac Man](img/04-26-21/PacMan.png)
 
+All rights reserved by Bandai Namco Entertainment
+
 A marquee-style display will hold the game's title. I will be placing the marquee directly above the game board.
 
 An arcade bezel is on the left and the right side of the game board. 
@@ -461,6 +463,8 @@ I then thought, "why not use the JavaScript Popup alert to pause the game intent
 So, I devised the pause button by printing out code to the JavaScript Popup alert to view my coding mistakes!
 
 ![Happy little accidents](img/04-26-21/Bob-Ross.jpg)
+
+*All rights reserved by Robert Ross.*
 
 ---
 
