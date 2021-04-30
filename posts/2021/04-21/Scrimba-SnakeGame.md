@@ -195,6 +195,8 @@ I am loosely modeling this game board in the style of an arcade cabinet.
 
 ![Pac Man](img/04-26-21/PacMan.png)
 
+All rights reserved by Bandai Namco Entertainment
+
 A marquee-style display will hold the game's title. I will be placing the marquee directly above the game board.
 
 An arcade bezel is on the left and the right side of the game board. 
@@ -462,6 +464,8 @@ So, I devised the pause button by printing out code to the JavaScript Popup aler
 
 ![Happy little accidents](img/04-26-21/Bob-Ross.jpg)
 
+*All rights reserved by Robert Ross.*
+
 ---
 
 ### Creating touch control buttons
@@ -488,4 +492,8 @@ Being stepped through creating just the core mechanics to a game project like Sc
 
 With just the core mechanics in place, it leaves the rest of the coding to the students' imaginations.
 
+<<<<<<< HEAD
 I imagined an arcade cabinet to play the Snake Game on, and then I created it. Next, I imagine an arcade website called "La Roc-Cade," where I will display all of my future games for everyone to play!
+=======
+I imagined an arcade cabinet to play the Snake Game on, and then I created it. Next, imagine an arcade website called "La Roc-Cade," where I will display all of my future games for everyone to play!
+>>>>>>> 329600edb83b137e5515005b52ac07c004460f0b
