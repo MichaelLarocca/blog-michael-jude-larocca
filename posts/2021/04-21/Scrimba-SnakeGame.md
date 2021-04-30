@@ -492,8 +492,4 @@ Being stepped through creating just the core mechanics to a game project like Sc
 
 With just the core mechanics in place, it leaves the rest of the coding to the students' imaginations.
 
-<<<<<<< HEAD
 I imagined an arcade cabinet to play the Snake Game on, and then I created it. Next, I imagine an arcade website called "La Roc-Cade," where I will display all of my future games for everyone to play!
-=======
-I imagined an arcade cabinet to play the Snake Game on, and then I created it. Next, imagine an arcade website called "La Roc-Cade," where I will display all of my future games for everyone to play!
->>>>>>> 329600edb83b137e5515005b52ac07c004460f0b
