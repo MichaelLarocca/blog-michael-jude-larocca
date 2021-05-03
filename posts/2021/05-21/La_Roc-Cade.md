@@ -16,7 +16,7 @@ date: "2021-05-03"
 
 ---
 
-![Logo](img/05-03-21/LaRocCade-01.png)
+![Games](img/05-03-21/Games.png)
 
 ---
 
