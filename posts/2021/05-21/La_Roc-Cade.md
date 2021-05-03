@@ -42,6 +42,8 @@ I added a **Galaga**-style star for the final touch but positioned it in a manne
 
 ![Arcade logos](img/05-03-21/ArcadeLogos.png)
 
+*All rights reserved by Bandai Namco, Atari, Inc. and Namco*
+
 ---
 
 ### Games slogan
@@ -51,6 +53,8 @@ Directly underneath the La Roc-Cade logo is the slogan "**GAMES**."
 I had this portion of the logo to be styled as a reference to "**SPACE INVADERS**."
 
 ![SPACE INVADERS logo](img/05-03-21/Space-Invaders.jpg)
+
+*All rights reserved by Taito Corporation*
 
 ---
 
@@ -76,13 +80,15 @@ In the Scrimba project taught by [James Q Quick](https://selftaughttxg.com/2021/
 
 ---
 
-**For the Scrimba project, I created a Star Wars theme toggle switch that changes to a Rebel logo for the light thems and then turns into an Empire logo when switched to the dark them.**
+**For the Scrimba project, I created a Star Wars theme toggle switch that changes to a Rebel logo for the light themes and then turns into an Empire logo when switched to the dark theme.**
 
 ![Star Wars Toggle Switch - light](img/05-03-21/Toggle-StarWars-Light.png)
 
 ![Star Wars Toggle Switch - dark](img/05-03-21/Toggle-StarWars-Dark.png)
 
-[Here is a link to my scrim](https://scrimba.com/scrim/cofc440cd8e666e753d36659b)
+*All rights reserved by Disney and Lucasfilm*
+
+**[Here is a link to my scrim](https://scrimba.com/scrim/cofc440cd8e666e753d36659b)**
 
 ---
 
@@ -163,7 +169,7 @@ I originally wanted to create a 3d carousel similar to Palak's. I decided agains
 
 ---
 
-**You can go tp w3schools website to learn more about [-webkit-box-reflect:](https://www.w3schools.com/css/css3_image_reflection.asp).**
+**You can go to w3schools website to learn more about [-webkit-box-reflect:](https://www.w3schools.com/css/css3_image_reflection.asp).**
 
 ---
 
@@ -209,7 +215,7 @@ To create my carousel, I had to overcome three issues.
 
 **Select all images and get the "left: px" value**
 
-To select all of the images and get the left pixel values, using a for loop, I used the getComputedStyle() method and assigned it to a variable named currentGameStyleLeftValue .
+To select all of the images and get the left pixel values, using a for loop, I used the **getComputedStyle()** method and assigned it to a variable named currentGameStyleLeftValue .
 
 ```javascript
 let currentGameStyleLeftValue = window.getComputedStyle(allgameCards[i], null).getPropertyValue("left");
@@ -231,7 +237,7 @@ let currentGameValueParseInt = parseInt(currentGameStyleLeftValue);
 
 ```javascript
 let moveCurrentGameCardsLeft = currentGameValueParseInt - 400 + "px";
-    let moveCurrentGameCardsRight = currentGameValueParseInt + 400 + "px";
+let moveCurrentGameCardsRight = currentGameValueParseInt + 400 + "px";
 ```
 
 ---
