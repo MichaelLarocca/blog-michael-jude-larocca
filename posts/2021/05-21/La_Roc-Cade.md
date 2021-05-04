@@ -295,6 +295,22 @@ transition: left .3s cubic-bezier(.27,-0.43,1,1.01);
 
 ---
 
+### La Roc-Cade Games
+
+So far, I have created two Scrimba game projects that are available to play, **Scrimba Snake** and **Star Wars Dice Duel**.
+
+As part of [Scrimba's Frontend Web Developer Career Path](https://scrimba.com/learn/frontend), there is also a Pac-Man game that I will be creating and adding to La Roc-Cade soon!
+
+---
+
+***While creating the first two Scrimba game projects, I documented and shared the process in two articles.***
+
+**[Scrimba: Snake Game](https://selftaughttxg.com/2021/04-21/Scrimba-SnakeGame/)**
+
+**[Scrimba Challenge: Dice Game - Make it your own](https://selftaughttxg.com/2021/04-21/Scrimba-Challenge-DiceGame-MakeItYourOwn/)**
+
+---
+
 ### Conclusion
 
 In creating this arcade website,  I completed a milestone goal that I set for myself two years ago when I started taking web development seriously.
