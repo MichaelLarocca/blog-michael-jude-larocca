@@ -2,8 +2,7 @@
 title: "Create a portfolio website that gets noticed by tech recruiters"
 tags:
   [
-    "recruitment",
-    "scrimba"
+    "scrimba",
   ]
 published: true
 date: "2021-05-10"
@@ -215,9 +214,9 @@ So in this article, I am showcasing and linking to every portfolio website that 
 
 **[Suyash](https://suyash.ca/) | Timestamp 39:50 & 45:30**
 
-**[Doriana Zela](http://dorianazela.com/)  | Timestamp 42:25**
+**[Doriana Zela](http://dorianazela.com/) | Timestamp 42:25**
 
-**[Eduardo Zaldivar](https://www.eduardozo.com/)  | Timestamp 52:50**
+**[Eduardo Zaldivar](https://www.eduardozo.com/) | Timestamp 52:50**
 
 ---
 
