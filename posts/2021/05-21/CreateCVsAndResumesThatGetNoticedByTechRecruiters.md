@@ -83,7 +83,9 @@ By having our skills listed first, the reader will continue to see how we applie
 
 ---
 
-![Jermaine Jupiter](img/05-24-21/markus-winkler-7iSEHWsxPLw-unsplash.jpg)
+![Markus Winkler](img/05-24-21/markus-winkler-7iSEHWsxPLw-unsplash.jpg)
+
+*Photo by Markus Winkler from Unsplash*
 
 ---
 
@@ -146,6 +148,8 @@ Jermaine explains that our resume will pass through several people and that ther
 ---
 
 *"The entire hiring process... job search, interviewing, resumes... it's all an exercise on subjectivity and how you make the person feel on your first impression."*
+
+> *- Jermaine Murray*
 
 ---
 
@@ -241,7 +245,7 @@ Jermaine explains, when it comes to "skimming," people naturally read from left 
 
 On my resume, I provided my social media links.
 
-Jermaine brought to our attention that we should be "**mindful**" of what we post and like on social media, as it could have a potentially negative impact. Leeane added, even if you do not list your social media links, they may look at your content anyway!
+Jermaine brought to our attention that we should be "**mindful**" of what we post and like on social media, as it could have a potentially negative impact. Leanne added, even if you do not list your social media links, they may look at your content anyway!
 
 ---
 
