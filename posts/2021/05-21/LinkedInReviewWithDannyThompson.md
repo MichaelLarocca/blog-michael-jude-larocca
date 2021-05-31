@@ -54,9 +54,9 @@ Your about me is not your biography. Your about section needs to be short and co
 
 Candidate profiles are being searched for the technology needed for the job, not by the title of the job.
 
-Danny explains in Eduardo's case that "**Back-end Software Engineer**" is not being searched. What is being searched if the technology used by a Back-end Software Engineer:
+Danny explains in Eduardo's case that "**Back-end Software Engineer**" is not being searched. What is being searched is the technology used by a Back-end Software Engineer:
 
-* Mongo DB 
+* Mongo DB
 * MySQL
 * Ruby
 * PHP
@@ -243,7 +243,7 @@ At one point in time, Danny explains that gaps in our job history were a difficu
 
 Danny approached our LinkedIn profile review from the perspective of a hiring manager. Danny wants us to succeed, so he had to be transparent while conducting the reviews.
 
-If you would like to learn more about the LinkedIn reviews from the perspective of a hiring manager, Danny created a valuable free resource, a YouTube series titled: [GET A JOB USING LINKEDIN](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
+If you would like to learn more about LinkedIn reviews from the perspective of a hiring manager, Danny created a valuable free resource, a YouTube series titled: [GET A JOB USING LINKEDIN](https://www.youtube.com/playlist?list=PL54X5yR8qizsMpvTCqUIEFMeEp-chvcxk)
 
 Danny also revealed an upcoming YouTube series where he will have four guests conducting five-minute tech Interviews. After the review, they will discuss what went right and what went wrong.
 
