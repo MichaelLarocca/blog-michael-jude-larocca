@@ -3,6 +3,7 @@ title: "Create a portfolio website that gets noticed by tech recruiters"
 tags:
   [
     "scrimba",
+    "recruitment",
   ]
 published: true
 date: "2021-05-10"

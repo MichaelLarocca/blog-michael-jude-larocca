@@ -3,6 +3,7 @@ title: "Interview Tips from a Tech Recruiter"
 tags:
   [
     "scrimba",
+    "recruitment",
   ]
 published: true
 date: "2021-04-12"

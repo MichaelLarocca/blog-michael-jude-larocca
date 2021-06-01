@@ -2,7 +2,8 @@
 title: "Job Search and Interview Tips with Dylan Israel"
 tags:
   [
-    "scrimba"
+    "scrimba",
+    "recruitment",
   ]
 published: true
 date: "2021-03-29"

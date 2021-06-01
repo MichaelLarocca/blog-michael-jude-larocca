@@ -4,7 +4,8 @@ tags:
   [
     "linkedin",
     "review",
-    "scrimba"
+    "scrimba",
+    "recruitment",
   ]
 published: true
 date: "2021-03-08"
