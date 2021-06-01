@@ -153,7 +153,7 @@ Danny explains another ill-advisable approach is to present yourself as someone 
 
 If you are a founder, president, CEO, or any other title above the position you are applying for, you will run into trouble.  
 
-**Portraying yourself as someone who is overqualified for a position will most likely not get contacted and offered that position.**
+**If you portray yourself as someone who is overqualified for a position, you will most likely not get contacted and offered that position.**
 
 In this situation, you will have to "**downplay**" your overqualified role to match the job role you are applying to.
 
@@ -229,7 +229,6 @@ To succeed in breaking into the tech field, we need to optimize our LinkedIn pro
 **About certifications:** Certifications that are taken at test centers such as Amazon (AWS) & Google certifications hold weight. Online certifications earned from home are acknowledged as personal achievements.
 
 ---
-
 
 ### Job gaps are no longer a hindrance
 
