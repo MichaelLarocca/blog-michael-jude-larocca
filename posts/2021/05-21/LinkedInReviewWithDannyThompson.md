@@ -98,12 +98,6 @@ We need to provide "**keywords**" in this section that reflect our skills for th
 
 ---
 
-**About**
-
-Danny informs us, "**Your about me is not your biography.**" Your about section needs to be short and concise.
-
----
-
 **Featured**
 
 The featured section, Danny explains, is the most valuable piece of real estate on your profile.
@@ -181,12 +175,14 @@ However, Danny instructs us not to "**spam**" people with copy-paste-style messa
 ---
 ---
 
-* [Eduardo Zaldivar](https://www.linkedin.com/in/eduardozo/) | Timestamp  6:40
-* [Franklyn Okenwa](https://www.linkedin.com/in/franklyn-okenwa/) | Timestamp  23:45
-* [Michael Larocca](https://www.linkedin.com/in/michaeljudelarocca/) | Timestamp  28:15
-* [Paola Rossi](https://www.linkedin.com/in/paola-anttonela-rossi-querales/) | Timestamp 38:10
-* [Andrei-Valentin lordachescu](https://www.linkedin.com/in/aviordachescu/) | Timestamp  43:20
-* [Minhajul Karim](https://www.linkedin.com/in/minhajul/) | Timestamp  52:50
+### LinkedIn review timestamps 
+
+* [Eduardo Zaldivar](https://www.linkedin.com/in/eduardozo/) | Back-end engineer 6:40
+* [Franklyn Okenwa](https://www.linkedin.com/in/franklyn-okenwa/) | Intern 23:45
+* [Michael Larocca](https://www.linkedin.com/in/michaeljudelarocca/) | Career changer 28:15
+* [Paola Rossi](https://www.linkedin.com/in/paola-anttonela-rossi-querales/) | Certifications 38:10
+* [Andrei-Valentin lordachescu](https://www.linkedin.com/in/aviordachescu/) | Founder 43:20
+* [Minhajul Karim](https://www.linkedin.com/in/minhajul/) | Freelancer 52:50
 
 ---
 
