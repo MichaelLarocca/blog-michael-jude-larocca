@@ -10,7 +10,7 @@ date: "2021-05-31"
 ---
 ---
 
-## This week's article covers a Scrimba Livestream event where Danny Thompson helps optimize our LinkedIn profiles, providing us with valuable insight that gives us the best opportunity to get hired!
+## This week's article covers a Scrimba Livestream event where Danny Thompson helps us optimize our LinkedIn profiles, providing us with valuable insight that gives us the best opportunity to get hired!
 
 ![Danny Thompson](img/05-31-21/DannyThompson.png)
 
