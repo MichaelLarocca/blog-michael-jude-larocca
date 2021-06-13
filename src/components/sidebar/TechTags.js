@@ -10,25 +10,11 @@ const TechTags = props => {
     let count = 0
     posts.forEach(post => {
       if (post.node.frontmatter.tags.includes(label.tag)) {
-        console.log(
-          post.node.frontmatter.tags,
-          label.tag,
-          "Says a match, increase count to",
-          count + 1
-        )
         count++
-      } else {
-        console.log(
-          post.node.frontmatter.tags,
-          label.tag,
-          "Says no match, count remains at",
-          count
-        )
       }
     })
     return [label.tag, count]
   })
-  console.table(labelCount)
 
   const categories = labelCount.filter(label => {
     return label[1] > 0
