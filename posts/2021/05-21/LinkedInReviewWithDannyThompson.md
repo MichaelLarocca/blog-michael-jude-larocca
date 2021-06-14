@@ -5,6 +5,7 @@ tags:
     "scrimba",
     "recruitment",
     "review",
+    "linkedin",
   ]
 published: true
 date: "2021-05-31"
