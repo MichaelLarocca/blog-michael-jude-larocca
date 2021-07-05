@@ -125,7 +125,7 @@ Through a screen reader, it is now possible to navigate a web page through its e
 
 HTML Elements have implicit roles, which means that the browser knows what the role and purpose are.
 
-Utilizing semantic HTML Elements enables screenreaders to inform users what they are navigating through, such as the `<header>`, a `<section>`, the `<footer>`, and more.
+Utilizing semantic HTML elements enables screen readers to inform users what they are navigating through, such as the `<header>`, a `<section>`, the `<footer>`, and more.
 
 ---
 
@@ -279,7 +279,7 @@ She encourages us to reach out to the welcoming community of accessibility devel
 ---
 ### Key Notes
 
-* Incorporate **accessibility**" into your workflow
+* Incorporate **accessibility** into your workflow
 * Use semantic HTML tags
 * Utilize ARIA in your HTML
 * Be mindful of your fonts
