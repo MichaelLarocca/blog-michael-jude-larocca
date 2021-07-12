@@ -86,7 +86,7 @@ Campfire Mode enhances your learning experience with the addition of beautiful a
 
 Devin explains that the addition of the music is to help the learner's mindset and ease the challenges of learning how to code.
 
-With Campfire Mode enabled, as you type, you are treated with gentle melodically picked notes that form onto an entire song as you code. 
+With Campfire Mode enabled, as you type, you are treated with gentle melodically picked notes that form into an entire song as you code. 
 
 When you submit a passing challenge, a victory chord is struck! When you submit a failing challenge, a palm-muted chord is struck, which clearly indicates to musicians and non-musicians alike that they did not pass the challenge in a gentle manner.
 
@@ -110,7 +110,7 @@ They saved the best for last! When you successfully claim a hard-earned certific
 
 ### Chapter - The Self-Hosted Open Source Event Management System for Non-profits
 
-Free Code Camp has been working on "**Chapter**" – a free self-hosted open-source alternative to Facebook Groups and Meetup.com.
+Free Code Camp has been working on "**Chapter**" a free self-hosted open-source alternative to Facebook Groups and Meetup.com.
 
 Soon, other non-profits will also have the ability to host their instance of this event management tool on their servers.
 
