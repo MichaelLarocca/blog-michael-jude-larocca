@@ -116,5 +116,12 @@ module.exports = {
       size: 20,
       color: "",
     },
+    {
+      tag: "coupon",
+      tech: "$ Coupon! $",
+      name: "",
+      size: 20,
+      color: "",
+    },
   ],
 }
