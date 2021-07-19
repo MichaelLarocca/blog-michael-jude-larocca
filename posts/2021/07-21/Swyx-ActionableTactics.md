@@ -82,7 +82,7 @@ Learning in public is when we share our progress by posting our work on social m
 
 ---
 
-*Following these guidelines will result in employers seeking us out instead of reaching out to them.*
+*Following these guidelines will result in employers seeking us out instead of us reaching out to them.*
 
 ---
 
