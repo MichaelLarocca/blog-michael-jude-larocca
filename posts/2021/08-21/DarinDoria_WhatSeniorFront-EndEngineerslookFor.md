@@ -43,7 +43,7 @@ When an employer is hiring an intern, there is an expectation that there's more 
 * Have less experience
 * Will know core principles
 
-Darian tells us that interns need a lot of support and resources from one or multiple team members to help "**bring them up to speed**."
+Darin tells us that interns need a lot of support and resources from one or multiple team members to help "**bring them up to speed**."
 
 ---
 
@@ -65,7 +65,7 @@ There is still an expectation that team members will have to mentor junior devel
 
 For students, an **internship** provides a flexible schedule and an opportunity to see what awaits them in joining the workforce.
 
-**Darian informs us that internships are not just for students.**
+**Darin informs us that internships are not just for students.**
 
 Taking a job as an intern can provide a great learning experience for you. In addition, you can add the intern work experience to your resume.
 
@@ -77,7 +77,7 @@ Darin tells us that Bootcamp graduates and self-taught developers will most like
 
 ---
 
-##### *Darian got his start in tech as an intern, and he created this YouTube video sharing his experience.*
+##### *Darin got his start in tech as an intern, and he created this YouTube video sharing his experience.*
 
 <iframe width="900" height="506" src="https://www.youtube.com/embed/RP60B2G5FkE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -117,7 +117,7 @@ Communication skills, on the other hand, take effort and time to develop.
 
 ### Learn to learn
 
-Darian explains that you will reach a point where you have learned everything you need to complete your daily tech job duties.
+Darin explains that you will reach a point where you have learned everything you need to complete your daily tech job duties.
 
 In the fast-changing and evolving environment of tech, we must **learn how to learn** so we can quickly get up to speed with what's current.
 
@@ -167,7 +167,7 @@ At what point does a junior developer turn into a senior developer?
 
 Darin explains that once you pass the two-year mark, you are no longer a junior developer.
 
-Depending on the environment, Darian tells us, some developers will gain experience more quickly. Developers working in a start-up will most likely "**wear many hats**" and gain experience exponentially as they fulfill the jobs of different posts. Whereas developers that work in a large corporation will be assigned to one task, resulting in a slower growth experience.
+Depending on the environment, Darin tells us, some developers will gain experience more quickly. Developers working in a start-up will most likely "**wear many hats**" and gain experience exponentially as they fulfill the jobs of different posts. Whereas developers that work in a large corporation will be assigned to one task, resulting in a slower growth experience.
 
 **In either the start-up or large corporate environment, two years of work experience is a good benchmark to judge when junior developers transition into senior developers.**
 
