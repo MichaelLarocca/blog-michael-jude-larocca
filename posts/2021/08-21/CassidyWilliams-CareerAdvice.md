@@ -181,7 +181,7 @@ In Cassidy's own words, ***"I have had some pretty bad experiences, my sister ha
 
 ### Book recommendation
 
-Cassidy believes that networking plays a big part in employment opportunities and recommends read: [Build Your Dream Network: Forging Powerful Relationships in a Hyper-Connected World](https://www.amazon.com/Build-Your-Dream-Network-Hyper-Connected/dp/0143111493/ref=sr_1_1?dchild=1&keywords=Build+Your+Dream+Network+by+J.+Kelly+Hoey&qid=1628702060&sr=8-1)
+Cassidy believes that networking plays a big part in employment opportunities and recommends read: [Build Your Dream Network: Forging Powerful Relationships in a Hyper-Connected World](https://amzn.to/3CU4PCD)
 
 ---
 
