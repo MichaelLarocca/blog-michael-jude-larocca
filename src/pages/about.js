@@ -46,6 +46,8 @@ const AboutPage = props => {
             <p>Hello, I'm Michael. Like many people, I am an aspiring self-taught web developer.</p>
             <p>My goal for this blog is to document and share the progress of my self-taught coding journey. </p>
             <br />
+            <p><h6><strong>Affiliate Disclaimer: </strong>Some of the links included in my articles may be affiliate links to products that I recommend, which may generate a sales commission at no additional cost to you.</h6>
+            </p>
           </div>
         </div>
       </div>
