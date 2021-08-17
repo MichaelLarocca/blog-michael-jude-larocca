@@ -193,7 +193,7 @@ Then we realize that there is a lot more to learn, and we may become overwhelmed
 
 ### Recommended book
 
-**[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/ref=sr_1_3?crid=UC8YRP68WKRW&dchild=1&keywords=atomic+habits&qid=1628269552&s=books&sprefix=Atomic+Habits%2Caps%2C162&sr=1-3)**
+**[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://amzn.to/3jZNqQl)**
 
 **Author: James Clear**
 
@@ -240,9 +240,9 @@ This invaluable Podcast discusses tech industry topics from the perspective of a
 
 Erik is known in the tech industry as being the "**Vue Guru**"! In addition to the Vue content taught on his YouTube channel, he also wrote books on the subject!
 
-* 🔗 [Vue.js w akcji - Erik Hanchett, Benjamin Listwon [KSIÄĹťKA]](https://www.amazon.com/gp/product/8328357348/ref=dbs_a_def_rwt_bibl_vppi_i2)
-* 🔗 [Vue.js in Action ](https://www.amazon.com/gp/product/B0977ZV4KL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
-* 🔗 [Ember.js Cookbook](https://www.amazon.com/gp/product/B01A14X6JG/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
+* 🔗 [Vue.js w akcji - Erik Hanchett, Benjamin Listwon [KSIÄĹťKA]](https://amzn.to/3m6L7Ob)
+* 🔗 [Vue.js in Action ](https://amzn.to/3xTAWhW)
+* 🔗 [Ember.js Cookbook](https://amzn.to/3xNkmR7)
 
 ---
 
