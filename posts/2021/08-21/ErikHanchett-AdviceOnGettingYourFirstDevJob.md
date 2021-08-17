@@ -240,9 +240,9 @@ This invaluable Podcast discusses tech industry topics from the perspective of a
 
 Erik is known in the tech industry as being the "**Vue Guru**"! In addition to the Vue content taught on his YouTube channel, he also wrote books on the subject!
 
-* 🔗 [Vue.js w akcji - Erik Hanchett, Benjamin Listwon [KSIÄĹťKA]](https://www.amazon.com/gp/product/8328357348/ref=dbs_a_def_rwt_bibl_vppi_i2)
-* 🔗 [Vue.js in Action ](https://www.amazon.com/gp/product/B0977ZV4KL/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i0)
-* 🔗 [Ember.js Cookbook](https://www.amazon.com/gp/product/B01A14X6JG/ref=dbs_a_def_rwt_hsch_vapi_tkin_p1_i1)
+* 🔗 [Vue.js w akcji - Erik Hanchett, Benjamin Listwon [KSIÄĹťKA]](https://amzn.to/3m6L7Ob)
+* 🔗 [Vue.js in Action ](https://amzn.to/3xTAWhW)
+* 🔗 [Ember.js Cookbook](https://amzn.to/3xNkmR7)
 
 ---
 
