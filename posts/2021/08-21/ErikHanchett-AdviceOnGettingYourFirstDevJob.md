@@ -193,7 +193,7 @@ Then we realize that there is a lot more to learn, and we may become overwhelmed
 
 ### Recommended book
 
-**[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.amazon.com/Atomic-Habits-James-Clear-audiobook/dp/B07RFSSYBH/ref=sr_1_3?crid=UC8YRP68WKRW&dchild=1&keywords=atomic+habits&qid=1628269552&s=books&sprefix=Atomic+Habits%2Caps%2C162&sr=1-3)**
+**[Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://amzn.to/3jZNqQl)**
 
 **Author: James Clear**
 
