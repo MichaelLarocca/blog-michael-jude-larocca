@@ -93,6 +93,10 @@ Although I never owned a Commodore 64, a few of my friends did, and I have fond 
 
 ### Power Glove
 
+![PowerGlove](img/08-23-21/PowerGlove.png)
+
+---
+
 In episode one of "**The Boja**," Jon Frok dramatically puts a **Power Glove** in preparation for his UI Design training.
 
 When the Power Glove was released, even though it was cumbersome in practical application, it was really cool and highly sought-after by X Generation kids, such as myself!
@@ -231,6 +235,10 @@ Garry informs us, ***"I want everyone to know because sometimes changing a chann
 ---
 
 ### Gary's DesignCourse relaunch
+
+![DesignCourse](img/08-23-21/DesignCourse.png)
+
+---
 
 **Gary is relaunching his design course!**
 
