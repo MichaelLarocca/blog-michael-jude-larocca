@@ -1,5 +1,5 @@
 ---
-title: "The importance of learning in public"
+title: "The Importance of Learning in Public"
 tags:
   [
     "recruitment",
