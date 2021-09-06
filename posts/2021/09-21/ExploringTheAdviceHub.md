@@ -13,7 +13,7 @@ date: "2021-09-06"
 
 ---
 
-![AdviceHub](img/09-06-21/AdviceHub.jpg)
+![AdviceHub](img/09-06-21/AdviceHub-new.jpg)
 
 ### [The Advice Hub](https://advicehub.tk/)
 
@@ -55,7 +55,7 @@ Ayodele is currently pursuing a diploma in Computer Science at the Federal Polyt
 
 The Advice Hub is a new dedicated platform created by Ayodele Samuel Adebayo for developers to exchange valuable advice with each other in one place.
 
-![AdviceHub](img/09-06-21/AdviceHub.jpg)
+![AdviceHub](img/09-06-21/AdviceHub-new.jpg)
 
 **[INTRODUCING The Advice Hub: A Centralized Advice Center for Developers](https://unclebigbay.com/introducing-the-advice-hub)**
 
