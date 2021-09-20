@@ -117,6 +117,20 @@ module.exports = {
       color: "",
     },
     {
+      tag: "freelance",
+      tech: "Freelance",
+      name: "",
+      size: 20,
+      color: "",
+    },
+    {
+      tag: "networking",
+      tech: "Networking",
+      name: "",
+      size: 20,
+      color: "",
+    },
+    {
       tag: "coupon",
       tech: "$ Coupon! $",
       name: "",
