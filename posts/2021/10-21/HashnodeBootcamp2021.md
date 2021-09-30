@@ -170,9 +170,9 @@ Documenting and sharing my progress through blogging will provide a resource for
 
 Although I am impatient for blogging to bring monetary opportunities, I must acknowledge that it is paying off in other aspects.
 
-In just ten months of consistent weekly blogging, I've made connections with tech industry influencers on LinkedIn and Twitter, had my articles featured on YouTube Livestreams, and was invited to become a Scrimba author and republish my articles under their Scrimba's name.
+In just ten months of consistent weekly blogging, I've made connections with tech industry influencers on LinkedIn and Twitter, had my articles featured on YouTube Livestreams, and was invited to become a Scrimba author and republish my articles under Scrimba's name.
 
-In time, when my programming skills increase and I meet the requirements of jobs that I apply for, I believe my blog will give me the competitive advantage I need to secure it!
+In time, when my programming skills increase and I meet the requirements of jobs that I apply for, I believe my blog will give me the competitive advantage I need to secure employment opportunities!
 
 ---
 
