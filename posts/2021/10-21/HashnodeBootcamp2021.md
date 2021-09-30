@@ -73,7 +73,7 @@ I managed to create a blog using a Gatsby starter blog, along with Netlify and G
 
 What motivates me to keep going? Well, it's all the monetary opportunities, passive income, and celebrity status that my blog creates for me, of course!
 
-**Nine months of consistent weekly blogging:**
+**Ten months of consistent weekly blogging:**
 
 * Monetary opportunities: ZERO
 * Passive income: $0.00
@@ -83,7 +83,7 @@ Ok. So maybe my initial reasons for starting to blog were a little ambitious.
 
 ---
 
-**What Nine months of consistent weekly blogging did do for me**
+**What ten months of consistent weekly blogging did do for me**
 
 What consistent weekly blogging did do for me is put me on the "**tech community map**!"
 
@@ -119,7 +119,7 @@ These industry influencers and fellow bloggers shared my tweets advertising seve
 
 ---
 
-**What Nine months of consistent weekly blogging also did for me**
+**What ten months of consistent weekly blogging also did for me**
 
 As a direct result of writing blog articles, I now have contacts who work at:
 
@@ -170,7 +170,7 @@ Documenting and sharing my progress through blogging will provide a resource for
 
 Although I am impatient for blogging to bring monetary opportunities, I must acknowledge that it is paying off in other aspects.
 
-In just nine months of consistent weekly blogging, I've made connections with tech industry influencers on LinkedIn and Twitter, had my articles featured on YouTube Livestreams, and was invited to become a Scrimba author and republish my articles under their Scrimba's name.
+In just ten months of consistent weekly blogging, I've made connections with tech industry influencers on LinkedIn and Twitter, had my articles featured on YouTube Livestreams, and was invited to become a Scrimba author and republish my articles under their Scrimba's name.
 
 In time, when my programming skills increase and I meet the requirements of jobs that I apply for, I believe my blog will give me the competitive advantage I need to secure it!
 
