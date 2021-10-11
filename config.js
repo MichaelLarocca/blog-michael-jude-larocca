@@ -131,6 +131,20 @@ module.exports = {
       color: "",
     },
     {
+      tag: "opensource",
+      tech: "OpenSource",
+      name: "",
+      size: 20,
+      color: "",
+    },
+    {
+      tag: "hacktoberfest",
+      tech: "Hacktoberfest",
+      name: "",
+      size: 20,
+      color: "",
+    },
+    {
       tag: "coupon",
       tech: "$ Coupon! $",
       name: "",
