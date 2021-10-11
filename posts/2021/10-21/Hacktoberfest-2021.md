@@ -239,7 +239,7 @@ I reached out to [Leanne](https://www.youtube.com/c/CodewithLeanne) and expresse
 
 She gave me a choice of two issues; I chose to add icons to the links on the footer pages.
 
-It sounded like an easy contribution; all I had to do was utilize font awsome and adjust the icons next to the links. However, there is no icon for the Scrimba logo!
+It sounded like an easy contribution; all I had to do was utilize [font awesome](https://fontawesome.com/) and adjust the icons next to the links. However, there is no icon for the Scrimba logo!
 
 No worries. I already came up with a solution, and I will cover it in an upcoming article in this Hacktoberfest series!
 
