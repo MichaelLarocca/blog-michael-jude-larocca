@@ -108,7 +108,7 @@ To participate in Hacktoberfest, you need to register on the [hacktoberfest webs
 
 **Step 2**
 
-After registering, there is an **about you**" form to fill out, and it also includes information on Hacktoberfest's rules and values.
+After registering, there is an "**about you**" form to fill out, and it also includes information on Hacktoberfest's rules and values.
 
 ---
 
