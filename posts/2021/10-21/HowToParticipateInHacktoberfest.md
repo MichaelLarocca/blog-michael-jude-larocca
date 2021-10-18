@@ -147,7 +147,7 @@ I will now provide step-by-step instructions to contribute to Scrimba's "**weekl
 
 To complete step 4, we first must "**fork**" the repository.
 
-To "**fork**" the repository, while signed in to GitHub, go to the author's repository and click the fork button located in the top right corner.
+To "**fork**" the repository, while signed into GitHub, go to the author's repository and click the fork button located in the top right corner.
 
 ---
 
@@ -475,7 +475,7 @@ $git config --global user.email "your email"
 $git config --global user.name "Your name"
 ```
 
-**Since I'm stubborn and like to control everything, I did not set my user name and e-mail globally and often forgot to add them when working on new projects.**
+**Since I'm stubborn and like to control everything, I did not set my user name and e-mail globally and often forget to add them when working on new projects.**
 
 ```
 $git config user.email "your email" 
