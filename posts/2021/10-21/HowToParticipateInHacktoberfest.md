@@ -373,7 +373,7 @@ This method is allowed. However, you must be assigned as a collaborator to the c
 
 ---
 
-![--set-upstream_origin](img/10-18-21/troubleshooting/--set-upstream_origin.png)
+![403 error](img/10-18-21/troubleshooting/403.png)
 
 ---
 
