@@ -11,7 +11,7 @@ published: true
 date: "2021-10-25"
 ---
 
-## This article, I document coding my first Hacktoberfest contribution, including forking, cloning, creating a branch, and submitting a pull request; but will I succeed in making a quality contribution?
+### This article, I document coding my first Hacktoberfest contribution, including forking, cloning, creating a branch, and submitting a pull request; but will I succeed in making a quality contribution?
 
 ---
 
