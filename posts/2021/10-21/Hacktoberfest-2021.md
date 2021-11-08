@@ -4,7 +4,8 @@ tags:
   [
     "hacktoberfest",
     "opensource",
-    "review"
+    "review",
+    "github"
   ]
 published: true
 date: "2021-10-11"

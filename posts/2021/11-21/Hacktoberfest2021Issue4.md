@@ -5,7 +5,8 @@ tags:
     "hacktoberfest",
     "opensource",
     "tutorial",
-    "scrimba"
+    "scrimba",
+    "github"
   ]
 published: true
 date: "2021-11-01"
