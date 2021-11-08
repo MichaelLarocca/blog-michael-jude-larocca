@@ -57,7 +57,7 @@ To give us examples of what a customized GitHub profile can look like, Eddie pro
 
 ### To customize your GitHub Profile
 
-Eddie's course provides instructions on creating a GitHub account if you have not already set one up. As I already have a GitHub account, I will skip to first step of customizing it.
+Eddie's course provides instructions on creating a GitHub account if you have not already set one up. As I already have a GitHub account, I will skip to first step of creating it.
 
 **To customize your GitHub Profile, you first need to create a new repository. The newly created repository needs to be the same name as your GitHub username.**
 
@@ -87,7 +87,7 @@ The first step is to create a new repository in our GitHub account by clicking t
 
 **Special message instructions**
 
-* Make sure Public if selected
+* Make sure Public is selected
 * Click the Add a README file
 
 After naming the repository and following the special message instructions, click "**Create repository**."
