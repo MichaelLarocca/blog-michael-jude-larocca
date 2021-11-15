@@ -228,7 +228,7 @@ Following the directions from the [simple-icons](https://github.com/simple-icons
 **Directions from the simple-icons repository,** *"Icons can be served from a CDN such as JSDelivr or Unpkg. Simply use the simple-icons npm package and specify a version in the URL like the following:"*
 
 ```
-<!-- JSDelivr  -->
+<!-- JSDelivr -->
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v5/icons/[ICON SLUG].svg" />
 
 <!-- Unpkg -->
