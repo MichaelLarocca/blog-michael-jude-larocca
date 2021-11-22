@@ -1,5 +1,5 @@
 ---
-title: "Kaci Ahmed: Web3 - How to Get Started as a Beginner"
+title: "Kacie Ahmed: Web3 - How to Get Started as a Beginner"
 tags:
   [
     "web3",
@@ -12,15 +12,15 @@ published: true
 date: "2021-11-22"
 ---
 
-### In this article, Tech Twitter celebrity Kaci Ahmed teaches us how to get started in Web3 development by providing the libraries and frameworks to use, practice projects, tutorials to watch, and more!
+### In this article, Tech Twitter celebrity Kacie Ahmed teaches us how to get started in Web3 development by providing the libraries and frameworks to use, practice projects, tutorials to watch, and more!
 
 ---
 
-![Kacie Ahmed](img\11-22-21\TXG-TN-Kacie.png)
+![Kacie Ahmed](img\11-22-21\TXG-TN-Kacie-02.png)
 
 ---
 
-### About Kaci Ahmed
+### About Kacie Ahmed
 
 Kacie is a freelance developer with experience in advanced technologies, such as Web3, Solidity, smart contracts, and Decentralized settlement platforms on Blockchain.
 
@@ -78,7 +78,7 @@ Kacie believes cryptocurrencies and the underlying blockchain technology will ch
 
 ---
 
-### Kaci's actionable steps to learn Web3
+### Kacie's actionable steps to learn Web3
 
 Kacie first advises to "**know what you are getting yourself into**" before worrying about languages and courses. He then provides an informative YouTube video that put him on the right path: [How to become a blockchain developer in 2021](https://www.youtube.com/watch?v=OwSl2xwl2-w)
 
@@ -172,11 +172,11 @@ Building a Full Stack NFT Marketplace on Ethereum with Polygon.
 
 ### Join a development group
 
-Once you have completed a few of the projects listed above, Kaci advises us to create Web3 projects on our own.
+Once you have completed a few of the projects listed above, Kacie advises us to create Web3 projects on our own.
 
-Kaci knows from experience it can be a difficult task to create Web3 projects on our own without guidance, so he recommends we join a Web3 development group.
+Kacie knows from experience it can be a difficult task to create Web3 projects on our own without guidance, so he recommends we join a Web3 development group.
 
-Kaci provides us with a really good Web3 development [Discord](https://discord.com/) group called [BDU - Block Devs United](https://t.co/LwuEV6WIHB).
+Kacie provides us with a really good Web3 development [Discord](https://discord.com/) group called [BDU - Block Devs United](https://t.co/LwuEV6WIHB).
 
 ---
 
@@ -277,7 +277,7 @@ Kacie tells us that if we follow the rules of conduct he provided, we will most 
 
 **Ah yes, "building in public/having an online presence" seems to be a recurring phenomenon that consistently provides developers with monetary opportunities.**
 
-So it is no surprise to me to learn that Kaci credits his "**Building in public**" to provide monetary opportunities for him.
+So it is no surprise to me to learn that Kacie credits his "**Building in public**" to provide monetary opportunities for him.
 
 **The topic of building in public and having an online presence is vast, and I have written several articles on the topic, including:**
 
@@ -305,9 +305,9 @@ So it is no surprise to me to learn that Kaci credits his "**Building in public*
 
 ---
 
-### Kaci's upcoming events
+### Kacie's upcoming events
 
-***Would you like to learn more about Kaci and Web3 from him? Be sure to check out his upcoming events!***
+***Would you like to learn more about Kacie and Web3 from him? Be sure to check out his upcoming events!***
 
 **Nov 30, 2021:** [Francesco Ciulla: Blockchain and web3 | Kacie Ahmed](https://www.youtube.com/watch?v=nMimDaiOTv4)
 
@@ -322,7 +322,7 @@ So it is no surprise to me to learn that Kaci credits his "**Building in public*
 ---
 ---
 
-### Kaci's Links
+### Kacie's Links
 
 * 🔗[Twitter](https://twitter.com/Haezurath)
 * 🔗[GitHub](https://www.linkedin.com/in/kacie-ahmed-2a8b5b171/)
