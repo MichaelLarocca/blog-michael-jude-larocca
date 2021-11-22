@@ -325,7 +325,7 @@ So it is no surprise to me to learn that Kacie credits his "**Building in public
 ### Kacie's Links
 
 * 🔗[Twitter](https://twitter.com/Haezurath)
-* 🔗[GitHub](https://www.linkedin.com/in/kacie-ahmed-2a8b5b171/)
+* 🔗[LinkedIn](https://www.linkedin.com/in/kacie-ahmed-2a8b5b171/)
 
 ---
 
