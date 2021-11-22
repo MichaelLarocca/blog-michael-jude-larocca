@@ -16,7 +16,7 @@ date: "2021-11-22"
 
 ---
 
-![Kacie Ahmed](img\11-22-21\TXG-TN-Kacie-02.png)
+![Kacie Ahmed](img/11-22-21/TXG-TN-Kacie-02.png)
 
 ---
 
@@ -30,7 +30,7 @@ Kacie believes cryptocurrencies and the underlying blockchain technology will ch
 
 ---
 
-![Web3](img\11-22-21\Web3-Logo.png)
+![Web3](img/11-22-21/Web3-Logo.png)
 
 ---
 
@@ -109,7 +109,7 @@ Solidity is used to make [smart contracts](https://en.wikipedia.org/wiki/Smart_c
 
 ---
 
-![Projects](img\11-22-21\Projects.png)
+![Projects](img/11-22-21/Projects.png)
 
 ---
 
@@ -166,7 +166,7 @@ Building a Full Stack NFT Marketplace on Ethereum with Polygon.
 
 ---
 
-![Discord](img\11-22-21\Discord.png)
+![Discord](img/11-22-21/Discord.png)
 
 ---
 
@@ -198,7 +198,7 @@ When you reach a comfortable level working with Web3 and are ready to engage wit
 
 ---
 
-![ethereum](img\11-22-21\ethereum-logo.png)
+![ethereum](img/11-22-21/ethereum-logo.png)
 
 ##### *[Ethereum](https://en.wikipedia.org/wiki/Ethereum) is a decentralized, open-source blockchain with smart contract functionality. Ether (ETH or Ξ) is the native cryptocurrency of the platform.*
 
@@ -224,7 +224,7 @@ When you reach a comfortable level working with Web3 and are ready to engage wit
 
 ---
 
-![Twitter](img\11-22-21\Twitter.png)
+![Twitter](img/11-22-21/Twitter.png)
 
 ---
 
@@ -232,7 +232,7 @@ When you reach a comfortable level working with Web3 and are ready to engage wit
 
 #### Twitter Spaces
 
-Kacie, as a Web3 developer, receives multiple paid offers weekly! He tells us that most of the pain offers are sourced from Twitter Spaces.
+Kacie, as a Web3 developer, receives multiple paid offers weekly! He tells us that most of the paid offers are sourced from Twitter Spaces.
 
 In Twitter Spaces, Kacie has networked with celebrities; recently, [Elon Musk](https://mobile.twitter.com/elonmusk) attended one!
 
