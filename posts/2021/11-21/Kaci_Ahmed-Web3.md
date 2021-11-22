@@ -99,7 +99,7 @@ Solidity is used to make [smart contracts](https://en.wikipedia.org/wiki/Smart_c
 
 ### Libraries & Frameworks
 
-**Here is Kace's list of frameworks you'll need to download and why:**
+**Here is Kacie's list of frameworks you'll need to download and why:**
 
 * Node.js/NPM - Runs JavaScript
 * Hardhat - Useful framework
