@@ -422,10 +422,10 @@ for(let i = 0; i< items.length; i++) {
 A FREE full-year subscription to Scrimba!
 
 * **Day 1: [@betocabadev](https://twitter.com/betocabadev)**
-* **Day 2: [@zero_](https://twitter.com/zero_)**
-* **Day 3: TBA**
-* **Day 4: TBA**
-* **Day 5: TBA**
+* **Day 2: @zero_ (Discord)**
+* **Day 3: @Sid (Discord)**
+* **Day 4: [@wonderbarstudio](https://twitter.com/wonderbarstudio)**
+* **Day 5: @Eryk (Discord)**
 
 ---
 
