@@ -91,6 +91,45 @@ Scrimba is now working on implementing their Scrim technology directly into Disc
 
 ---
 
+### Community Highlights
+
+In this section of the article, I'm showcasing the work of fellow JavaScriptmas coders from the community!
+
+---
+
+On Twitter's TOP #JavaScriptmas, you will find **Debbie Dann** (@debbie_digital)!
+
+![Debbie](img/12-13-21/Debbie.PNG)
+
+In addition to completing and creating extraordinary JavaScriptmas challenges, Debbie is documenting her [100 days of code](https://www.100daysofcode.com/).
+
+---
+
+Fellow Scrimba classmate **Illa Gold** (@Goldilla_Codes) followed the stretch goals of the "**Play a Christmas Song**" challenge by creating a radio with volume control!
+
+![Illa Gold](img/12-13-21/Illa-Gold.JPG)
+
+**Link to Illa Gold's radio:** [scrimba.com/scrim](https://scrimba.com/scrim/co850463a8cb904483e593a0a)
+
+---
+
+Using the stretch goals, **Muhammad Tahir** (@tahir_k) created a fantastic project with challenge 9.
+
+Muhammad created a drop-down menu to choose which decorations to add and an "add button" that allows the user to select between adding the decoration to the left or the right of the initial home decoration. Well done!
+
+![Muhammad](img/12-13-21/Muhammad.PNG)
+
+**Link to Muhammad Tahir scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co3204a449c041961eea448e4)
+
+---
+
+*Be sure to check out the daily featured code submissions on Scrimba's [Weekly Web Dev Challenge website](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)!*
+
+---
+
+Thank you, [Leanne](https://www.youtube.com/c/CodewithLeanne), for featuring my day seven solution!
+
+![JavaScriptmas Solutions of the Day](img/12-13-21/Leanne-Day7-pick.png)
 
 --- 
 
@@ -563,5 +602,53 @@ function deckTheHalls() {
     background-image: linear-gradient(to right, rgba(255,0,0,.7) , rgba(0,255,0,.7));
 }
 ```
+
+---
+
+*** HOLD ***
+
+---
+
+### JavaScriptmas Winners
+
+A FREE full-year subscription to Scrimba!
+
+* Day 6: TBA
+* Day 7: TBA
+* Day 8: TBA
+* Day 9: TBA
+* Day 10: TBA
+
+---
+
+**Be sure to check out my related articles!**
+
+* [Review: Scrimba's Weekly Web Dev Challenge](https://selftaughttxg.com/2021/01-21/ReviewScrimbaWebDevChallenge/)
+* [Scrimba: JavaScriptmas 2020](https://selftaughttxg.com/2020/12-20/Scrimba-JavaScriptmas_2020/)
+* [The Post-JavaScriptmas 2020 Post](https://selftaughttxg.com/2020/12-20/The_Post-JavaScriptmas_2020_Post/)
+
+---
+
+#### **Scrimba has once again impressed and inspired me! You can read my full [Scrimba review](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) on my 12/13/2020 post.**
+
+
+![Per Harald Borgen Quote](img/PerHaraldBorgen-Quote.png)
+
+#### *"That&#39;s one of the best Scrimba reviews I&#39;ve ever read, <a href="https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw">@MikeJudeLarocca</a>. Thank you! 🙏 "*
+###### &mdash; Per Harald Borgen, CEO of Scrimba <a href="https://twitter.com/perborgen/status/1338462544143540227?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote>
+
+--- 
+
+### Conclusion
+
+Scrimba's JavaScriptmas annual FREE event is a wonderful way to commit to coding daily and is a fun and festive event where all participants have an equal opportunity to win prizes, regardless of their skill level.
+
+During the JavaScriptmas event, Scrimba offers new students a 20% discount code through a link provided at the end of each day's coding challenge.
+
+By completing all 24 coding challenges, you will be awarded a certificate and an exclusive Discord badge, and since each submission acts as a raffle ticket, you will have 24 chances to win prizes!
+
+---
+
+###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!* 
 
 ---
