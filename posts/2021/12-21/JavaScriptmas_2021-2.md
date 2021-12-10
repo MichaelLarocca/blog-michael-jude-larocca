@@ -9,6 +9,7 @@ published: true
 date: "2021-12-13"
 ---
 
+#### In this article, the JavaScriptmas event continues! Scrimba announces a new course, a new Teacher, and a new Discord feature. I document my solutions and highlight fellow coders from the community!
 
 ---
 
@@ -16,7 +17,79 @@ date: "2021-12-13"
 
 ---
 
+### Town Hall announcements
 
+Scrimba, on their Discord channel, holds weekly meetings with the community on their Town Hall channel, previously titled Fire Chat.
+
+**During their last Town Hall, Scrimba made several big announcements:**
+
+* New Scrimba LinkedIn course 
+* A new Scrimba teacher ( in a trial stage )
+* Discord "Scrim" feature coming soon
+
+---
+
+### Upcoming new Scrimba course announced!
+
+Randall Kanna (@RandallKanna) will be teaching Scrimba's upcoming **LinkedIn course**!
+
+When released, the upcoming course will become part of [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend).
+
+The new course teaches us to optimize our LinkedIn profiles, giving us a better chance of being seen by hiring managers, recruiters, and more.
+
+The course will include a design template for students to customize their profile banners, which will make their profiles stand out from the crowd! 
+
+---
+
+### A new Scrimba teacher ( in a trial stage )
+
+During this week's Town Hall session on Scrimba's Discord channel, Per Harold Borgen announced that community member **Tom Chant** (@Tpchant) is a new teacher, currently in a trial stage. 
+
+Since Per likes to keep information transparent and available to the Scrimba community, though Tom is in a trial stage, Per decided to announce the news.
+
+---
+
+**About Tom Chant**
+
+Tom Chant is a front-end web developer from Exeter, Devon UK, specializing in ReactJS applications.
+
+Before becoming a web developer, he was an English teacher and has a master's degree in creative writing. Tom first started learning to code about 15 years ago.
+
+---
+
+Tom Chant is an active member of the Scrimba community. He attends Scrimba Livestreams, completes and submits [Scrimba's Weekly Web Dev Challenge](https://selftaughttxg.com/2021/01-21/ReviewScrimbaWebDevChallenge/), and has created [Scrimba screencasts](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/) to teach fellow students.
+
+Tom is currently working on new content for module 6 of [Scrimba's Frontend Developer Career Path](https://scrimba.com/learn/frontend).
+
+---
+
+***module 6:  69 lessons - 3 hours***
+
+***Next-level JavaScript***
+*"In this module, you will take your JavaScript skills to the next level, and learn about modern JS patterns. You will also build a cool game."*
+
+---
+
+**I featured Tom Chant in two of my previous articles:**
+
+* [How to create Scrimba screencasts and turn them into a Scrimba course](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/)
+* [Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)
+
+---
+
+### Discord Scrim feature
+
+With Scrimba's advanced "**Scrim**" technology, which allows their students to pause screencasts, edit the code, and then resume the screencast, It was no surprise to me to hear the Scrimba is once again "**pushing the envelope**" of technology. 
+
+Scrimba is now working on implementing their Scrim technology directly into Discord, which will help students better help each other. 
+
+---
+
+**Be sure to check out the full episode on [transistor.fm](https://share.transistor.fm/s/462e6eff)**
+
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/462e6eff"></iframe>
+
+---
 
 
 --- 
