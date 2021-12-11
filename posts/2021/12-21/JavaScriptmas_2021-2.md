@@ -605,6 +605,113 @@ function deckTheHalls() {
 
 ---
 
+
+### Challenge 10
+
+#### Festivity Loader
+
+**Task:** *Write a function to wire up the festivity loader to reflect how many days are remaining until Christmas!*
+
+---
+
+This challenge revolves around the [HTML `<meter>` Tag](https://www.w3schools.com/tags/tag_meter.asp).
+
+Solving the challenge requires us to update the "**value**" of the meter according to the current day of the month.
+
+As in the very first JavaScript challenge this year, we will once again work with the [JavaScript Date Object](https://www.w3schools.com/js/js_dates.asp).
+
+To solve the challenge, I wrote a function that sets the current day to a variable named "**day**" and then updated the meter value to the value of the "**day**" variable.
+
+```javascript
+function meterFestive() {
+    const date = new Date();
+    const day = date.getDate();
+    meter.value = day;
+}
+```
+
+**Now for the fun part, designing the HTML meter!**
+
+I have already decided to create a "**candy cane**" style meter. However, I was having difficulty changing the color of the meter itself.
+
+I went to a very resourceful website, css-tricks.com, and searched for [The HTML5 meter Element](https://css-tricks.com/html5-meter-element/).
+
+To my pleasant surprise, I found code that already had the stripe effect I was looking for. 
+
+The written code used a linear gradient to create the stripe effect on the background image, and thankfully, they used my favorite approach of using the [RGBA Value](https://www.w3schools.com/css/css_colors_rgb.asp).
+
+**Their code created a gray striped background as follows:**
+
+```css
+rgba(0, 0, 0, 0.1) 33%, 
+rgba(0, 0, 0, 0.1) 66%,
+```
+
+**So all I had to do to create the candy cane effect was set red to its highest value (255) on both lines of code.**
+
+```css
+rgba(255, 0, 0, 0.1) 33%, 
+rgba(255, 0, 0, 0.1) 66%,
+```
+
+Although the stripes were on the background, not the meter itself, since the meter color was green, it did not clash with the background, and it still provided the user with a clear indication of the current percentage of the loading meter.
+
+---
+
+***( Code from css-tricks.com, adjusted by me to create the red stripes )***
+
+```css
+meter::-webkit-meter-bar { 
+/* Let's animate this */ 
+animation: animate-stripes 5s linear infinite; 
+background-image: 
+linear-gradient( 
+135deg, 
+transparent, 
+transparent 33%, 
+rgba(255, 0, 0, 0.1) 33%, 
+rgba(255, 0, 0, 0.1) 66%, 
+transparent 66% 
+);
+background-size: 50px 25px; 
+} 
+
+@keyframes animate-stripes { 
+to { background-position: -50px 0; } 
+}
+```
+
+---
+
+**To style the page, I added:**
+
+* Text shadow
+* Transparent background
+* Background image (from pixabay.com)
+
+---
+
+![Challenge 10](img/12-13-21/Challenge10.png)
+
+---
+
+### Final code
+
+#### Challenge 10
+
+Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co6be476bbf1d964ffd055afb)
+
+```javascript
+function meterFestive() {
+    const date = new Date();
+    const day = date.getDate();
+    meter.value = day;
+}
+meterFestive();
+```
+
+---
+
 *** HOLD ***
 
 ---
