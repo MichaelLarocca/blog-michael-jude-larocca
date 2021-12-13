@@ -9,7 +9,7 @@ published: true
 date: "2021-12-13"
 ---
 
-#### In this article, the JavaScriptmas event continues! Scrimba announces a new course, a new Teacher, and a new Discord feature. I document my solutions and highlight fellow coders from the community!
+#### In this article, the JavaScriptmas event continues! Scrimba announces a new course, a new teacher, and a new Discord feature. I document my solutions and highlight fellow coders from the community!
 
 ---
 
@@ -43,7 +43,7 @@ The course will include a design template for students to customize their profil
 
 ### A new Scrimba teacher ( in a trial stage )
 
-During this week's Town Hall session on Scrimba's Discord channel, Per Harold Borgen announced that community member **Tom Chant** (@Tpchant) is a new teacher, currently in a trial stage. 
+During this week's Town Hall session on Scrimba's Discord channel, Per Harold Borgen announced that community member **Tom Chant** (@Tpchant) is a new teacher, currently in a trial stage.
 
 Since Per likes to keep information transparent and available to the Scrimba community, though Tom is in a trial stage, Per decided to announce the news.
 
@@ -79,13 +79,13 @@ Tom is currently working on new content for module 6 of [Scrimba's Frontend Deve
 
 ### Discord Scrim feature
 
-With Scrimba's advanced "**Scrim**" technology, which allows their students to pause screencasts, edit the code, and then resume the screencast, It was no surprise to me to hear the Scrimba is once again "**pushing the envelope**" of technology. 
+With Scrimba's advanced "**Scrim**" technology, which allows their students to pause screencasts, edit the code, and then resume the screencast, It was no surprise to me to hear the Scrimba is once again "**pushing the envelope**" of technology.
 
-Scrimba is now working on implementing their Scrim technology directly into Discord, which will help students better help each other. 
+Scrimba is now working on implementing their Scrim technology directly into Discord, which will help students better help each other.
 
 ---
 
-**Be sure to check out the full episode on [transistor.fm](https://share.transistor.fm/s/462e6eff)**
+***Be sure to check out the full episode on [transistor.fm](https://share.transistor.fm/s/462e6eff)***
 
 <iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/462e6eff"></iframe>
 
@@ -123,6 +123,22 @@ Muhammad created a drop-down menu to choose which decorations to add and an "add
 
 ---
 
+**Nour** (@nnourhamdyy) created an attractive guest list, which includes the ability to remove individual guests by clicking on the "x" next to their name.
+
+![Nour](img/12-13-21/Nour.png)
+
+**Link to Nour's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co9894c6992b6bcede5ddec6b)
+
+---
+
+**Joshua Cooper** (@jocoscript) created a theme changer that includes animated backgrounds! You can watch the snowfall, or you can watch the fireplace roar.
+
+![Joshua](img/12-13-21/Joshua.png)
+
+**Link to Joshua's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co9354b8b8195037d0e2995ed)
+
+---
+
 *Be sure to check out the daily featured code submissions on Scrimba's [Weekly Web Dev Challenge website](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)!*
 
 ---
@@ -131,7 +147,7 @@ Thank you, [Leanne](https://www.youtube.com/c/CodewithLeanne), for featuring my 
 
 ![JavaScriptmas Solutions of the Day](img/12-13-21/Leanne-Day7-pick.png)
 
---- 
+---
 
 ### Below are my coding solutions to the JavaScriptmas challenges 5 through 11!
 
@@ -712,7 +728,102 @@ meterFestive();
 
 ---
 
-*** HOLD ***
+### Challenge 11
+
+#### Christmas Carousel
+
+**Task:**
+
+1. Wire up the buttons to switch through the images in the imgs array.
+2. Make sure that the gallery works no matter how many images are added.
+3. Decide/implement what to do when you reach either end of the array - do nothing and disable buttons, loop back round to the other end, or something else?
+4. Remember to also update the alt tags.
+
+---
+
+Two things in life make me extremely dizzy, riding on carousels and writing carousels in JavaScript.
+
+I wrote the code to fulfill the four tasks required to pass the challenge with much trial and error.  
+
+The code is regurgitating, fitting for a carousel, but it's my code, and it works.
+
+---
+
+**To style the page, I added:**
+
+* Text shadow
+* Background image (from pixabay.com)
+
+---
+
+![Challenge 11](img/12-13-21/Challenge11.png)
+
+---
+
+### Final code
+
+#### Challenge 11
+
+Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co2ae432c849fa2c68b22a2b0)
+
+```javascript
+let imgNum = 0
+ 
+previous.classList.add("dis");
+ 
+next.addEventListener("click", ()=> {
+
+    if(imgNum >= 0 && imgNum <= imgs.length -2){
+    // if(imgNum >= 0 && imgNum <= 4){
+            // console.log(`imgNum: ${imgNum} ${imgs.length}`);
+        imgNum++;
+        img.src = imgs[imgNum].src;
+        img.alt = imgs[imgNum].alt;
+            console.log(`imgNum: ${imgNum}`);
+            
+        if(imgNum == 0) {
+            previous.classList.add("dis");
+            previous.disabled = true;        
+        } else {
+            previous.classList.remove("dis");
+            previous.disabled = false;  
+        } 
+        if(imgNum == imgs.length -1) {
+            next.classList.add("dis");
+            next.disabled = true;        
+        } else {
+            next.classList.remove("dis");
+            next.disabled = false;  
+        }                    
+    }
+})
+
+previous.addEventListener("click", ()=>{
+
+    // if(imgNum > 0 & imgNum <=5){
+    if(imgNum > 0 & imgNum <= imgs.length -1){    
+            console.log(`imgNum: ${imgNum} ${imgs.length}`);
+        imgNum--;
+        img.src = imgs[imgNum].src;
+        img.alt = imgs[imgNum].alt;
+            console.log(`imgNum: ${imgNum} ${imgs.length}`);   
+        if(imgNum == 0) {
+        previous.classList.add("dis");
+        previous.disabled = true;        
+        } else {
+        previous.classList.remove("dis");
+        previous.disabled = false;  
+        } 
+        if(imgNum == imgs.length -1) {
+            next.classList.add("dis");
+            next.disabled = true;   
+        } else {
+            next.classList.remove("dis");
+            next.disabled = false;  
+        }                 
+    }    
+})
+```
 
 ---
 
@@ -720,10 +831,10 @@ meterFestive();
 
 A FREE full-year subscription to Scrimba!
 
-* Day 6: TBA
-* Day 7: TBA
-* Day 8: TBA
-* Day 9: TBA
+* Day 6: Nacho Vasquez ( Discord )
+* Day 7: [@Vanshsh2701](https://twitter.com/Vanshsh2701)
+* Day 8: [@AmethystCodes](https://twitter.com/AmethystCodes)
+* Day 9: Eldocbrown ( Discord )
 * Day 10: TBA
 
 ---
@@ -738,13 +849,12 @@ A FREE full-year subscription to Scrimba!
 
 #### **Scrimba has once again impressed and inspired me! You can read my full [Scrimba review](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) on my 12/13/2020 post.**
 
-
 ![Per Harald Borgen Quote](img/PerHaraldBorgen-Quote.png)
 
 #### *"That&#39;s one of the best Scrimba reviews I&#39;ve ever read, <a href="https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw">@MikeJudeLarocca</a>. Thank you! 🙏 "*
 ###### &mdash; Per Harald Borgen, CEO of Scrimba <a href="https://twitter.com/perborgen/status/1338462544143540227?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote>
 
---- 
+---
 
 ### Conclusion
 
