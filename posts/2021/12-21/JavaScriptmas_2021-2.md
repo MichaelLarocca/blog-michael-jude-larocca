@@ -835,7 +835,7 @@ A FREE full-year subscription to Scrimba!
 * Day 7: [@Vanshsh2701](https://twitter.com/Vanshsh2701)
 * Day 8: [@AmethystCodes](https://twitter.com/AmethystCodes)
 * Day 9: Eldocbrown ( Discord )
-* Day 10: TBA
+* Day 10: [@Mare_Duci](https://twitter.com/Mare_Duci)
 
 ---
 
