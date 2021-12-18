@@ -423,3 +423,47 @@ function sort() {
 ```
 
 ---
+
+### JavaScriptmas Winners
+
+A FREE full-year subscription to Scrimba!
+
+* Day 11: [@claircedesign](https://twitter.com/claircedesign)
+* Day 12: @marleigh (Discord)
+* Day 13: @Emmanuel (Discord)
+* Day 14: @Mik (Discord)
+* Day 15: [@dsabalete](https://twitter.com/dsabalete)
+* Day 16: [@Arbaaz_77](https://twitter.com/Arbaaz_77)
+
+---
+
+**Be sure to check out my related articles!**
+
+* [Review: Scrimba's Weekly Web Dev Challenge](https://selftaughttxg.com/2021/01-21/ReviewScrimbaWebDevChallenge/)
+* [Scrimba: JavaScriptmas 2020](https://selftaughttxg.com/2020/12-20/Scrimba-JavaScriptmas_2020/)
+* [The Post-JavaScriptmas 2020 Post](https://selftaughttxg.com/2020/12-20/The_Post-JavaScriptmas_2020_Post/)
+
+---
+
+#### **Scrimba has once again impressed and inspired me! You can read my full [Scrimba review](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) on my 12/13/2020 post.**
+
+![Per Harald Borgen Quote](img/PerHaraldBorgen-Quote.png)
+
+#### *"That&#39;s one of the best Scrimba reviews I&#39;ve ever read, <a href="https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw">@MikeJudeLarocca</a>. Thank you! 🙏 "*
+###### &mdash; Per Harald Borgen, CEO of Scrimba <a href="https://twitter.com/perborgen/status/1338462544143540227?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote>
+
+---
+
+### Conclusion
+
+Scrimba's JavaScriptmas annual FREE event is a wonderful way to commit to coding daily and is a fun and festive event where all participants have an equal opportunity to win prizes, regardless of their skill level.
+
+During the JavaScriptmas event, Scrimba offers new students a 20% discount code through a link provided at the end of each day's coding challenge.
+
+By completing all 24 coding challenges, you will be awarded a certificate and an exclusive Discord badge, and since each submission acts as a raffle ticket, you will have 24 chances to win prizes!
+
+---
+
+###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!* 
+
+---
