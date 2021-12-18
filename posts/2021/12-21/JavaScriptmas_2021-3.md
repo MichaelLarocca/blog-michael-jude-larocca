@@ -424,6 +424,76 @@ function sort() {
 
 ---
 
+### Challenge 18
+
+#### Custom Shopping Checkboxes
+
+**Task:** *Write the CSS to create custom checkboxes for our shopping list.*
+
+---
+
+**To style the page, I added:**
+
+* Background image (from pixabay.com)
+* Google Font
+
+---
+
+![Challenge 18](img/12-20-21/Challenge18.png)
+
+---
+
+### Final code
+
+#### Challenge 18
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co00347cf90b815d5e251d8b5)**
+
+```css
+[type="checkbox"] {
+    opacity: 0;
+}
+
+[type="checkbox"] + label {
+    position: relative;
+    padding-left: 35px;
+    cursor: pointer;
+    display: inline-block;
+    color: goldenrod;
+    line-height: 30px;
+}
+
+[type="checkbox"] + label::before {
+    content: "";
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 30px;
+    height: 25px;
+    outline: 3px dotted darkred;
+}
+
+[type="checkbox"]:checked + label::after {
+    content: "⭐";
+    left: 0;
+    top: 0;
+    position: absolute;
+    width: 30px;
+    height: 25px;
+    outline: 2px dotted green;
+}
+
+input[type=checkbox]:checked + label.strikethrough span::before {
+    content: "🎄";
+}
+
+input[type=checkbox]:checked + label.strikethrough span::after {
+    content: "🎄";
+}
+```
+
+---
+
 ### JavaScriptmas Winners
 
 A FREE full-year subscription to Scrimba!
