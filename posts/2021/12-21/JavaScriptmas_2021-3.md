@@ -86,3 +86,340 @@ When asked, "**What can you bring to the table/company?**" describe what you are
 ***Notes:*** *You are self-motivated, love to code, solve problems, help customers' needs, hold the tech team to high standards.*
 
 ---
+
+### Tell me about a difficult work relationship.
+
+**Tell me about a difficult work relationship with a co-worker and how you resolved it.**
+
+To handle this delicate question, we are advised to keep our skills as a coder separate from ourselves and our soft skills, or we will take everything personally.
+
+Also, share a story where you actually resolved the issue with your co-worker. [@TechRally](https://twitter.com/TechRally), during the Twitter Space, explained that he failed an interview because he shared an "unresolved" story of a difficult work relationship with a co-worker.
+
+***Notes:***  *Share a "resolved" story of a difficult work relationship with a co-worker. Try to resolve the problem with the co-worker before you bring it up to a manager/management.* 
+
+---
+
+### Salary negotiation
+
+When it comes to salary negotiation, we are advised to determine the salary range beforehand and make sure we are comfortable with the range.
+
+In addition to the offered salary, keep in mind the benefits offered. Healthcare, vacation time, matched contributions to your 401(k) account all together construct your overall compensation.
+
+Also, we are told that we will have leverage during salary negotiation if we currently have other job offers at the time of the interview. 
+
+***Notes:*** *Know the salary range beforehand, keep in mind the overall compensation offered, and you can gain leverage by having multiple other job offers.* 
+
+---
+
+### Why are you leaving your current job?
+
+When we are asked why we are leaving our current job, we are encouraged to focus less on why we are leaving and more on why we want to work there.
+
+We are to present everything positively, and we are instructed not to bash people at our current or previous jobs.
+
+**Reasons for leaving our current job:**
+
+* Want to move up professionally
+* You learned all you can at your current job
+* Looking to expand your skills
+
+***Notes:*** *Focus less on why you are leaving and more on why you want to work there. Present everything positively, and do not "bad talk" anyone you previously worked with.* 
+
+---
+
+### Community Highlights
+
+In this section of the article, I'm showcasing the work of fellow JavaScriptmas coders from the community!
+
+---
+
+(WRITE ARTICLE SECTION)
+
+---
+
+### Below are my coding solutions to the JavaScriptmas challenges 12 through 18!
+
+---
+
+### Challenge 12
+
+#### Christmas Guest List
+
+**Task:** 
+
+1. Write the JS to render the Christmas day guest list in the guest list.
+2. Add the functionality to add new guests.
+
+---
+
+**To style the page, I added:**
+
+* Transparent gradient background
+* Background image (from pixabay.com)
+* Dotted white border
+
+---
+
+![Challenge 12](img/12-20-21/Challenge12.png)
+
+---
+
+### Final code
+
+#### Challenge 12
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co57849489b5b872f7d95e6c0)**
+
+```javascript
+function loadGuestList(){
+    for(let i = 0; i <guests.length; i++) {
+        const listItem = document.createElement("li");
+        const listItemName = guests[i];    
+        listItem.textContent = listItemName;
+        guestList.appendChild(listItem);
+    }
+}
+loadGuestList();
+
+btn.addEventListener("click", addGuest);
+
+function addGuest() {
+    const listItem = document.createElement("li");
+    const listItemName = input.value;
+    listItem.textContent = listItemName;
+    guestList.appendChild(listItem);
+}
+```
+
+---
+
+### Challenge 13
+
+#### Christmas Dinner Calculator
+
+**Task:** *Write the JS to decide the perfect Christmas dinner and render it in the result element. Don't forget to check whether the meal should be vegetarian!*
+
+---
+
+**To style the page, I added:**
+
+* Transparent gradient background
+* Background image (from pixabay.com)
+* Dotted white border
+
+
+---
+
+![Challenge 13](img/12-20-21/Challenge13.png)
+
+---
+
+### Final code
+
+#### Challenge 13
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co6fc45678b7d9762466fb26b)**
+
+```javascript
+function christmasCalculator(){
+    let guests = document.getElementById("num-input").value;
+    let vegetarianInput = document.getElementById("vegetarian-input");
+    let vegetarianInputTrue = vegetarianInput.checked;
+    
+    if(vegetarianInputTrue === true) {
+        result.textContent = "Your ideal Christmas dinner is Nut roast"
+    } else {
+        if(guests > 5) {
+            result.textContent = "Your ideal Christmas dinner is Goose"
+        } else {
+            result.textContent = "Your ideal Christmas dinner is turkey"   
+        }
+    }
+    
+}
+```
+
+---
+
+### Challenge 14
+
+#### Lonely Elf
+
+**Task:** 
+
+1. Write a function to duplicate the elf when the button is clicked.
+2. See index.css for optional styling challenges.   
+
+---
+
+**To style the page, I added:**
+
+* Sky background image (from pixabay.com)
+* Wall background image (from pixabay.com)
+
+---
+
+![Challenge 14](img/12-20-21/Challenge14.png)
+
+---
+
+### Final code
+
+#### Challenge 14
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co4d14c2785de4a5cb7e6b805)**
+
+```javascript
+function duplicateElf(){
+
+if(counterElf < 100){   
+    counterElf++;
+
+    const divElf = document.createElement("div");
+        divElf.classList.add("square-elf");
+        divElf.innerText = "🧝";
+        containerElf.appendChild(divElf);
+    title.innerText = `${counterElf} Elves on the wall`;    
+    } else {
+        title.innerText = `${counterElf} Elves on the wall!`; 
+    }
+}
+
+```
+
+---
+
+### Challenge 15
+
+#### Festive Translator
+
+**Task:** *Write a function to display the correct greeting when a language is selected.*
+
+---
+
+**To style the page, I added:**
+
+* Transparent gradient background
+* Background image (from pixabay.com)
+
+
+---
+
+![Challenge 15](img/12-20-21/Challenge15.png)
+
+---
+
+### Final code
+
+#### Challenge 15
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co8ae4be3b351f697d2bcf9e1)**
+
+```javascript
+function translate() {
+
+    for (let i=0;i<greetingsArr.length;i++) {
+  
+        if (greetingsArr[i].language === languageSelector.value) {
+            greetingDisplay.innerText = greetingsArr[i].greeting;
+        }
+    }
+
+}
+```
+
+---
+
+### Challenge 16
+
+#### Christmas Movie Selector
+
+**Task:** 
+
+1. Write a function to select a suitable movie based on the age group.
+2. Display it in the suggested-movie paragraph when the button is clicked.
+
+---
+
+**To style the page, I added:**
+
+* Background image (from pixabay.com)
+* Tv png image from Google
+
+---
+
+![Challenge 16](img/12-20-21/Challenge16.png)
+
+---
+
+### Final code
+
+#### Challenge 16
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co8ce40b0a12419459e43b603)**
+
+```javascript
+function selectMovie() {
+
+    for(let i =0; i <moviesArr.length; i++) {
+        
+
+        if(ageSelector.value === moviesArr[i].age && genreSelector.value === moviesArr[i].genre){
+           suggestedMovie.innerText = moviesArr[i].name;
+        }
+    }
+}
+```
+
+---
+
+### Challenge  17
+
+#### Naughty List, Nice List
+
+**Task:** *Write the JavaScript to sort the people in sorteesArr into the naughty and nice lists, according to whether they have been good or not. Then display the names in the relevant place in the DOM.*
+
+---
+
+**To style the page, I added:**
+
+* Background image (from pixabay.com)
+* Parchment image (from pixabay.com)
+
+---
+
+![Challenge 17](img/12-20-21/Challenge17.png)
+
+---
+
+### Final code
+
+#### Challenge 17
+
+**Link to the solution: [scrimba.com/scrim](https://scrimba.com/scrim/co2084003a0b1807b15162873)**
+
+```javascript
+function sort() {
+    for(let i = 0; i<sorteesArr.length;i++){
+
+        if(sorteesArr[i].hasBeenGood) {
+            listNice.push(sorteesArr[i].name);
+              
+            const listItemGood = document.createElement("li");
+            const listItemGoodName = document.createTextNode(sorteesArr[i].name);
+            listItemGood.appendChild(listItemGoodName);
+            niceList.appendChild(listItemGood);
+        } else {
+           listNaughty.push(sorteesArr[i].name);
+            const listItemBad = document.createElement("li");
+            const listItemBadName = document.createTextNode(sorteesArr[i].name);
+            listItemBad.appendChild(listItemBadName);
+            naughtyList.appendChild(listItemBad);
+        }
+        btn.disabled = true;
+    }
+
+}
+```
+
+---
