@@ -133,7 +133,27 @@ In this section of the article, I'm showcasing the work of fellow JavaScriptmas 
 
 ---
 
-(WRITE ARTICLE SECTION)
+**Steve** ([@steveWhoCodes](https://twitter.com/steveWhoCodes)) solved [Kevin Powell's](https://twitter.com/KevinJPowell) challenge 18 in style, including the stretch goals of adding corresponding list images. Well done! 
+
+![Steve's scrim](img/12-20-21/image1.png)
+
+**Link to Steve's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/coc8d4a639f5f28bf6ed709a0)
+
+---
+
+**Lucas** ([@LucasSutter1](https://twitter.com/LucasSutter1)) completed the stretch goal of switching names of people between the Naughty and Nice list by writing a "switchIt" function! Well done!
+
+![Lucas's scrim](img/12-20-21/Lucas.png)
+
+**Link to Lucas's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/coa96497e8543e2adf53efd83)
+
+---
+
+**Tim** ([@TimRinkel](https://twitter.com/TimRinkel)) created a Festive Translator with nice message animations.
+
+![Tim's scrim](img/12-20-21/Tim.png)
+
+**Link to Tim's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co35345e7b344131b33377777)
 
 ---
 
