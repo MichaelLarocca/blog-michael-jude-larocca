@@ -127,6 +127,16 @@ We are to present everything positively, and we are instructed not to bash peopl
 
 ---
 
+### Summary of the Twitter Space
+
+The best way to handle "**tricky non-technical interview questions**" is to be well prepared. Research the company you are applying for, keep your answers succinct and on topic, and make sure you are also prepared to ask your own questions.
+
+Make sure you always shine a positive light on yourself and do not bad-talk past or current colleagues. 
+
+Show enthusiasm about working for them, demonstrate how your skill will benefit their company, and tactfully explain why you are leaving your current job.
+
+---
+
 ### Community Highlights
 
 In this section of the article, I'm showcasing the work of fellow JavaScriptmas coders from the community!
@@ -154,6 +164,22 @@ In this section of the article, I'm showcasing the work of fellow JavaScriptmas 
 ![Tim's scrim](img/12-20-21/Tim.png)
 
 **Link to Tim's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co35345e7b344131b33377777)
+
+---
+
+Matt ([@mattemmmmm](https://twitter.com/mattemmmmm)) created a Snow Man Customer that includes a "Random Color" button that lights up the snowman like a Christmas tree! When you are finished customizing the snowman, you can "checkmark" him to the beach and watch him melt! Very creative!
+
+![Matt's scrim](img/12-20-21/Matt-new.PNG)
+
+Link to Matt's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co4e5429aa3a5a32e06da2e45)
+
+---
+
+OlehSml ([@OlehSml](https://twitter.com/OlehSml)) decided to change the Dessert Decider challenge into a Pizza Decider challenge! Click on the "See Delicious Pizzas 😋" button to generate random pizza onto the cutting board background. This challenge was tastefully done!
+
+![OlehSml's scrim](img/12-20-21/OlehSml.png)
+
+Link to OlehSml's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co22a4ee1ac3a3c0fe18457eb)
 
 ---
 
@@ -524,6 +550,9 @@ A FREE full-year subscription to Scrimba!
 * Day 14: @Mik (Discord)
 * Day 15: [@dsabalete](https://twitter.com/dsabalete)
 * Day 16: [@Arbaaz_77](https://twitter.com/Arbaaz_77)
+* Day 16: [@evla27](https://twitter.com/evla27)
+* Day 16: [@graficdoctor](https://twitter.com/graficdoctor)
+* Day 16: @Daniela (Discord)
 
 ---
 
