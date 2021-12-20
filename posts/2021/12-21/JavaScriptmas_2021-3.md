@@ -167,19 +167,19 @@ In this section of the article, I'm showcasing the work of fellow JavaScriptmas 
 
 ---
 
-Matt ([@mattemmmmm](https://twitter.com/mattemmmmm)) created a Snow Man Customer that includes a "Random Color" button that lights up the snowman like a Christmas tree! When you are finished customizing the snowman, you can "checkmark" him to the beach and watch him melt! Very creative!
+**Matt** ([@mattemmmmm](https://twitter.com/mattemmmmm)) created a Snow Man Customer that includes a "Random Color" button that lights up the snowman like a Christmas tree! When you are finished customizing the snowman, you can "checkmark" him to the beach and watch him melt! Very creative!
 
 ![Matt's scrim](img/12-20-21/Matt-new.PNG)
 
-Link to Matt's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co4e5429aa3a5a32e06da2e45)
+**Link to Matt's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co4e5429aa3a5a32e06da2e45)
 
 ---
 
-OlehSml ([@OlehSml](https://twitter.com/OlehSml)) decided to change the Dessert Decider challenge into a Pizza Decider challenge! Click on the "See Delicious Pizzas 😋" button to generate random pizza onto the cutting board background. This challenge was tastefully done!
+**OlehSml** ([@OlehSml](https://twitter.com/OlehSml)) decided to change the Dessert Decider challenge into a Pizza Decider challenge! Click on the "See Delicious Pizzas 😋" button to generate random pizza onto the cutting board background. This challenge was tastefully done!
 
 ![OlehSml's scrim](img/12-20-21/OlehSml.png)
 
-Link to OlehSml's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co22a4ee1ac3a3c0fe18457eb)
+**Link to OlehSml's scrim:** [scrimba.com/scrim](https://scrimba.com/scrim/co22a4ee1ac3a3c0fe18457eb)
 
 ---
 
