@@ -550,9 +550,9 @@ A FREE full-year subscription to Scrimba!
 * Day 14: @Mik (Discord)
 * Day 15: [@dsabalete](https://twitter.com/dsabalete)
 * Day 16: [@Arbaaz_77](https://twitter.com/Arbaaz_77)
-* Day 16: [@evla27](https://twitter.com/evla27)
-* Day 16: [@graficdoctor](https://twitter.com/graficdoctor)
-* Day 16: @Daniela (Discord)
+* Day 17: [@evla27](https://twitter.com/evla27)
+* Day 18: [@graficdoctor](https://twitter.com/graficdoctor)
+* Day 19: @Daniela (Discord)
 
 ---
 
