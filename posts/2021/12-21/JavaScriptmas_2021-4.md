@@ -56,7 +56,7 @@ The post-JavaScriptmas 2021 post!
 | 12/17/2021    | [Naughty List, Nice List](https://scrimba.com/scrim/co2084003a0b1807b15162873) |
 | 12/18/2021    | [Custom Shopping Checkboxes](https://scrimba.com/scrim/co00347cf90b815d5e251d8b5)     |
 | 12/19/2021    | [Dessert Decider](https://scrimba.com/scrim/cobd94581a9a68d928e5de523) |
-| 12/20/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
+| 12/20/2021    | [Snowman Customiser](https://scrimba.com/scrim/cobfd4b289c653c53f9246e76) |
 | 12/21/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
 | 12/22/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
 | 12/23/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
