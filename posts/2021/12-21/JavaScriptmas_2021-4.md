@@ -58,7 +58,7 @@ The post-JavaScriptmas 2021 post!
 | 12/19/2021    | [Dessert Decider](https://scrimba.com/scrim/cobd94581a9a68d928e5de523) |
 | 12/20/2021    | [Snowman Customiser](https://scrimba.com/scrim/cobfd4b289c653c53f9246e76) |
 | 12/21/2021    | [Reindeer Speedometer](https://scrimba.com/scrim/cofa042da8ed2d57239499fdb) |
-| 12/22/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
+| 12/22/2021    | [Christmas Stress Buster](https://scrimba.com/scrim/co228489b8129edb490abb892) |
 | 12/23/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
 | 12/24/2021    | [HOLD - (Coded along with the JavaScriptmas live stream!)](https://scrimba.com/scrim/HOLD) |
 
@@ -94,7 +94,7 @@ A FREE full-year subscription to Scrimba!
 * Day 18: [@graficdoctor](https://twitter.com/graficdoctor)
 * Day 19: @Daniela (Discord)
 * Day 20: @Mansi (Discord)
-* Day 21: [@HOLD](https://twitter.com/HOLD)
+* Day 21: [@emily_nobbs](https://twitter.com/emily_nobbs)
 * Day 22: [@HOLD](https://twitter.com/HOLD)
 * Day 23: @HOLD (Discord)
 * Day 24: @HOLD (Discord)
