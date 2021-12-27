@@ -27,6 +27,8 @@ Well, it looks like I'm not the only one who found **Matt's** ([@mattemmmmm](htt
 
 The same project of Matt's, which I featured in my last article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale!
 
+When you are finished customizing Matt's snowman, you can send it to the beach and watch him melt!
+
 ---
 
 ![Matt-Finale](img/12-27-21/Matt-Finale.png)
@@ -37,6 +39,17 @@ The same project of Matt's, which I featured in my last article, was also featur
 
 ---
 
+Debbie ([@debbie_digital](https://twitter.com/debbie_digital)), featured in my first JavaScriptmas 2021 article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+
+In Debbie's Reindeer Speedometer project, the background image changes with a corresponding picture of the current location selected, nicely done!
+
+---
+
+![Debbie-Finale](img/12-27-21/Debbie-Finale.png)
+
+---
+
+[Link to Debbie's scrim:](https://scrimba.com/scrim/cocb045b581449780b148f1ba)
 
 ---
 
