@@ -67,7 +67,23 @@ Muhammad Tahir's Reindeer Speedometer project also changes the background image 
 
 ---
 
-Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)
+Last but not least, Aaron's Lonely Elf project was featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+
+In Aaron's project, the elves are duplicated each time the "Duplicate Elf" button is clicked; one elf becomes two, two elves become four, four elves become eight, and so forth.
+
+However, once the elves exceed one hundred in number, the elf overlord starts to reduce the elves, one by one, until there are exactly one hundred elves. Finally, when the elves are reduced to one hundred, the elves animate in a jumping "wave,"  similar to the "wave" created by fans at a sporting event.
+
+---
+
+![Aaron Finale](img/12-27-21/Aaron-Finale.png)
+
+---
+
+[Link to Aaron's scrim:](https://scrimba.com/scrim/co85f4bb19c2f3f2f4dfebd25)
+
+---
+
+***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
 
 ---
 
@@ -108,9 +124,9 @@ Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [we
 | 12/19/2021    | [Dessert Decider](https://scrimba.com/scrim/cobd94581a9a68d928e5de523) |
 | 12/20/2021    | [Snowman Customiser](https://scrimba.com/scrim/cobfd4b289c653c53f9246e76) |
 | 12/21/2021    | [Reindeer Speedometer](https://scrimba.com/scrim/cofa042da8ed2d57239499fdb) |
-| 12/22/2021    | [Christmas Stress Buster](https://scrimba.com/scrim/co228489b8129edb490abb892) |
-| 12/23/2021    | [HOLD](https://scrimba.com/scrim/HOLD) |
-| 12/24/2021    | [HOLD - (Coded along with the JavaScriptmas live stream!)](https://scrimba.com/scrim/HOLD) |
+| 12/22/2021    | [Christmas Stress Buster (Coming soon!)]() |
+| 12/23/2021    | [Coming soon!]() |
+| 12/24/2021    | [Coming soon!]() |
 
 ---
 
