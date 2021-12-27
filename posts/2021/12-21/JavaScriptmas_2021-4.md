@@ -49,7 +49,25 @@ In Debbie's Reindeer Speedometer project, the background image changes with a co
 
 ---
 
-[Link to Debbie's scrim:](https://scrimba.com/scrim/cocb045b581449780b148f1ba)
+**Link to Debbie's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/cocb045b581449780b148f1ba)**
+
+---
+
+Muhammad Tahir ([@tahir__k](https://twitter.com/tahir__k)), featured in my second JavaScriptmas 2021 article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+
+Muhammad Tahir's Reindeer Speedometer project also changes the background image with a corresponding picture of the selected current location. The project also includes an average speed as well as an overall average.
+
+---
+
+![Tahir Finale](img/12-27-21/Tahir-Finale.png)
+
+---
+
+[Link to Tahir's scrim:](https://scrimba.com/scrim/cocbd49ccbd3c0558b38d5a71)
+
+---
+
+Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)
 
 ---
 
