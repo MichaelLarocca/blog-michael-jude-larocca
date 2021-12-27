@@ -15,9 +15,28 @@ The post-JavaScriptmas 2021 post!
 
 ---
 
-![TXG 56 Thumbnail](img/12-27-21/TXG-56-Thumbnail.jpg)
+![TXG 56 Thumbnail](img/12-27-21/TXG-56-Thumbnail-02.jpg)
 
 ---
+
+---
+
+### Community Highlights
+
+Well, it looks like I'm not the only one who found **Matt's** ([@mattemmmmm](https://twitter.com/mattemmmmm)) "Snow Man Customer," Michael and Leanne found it too!
+
+The same project of Matt's, which I featured in my last article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale!
+
+---
+
+![Matt-Finale](img/12-27-21/Matt-Finale.png)
+
+---
+
+**Link to Matt's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co4e5429aa3a5a32e06da2e45)**
+
+---
+
 
 ---
 
