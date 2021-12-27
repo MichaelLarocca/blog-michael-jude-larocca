@@ -67,7 +67,7 @@ Muhammad Tahir's Reindeer Speedometer project also changes the background image 
 
 ---
 
-Last but not least, Aaron's Lonely Elf project was featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+Up next, Aaron's Lonely Elf project was featured in Scrimba's JavaScriptmas 2021 Live Finale! 
 
 In Aaron's project, the elves are duplicated each time the "Duplicate Elf" button is clicked; one elf becomes two, two elves become four, four elves become eight, and so forth.
 
@@ -80,6 +80,18 @@ However, once the elves exceed one hundred in number, the elf overlord starts to
 ---
 
 [Link to Aaron's scrim:](https://scrimba.com/scrim/co85f4bb19c2f3f2f4dfebd25)
+
+---
+
+Last but not least is Simon's Christmas Dogs Carousel project. This carousel consists of adorable dogs in festive settings, and this project includes a zoom-in and zoom-out feature! Well done!
+
+---
+
+![Simon Finale](img/12-27-21/Simon-Finale.png)
+
+---
+
+[Link to Simon's scrim:](https://scrimba.com/scrim/co94a46b7bc2a176c2f5365ad)
 
 ---
 
