@@ -63,7 +63,7 @@ Muhammad Tahir's Reindeer Speedometer project also changes the background image 
 
 ---
 
-[Link to Tahir's scrim:](https://scrimba.com/scrim/cocbd49ccbd3c0558b38d5a71)
+**Link to Tahir's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/cocbd49ccbd3c0558b38d5a71)**
 
 ---
 
@@ -79,7 +79,7 @@ However, once the elves exceed one hundred in number, the elf overlord starts to
 
 ---
 
-[Link to Aaron's scrim:](https://scrimba.com/scrim/co85f4bb19c2f3f2f4dfebd25)
+**Link to Aaron's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co85f4bb19c2f3f2f4dfebd25)**
 
 ---
 
@@ -91,7 +91,7 @@ Last but not least is Simon's Christmas Dogs Carousel project. This carousel con
 
 ---
 
-[Link to Simon's scrim:](https://scrimba.com/scrim/co94a46b7bc2a176c2f5365ad)
+**Link to Simon's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/co94a46b7bc2a176c2f5365ad)**
 
 ---
 
@@ -173,10 +173,9 @@ A FREE full-year subscription to Scrimba!
 * Day 19: @Daniela (Discord)
 * Day 20: @Mansi (Discord)
 * Day 21: [@emily_nobbs](https://twitter.com/emily_nobbs)
-* Day 22: [@HOLD](https://twitter.com/HOLD)
-* Day 23: @HOLD (Discord)
-* Day 24: @HOLD (Discord)
-
+* Day 22: [@emily_nobbs](https://twitter.com/emily_nobbs)
+* Day 23: @Chula (Discord)
+* Day 24: [@BlizZard](https://twitter.com/Muhamma50084948)
 --- 
 
 **Be sure to check out my related articles!**
