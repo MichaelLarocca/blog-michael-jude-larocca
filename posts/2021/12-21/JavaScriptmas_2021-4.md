@@ -83,7 +83,7 @@ However, once the elves exceed one hundred in number, the elf overlord starts to
 
 ---
 
-Last but not least is Simon's Christmas Dogs Carousel project. This carousel consists of adorable dogs in festive settings, and this project includes a zoom-in and zoom-out feature! Well done!
+The next featured project is Simon's Christmas Dogs Carousel. This carousel consists of adorable dogs in festive settings, and this project includes a zoom-in and zoom-out feature! Well done!
 
 ---
 
