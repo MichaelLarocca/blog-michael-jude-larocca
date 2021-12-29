@@ -109,9 +109,23 @@ I will definitely be looking into his code to see how he accomplished this effec
 
 ---
 
+Last but certainly not least is David's Desert Decider project. Not only does his project retrieve images of delicious desserts in a festive setting, but his project also stores the images in an array so that the user can click on a "Previous desert" button to view them! 
+
+Michael, Leanne, and the Livestream audience, including myself, were very impressed! Well done, Hugo!
+
+---
+
+![David Finale](img/12-27-21/David-Finale.png)
+
+---
+
+**Link to David's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/cob1f45cbb4cbd9c1fa3dc34f)**
+
 ---
 
 ***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
+
+Thank you, [Leanne](https://www.youtube.com/c/CodewithLeanne), for featuring my [day seven solution](https://scrimba.com/scrim/co5c24787b75a079234177e6d)!
 
 ---
 
