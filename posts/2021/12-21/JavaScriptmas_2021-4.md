@@ -95,6 +95,22 @@ The next featured project is Simon's Christmas Dogs Carousel. This carousel cons
 
 ---
 
+Next up is Hugo's Festivities Loading project. Hugo achieved the effect that I initially wanted; Hugo successfully designed the actual loading bar and made it look like a candy cane!
+
+I will definitely be looking into his code to see how he accomplished this effect!
+
+---
+
+![Hugo's Finale](img/12-27-21/Hugo-Finale.png)
+
+---
+
+**Link to Hugo's scrim: [scrimba.com/scrim](https://scrimba.com/scrim/coafa404e887c2fbf8b4b1c65)**
+
+---
+
+---
+
 ***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
 
 ---
