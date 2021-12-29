@@ -101,7 +101,7 @@ I will definitely be looking into his code to see how he accomplished this effec
 
 ---
 
-![Hugo's Finale](img/12-27-21/Hugo-Finale.png)
+![Hugo's Finale](img/12-27-21/Hugo-Finale-2.png)
 
 ---
 
