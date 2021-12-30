@@ -17,17 +17,17 @@ date: "2021-12-27"
 
 ---
 
-### JavaScriptmas 2021 Live Finale!
+**The JavaScriptmas 2021 Live Finale hour event:**
 
-<iframe width="853" height="480" src="https://www.youtube.com/embed/_TTqPlKjX2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+* Amazing solutions from the community featured
+* Coding the last challenge live
+* Drawing the grand prize winner
 
 ---
 
-**The JavaScriptmas 2021 Live Finale hour event consists of:**
+### JavaScriptmas 2021 Live Finale!
 
-* Amazing solutions from the community
-* Coding the last challenge live
-* Draw the grand prize winner
+<iframe width="853" height="480" src="https://www.youtube.com/embed/_TTqPlKjX2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
@@ -136,6 +136,43 @@ Michael, Leanne, and the Livestream audience, including myself, were very impres
 ***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
 
 Thank you, [Leanne](https://www.youtube.com/c/CodewithLeanne), for featuring my [day seven solution](https://scrimba.com/scrim/co5c24787b75a079234177e6d)!
+
+---
+
+### Coding the last challenge
+
+**The last JavaScriptmas challenge, Sleigh Launcher, was coded live during the stream by Michael and Leanne. (Timestamp 4:50)**
+
+---
+
+### JavaScriptmas Winners
+
+A FREE full-year subscription to Scrimba!
+
+* Day 1: [@betocabadev](https://twitter.com/betocabadev)
+* Day 2: @zero_ (Discord)
+* Day 3: @Sid (Discord)
+* Day 4: [@wonderbarstudio](https://twitter.com/wonderbarstudio)
+* Day 5: @Eryk (Discord)
+* Day 6: Nacho Vasquez ( Discord )
+* Day 7: [@Vanshsh2701](https://twitter.com/Vanshsh2701)
+* Day 8: [@AmethystCodes](https://twitter.com/AmethystCodes)
+* Day 9: Eldocbrown ( Discord )
+* Day 10: [@Mare_Duci](https://twitter.com/Mare_Duci)
+* Day 11: [@claircedesign](https://twitter.com/claircedesign)
+* Day 12: @marleigh (Discord)
+* Day 13: @Emmanuel (Discord)
+* Day 14: @Mik (Discord)
+* Day 15: [@dsabalete](https://twitter.com/dsabalete)
+* Day 16: [@Arbaaz_77](https://twitter.com/Arbaaz_77)
+* Day 17: [@evla27](https://twitter.com/evla27)
+* Day 18: [@graficdoctor](https://twitter.com/graficdoctor)
+* Day 19: @Daniela (Discord)
+* Day 20: @Mansi (Discord)
+* Day 21: [@emily_nobbs](https://twitter.com/emily_nobbs)
+* Day 22: [@emily_nobbs](https://twitter.com/emily_nobbs)
+* Day 23: @Chula (Discord)
+* Day 24: [@BlizZard](https://twitter.com/Muhamma50084948)
 
 ---
 
@@ -263,36 +300,6 @@ To learn more about Kevin Powell, you can read my [Teacher Feature: Kevin Powell
 ![Certificate - JavaScriptmas](img/12-27-21/Certificate-JavaScriptmas.jpg)
 
 ---
-
-### JavaScriptmas Winners
-
-A FREE full-year subscription to Scrimba!
-
-* Day 1: [@betocabadev](https://twitter.com/betocabadev)
-* Day 2: @zero_ (Discord)
-* Day 3: @Sid (Discord)
-* Day 4: [@wonderbarstudio](https://twitter.com/wonderbarstudio)
-* Day 5: @Eryk (Discord)
-* Day 6: Nacho Vasquez ( Discord )
-* Day 7: [@Vanshsh2701](https://twitter.com/Vanshsh2701)
-* Day 8: [@AmethystCodes](https://twitter.com/AmethystCodes)
-* Day 9: Eldocbrown ( Discord )
-* Day 10: [@Mare_Duci](https://twitter.com/Mare_Duci)
-* Day 11: [@claircedesign](https://twitter.com/claircedesign)
-* Day 12: @marleigh (Discord)
-* Day 13: @Emmanuel (Discord)
-* Day 14: @Mik (Discord)
-* Day 15: [@dsabalete](https://twitter.com/dsabalete)
-* Day 16: [@Arbaaz_77](https://twitter.com/Arbaaz_77)
-* Day 17: [@evla27](https://twitter.com/evla27)
-* Day 18: [@graficdoctor](https://twitter.com/graficdoctor)
-* Day 19: @Daniela (Discord)
-* Day 20: @Mansi (Discord)
-* Day 21: [@emily_nobbs](https://twitter.com/emily_nobbs)
-* Day 22: [@emily_nobbs](https://twitter.com/emily_nobbs)
-* Day 23: @Chula (Discord)
-* Day 24: [@BlizZard](https://twitter.com/Muhamma50084948)
---- 
 
 **Be sure to check out my related articles!**
 
