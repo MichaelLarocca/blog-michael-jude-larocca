@@ -188,7 +188,7 @@ And the winner is: [BlizZard](https://twitter.com/Muhamma50084948)
 
 ---
 
-**Here is a message from BlizZard on the Scrimba Discord General channel:**
+**Here is a message from BlizZard, found on the Scrimba Discord General channel:**
 
 *To the Scrimba team and the entire community, I have no words to express my gratitude towards you. Still in shock that I won, literally shaking right now. The sole reason I participated in Javascriptmas was so that I could get some coding practice in during my exams where I normally would not have been doing any coding and never thought I would win. Javascriptmas is an amazing event and I would encourage everyone to participate in it. You never know, you could win just like me.* 
 
