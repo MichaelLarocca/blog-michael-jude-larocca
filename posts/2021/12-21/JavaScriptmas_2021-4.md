@@ -9,15 +9,25 @@ published: true
 date: "2021-12-27"
 ---
 
-(WRITE ARTICLE SECTION)
-
-The post-JavaScriptmas 2021 post! 
+#### The post-JavaScriptmas 2021 post! This article wraps up Scrimba's monumental 24-day event! All winners, community highlights, Livestream, Podcast, and new Scrimba YouTube celebrity teacher announced!
 
 ---
 
 ![TXG 56 Thumbnail](img/12-27-21/TXG-56-Thumbnail-02.jpg)
 
 ---
+
+### JavaScriptmas 2021 Live Finale!
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/_TTqPlKjX2Y" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+**The JavaScriptmas 2021 Live Finale hour event consists of:**
+
+* Amazing solutions from the community
+* Coding the last challenge live
+* Draw the grand prize winner
 
 ---
 
@@ -111,7 +121,7 @@ I will definitely be looking into his code to see how he accomplished this effec
 
 Last but certainly not least is David's Desert Decider project. Not only does his project retrieve images of delicious desserts in a festive setting, but his project also stores the images in an array so that the user can click on a "Previous desert" button to view them! 
 
-Michael, Leanne, and the Livestream audience, including myself, were very impressed! Well done, Hugo!
+Michael, Leanne, and the Livestream audience, including myself, were very impressed! Well done, David!
 
 ---
 
@@ -126,6 +136,82 @@ Michael, Leanne, and the Livestream audience, including myself, were very impres
 ***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
 
 Thank you, [Leanne](https://www.youtube.com/c/CodewithLeanne), for featuring my [day seven solution](https://scrimba.com/scrim/co5c24787b75a079234177e6d)!
+
+---
+
+### Announcing the grand prize winner
+
+The grand prize winner of Scrimba's JavaScriptmas event receives a lifetime Scrimba pro membership and $1,000 dollars!
+
+The winner is picked at random, which gives everyone participating a fair chance of winning, regardless of their programming skill level.
+
+After two random drawings that led to #JavaScriptmas "spam" entries, a winner was drawn that had indeed submitted an operational challenge.
+
+And the winner is: [BlizZard](https://twitter.com/Muhamma50084948)
+
+---
+
+**Here is a message from BlizZard on the Scrimba Discord General channel:**
+
+*To the Scrimba team and the entire community, I have no words to express my gratitude towards you. Still in shock that I won, literally shaking right now. The sole reason I participated in Javascriptmas was so that I could get some coding practice in during my exams where I normally would not have been doing any coding and never thought I would win. Javascriptmas is an amazing event and I would encourage everyone to participate in it. You never know, you could win just like me.* 
+
+*Lastly, would just like to send a thank you to Scrimba and everyone who congratulated me.*
+
+---
+
+![Scrimba Podcast](img/12-27-21/Scrimba-Podcast.png)
+
+---
+
+### The Scrimba "Team Christmas QnA" Podcast
+
+In his special Christmas episode of the Scrimba Podcast, the Scrimba team joined to answer your questions, told us what they all would do if they won the lottery, and announced a new part-time teacher coming in 2022.
+
+---
+
+#### The name Scrimba
+
+The common question of "Where did the name Scrimba come from" was answered.
+
+Scrimba was first called Scrimbla. Scrimbla was a name given to a code editor created by [Sindre Aarsaether](https://twitter.com/sindreaars). 
+
+Per joins in on the conversation and explains that the programing language used to create their screencasts is called "Imba." So naturally, when you make a screencast using Imba, you get a "screen-Imba" (Scrimba)! Scrim for short.
+
+---
+
+#### Updated Scrimba Screencast
+
+The great news is the Scrimba team technicians tell us that they are just "scratching the surface" when it comes to utilizing the full potential of Imba to create their screencasts.
+
+Currently, a new updated version of the Scrimba screencast is in the works, as the Scrimba team technicians work on overhauling their website!
+
+---
+
+#### Code Reviews
+
+As part of the new updated version of the Scrimba screencast, a feature is being created where students can review other students' code (scrims)!
+
+We are told that the best way to learn is to teach, and with the upcoming Code Reviews feature, we will be able to do just that!
+
+---
+
+#### Winning the Lottery
+
+For me, the funniest answer to "what they all would do if they won the lottery" is buying a Limo and using it to drive everywhere in casual clothes!
+
+---
+
+#### New Teacher Announced
+
+During the Podcast, YouTube celebrity [Kevin Powell](https://www.kevinpowell.co/), also known as "The King of CSS," will be joining the Scrimba team in 2022 as a part-time teacher!
+
+To learn more about Kevin Powell, you can read my [Teacher Feature: Kevin Powell](https://selftaughttxg.com/2021/05-21/TeacherFeature-KevinPowell/) article.
+
+---
+
+***Be sure to listen to the entire Podcast episode!***
+
+<iframe width="100%" height="180" frameborder="no" scrolling="no" seamless src="https://share.transistor.fm/e/a7082ce2"></iframe>
 
 ---
 
