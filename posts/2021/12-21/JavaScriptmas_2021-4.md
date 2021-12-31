@@ -43,7 +43,7 @@ Throughout the month, members of Scrimba selected code solutions from JavaScript
 
 ### Community Highlights
 
-Well, it looks like I'm not the only one who found **Matt's** ([@mattemmmmm](https://twitter.com/mattemmmmm)) "Snow Man Customer," Michael and Leanne found it too!
+Well, it looks like I'm not the only one who found **Matt's** ([@mattemmmmm](https://twitter.com/mattemmmmm)) "Snowman Customiser," Michael and Leanne found it too!
 
 The same project of Matt's, which I featured in my last article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale!
 
@@ -143,7 +143,7 @@ Michael, Leanne, and the Livestream audience, including myself, were very impres
 
 ---
 
-***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weeklywebdevchallenge.scrimba.com/javascriptmas](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
+***Be sure to check out all of the featured JavaScriptmas Solutions of the Day: [weekly web dev challenge](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html)***
 
 Thank you, [Leanne](https://www.youtube.com/c/CodewithLeanne), for featuring my [day seven solution](https://scrimba.com/scrim/co5c24787b75a079234177e6d)!
 
