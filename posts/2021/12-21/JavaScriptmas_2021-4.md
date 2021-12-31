@@ -17,6 +17,16 @@ date: "2021-12-27"
 
 ---
 
+Scrimba has done it again! Another monumental JavaScriptmas event! Over 6,000 participants and over 17,000 code solutions were submitted!
+
+Scrimba has encouraged its students to code every day for 24 days in a fun and festive way!
+
+JavaScriptmas participants had the opportunity to share their code solutions with the community via Twitter and Discord, and they received positive feedback and encouragement from fellow coders!
+
+Throughout the month, members of Scrimba selected code solutions from JavaScriptmas participants that "caught their eye," and they shared them on the [Weekly Web Dev Challenge](https://weeklywebdevchallenge.scrimba.com/javascriptmas/javascriptmas.html) website! Several of these coding solutions were also featured in the YouTube JavaScriptmas 2021 Live Finale!
+
+---
+
 **The JavaScriptmas 2021 Live Finale hour event:**
 
 * Amazing solutions from the community featured
@@ -49,7 +59,7 @@ When you are finished customizing Matt's snowman, you can send it to the beach a
 
 ---
 
-Debbie ([@debbie_digital](https://twitter.com/debbie_digital)), featured in my first JavaScriptmas 2021 article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+**Debbie** ([@debbie_digital](https://twitter.com/debbie_digital)), featured in my first JavaScriptmas 2021 article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale! 
 
 In Debbie's Reindeer Speedometer project, the background image changes with a corresponding picture of the current location selected, nicely done!
 
@@ -63,7 +73,7 @@ In Debbie's Reindeer Speedometer project, the background image changes with a co
 
 ---
 
-Muhammad Tahir ([@tahir__k](https://twitter.com/tahir__k)), featured in my second JavaScriptmas 2021 article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+**Muhammad Tahir** ([@tahir__k](https://twitter.com/tahir__k)), featured in my second JavaScriptmas 2021 article, was also featured in Scrimba's JavaScriptmas 2021 Live Finale! 
 
 Muhammad Tahir's Reindeer Speedometer project also changes the background image with a corresponding picture of the selected current location. The project also includes an average speed as well as an overall average.
 
@@ -77,7 +87,7 @@ Muhammad Tahir's Reindeer Speedometer project also changes the background image 
 
 ---
 
-Up next, Aaron's Lonely Elf project was featured in Scrimba's JavaScriptmas 2021 Live Finale! 
+Up next, **Aaron's** Lonely Elf project was featured in Scrimba's JavaScriptmas 2021 Live Finale! 
 
 In Aaron's project, the elves are duplicated each time the "Duplicate Elf" button is clicked; one elf becomes two, two elves become four, four elves become eight, and so forth.
 
@@ -93,7 +103,7 @@ However, once the elves exceed one hundred in number, the elf overlord starts to
 
 ---
 
-The next featured project is Simon's Christmas Dogs Carousel. This carousel consists of adorable dogs in festive settings, and this project includes a zoom-in and zoom-out feature! Well done!
+The next featured project is **Simon's** Christmas Dogs Carousel. This carousel consists of adorable dogs in festive settings, and this project includes a zoom-in and zoom-out feature! Well done!
 
 ---
 
@@ -105,7 +115,7 @@ The next featured project is Simon's Christmas Dogs Carousel. This carousel cons
 
 ---
 
-Next up is Hugo's Festivities Loading project. Hugo achieved the effect that I initially wanted; Hugo successfully designed the actual loading bar and made it look like a candy cane!
+Next up is **Hugo's** Festivities Loading project. Hugo achieved the effect that I initially wanted; Hugo successfully designed the actual loading bar and made it look like a candy cane!
 
 I will definitely be looking into his code to see how he accomplished this effect!
 
@@ -119,7 +129,7 @@ I will definitely be looking into his code to see how he accomplished this effec
 
 ---
 
-Last but certainly not least is David's Desert Decider project. Not only does his project retrieve images of delicious desserts in a festive setting, but his project also stores the images in an array so that the user can click on a "Previous desert" button to view them! 
+Last but certainly not least is **David's** Desert Decider project. Not only does his project retrieve images of delicious desserts in a festive setting, but his project also stores the images in an array so that the user can click on a "Previous desert" button to view them! 
 
 Michael, Leanne, and the Livestream audience, including myself, were very impressed! Well done, David!
 
