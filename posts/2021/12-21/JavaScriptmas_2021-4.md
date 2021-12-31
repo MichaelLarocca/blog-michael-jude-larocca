@@ -301,7 +301,8 @@ To learn more about Kevin Powell, you can read my [Teacher Feature: Kevin Powell
 | 12/21/2021    | [Reindeer Speedometer](https://scrimba.com/scrim/cofa042da8ed2d57239499fdb) |
 | 12/22/2021    | [Christmas Stress Buster](https://scrimba.com/scrim/coab94ff0b4711a38fadd2ca1) |
 | 12/23/2021    | [Customisable Santa Sign](https://scrimba.com/scrim/co2024effabdb070a624a7f52) |
-| 12/24/2021    | [Coming soon!]() |
+| 12/24/2021    | [Sleigh Launcher (Coded along with the JavaScriptmas Livestream!)](https://scrimba.com/scrim/co325435886e2fbbe8027f266)
+ |
 
 ---
 
