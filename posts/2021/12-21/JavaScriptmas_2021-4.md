@@ -299,7 +299,7 @@ To learn more about Kevin Powell, you can read my [Teacher Feature: Kevin Powell
 | 12/19/2021    | [Dessert Decider](https://scrimba.com/scrim/cobd94581a9a68d928e5de523) |
 | 12/20/2021    | [Snowman Customiser](https://scrimba.com/scrim/cobfd4b289c653c53f9246e76) |
 | 12/21/2021    | [Reindeer Speedometer](https://scrimba.com/scrim/cofa042da8ed2d57239499fdb) |
-| 12/22/2021    | [Christmas Stress Buster (Coming soon!)]() |
+| 12/22/2021    | [Coming soon!]() |
 | 12/23/2021    | [Coming soon!]() |
 | 12/24/2021    | [Coming soon!]() |
 
@@ -329,4 +329,15 @@ To learn more about Kevin Powell, you can read my [Teacher Feature: Kevin Powell
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+JavaScriptmas is a wonderful festive seasonal event created by Scrimba. Participants grow their coding skills, and their "online" presence, by being encouraged to code every day during the event and sharing their solutions with the community.
+
+JavaScriptmas participants of all coding levels receive an equal opportunity to win prizes throughout the event due to Scrimba's craftily created "raffle" style contest; the more you code and submit valid solutions, the more chances you have to win!
+
+In 2022, Scrimba will be updating its already amazing unique screencast technology that allows students to pause, edit code, and resume lessons, making it even better! One of the updates is a "Code Review" feature where students can take the role of teachers. Finally, Scrimba is adding YouTube celebrity Kevin Powell to their staff!
+
+There is still time to get a 70% discount on a year of Scrimba Pro membership! [Offer at midnight GMT time on January 1st](https://click.convertkit-mail.com/d0url5kp4es0h22l00sm/n2hohvhnrew9oka0/aHR0cHM6Ly9zY3JpbWJhLmNvbS9wcmljaW5nP2NvdXBvbj1jaHJpc3RtYXMtZGlzY291bnQtMjAyMS1xYXgjam9pbg==).
+
+---
+
+###### Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!
