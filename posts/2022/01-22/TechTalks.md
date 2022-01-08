@@ -55,7 +55,35 @@ Twitter Spaces are held daily by members of the Tech Twitter community. Many con
 
 #### Francesco Ciulla
 
-(WRITE ARTICLE SECTION)
+[Francesco Ciulla](https://www.youtube.com/c/FrancescoCiulla) is a developer advocate for [Docker](https://www.docker.com/), [DevOps](https://en.wikipedia.org/wiki/DevOps), and [Web3](https://en.wikipedia.org/wiki/Web3). 
+
+Francesco has over 5,000 subscribers on his YouTube channel, where he interviews people in the tech world and creates content on Docker and Containers. He also has over 66,000 followers on Twitter.
+
+During the Tech Talks episode, Francesco talks about his first Tweet, which was on the subject of "[SpaceX](https://www.spacex.com/)," which caught the attention of Chris. Francesco explains this Tweet was before he knew about Tech Twitter, and he was just "trying Twitter out." **Francesco then reveals that he wanted to be an astronaut when he was a child**.
+
+---
+
+*"I like the idea that there is always something that we can discover."*
+
+> -Francesco Ciulla
+
+---
+
+Francesco continues talking about his childhood by telling us that he always liked computers and that his first computer was a [Commodore 64](https://en.wikipedia.org/wiki/Commodore_64).
+
+Francesco elaborates on liking computers as he explains that he likes to build them, and he still builds computers until this day. **However, Francesco tells us that although he was interested in computers and technology, he did not envision it as a career**.
+
+Francesco then talks about being a volleyball coach from the age of fifteen to thirty-two and being active in martial arts and other sports. He then tells us that his father was a gym teacher and that his mother is a math teacher.
+
+---
+
+**Chris then asks Francesco,** *"what was that first spark that got you involved in tech?"*
+
+Chris elaborates on the question by explaining that his moment was when he first got his Nintendo. His experience with Nintendo left him with a thirst for learning how it all worked; the programing aspect and the mechanical aspect.
+
+
+
+---
 
 ---
 
