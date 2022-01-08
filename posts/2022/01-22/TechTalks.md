@@ -128,8 +128,8 @@ You can also follow Spaces.am on Twitter: [@spaces_am](https://twitter.com/space
 
 ### Conclusion
 
-Chris Miller's new Twitter Space show "Tech Talk" is already proving to be a MUST LISTEN to show. Tech Talk's premise is to "get to know the person behind the tech," but with tech industry intervention from professionals such as Danny Thompson, it's proving to be much more! 
+Chris Miller's new Twitter Space show "Tech Talks" is already proving to be a MUST LISTEN to show. Tech Talks premise is to "get to know the person behind the tech," but with tech industry intervention from professionals such as Danny Thompson, it's proving to be much more! 
 
-Be sure to tune in LIVE to Chris Miller's "Tech Talk" Tuesdays and Thursdays at 10 am EST, or listen to the replay. All episodes are recorded Twitter Spaces!
+Be sure to tune in LIVE to Chris Miller's "Tech Talks" Tuesdays and Thursdays at 10 am EST, or listen to the replay. All episodes are recorded Twitter Spaces!
 
 
