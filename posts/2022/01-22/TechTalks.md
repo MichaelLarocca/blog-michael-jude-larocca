@@ -13,7 +13,7 @@ This article covers Chris Miller's new Twitter Space show "Tech Talks," a show w
 
 ---
 
-![TXG-57](img/01-10-22/TN-TXG-57.jpg)
+![TXG-57](img/01-10-22/TN-TXG-57-02.jpg)
 
 ---
 About Chris Miller
