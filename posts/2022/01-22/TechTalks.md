@@ -24,13 +24,26 @@ Chris Miller is a web developer, an entrepreneur, and a Tech Twitter regular. Ch
 
 ### About Twitter Spaces
 
-(WRITE ARTICLE SECTION)
+*Twitter Spaces is where live audio conversations happen.
+The conversation about you and your content is at its best on Twitter, and now you can Tweet and talk. Spaces unlocks conversations on Twitter with the depth and power only the human voice can bring.*
+
+> -Twitter
+
+---
+
+Twitter Spaces are held daily by members of the Tech Twitter community. Many conversations held on Twitter Spaces are enriched with valuable content, including advice, interventions, and life lessons taught through experience from seasoned professionals.
+
+**However, unless you were present during these live-hosted Twitter Spaces, you missed out on this valuable content; Until now.**
 
 ---
 
 ### Tech Talks
 
-(WRITE ARTICLE SECTION)
+**Tech Talks** is a new Twitter Space show hosted by Chris Miller where guests from the tech industry are invited on for the purpose of "**getting to know the person behind the tech**."
+
+**Tech Talks takes advantage of the new feature released by Twitter, recorded Twitter Spaces!**
+
+**Tech Talks** is scheduled two times per week, on Tuesdays and Thursdays at 10 am EST, and all episodes are available for replay!
 
 ---
 
@@ -39,6 +52,8 @@ Chris Miller is a web developer, an entrepreneur, and a Tech Twitter regular. Ch
 ---
 
 ### Episode 1
+
+#### Francesco Ciulla
 
 (WRITE ARTICLE SECTION)
 
