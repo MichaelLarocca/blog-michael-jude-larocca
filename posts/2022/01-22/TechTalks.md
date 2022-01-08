@@ -81,9 +81,16 @@ Francesco then talks about being a volleyball coach from the age of fifteen to t
 
 Chris elaborates on the question by explaining that his moment was when he first got his Nintendo. His experience with Nintendo left him with a thirst for learning how it all worked; the programing aspect and the mechanical aspect.
 
+(WRITE ARTICLE SECTION)
+Francesco'S ANSWER...
 
+--- 
+
+***Francesco cites [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) as an influence, particularly the fact that Maximilian's accent improved as he taught more and more courses.*** 
 
 ---
+
+(WRITE ARTICLE SECTION - TS-22:00) 
 
 ---
 
