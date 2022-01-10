@@ -16,7 +16,8 @@ This article covers Chris Miller's new Twitter Space show "Tech Talks," a show w
 ![TXG-57](img/01-10-22/TN-TXG-57-02.jpg)
 
 ---
-About Chris Miller
+
+### About Chris Miller
 
 Chris Miller is a web developer, an entrepreneur, and a Tech Twitter regular. Chris is the founder of [Prolific Digital](https://prolificdigital.com/) and resides in Louisville, Kentucky, United States.
 
@@ -59,6 +60,8 @@ Twitter Spaces are held daily by members of the Tech Twitter community. Many con
 
 Francesco has over 5,000 subscribers on his YouTube channel, where he interviews people in the tech world and creates content on Docker and Containers. He also has over 66,000 followers on Twitter.
 
+---
+
 During the Tech Talks episode, Francesco talks about his first Tweet, which was on the subject of "[SpaceX](https://www.spacex.com/)," which caught the attention of Chris. Francesco explains this Tweet was before he knew about Tech Twitter, and he was just "trying Twitter out." **Francesco then reveals that he wanted to be an astronaut when he was a child**.
 
 ---
@@ -75,28 +78,35 @@ Francesco elaborates on liking computers as he explains that he likes to build t
 
 Francesco then talks about being a volleyball coach from the age of fifteen to thirty-two and being active in martial arts and other sports. He then tells us that his father was a gym teacher and that his mother is a math teacher.
 
----
-
-**Chris then asks Francesco,** *"what was that first spark that got you involved in tech?"*
-
-Chris elaborates on the question by explaining that his moment was when he first got his Nintendo. His experience with Nintendo left him with a thirst for learning how it all worked; the programing aspect and the mechanical aspect.
-
-(WRITE ARTICLE SECTION)
-Francesco'S ANSWER...
-
 --- 
 
 ***Francesco cites [Maximilian Schwarzmüller](https://www.udemy.com/user/maximilian-schwarzmuller/) as an influence, particularly the fact that Maximilian's accent improved as he taught more and more courses.*** 
 
 ---
 
-(WRITE ARTICLE SECTION - TS-22:00) 
+During the lockdown due to the pandemic in 2020, Francesco saved three hours of commute time by starting to work remotely.
+
+Francesco tells us he used the extra three hours a day building his Twitter followers.
+
+Francesco also explains how working remotely via video calls helped him adjust to being comfortable in front of a camera.
+
+On March 31st of 2021, Francesco quit his stressful job to become a full-time freelancer!
+
+---
+
+Even though Francesco is knowledgeable in coding and technologies, he enjoys networking with fellow community members and getting to know them by inviting them onto his [YouTube show](https://www.youtube.com/c/FrancescoCiulla) and interviewing them.
+
+---
+
+*"People are more important than the code they create."*
+
+> -Francesco Ciulla
 
 ---
 
 ***Be sure to listen to the replay of the whole episode!***
 
-[Link to Episode 1](HOLD)
+[Link to Episode 1](https://twitter.com/i/spaces/1MYxNnDQRXQxw?s=20)
 
 ---
 
@@ -142,7 +152,14 @@ Danny Thompson informs us that hiring managers have a different version of Linke
 
 ***Be sure to listen to the replay of the whole episode!***
 
-[Link to Episode 2](HOLD)
+[Link to Episode 2](https://twitter.com/i/spaces/1djGXPDLvNvGZ?s=20)
+
+---
+
+#### *Be sure to tune in to the next Tech Talks episode on January 11th, 2021, with guest Katherine Peterson!*
+
+
+![Katherine Peterson](img/01-10-22/KatherinePeterson.jpg)
 
 ---
 
@@ -170,9 +187,10 @@ You can also follow Spaces.am on Twitter: [@spaces_am](https://twitter.com/space
 
 ### Chris Miller Links
 
-* [Twitter](HOLD)
-* [LinkeIn](HOLD)
-* [Website](HOLD)
+* [Twitter](https://twitter.com/millertchris)
+* [LinkeIn](https://www.linkedin.com/in/millertchris/)
+* [Website](https://prolificdigital.com/)
+* [YouTube](https://www.youtube.com/user/MillerTChris)
 
 ---
 
