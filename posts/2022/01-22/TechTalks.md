@@ -156,10 +156,11 @@ Danny Thompson informs us that hiring managers have a different version of Linke
 
 ---
 
-#### *Be sure to tune in to the next Tech Talks episode on January 11th, 2021, with guest Katherine Peterson!*
-
-
 ![Katherine Peterson](img/01-10-22/KatherinePeterson.jpg)
+
+---
+
+#### *Be sure to tune in to the next Tech Talks episode at 10 am EST on January 11th, 2022, with guest Katherine Peterson!*
 
 ---
 
