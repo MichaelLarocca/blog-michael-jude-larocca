@@ -40,11 +40,11 @@ Twitter Spaces are held daily by members of the Tech Twitter community. Many con
 
 ### Tech Talks
 
-**Tech Talks** is a new Twitter Space show hosted by Chris Miller where guests from the tech industry are invited on for the purpose of "**getting to know the person behind the tech**."
+Tech Talks is a new Twitter Space show hosted by Chris Miller where guests from the tech industry are invited on for the purpose of "getting to know the person behind the tech."
 
 **Tech Talks takes advantage of the new feature released by Twitter, recorded Twitter Spaces!**
 
-**Tech Talks** is scheduled two times per week, on Tuesdays and Thursdays at 10 am EST, and all episodes are available for replay!
+Tech Talks is scheduled two times per week, on Tuesdays and Thursdays at 10 am EST, and all episodes are available for replay!
 
 ---
 
@@ -94,7 +94,7 @@ On March 31st of 2021, Francesco quit his stressful job to become a full-time fr
 
 ---
 
-Even though Francesco is knowledgeable in coding and technologies, he enjoys networking with fellow community members and getting to know them by inviting them onto his [YouTube show](https://www.youtube.com/c/FrancescoCiulla) and interviewing them.
+**Even though Francesco is knowledgeable in coding and technologies, he enjoys networking with fellow community members and getting to know them by inviting them onto his [YouTube show](https://www.youtube.com/c/FrancescoCiulla) and interviewing them.**
 
 ---
 
@@ -106,7 +106,7 @@ Even though Francesco is knowledgeable in coding and technologies, he enjoys net
 
 ***Be sure to listen to the replay of the whole episode!***
 
-[Link to Episode 1](https://twitter.com/i/spaces/1MYxNnDQRXQxw?s=20)
+**[Link to Episode 1](https://twitter.com/i/spaces/1MYxNnDQRXQxw?s=20)**
 
 ---
 
@@ -118,7 +118,7 @@ Even though Francesco is knowledgeable in coding and technologies, he enjoys net
 
 #### Matthew Smith
 
-In episode two, we are introduced to **Matthew Smith**. Like many of us, including myself, Matthew wants to land his first job in tech as a career changer.
+In episode two, we are introduced to **[Matthew Smith](https://twitter.com/Matthew_WebDev)**. Like many of us, including myself, Matthew wants to land his first job in tech as a career changer.
 
 Matthew Smith has spent many years as a professional chef in the foodservice industry. He describes the long hours he worked and how he believes the restaurant business model is broken. Matthew elaborates that the markup and the pay are low in the restaurant model, resulting in many businesses closing down shortly after the government enforced restrictions due to the pandemic.
 
@@ -152,7 +152,7 @@ Danny Thompson informs us that hiring managers have a different version of Linke
 
 ***Be sure to listen to the replay of the whole episode!***
 
-[Link to Episode 2](https://twitter.com/i/spaces/1djGXPDLvNvGZ?s=20)
+**[Link to Episode 2](https://twitter.com/i/spaces/1djGXPDLvNvGZ?s=20)**
 
 ---
 
@@ -182,14 +182,14 @@ Never miss out on an upcoming Twitter Space again! Chris invites us to signup fo
 
 ---
 
-You can also follow Spaces.am on Twitter: [@spaces_am](https://twitter.com/spaces_am)
+**You can also follow Spaces.am on Twitter: [@spaces_am](https://twitter.com/spaces_am)**
 
 ---
 
 ### Chris Miller Links
 
 * [Twitter](https://twitter.com/millertchris)
-* [LinkeIn](https://www.linkedin.com/in/millertchris/)
+* [LinkedIn](https://www.linkedin.com/in/millertchris/)
 * [Website](https://prolificdigital.com/)
 * [YouTube](https://www.youtube.com/user/MillerTChris)
 
@@ -200,5 +200,9 @@ You can also follow Spaces.am on Twitter: [@spaces_am](https://twitter.com/space
 Chris Miller's new Twitter Space show "Tech Talks" is already proving to be a MUST LISTEN to show. Tech Talks premise is to "get to know the person behind the tech," but with tech industry intervention from professionals such as Danny Thompson, it's proving to be much more! 
 
 Be sure to tune in LIVE to Chris Miller's "Tech Talks" Tuesdays and Thursdays at 10 am EST, or listen to the replay. All episodes are recorded Twitter Spaces!
+
+---
+
+###### Are you now interested in Chris Miller's new Twitter Space show "Tech Talks"? Have you already listened to the latest episode? Please share the article and comment!
 
 
