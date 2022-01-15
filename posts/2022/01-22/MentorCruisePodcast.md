@@ -60,7 +60,7 @@ During the Podcast, Dylan discusses his path to success as a self-taught develop
 
 ---
 
-Humble Beginnings
+### Humble Beginnings
 
 Like many people, Dylan chose to go to college because it was the typical path. Admittedly, Dylan only gave college a "half effort" because he wasn't happy there.
 
