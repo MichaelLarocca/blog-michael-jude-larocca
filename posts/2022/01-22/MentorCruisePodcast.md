@@ -43,7 +43,7 @@ The MentorCruise Podcast is a brand new Podcast consisting of in-depth conversat
 
 ---
 
-### EP 1 - Breaking into big tech w/ Dylan Israel
+### EP 1 - Breaking into big tech with Dylan Israel
 
 Dylan Israel is the first guest on the new MentorCruise Podcast, and the topic is "**Breaking into big tech**."
 
@@ -163,6 +163,7 @@ Dylan tells us there are many applicants to the big "FAANG" tech companies and e
 * Podcaster
 * Conference Speaker
 * Mentor
+
 ---
 
 *"How am I different than other engineers? Well, I build courses, I do YouTube. I have podcasts. I spoke at conferences. And then they were, great! We found our diamond in the rough type of guy."*
@@ -186,37 +187,6 @@ You can use this link to check out Amazon's [Explore](https://www.amazon.com/b?n
 ---
 
 ![Amazon Explore](img/01-17-22/AmazonExplore.png)
-
----
-
-### Dylan's Projects
-
-**YouTube channel** 
-
-Dylan's YouTube channel [CodingTutorials360](https://www.youtube.com/c/CodingTutorials360/about) has over 79,000 subscribers, and the channel's total views are over 5.8 million.
-
-**YouTube channel description**
-
-*"Coders and inspiring programmers have come to the correct channel. Daily uploads of multiple object-oriented programming languages. Specializing with JavaScript and its frameworks such as jQuery, Angular, React, and more. Most of the content is focused around online tutorial sites such as Codecademy, FreeCodeCamp, and CodeCombat."*
-
----
-
-**Podcast**
-
-The [Self-Taught or Not](https://www.selftaughtornot.com/) Podcast covers the "do's and don'ts" of software development and is hosted by Dylan Israel & Erik Hanchett. 
-
-*Dylan tells us he put his YouTube and Podcast on hold as he is currently building courses.*
-
----
-
-**Building courses for:**
-
-* LinkedIn Learning
-* w3schools
-
-For **LinkedIn Learning**, Dylan created a course for Unit Testing with Jasmine and a course for TypeScript.
-
-Many self-taught developers find their way to [w3schools](https://www.w3schools.com/) when learning how to code, including Dylan. Now Dylan is creating "[TypeScript](https://en.wikipedia.org/wiki/TypeScript)" content for w3schools!
 
 ---
 
@@ -252,6 +222,51 @@ Erik has a Bachelor's Degree in Computer Science and an M.B.A. in Entrepreneursh
 
 ---
 
+### Dominic Monn Links
+
+The host for the MentorCruise Podcast is **Dominic Monn**. Be sure to give him a follow!
+
+* [Twitter](https://twitter.com/dqmonn)
+
+* [GitHub](https://github.com/dmonn)
+
+---
+
+#### *Be sure to check out the [MentorCruise website](https://mentorcruise.com/)!*
+
+---
+
+### Dylan's Projects
+
+**YouTube channel** 
+
+Dylan's YouTube channel [CodingTutorials360](https://www.youtube.com/c/CodingTutorials360/about) has over 79,000 subscribers, and the channel's total views are over 5.8 million.
+
+**YouTube channel description**
+
+*"Coders and inspiring programmers have come to the correct channel. Daily uploads of multiple object-oriented programming languages. Specializing with JavaScript and its frameworks such as jQuery, Angular, React, and more. Most of the content is focused around online tutorial sites such as Codecademy, FreeCodeCamp, and CodeCombat."*
+
+---
+
+**Podcast**
+
+The [Self-Taught or Not](https://www.selftaughtornot.com/) Podcast covers the "do's and don'ts" of software development and is hosted by Dylan Israel & Erik Hanchett. 
+
+*Dylan tells us he put his YouTube and Podcast on hold as he is currently building courses.*
+
+---
+
+**Building courses for:**
+
+* LinkedIn Learning
+* w3schools
+
+For **LinkedIn Learning**, Dylan created a course for Unit Testing with Jasmine and a course for TypeScript.
+
+Many self-taught developers find their way to [w3schools](https://www.w3schools.com/) when learning how to code, including Dylan. Now Dylan is creating "[TypeScript](https://en.wikipedia.org/wiki/TypeScript)" content for w3schools!
+
+---
+
 ### My other Dylan Israel articles
 
 * [Communication skill advice from a six-figure Amazon developer](https://selftaughttxg.com/2021/06-21/06-28-21/)
@@ -279,20 +294,6 @@ Erik has a Bachelor's Degree in Computer Science and an M.B.A. in Entrepreneursh
 * [Twitter](https://twitter.com/PizzaPokerGuy)
 
 * [LinkedIn](https://www.linkedin.com/in/dylan310/)
-
----
-
-### Dominic Monn Links
-
-The host for the MentorCruise Podcast is **Dominic Monn**. Be sure to give him a follow!
-
-* [Twitter](https://twitter.com/dqmonn)
-
-* [GitHub](https://github.com/dmonn)
-
----
-
-#### *Be sure to check out the [MentorCruise website](https://mentorcruise.com/)!*
 
 ---
 
