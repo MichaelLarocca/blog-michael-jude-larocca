@@ -18,11 +18,9 @@ date: "2022-01-17"
 
 ### About MentorCruise
 
-MentorCruise is a service where you can hire a mentor for a flat monthly price.
+Through MentorCruise, you can hire a dedicated career coach to help and support you in reaching your goals for a flat monthly price.
 
 ---
-
-#### At your fingertips: a dedicated career coach.
 
 *"Want to ace your next job interview? Successfully build your startup? Itching to learn high-demand skills? Work smart with an online mentor or coach by your side to offer expert advice and guidance to match your zeal. Become unstoppable using MentorCruise."*
 
@@ -48,7 +46,7 @@ The MentorCruise Podcast is a brand new Podcast consisting of in-depth conversat
 
 Dylan Israel is the first guest on the new MentorCruise Podcast, and the topic is "**Breaking into big tech**."
 
-During the Podcast, Dylan discusses his path to success as a self-taught developer, from his humble beginnings to landing his first job at a "**FAANG**" company. 
+Dylan discusses his path to success as a self-taught developer during the Podcast, from his humble beginnings to landing his first job at a "FAANG" company. 
 
 *(* ***FAANG:*** *Facebook, Amazon, Apple, Netflix, and Google)*
 
@@ -66,7 +64,7 @@ Like many people, Dylan chose to go to college because it was the typical path. 
 
 Dylan decided to drop out of college to pursue becoming a software engineer on his own. He describes his first job in tech as "a cross between a business analyst and a technical writer." He worked 50 hours a week.
 
-Continuing his education, Dylan spent a lot of time taking coding courses from online schools; Dylan cites [codecademy](https://www.codecademy.com/) and [freeCodeCamp](https://www.freecodecamp.org/).
+Continuing his education, Dylan spent a lot of time taking coding courses from online schools; Dylan cites [Codecademy](https://www.codecademy.com/) and [freeCodeCamp](https://www.freecodecamp.org/).
 
 While learning with these online schools, Dylan created his own [YouTube channel](https://www.youtube.com/user/pizzapokerguy87), where he documents and teaches what he is learning. 
 
@@ -79,6 +77,18 @@ While learning with these online schools, Dylan created his own [YouTube channel
 ---
 
 **Many people found Dylan's resourceful and inspirational YouTube channel and coded along with him, including me!**
+
+However, not everyone shared my positive opinion of [Dylan Israel's YouTube Chanel](https://www.youtube.com/user/pizzapokerguy87). Throughout his self-taught coding journey, Dylan has come across traditionally trained developers and "[Trolls](https://en.wikipedia.org/wiki/Internet_troll)" who were vocal about their disbelief in his ability to become a professional engineer.
+
+---
+
+*"The comment was like, Hey! Self-taught engineers will never be engineers or something like that. Part of it was maybe a chip on my shoulder and being like, listen, I can work anywhere, and I will prove it to you, and am going to Big 4, big tech companies."*
+
+> -Dylan Israel
+
+---
+
+**Dylan pursued his journey and persevered in becoming a professional engineer despite their negativity.**
 
 ---
 
@@ -100,50 +110,69 @@ Dylan worked at [Price Waterhouse Cooper](https://www.pwc.com/), a big company, 
 
 ![Dylan Israel Amazon](img/01-17-22/DylanIsrael-Amazon.jpg)
 
---
+---
 
 ### What to expect at a FAANG interview
 
-(WRITE ARTICLE SECTION)
+**Amazon was not the first FAANG company Dylan interviewed for. He interviewed five times at FAANG companies before being hired.**
 
-notes: 4- to 6-hour interview loop
+Dylan informs us that each FAANG interview is a four to six-hour process.
 
-Amazon was not the first FAANG company Dylan interviewed for.
+---
 
+*"I had 5 FAANG interviews before I got my first FAANG job, right? And that is not a fun process to go through by any means, right? That is probably 30 hours of just interviews that did not amount to much of anything other than a learning experience. It absolutely is worth and it absolutely has made me a better engineer and has had a positive impact on my career trajectory."* 
 
---
+> -Dylan Israel
+
+--- 
+
+Dylan tells us, although all of his "passion projects" got him the attention he needed to get his foot in the door of FAANG companies, during the interview, all of that "goes out the window," and it's straight onto "data structures and algorithms tests."
+
+**In addition to data structures and algorithms questions, FAANG companies also require you to take behavioral tests. Dylan tells us that we need to show that we have confidence, and we need to believe in our own skillset, or "people are going to pick up on that," and they are not going to hire us.** 
+
+---
+
+*"You have to be able to sell yourself. You have to be able to answer questions, interact. So much of any job is not only the technical part. Do people perceive you are going to be easy to work with? that you are going to be fun to work with? and that they are going to ask you a question and you are not just going to grunt back at them, right? So, I do not think you need to be an extrovert by any sense of imagination, but you have to be able to communicate your experience and be confident that you can, for some of those behavioral questions."*
+
+> -Dylan Israel
+
+---
 
 ### What FAANG companies look for in candidates
 
-(WRITE ARTICLE SECTION)
+**During the Podcast, Dylan provides us with valuable information on what big tech companies look for in candidates:**
 
-Dylan provides us with valuable information on what big tech companies look for in candidates:
+*"It is like, hey, we want somebody who brings something different to the team, and it is going to make the team better."*
 
-"Hey, we want somebody who brings something different to the team and it is going to make the team better" 
+> -Dylan Israel
 
-
---
+---
 
 Dylan tells us there are many applicants to the big "FAANG" tech companies and explains what the applicants have in common and what will help you to stand out.
 
-**applicants have in common:**
+**Applicants have in common:**
 
 * Software engineer
 * Work experience
 
 **How Dylan stands out from other applicants:**
 
-* Conference speaker
-* Course creator
-* Podcaster
+* Course Creator
 * YouTuber
+* Podcaster
+* Conference Speaker
 * Mentor
+---
 
+*"How am I different than other engineers? Well, I build courses, I do YouTube. I have podcasts. I spoke at conferences. And then they were, great! We found our diamond in the rough type of guy."*
 
-notes: ***confident and clearly articulate***
+> -Dylan Israel
 
+---
 
---
+**Dylan also tells us, to pass the interview, we have to be confident and be able to articulate our expertise clearly.**
+
+---
 
 ### What Dylan does at Amazon
 
