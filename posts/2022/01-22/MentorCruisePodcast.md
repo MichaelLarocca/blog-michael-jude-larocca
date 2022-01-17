@@ -3,6 +3,7 @@ title: "The MentorCruise Podcast"
 tags:
   [
     "review",
+    "recruitment",
   ]
 published: true
 date: "2022-01-17"
