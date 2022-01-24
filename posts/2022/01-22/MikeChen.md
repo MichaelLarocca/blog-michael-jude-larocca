@@ -163,7 +163,7 @@ Mike noticed, as well as I did, that Scrimba has a thriving Discord community. M
 
 ---
 
-Learning in Public
+### Learning in Public
 
 Why are some people afraid of learning in public? Mike addresses this question by letting us know that he was one of them!
 
