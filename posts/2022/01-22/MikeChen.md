@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Mike Chen: Career Tips From a CTO"
 tags:
   [
     "scrimba",
@@ -10,9 +10,9 @@ published: true
 date: "2022-01-24"
 ---
 
-### Intro
+### Mike Chen: Career Tips From a CTO
 
-(WRITE ARTICLE SECTION)
+In this week's article, CTO and co-founder at Motivo Mike Chen visits us on a Scrimba Livestream to give us the tips we need to help us break into tech! Interview prep, salary negotiation, and more!
 
 --- 
 
@@ -214,16 +214,28 @@ Mike tells us that building an online presence is "**very helpful**," but it is 
 
 ### Mike Chen Links
 
-(WRITE ARTICLE SECTION)
-
-
-[Twitter](https://twitter.com/genericmikechen)
-[Twitch](https://twitch.tv/genericmikechen)
+* [Twitter](https://twitter.com/genericmikechen)
+* [LinkedIn](https://www.linkedin.com/in/chenhmike/)
+* [Website](https://mikechen.io/)
+* [Twitch](https://twitch.tv/genericmikechen)
 
 ---
 
 ### Conclusion
 
-(WRITE ARTICLE SECTION)
+Being adequately prepared will significantly help us in passing interviews. We need to know the current market value of the position we are applying for and be willing to negotiate to secure proper compensation.
 
+Practicing via mock interviews will help us improve our elevator pitch, discuss "S.T.A.R." situations, articulate transferable skills, and help us to feel more comfortable talking about our weaknesses. 
+
+Creating an online presence by learning in public will provide us with a competitive advantage by demonstrating our programming abilities and work ethic, ultimately giving us the best chance of being hired!
+
+---
+
+##### **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### Did Mike's advice on interview preparation help you? Would you like to or have you already participated in Mike's Twitch stream mock interview? Please share the article and comment!
+
+---
 
