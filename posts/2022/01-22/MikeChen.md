@@ -10,9 +10,7 @@ published: true
 date: "2022-01-24"
 ---
 
-### Mike Chen: Career Tips From a CTO
-
-In this week's article, CTO and co-founder at Motivo Mike Chen visits us on a Scrimba Livestream to give us the tips we need to help us break into tech! Interview prep, salary negotiation, and more!
+#### In this week's article, CTO and co-founder at Motivo Mike Chen visits us on a Scrimba Livestream to give us the tips we need to help us break into tech! Interview prep, salary negotiation, and more!
 
 --- 
 
