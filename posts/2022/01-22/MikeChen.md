@@ -10,7 +10,7 @@ published: true
 date: "2022-01-24"
 ---
 
-#### In this week's article, CTO and co-founder at Motivo Mike Chen visits us on a Scrimba Livestream to give us the tips we need to help us break into tech! Interview prep, salary negotiation, and more!
+#### In this week's article, CTO and Co-Founder at Motivo Mike Chen visits us on a Scrimba Livestream to give us the tips we need to help us break into tech! Interview prep, salary negotiation, and more!
 
 --- 
 
@@ -30,7 +30,7 @@ Motivo is the first HIPAA-compliant platform connecting therapists to clinical s
 
 *"Motivo connects new therapists with experienced clinical supervisors from the beginning to the end of the therapist licensure process."*
 
-> -[Motive.com](https://motivohealth.com/).
+> -[Motivo](https://motivohealth.com/).
 
 ---
 
@@ -45,7 +45,7 @@ After the Twitch stream, Mike holds a Q&A session to provide feedback for the pa
 ---
 
 James Robinson, who is Mike's friend and Twitch stream partner, created a helpful chart that is available on **reddit.com**:
-[a rough guide to the frontend interview process](https://www.reddit.com/r/webdev/comments/rs8wlw/a_rough_guide_to_the_frontend_interview_process/)
+[A rough guide to the frontend interview process](https://www.reddit.com/r/webdev/comments/rs8wlw/a_rough_guide_to_the_frontend_interview_process/)
 
 ---
 
