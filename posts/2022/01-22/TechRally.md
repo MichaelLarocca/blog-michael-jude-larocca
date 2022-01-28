@@ -147,7 +147,7 @@ For building our online presence, Alex recommends we focus on **blogging** and p
 
 Alex is a regular on Twitter and hosts and participates in Twitter Spaces. 
 
-*I am pleased to say Alex recognized me from Twitter, and since I blog weekly, I'm on the right track to building my online presence!*
+*I am pleased to say Alex recognized me from Twitter, and since I blog weekly, I'm on the right track in building my online presence!*
 
 ---
 
