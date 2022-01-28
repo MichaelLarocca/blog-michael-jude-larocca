@@ -30,7 +30,7 @@ Motivo is the first HIPAA-compliant platform connecting therapists to clinical s
 
 *"Motivo connects new therapists with experienced clinical supervisors from the beginning to the end of the therapist licensure process."*
 
-> -[Motivo](https://motivohealth.com/).
+> -[Motivo](https://motivohealth.com/)
 
 ---
 
