@@ -133,26 +133,35 @@ TS-57:00
 
 ### Building your online presence
 
-(WRITE ARTICLE SECTION)
+**During the Livestream, I asked if Alex had any tips for building our online presence, such as he did.**
 
 ---
 
 ![ML-53](img/01-31-22/ML-53.jpg)
 
+***Timestamp: 52:00***
+
 ---
 
-### Networking
+For building our online presence, Alex recommends we focus on **blogging** and participating on **Twitter**. He explains that Twitter Spaces are getting pretty big and that it is an organic way to meet other developers.
 
-(WRITE ARTICLE SECTION)
+Alex is a regular on Twitter and hosts and participates in Twitter Spaces. 
 
-
-**Twitter**
+*I am pleased to say Alex recognized me from Twitter, and since I blog weekly, I'm on the right track to building my online presence!*
 
 ---
 
 ![AK-55](img/01-31-22/AK-55.jpg)
 
+***Leanne, the Scrimba Livestream host, informed us that she got her job at Scrimba through Twitter!***
+
 ---
+
+
+### Networking
+
+(WRITE ARTICLE SECTION)
+
 
 ### Interviewing
 
