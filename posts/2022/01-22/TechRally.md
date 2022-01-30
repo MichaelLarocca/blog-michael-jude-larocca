@@ -22,7 +22,7 @@ date: "2022-01-31"
 
 ### About Alexander Lee (Tech Rally)
 
-Alex graduated from the University of California, San Diego (UCSD) in 2011 with a Mechanical Engineering degree. He currently works a Amazon as a Frontend Engineer.
+Alex graduated from the University of California, San Diego (UCSD) in 2011 with a Mechanical Engineering degree. He currently works a Amazon as a Front End Engineer.
 
 Alex attended a three-month Bootcamp in Manhatten, and two months after completing it, he started a job as a full stack developer at an agency.
 
@@ -34,8 +34,33 @@ Alex is a helpful member of the Tech Twitter community, where he regularly helps
 
 ### Portfolio
 
-(WRITE ARTICLE SECTION)
+For developers seeking a career in tech, Alex informs us that a portfolio website is essential.
 
+---
+
+*[Tufts University defines,](https://careers.tufts.edu/resources/what-is-an-online-portfolio/) "An online portfolio (may also be called a digital portfolio or e-portfolio) is an online representation of work you have created, as well as your skills and experiences. It could be a website, blog, or even a video channel. It could include your resume, a summary of qualifications and skills, images of class projects or design samples, audio and video, charts and schematics, process flows, and more."*
+
+---
+
+However, Alex tells us that most developers experience "[analysis paralysis](https://en.wikipedia.org/wiki/Analysis_paralysis)" due to overcomplicating a portfolio by thinking they have to use a framework like React, learn to use backend systems, create functionality for a blog, and other such complications.
+
+**Alex tells us all we need for our portfolio is HTML, CSS, and a little JavaScript.**
+
+For a visual representation of what our portfolio website should be, Alex describes it as a museum, where our displayed projects are the main focus; the main focus is not the museum itself.
+
+---
+
+### Design and Color Scheme
+
+Design and color theory are beyond the scope of simply coding a website. 
+
+As a solution to creating a professional-looking portfolio website without learning design and color theory, Alex introduces us to HTML templates. 
+
+By utilizing HTML templates, we can customize them with our information to fit our needs and retain a professional look for our portfolio.
+
+In addition to free HTML templates available online, Alex recommends [themeforest.net](https://themeforest.net/category/site-templates) as a good resource.
+
+***Note: Free HTML templates may include a "watermark."***
 
 ---
 
