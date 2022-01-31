@@ -12,7 +12,7 @@ date: "2022-01-31"
 
 ### Tech Rally - Career Tips From an Amazon Dev
 
-#### In this week's article, Alexander Lee (Tech Rally) joins us on a Scrimba Livestream to give us the tips we need to help us break into tech! Portfolio building, networking, interview guidance, and more!
+#### In this week's article, Alexander Lee (Tech Rally) joins us on a Scrimba Livestream to give us the tips we need to help us break into tech! Portfolio building, interview guidance, networking, and more!
 
 ---
 
@@ -295,6 +295,6 @@ To network and build your online presence, Twitter is an excellent resource. Twi
 
 ---
 
-??
+###### Are you now encouraged to create a portfolio website? Has Alex's advice on interviewing and networking helped you? Please share the article and comment!
 
 ---
