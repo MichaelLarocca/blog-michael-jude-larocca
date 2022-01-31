@@ -76,7 +76,7 @@ Alex tells us we do not have to purchase a premium domain, such as a ".com" and 
 
 ---
 
-***To learn how to attract attention to your portfolio website, you can read my article [Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)***
+***To learn how to attract attention to your portfolio website, you can read my article "[Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)."***
 
 ---
 
