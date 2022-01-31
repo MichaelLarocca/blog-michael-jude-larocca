@@ -210,11 +210,11 @@ Alex explains that Twitter Spaces are getting pretty big and that it is an organ
 
 ### Interviewing
 
-While interviewing, Alex implores us to switch the narrative of “I can’t” to “I can.”
+While interviewing, Alex implores us to switch the narrative of "I can't" to "I can."
 
-To illustrate, Alex tells us if we are asked about a programming language we don’t know, such as Python, we should mention a language we do know, such as Ruby, and explain how our Ruby skills are transferable to Python. 
+To illustrate, Alex tells us that if we are asked about a programming language we don't know, such as Python, we should mention a language we know, such as Ruby, and explain how our Ruby skills are transferable to Python. 
 
-Also, Alex advises us to ask for feedback after the interviews. Doing so will give us valuable insight on areas we need to approve on.
+Also, Alex advises us to ask for feedback after the interviews. Doing so will give us valuable insight into areas we need to approve.
 
 ---
 
@@ -283,8 +283,11 @@ If your looking for front-end developer questions to practice with, then be sure
 
 ### Conclusion
 
-(WRITE ARTICLE SECTION)
+A portfolio website is essential for web developers looking to land their first job in tech. A portfolio website does not have to be complex in its build, as the primary focus should be on the projects displayed.
 
+While interviewing, we need to present ourselves in the best light possible. Direct the conversation on what you can do and what you have accomplished. Also, know that internships and freelancing are suitable substitutes to fulfill work experience requirements.
+
+To network and build your online presence, Twitter is an excellent resource. Twitter is a platform where you can share your work, meet other developers, and participate in Twitter Spaces, resulting in "getting your name out there," ultimately giving you a competitive advantage when seeking employment opportunities!
 
 ---
 
