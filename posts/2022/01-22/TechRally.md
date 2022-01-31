@@ -66,29 +66,40 @@ In addition to free HTML templates available online, Alex recommends [themefores
 
 ### Purchase your own domain
 
-(WRITE ARTICLE SECTION)
+In addition to encouraging us to deploy all of our portfolio projects, Alex also encourages us to buy a custom domain name for our portfolio website.
+
+Alex tells us we do not have to purchase a premium domain, such as a ".com" and you can buy one for as low as five dollars.
 
 ---
 
-*"If you're not willing to invest in yourself, then how can you expect a hiring manager or recruiter to invest in you."*
+"If you're not willing to invest in yourself, then how can you expect a hiring manager or recruiter to invest in you."
 
 > -Tech Rally 
 
 ---
 
-### Portfolio Projects
-
-(WRITE ARTICLE SECTION)
+***To learn about portfolio website reviews, you can read my article [Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)***
 
 ---
 
 ### Presentable GitHub
 
-(WRITE ARTICLE SECTION)
+Initially, Alex did not believe having a presentable GitHub was essential. Since Alex has been conversing with his peers on Twitter, his opinion has changed.
+
+Alex tells us our GitHub will be scrutinized, and it is in our best interest to make sure it is pristine.
+
+**Our GitHub will be judged by:**
+
+* Activity
+* Projects 
+* Quality of our code
+
+In addition, To help our GitHub Profiles stand out from the crowd, Eddie Jaoude and Jesse Hall created excellent FREE resources to optimize our profiles.
+
+I have taken both tutorials and have written and documented the process in these two articles. I highly recommend them!
 
 * [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
 * [How to Create a Next Level GitHub Profile, with Jesse Hall](https://selftaughttxg.com/2021/11-21/CreateAGitHubProfileJesseHall/)
-
 
 ---
 
@@ -105,15 +116,19 @@ As a developer trying to land your first job in tech, how can you apply for a jo
 
 ### Internships
 
-(WRITE ARTICLE SECTION)
+Alex presents an internship as a viable way to fulfill the work experience requirement. 
+
+However, Alex acknowledges an internship may not be suitable for everyone, especially an unpaid internship.
+
+In any event, Alex says we may “have to do what we have to do” to get our foot in the door for our first tech job.
 
 ---
 
 ### Freelancing
 
-(WRITE ARTICLE SECTION)
+Alex tells us that freelancing also counts as work experience and that we should include any freelancing work we have done on our resume.
 
-Alex tells us that freelancing counts as work experience to your resume.
+To get started as a freelancer, you can read my [Freelancing 101 - with Sarah Shook](https://selftaughttxg.com/2021/07-21/Freelancing101-WithSarahShook/) article.
 
 ---
 
@@ -147,8 +162,13 @@ Again referencing my previous [LinkedIn review article I wrote](https://selftaug
 
 ### Transferable Skills
 
-(WRITE ARTICLE SECTION)
-TS-57:00
+For those who are transitioning into tech without an educational degree in coding, Alex explains that our best approach is to present ourselves well by highlighting our projects and skills in our:
+
+* Resume
+* Portfolio 
+* LinkedIn 
+
+If we do not have a degree, list all your skills above your education on your resume. If you have a degree, list your education above your skills on your resume.
 
 ---
 
@@ -170,9 +190,13 @@ TS-57:00
 
 For building our online presence, Alex recommends we focus on **blogging** and participating on **Twitter**. He explains that Twitter Spaces are getting pretty big and that it is an organic way to meet other developers.
 
-Alex is a regular on Twitter and hosts and participates in Twitter Spaces. 
+Through his own experience, Alex says YouTube is slow in building an online presence as a developer.
 
-*I am pleased to say Alex recognized me from Twitter, and since I blog weekly, I'm on the right track in building my online presence!*
+---
+
+### Networking
+
+Alex explains that Twitter Spaces are getting pretty big and that it is an organic way to meet other developers, and he tells us that Twitter Spaces is an excellent place to network.
 
 ---
 
@@ -182,21 +206,21 @@ Alex is a regular on Twitter and hosts and participates in Twitter Spaces.
 
 ---
 
-
-### Networking
-
-(WRITE ARTICLE SECTION)
-
-
 ### Interviewing
 
-(WRITE ARTICLE SECTION)
+While interviewing, Alex implores us to switch the narrative of “I can’t” to “I can.”
+
+To illustrate, Alex tells us if we are asked about a programming language we don’t know, such as Python, we should mention a language we do know, such as Ruby, and explain how our Ruby skills are transferable to Python. 
+
+Also, Alex advises us to ask for feedback after the interviews. Doing so will give us valuable insight on areas we need to approve on.
 
 ---
 
 ### Data Structure and Algorithms
 
-(WRITE ARTICLE SECTION)
+While applying for a Front-End Web Developer position, you may or may not be tested on data structures and algorithms.
+
+However, we are told by Alex while interviewing at FAANG company’s, such as Amazon, you will be tested on data structures and algorithms.
 
 ---
 
@@ -213,10 +237,9 @@ Alex is a regular on Twitter and hosts and participates in Twitter Spaces.
 
 ### frontendeval
 
-(WRITE ARTICLE SECTION)
+If your looking for front-end developer questions to practice with, then be sure to check out [frontendeval](https://frontendeval.com/)!
 
-[frontendeval](https://frontendeval.com/)
-
+[frontendeval](https://frontendeval.com/) is a platform created by Alex and Mike Chen to practice front-end exercises. All of the questions are FREE!
 
 ---
 
