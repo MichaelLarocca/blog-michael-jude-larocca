@@ -72,7 +72,7 @@ Alex tells us we do not have to purchase a premium domain, such as a ".com" and 
 
 ---
 
-"If you're not willing to invest in yourself, then how can you expect a hiring manager or recruiter to invest in you."
+*"If you're not willing to invest in yourself, then how can you expect a hiring manager or recruiter to invest in you."*
 
 > -Tech Rally 
 
@@ -84,7 +84,7 @@ Alex tells us we do not have to purchase a premium domain, such as a ".com" and 
 
 ### Presentable GitHub
 
-Initially, Alex did not believe having a presentable GitHub was essential. Since Alex has been conversing with his peers on Twitter, his opinion has changed.
+Initially, Alex did not believe having a presentable GitHub was essential. After conversing with his peers on Twitter, Alex has since changed his mind on the importance.
 
 Alex tells us our GitHub will be scrutinized, and it is in our best interest to make sure it is pristine.
 
@@ -94,7 +94,9 @@ Alex tells us our GitHub will be scrutinized, and it is in our best interest to 
 * Projects 
 * Quality of our code
 
-In addition, To help our GitHub Profiles stand out from the crowd, Eddie Jaoude and Jesse Hall created excellent FREE resources to optimize our profiles.
+---
+
+In addition, to help our GitHub Profiles stand out from the crowd, Eddie Jaoude and Jesse Hall created **excellent FREE resources** to optimize our profiles.
 
 I have taken both tutorials and have written and documented the process in these two articles. I highly recommend them!
 
@@ -136,7 +138,7 @@ Here is an important note about stating you're a **freelancer**. In a previous [
 
 Danny Thompson explains there is a distinct difference between being a **freelancer** and being a **student**.
 
-When you state that you are a freelancer, hiring managers want to see receipts, Meaning you were paid for your work.
+When you state that you are a freelancer, hiring managers want to see receipts, meaning you were paid for your work.
 
 ---
 
@@ -168,7 +170,7 @@ For those who are transitioning into tech without an educational degree in codin
 * Portfolio 
 * LinkedIn 
 
-If we do not have a degree, list all your skills above your education on your resume. If you have a degree, list your education above your skills on your resume.
+If we do not have a degree in coding, list all your skills above your education on your resume. If you have a degree in coding, list your education above your skills on your resume.
 
 ---
 
@@ -239,7 +241,7 @@ However, we are told by Alex while interviewing at FAANG company’s, such as Am
 
 If your looking for front-end developer questions to practice with, then be sure to check out [frontendeval](https://frontendeval.com/)!
 
-[frontendeval](https://frontendeval.com/) is a platform created by Alex and Mike Chen to practice front-end exercises. All of the questions are FREE!
+[frontendeval](https://frontendeval.com/) is a platform created by Alex and Mike Chen to practice front-end exercises. **All of the questions are FREE!**
 
 ---
 
@@ -249,7 +251,7 @@ If your looking for front-end developer questions to practice with, then be sure
 
 *"Get ahead of the curve by training with exercises that mimic the questions asked by top Silicon Valley companies and startups."*
 
->- frontendeval
+> -frontendeval
 
 ---
 
