@@ -188,7 +188,7 @@ If we do not have a degree in coding, list all your skills above your education 
 
 ---
 
-For building our online presence, Alex recommends we focus on **blogging** and participating on **Twitter**. He explains that Twitter Spaces are getting pretty big and that it is an organic way to meet other developers.
+For building our online presence, Alex recommends we focus on **blogging** and participating on **Twitter**.
 
 Through his own experience, Alex says YouTube is slow in building an online presence as a developer.
 
