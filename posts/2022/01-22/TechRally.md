@@ -10,8 +10,6 @@ published: true
 date: "2022-01-31"
 ---
 
-### Tech Rally - Career Tips From an Amazon Dev
-
 #### In this week's article, Alexander Lee (Tech Rally) joins us on a Scrimba Livestream to give us the tips we need to help us break into tech! Portfolio building, interview guidance, networking, and more!
 
 ---
@@ -78,7 +76,7 @@ Alex tells us we do not have to purchase a premium domain, such as a ".com" and 
 
 ---
 
-***To learn about portfolio website reviews, you can read my article [Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)***
+***To learn how to attract attention to your portfolio website, you can read my article [Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)***
 
 ---
 
