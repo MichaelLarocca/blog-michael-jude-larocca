@@ -120,7 +120,7 @@ Shashi wisely suggests that we follow resourceful content creators on Twitter to
 
 **Shashi explains that he doesn't have the time and luxury to "deep dive" into new topics and trends, so he learns about them from other talented creators that keep us informed.**
 
-Shashi cites Kevin Powell (@KevinJPowell) and Jhey (@jh3yy) as his resources.
+Shashi cites Kevin Powell ([@KevinJPowell](https://twitter.com/KevinJPowell)) and Jhey ([@jh3yy](https://twitter.com/jh3yy)) as his resources.
 
 ---
 
