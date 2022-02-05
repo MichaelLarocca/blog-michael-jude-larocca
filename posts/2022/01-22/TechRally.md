@@ -1,5 +1,5 @@
 ---
-title: "Tech Rally - Career Tips From an Amazon Dev"
+title: "Tech Rally: Career Tips From an Amazon Dev"
 tags:
   [
     "scrimba",
