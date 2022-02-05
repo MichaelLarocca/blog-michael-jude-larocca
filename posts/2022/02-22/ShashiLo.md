@@ -73,7 +73,52 @@ TS-24
 ---
 
 ### Common UI Design Mistakes
-(WRITE ARTICLE SECTION)
+
+**Below is a list of common UI design mistakes that Shashi had identified:**
+
+* Inconsistency
+* Proper balance in sections
+* Poor usage of Typography
+* Lack of a hover state
+* Text-only links within a button
+
+---
+
+**Inconsistency**
+
+Websites do not have consistent styles for buttons or typography.
+
+---
+
+**Proper balance in sections**
+
+Shashi tells us he sees web pages with a div at the top with a 20-pixel margin, but there is a 100-pixel margin at the bottom of the div.
+
+---
+
+**Poor usage of Typography**
+
+Shashi explains that combining typography (fonts) is difficult.
+
+To discover good font combinations, Shashi advises viewing the work of professional designers for inspiration.
+
+---
+
+**Lack of a hover state**
+
+Hover states signify that an item on a webpage is interactive to the user.
+
+Since buttons are "action items," Shashi explains they should always have a hover state.
+
+Adding hover states to items on a webpage help to guide the users by providing visual cues.
+
+--- 
+
+**Text-only links within a button**
+
+Another problem Shashi mentions is actionable items, such as buttons or menu items, that only work when you click or touch the text.
+
+Shashi's solution is to make sure the whole element itself is actionable when you click or touch it.
 
 ---
 
