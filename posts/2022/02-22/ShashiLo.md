@@ -200,6 +200,6 @@ FREE help for aspiring web developers weekly!
 
 ---
 
-??
+###### Are you now more confident in creating UI Design after learning from Shashi? Would you or have you had your portfolio reviewed by Shashi? Please share the article and comment!
 
 ---
