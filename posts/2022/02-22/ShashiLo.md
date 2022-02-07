@@ -85,12 +85,6 @@ If you create a website for VR (virtual reality), your target audience will like
 
 ---
 
-### Have a Style Guide
-(WRITE ARTICLE SECTION)
-TS-24
-
----
-
 ### Common UI Design Mistakes
 
 **Below is a list of common UI design mistakes that Shashi had identified:**
@@ -111,7 +105,7 @@ Websites do not have consistent styles for buttons or typography.
 
 **Proper balance in sections**
 
-Shashi tells us he sees web pages with a div at the top with a 20-pixel margin, but there is a 100-pixel margin at the bottom of the div.
+Another common mistake is an improper balance on items on a webpage. Shashi tells us he will come across a div with a 20-pixel margin on the top but a 100-pixel margin at the bottom of the div, causing a visually uncomfortable imbalance for users.
 
 ---
 
@@ -266,7 +260,7 @@ After reviewing my portfolio website, Shashi recommended that I use an "HTML Por
 
 ---
 
-*To learn about utilizing HTML Portfolio Templates, you can read my article "Tech Rally - Career Tips From an Amazon Dev." Alexander Lee (Tech Rally) also encourages developers to use  HTML Templates, and he has [a course that teaches how to create and deploy a portfolio website](https://courses.techrally.co/practical-portfolio-build-a-portfolio-easily-with-html-css-and-a-bootstrap-theme)!*
+*To learn about utilizing HTML Portfolio Templates, you can read my article "Tech Rally: Career Tips From an Amazon Dev." Alexander Lee (Tech Rally) also encourages developers to use  HTML Templates, and he has [a course that teaches how to create and deploy a portfolio website](https://courses.techrally.co/practical-portfolio-build-a-portfolio-easily-with-html-css-and-a-bootstrap-theme)!*
 
 ---
 
