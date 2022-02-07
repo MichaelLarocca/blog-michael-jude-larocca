@@ -9,7 +9,7 @@ published: true
 date: "2022-02-07"
 ---
 
-#### In this week's article, Senior UI Engineer Shashi Lo joins us on a Scrimba Livestream event to talk about the UI Design fundamentals, provide tips, and introduce us to his FREE Friday portfolio reviews!
+#### In this week's article, Senior UI Engineer Shashi Lo joins us on a Scrimba Livestream event to talk about the UI Design fundamentals, provide tips, and introduce us to his FREE portfolio reviews!
 
 ---
 
