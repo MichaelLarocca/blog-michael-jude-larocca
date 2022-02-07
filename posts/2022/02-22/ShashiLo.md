@@ -26,15 +26,26 @@ Shashi has over 15 years of experience in the tech industry, volunteers for the 
 ---
 
 ### What is UI Design
-(WRITE ARTICLE SECTION)
+
+**According to Wikipedia,** *"User interface design or user interface engineering is the design of user interfaces for machines and software, such as computers, home appliances, mobile devices, and other electronic devices, with the focus on maximizing usability and the user experience."*
 
 ---
 
 ## Understanding the UI Design Fundamentals
-(WRITE ARTICLE SECTION)
 
+Shashi tells us that the fundamentals are always key in anything in programming. Once we have a solid foundation in the fundamentals, it will be easier to learn other languages, frameworks, and component libraries. 
 
-TS-23 UI Design fundamentals QUOTE
+**Scrimba's FREE UI Design Fundamentals course lists the following UI Design principles:**
+
+**UI Design principles**
+
+* Visual Hierarchy
+* Typography
+* Color
+* Contrast
+* Alignment
+* Scale
+* White Space
 
 ---
 
@@ -53,10 +64,12 @@ TS-23 UI Design fundamentals QUOTE
 ---
 
 ### Inspiration for UI Design 
-(WRITE ARTICLE SECTION)
-TS-12
 
-[dribbble](https://dribbble.com/)
+Shashi introduces us to the [dribbble](https://dribbble.com/) website for UI design inspiration.
+
+Dribble is an "invitation only" website where the UI design elite showcases their work.
+
+Shashi explains we can analyze the works displayed on this website to see how to utilize the typography, color scheme, layouts, and other aspects of design appropriately. 
 
 ---
 
@@ -181,13 +194,53 @@ Shashi cites Kevin Powell ([@KevinJPowell](https://twitter.com/KevinJPowell)) an
 ---
 
 ### Portfolio Reviews
-(WRITE ARTICLE SECTION)
 
-FREE help for aspiring web developers weekly!
+On Fridays, Shashi provides **FREE** help for aspiring web developers with his "**Portfolio Review Friday**" on Twitter.
+
+Just respond to his "Portfolio Review Friday" tweet, answer a few questions ( so he can get to know you ), and provide a link to your portfolio website.
+
+---
+
+**Shashi reviewed my portfolio website! Here is my submission:** 
+
+**1. Post a link to your personal portfolio** 
+
+* https://michaeljudelarocca.com 
+
+**2. Tell us about your dream job** 
+
+* My dream job is to be a teacher at a company such as 
+@scrimba, @freeCodeCamp, @Codecademy
+
+**3. Do you enjoy @JetsPizza!?** 
+
+* I never had JetsPizza, but I love @GrimaldisNY Margherita!
 
 ---
 
 ![Portfolio Review Friday](img/01-07-22/PortfolioReviewFriday.jpg)
+
+---
+
+### My Portfolio Review
+
+Recently, [Pastel](https://usepastel.com/) started to sponsor Shashi's Portfolio Review Friday!
+
+---
+
+**Using Pastel is simple and fast**
+
+* Enter a URL and within seconds, Pastel lets you click to leave comments on any website.
+* Share a unique Pastel link with clients or teammates to get their feedback all in one place.
+* Easily make copy suggestions with Pastel and see the before and after on the page.
+
+---
+
+![MyPortfolioReview](img/01-07-22/MyPortfolioReview.png)
+
+---
+
+
 
 ---
 
@@ -204,8 +257,8 @@ FREE help for aspiring web developers weekly!
 ---
 
 ### Scrimba UI Design Bootcamp
-(WRITE ARTICLE SECTION)
 
+If you are interested in taking a deep dive into learning more about UI Design, Scrimba also has a Bootcamp taught by Gary Simon!
 
 ---
 
@@ -224,8 +277,14 @@ FREE help for aspiring web developers weekly!
 
 ---
 
-### HOLD
-(WRITE ARTICLE SECTION)
+### Are developers expected to be design experts?
+
+Shashi explains that as web developers, we are not expected to be design experts. 
+
+Our job as web developers is to work with designers, turning their designs into viable working websites. 
+
+Sometimes, Shashi explains, the designer's work is so ambitious it will not translate into a good "user experience" website. It is then up to us to work with the designers to restructure their designs into a user-friendly format to fulfill design and useability requirements.
+
 
 ---
 
