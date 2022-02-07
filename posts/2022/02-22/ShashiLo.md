@@ -240,7 +240,23 @@ Recently, [Pastel](https://usepastel.com/) started to sponsor Shashi's Portfolio
 
 ---
 
+As you can see, [Pastel](https://usepastel.com/) makes it easy for developers to coordinate!
 
+---
+
+![Shashi Review](img/01-07-22/ShashiReview.png)
+
+---
+
+Shashi always gives honest, constructive criticism to the portfolio website submissions he receives, which is vital for the proper growth of becoming a proficient web developer.
+
+After reviewing my portfolio website, Shashi recommended that I use an "HTML Template" for my site so that I can focus more on the projects and other items I am showcasing.
+
+---
+
+*To learn about utilizing HTML Templates, you can read my article "Tech Rally - Career Tips From an Amazon Dev." Alexander Lee (Tech Rally) also encourages developers to use  HTML Templates, and he has [a course that teaches how to create and deploy a portfolio website](https://courses.techrally.co/practical-portfolio-build-a-portfolio-easily-with-html-css-and-a-bootstrap-theme)!*
+
+---
 
 ---
 
