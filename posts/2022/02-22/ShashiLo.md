@@ -31,7 +31,7 @@ Shashi has over 15 years of experience in the tech industry, volunteers for the 
 
 ---
 
-## Understanding the UI Design Fundamentals
+### Understanding the UI Design Fundamentals
 
 Shashi tells us that the fundamentals are always key in anything in programming. Once we have a solid foundation in the fundamentals, it will be easier to learn other languages, frameworks, and component libraries. 
 
@@ -137,7 +137,7 @@ Shashi's solution is to make sure the whole element itself is actionable when yo
 
 ### Dev Tools
 
-Shashi uses the dev tools built into the Google Chrome browser to inspect and optimize his projects as part of his regular workflow.
+**Shashi uses the dev tools built into the Google Chrome browser to inspect and optimize his projects as part of his regular workflow.**
 
 ---
 
@@ -175,6 +175,8 @@ After running this procedure, he saves about 20% in image file space, resulting 
 ---
 
 <iframe width="1350" height="488" src="https://www.youtube.com/embed/gayxhFPMJ7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
 
 #### *Be sure to watch the full Livestream!*
 
@@ -220,7 +222,7 @@ Just respond to his "Portfolio Review Friday" tweet, answer a few questions ( so
 
 ---
 
-**Shashi reviewed my portfolio website! Here is my submission:** 
+***Shashi reviewed my portfolio website! Here is my submission:*** 
 
 **1. Post a link to your personal portfolio** 
 
@@ -273,7 +275,7 @@ After reviewing my portfolio website, Shashi recommended that I use an "HTML Por
 
 ---
 
-*To learn about utilizing HTML Portfolio Templates, you can read my article "Tech Rally: Career Tips From an Amazon Dev." Alexander Lee (Tech Rally) also encourages developers to use  HTML Templates, and he has [a course that teaches how to create and deploy a portfolio website](https://courses.techrally.co/practical-portfolio-build-a-portfolio-easily-with-html-css-and-a-bootstrap-theme)!*
+***To learn about utilizing HTML Portfolio Templates, you can read my article "Tech Rally: Career Tips From an Amazon Dev." Alexander Lee (Tech Rally) also encourages developers to use  HTML Templates, and he has [a course that teaches how to create and deploy a portfolio website](https://courses.techrally.co/practical-portfolio-build-a-portfolio-easily-with-html-css-and-a-bootstrap-theme)!***
 
 ---
 
