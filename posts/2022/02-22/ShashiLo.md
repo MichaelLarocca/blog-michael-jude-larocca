@@ -74,8 +74,14 @@ Shashi explains we can analyze the works displayed on this website to see how to
 ---
 
 ### Know Your Target Audience
-(WRITE ARTICLE SECTION)
-TS-18
+
+When Shashi is asked by Scrimba host Leanne what is the most challenging part of UI Design, he tells us it is trying to please everyone with your design; you can't please everyone.
+
+**Shashi tells us the best approach to deciding on your UI design is knowing your target audience.**
+
+If you create a website for Health Insurence, your target audience will likely be older. Therefore, Shashi advises we go with a simple design, avoiding all of the "bells and whistles," allowing the users to navigate easily.
+
+If you create a website for VR (virtual reality), your target audience will likely be younger. Shashi tells us we can now add all of the "bells and whistles" when we have a younger target audience.
 
 ---
 
