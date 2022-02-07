@@ -172,6 +172,12 @@ After running this procedure, he saves about 20% in image file space, resulting 
 
 ---
 
+<iframe width="1350" height="488" src="https://www.youtube.com/embed/gayxhFPMJ7M" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+#### *Be sure to watch the full Livestream!*
+
+---
+
 ### How do you stay updated on trends?
 
 Shashi wisely suggests that we follow resourceful content creators on Twitter to stay updated on trends.
