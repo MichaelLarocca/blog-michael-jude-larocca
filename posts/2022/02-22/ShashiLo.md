@@ -164,6 +164,8 @@ Shashi teaches us that our website's performance (Google page ranking) is based 
 
 ---
 
+### Tiny PNG
+
 **Another tool that Shashi uses is [Tiny PNG](https://tinypng.com/).**
 
 Shashi tells us that he does an 80% compression on his website jpegs, and he also removes the metadata behind the jpegs. 
@@ -199,6 +201,17 @@ Shashi cites Kevin Powell ([@KevinJPowell](https://twitter.com/KevinJPowell)) an
 
 ---
 
+
+### Are developers expected to be design experts?
+
+Shashi explains that as web developers, we are not expected to be design experts. 
+
+Our job as web developers is to work with designers, turning their designs into viable working websites. 
+
+Sometimes, Shashi explains, the designer's work is so ambitious it will not translate into a good "user experience" website. It is then up to us to collaborate with the designers to restructure their designs into a user-friendly format to fulfill design and useability requirements.
+
+---
+
 ### Portfolio Reviews
 
 On Fridays, Shashi provides **FREE** help for aspiring web developers with his "**Portfolio Review Friday**" on Twitter.
@@ -230,7 +243,7 @@ Just respond to his "Portfolio Review Friday" tweet, answer a few questions ( so
 
 ### My Portfolio Review
 
-Recently, [Pastel](https://usepastel.com/) started to sponsor Shashi's Portfolio Review Friday!
+Recently, [Pastel](https://usepastel.com/) started to support Shashi's Portfolio Review Friday!
 
 ---
 
@@ -264,18 +277,6 @@ After reviewing my portfolio website, Shashi recommended that I use an "HTML Por
 
 ---
 
-### Frontend Mentor
-(WRITE ARTICLE SECTION)
-
-[Frontend Mentor](https://www.frontendmentor.io/)
-
-
----
-
-***Kevin Powell teamed up with Frontend Mentor and Scrimba to make the "[Build a space travel website](https://scrimba.com/learn/spacetravel)" course!***
-
----
-
 ### Scrimba UI Design Bootcamp
 
 If you are interested in taking a deep dive into learning more about UI Design, Scrimba also has a Bootcamp taught by Gary Simon!
@@ -297,26 +298,44 @@ If you are interested in taking a deep dive into learning more about UI Design, 
 
 ---
 
-### Are developers expected to be design experts?
+### Frontend Mentor
 
-Shashi explains that as web developers, we are not expected to be design experts. 
+So, now that we understand UI Design better, how do we get good practice?
 
-Our job as web developers is to work with designers, turning their designs into viable working websites. 
+Shashi recommends [Frontend Mentor](https://www.frontendmentor.io/).
 
-Sometimes, Shashi explains, the designer's work is so ambitious it will not translate into a good "user experience" website. It is then up to us to work with the designers to restructure their designs into a user-friendly format to fulfill design and useability requirements.
+---
 
+**Improve your front-end coding skills by building real projects**
+
+*"Solve real-world HTML, CSS, and JavaScript challenges while working on professional designs. Join 299,344 developers building projects, reviewing code, and helping each other get better."*
+
+> -Frontend Mentor
+
+---
+
+***Kevin Powell teamed up with Frontend Mentor and Scrimba to make the "[Build a space travel website](https://scrimba.com/learn/spacetravel)" course!***
 
 ---
 
 
 ### Shashi Lo Links
-(WRITE ARTICLE SECTION)
+
+* [Twitter](https://twitter.com/shashiwhocodes)
+* [LinkedIn](https://linkedin.com/in/shashilo)
+* [Github](https://github.com/shashilo)
+* [Development Blog](https://hashnode.com/@shashilo)
 
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
 
+Having a solid foundation in UI Design fundamentals is key to becoming a proficient programmer. Shashi tells us we will be able to learn frameworks and component libraries quickly after first learning the fundamentals.
+
+As web developers, we are expected to collaborate with designers to create a user-friendly format to fulfill design and useability requirements; we are not required to be professional designers ourselves.
+
+We have less than 10 seconds to make a good impression with our portfolio website! Taking UI Design courses, practicing on sites like
+Frontend Mentor, and having our work reviewed by professionals such as Shashi will ultimately give us the best chance when being considered for employment opportunities!
 
 ---
 
