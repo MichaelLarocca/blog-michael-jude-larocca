@@ -48,6 +48,7 @@ date: "2022-03-21"
 * Line Counting
 * Levels
 * Bonus Points
+* Status Window
 * Speed Increase
 * Touch Controles
 * Game Restart
@@ -83,6 +84,11 @@ Link to the game: [tetris-laroccade](https://tetris-laroccade.netlify.app/)
 ---
 
 ### Bonus Points
+(WRITE ARTICLE SECTION)
+
+---
+
+### Status Window
 (WRITE ARTICLE SECTION)
 
 ---
