@@ -31,7 +31,7 @@ date: "2022-03-21"
 
 ---
 
-Ania Kubow's Completed Game
+### Ania Kubow's Completed Game
 (WRITE ARTICLE SECTION)
 
 ![AniaKubow-Tetris](img/03-21-22/AniaKubow-Tetris.jpg)
