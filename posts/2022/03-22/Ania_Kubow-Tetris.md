@@ -25,8 +25,28 @@ Ania was born in Poland and raised in the UAE, and graduated from Dubai College,
 ---
 
 ### Building Tetris with JavaScript
-(WRITE ARTICLE SECTION)
 
+Ania's [FREE YouTube course](https://www.youtube.com/watch?v=w1JJfK09ujQ) teaches you how to make a Tetris game in JavaScript with basic functionality and styling.
+
+**In this game of Tetris Ania covers the following JavaScript methods:** 
+
+* addEventListener() 
+* querySelector() 
+* querySelectorAll() 
+* keyCode() 
+* Math.floor() 
+* Math.random() 
+* length 
+* forEach() 
+* splice() 
+* clearInterval()
+* setInterval() 
+* some() 
+* innerHTML() 
+* every() 
+* add() 
+* remove() 
+* contains() 
 
 ---
 
