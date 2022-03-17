@@ -18,7 +18,7 @@ date: "2022-03-21"
 
 ### About Ania Kubow
 
-Ania Kubow is a software developer that teaches others how to code by building retro Games and projects. She is also part of the core team at FreeCodeCamp. 
+Ania Kubow is a software developer that teaches others how to code by building retro games and projects. She is also part of the core team at [freeCodeCamp](https://www.freecodecamp.org/).
 
 Ania was born in Poland and raised in the UAE, and graduated from Dubai College, majoring in Math, Physics, and DesignTech before moving to the UK to attend University.
 
