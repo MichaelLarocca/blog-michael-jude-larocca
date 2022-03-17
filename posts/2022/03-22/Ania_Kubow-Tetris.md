@@ -161,6 +161,19 @@ In an effort to pay homage and capture the essential essence of the Tetris game,
 
 ---
 
+### My Other freeCodeCamp Articles
+
+* [Free Code Camp's July 2021 Summit](https://selftaughttxg.com/2021/07-21/FreeCodeCampsJuly2021Summit/)
+* [Learn to code and earn a certification for free](https://selftaughttxg.com/2021/02-21/Earn_a_certification/)
+* [There and Back Again](https://selftaughttxg.com/2021/01-21/ThereAndBackAgain/)
+* [Teacher Feature: Dylan Israel](https://selftaughttxg.com/2020/12-20/12-06-2020_TeacherFeature-Dylan_Israel/)
+
+---
+
+***Note:*** *If you can financially afford to, please consider a monthly contribution to Free Code Camp. Free Code Camp accepts monthly donations of $5 to help their non-profit organization run.*
+
+---
+
 ### Ania Kubow Links
 (WRITE ARTICLE SECTION)
 
