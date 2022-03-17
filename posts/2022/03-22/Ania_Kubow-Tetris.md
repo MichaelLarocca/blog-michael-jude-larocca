@@ -96,7 +96,7 @@ In an effort to pay homage and capture the essential essence of the Tetris game,
 
 ---
 
-Link to the game: [tetris-laroccade](https://tetris-laroccade.netlify.app/)
+#### *Here is a link to my completed Tetris game: [tetris-laroccade](https://tetris-laroccade.netlify.app/)*
 
 ---
 
