@@ -77,7 +77,10 @@ The simplicity of the Tetris JavaScript project allows you to create a working g
 ---
 
 ### My enhancements
-(WRITE ARTICLE SECTION)
+
+Like many people, I have spent countless hours playing Tetris on numerous platforms.
+
+In an effort to pay homage and capture the essential essence of the Tetris game, I added the following enhancements:
 
 **My Enhancements**
 
