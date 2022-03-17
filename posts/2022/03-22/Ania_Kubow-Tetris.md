@@ -60,7 +60,7 @@ Ania Kubow's Tetris JavaScript tutorial is brilliant, and I can highly recommend
 
 Not only do you learn how to make a game to add to your portfolio, you learn fundamental JavaScript programming in a fun and engaging way!
 
-The simplicity of the Tetris JavaScript project allows you to create a working game rather quickly and leaves plenty of room for customization, which I took the max!
+The simplicity of the Tetris JavaScript project allows you to create a working game rather quickly and leaves plenty of room for customization, which I took to the max!
 
 ---
 
