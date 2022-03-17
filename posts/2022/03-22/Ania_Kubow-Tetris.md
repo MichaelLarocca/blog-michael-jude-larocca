@@ -55,7 +55,22 @@ Ania's [FREE YouTube course](https://www.youtube.com/watch?v=w1JJfK09ujQ) teache
 ---
 
 ### Ania Kubow's Completed Game
-(WRITE ARTICLE SECTION)
+
+Ania Kubow's Tetris JavaScript tutorial is brilliant, and I can highly recommend it to anyone interested in learning JavaScript.
+
+Not only do you learn how to make a game to add to your portfolio, you learn fundamental JavaScript programming in a fun and engaging way!
+
+The simplicity of the Tetris JavaScript project allows you to create a working game rather quickly and leaves plenty of room for customization, which I took the max!
+
+---
+
+***Note:*** *There is a known issue of rotating the Tetrominoes at the edge of the board; half of the rotated Tetromino displays on both the left and right edges of the gameboard.*
+
+*This issue was addressed by Ania and can be resolved by adding additional code found in her GitHub repo.*
+
+ ***///FIX ROTATION OF TETROMINOS A THE EDGE*** 
+
+---
 
 ![AniaKubow-Tetris](img/03-21-22/AniaKubow-Tetris.jpg)
 
