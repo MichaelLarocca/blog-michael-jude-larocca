@@ -4,6 +4,8 @@ tags:
   [
     "javascript",
     "project",
+    "freecodecamp",
+    "tutorial",
   ]
 published: true
 date: "2022-03-21"
@@ -51,7 +53,7 @@ Ania's [FREE YouTube course](https://www.youtube.com/watch?v=w1JJfK09ujQ) teache
 
 ---
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/w1JJfK09ujQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/rAUn1Lom6dw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
