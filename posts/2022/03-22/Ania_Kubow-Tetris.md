@@ -3,6 +3,7 @@ title: "Ania Kubow: Building Tetris with JavaScript"
 tags:
   [
     "javascript",
+    "project",
   ]
 published: true
 date: "2022-03-21"
