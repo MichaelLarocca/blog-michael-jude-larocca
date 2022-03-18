@@ -152,6 +152,28 @@ For the game grids, I created a semi-transparent background. I decided to use gr
 
 ---
 
+For the Tetrominoes design, I used a Google Chrome "[color picker](https://chrome.google.com/webstore/detail/colorpick-eyedropper/ohcpnigalekghcmgcdcenkpelffpdolg?hl=en)" to get the hexadecimal colors found on the following picture:
+
+---
+
+![Tetris-Blocks](img/03-21-22/Tetris-Blocks.jpg)
+
+---
+
+**Below is the code for the orange Tetromino:**
+
+```css
+  .orange {
+    border-top: 5px solid #FFB56C;
+    border-right: 5px solid #DB852E;
+    border-bottom: 5px solid #DB852E;
+    border-left: 5px solid #FFB56C;
+    background-color: #FF9934;
+  }
+  ```
+
+---
+
 I came up with a desktop and mobile-friendly design for the game layout. I positioned the game information on the left side of the game grid and placed the game controller on the bottom of both.
 
 For learning how to create design layouts in CSS, I highly recommend learning from [Kevin Powell](https://www.kevinpowell.co/). 
