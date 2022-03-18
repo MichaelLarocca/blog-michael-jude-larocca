@@ -132,7 +132,7 @@ I realized that the CSS **transform** was not working with an HTML `<span>` tag.
   }
 ```
 
-Finally, I used [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) on the "title" class to display all the letters on one line.
+Finally, I used [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) on the "title" to display all the letters on one line.
 
 ---
 
