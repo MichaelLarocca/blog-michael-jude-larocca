@@ -245,7 +245,23 @@ For the bonus points, if a player completes a combo of two, three, or four lines
 ---
 
 ### Status Window
-(WRITE ARTICLE SECTION)
+
+I created a status window to display messages to the player. 
+
+The first message displayed is a blinking "Press Start" message, instructing the player to press or click on the start button.
+
+I designed the button to resemble an arcade game one-player start button, including a single-player icon. This icon also blinks to draw the attention of the player.
+
+**Additional messages sent to the Status Window:**
+
+* Score
+* Bonus Points
+* Levels
+* Game Over
+
+---
+
+***Note:*** *`<blink>` is a deprecated HTML tag. To recreate the blink tag effect, I used code created by [Colby Fayock](https://www.freecodecamp.org/news/make-it-blink-html-tutorial-how-to-use-the-blink-tag-with-code-examples/).*
 
 ---
 
