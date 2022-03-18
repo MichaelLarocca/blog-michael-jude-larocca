@@ -201,7 +201,10 @@ To capture the audio playing from the YouTube videos, I configured my computer f
 ---
 
 ### Line Counting
-(WRITE ARTICLE SECTION)
+
+I created a variable to count how many rows (lines) the player completed. The total lines completed are displayed underneath the game score.
+
+I also created a count down to the next level variable. For every ten lines completed, the game level increments. This is displayed beneath the level.
 
 ---
 
