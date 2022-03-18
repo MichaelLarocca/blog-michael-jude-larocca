@@ -250,7 +250,7 @@ I created a status window to display messages to the player.
 
 The first message displayed is a blinking "Press Start" message, instructing the player to press or click on the start button.
 
-I designed the button to resemble an arcade game one-player start button, including a single-player icon. This icon also blinks to draw the attention of the player.
+I designed the start button to resemble an arcade game one-player start button, including a single-player icon. This icon also blinks to draw the attention of the player.
 
 **Additional messages sent to the Status Window:**
 
