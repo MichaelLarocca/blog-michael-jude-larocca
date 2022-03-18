@@ -141,13 +141,13 @@ For the game's background image, I used Saint Basil's Cathedral, as seen in vari
 For the game grids, I created a semi-transparent background. I decided to use gray borders on the grid divs for visual assistance and easier gameplay for the users.
    
 ```css
-#grid {
-   background-color: rgba(0,0,0,.5);
-}
-
-  div {
-    border: 1px solid gray;
+  #grid {
+    background-color: rgba(0,0,0,.5);
   }
+
+    div {
+      border: 1px solid gray;
+    }
 ```
 
 ---
@@ -214,8 +214,33 @@ I created levels for the game by creating a level variable. The level variable i
 
 ---
 
-### Bonus Points
-(WRITE ARTICLE SECTION)
+### Score and Bonus Points
+
+I came up with a simple scoring system for the game's score that incrementally rewards the player as they progress through the levels.
+
+I created a "currentLineScore" variable set by the current level times ten.
+
+```javascript
+currentLineScore = level * 10;
+```
+
+For the bonus points, if a player completes a combo of two, three, or four lines in one move, the bonus points equal the current line score times the number of rows completed. The total bonus and the current line score are displayed in the status window.
+
+```javascript
+  if(counterRow > 1) {
+    let bonusPoints = currentLineScore * counterRow;
+    score += bonusPoints;
+    display.textContent = `Bonus! +${bonusPoints}`;
+
+    setTimeout(function(){
+      display.textContent = `Score +${bonusPoints}`;
+    }, 2500);  
+    
+    setTimeout(function(){
+      display.textContent = ``;
+    }, 5000);
+  }   
+```
 
 ---
 
