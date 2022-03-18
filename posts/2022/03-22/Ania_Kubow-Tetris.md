@@ -189,7 +189,14 @@ For learning how to create design layouts in CSS, I highly recommend learning fr
 ---
 
 ### Sounds
-(WRITE ARTICLE SECTION)
+
+I created several mp3 files from this YouTube video for the game's sound effects: [Tetris - Sound Effects Collection](https://www.youtube.com/watch?v=Xm9O2iJLWxY).
+
+For the game's music, I created an mp3 from the following YouTube video: [Original Tetris theme (Tetris Soundtrack)](https://www.youtube.com/watch?v=NmCCQxVBfyM). This music is from the Nintendo Gameboy port.
+
+To create the mp3's I used the free, open-source, cross-platform audio software [Audacity](https://www.audacityteam.org/). 
+
+To capture the audio playing from the YouTube videos, I configured my computer following the steps in this informative article: [How to Record Sound from Computer directly without a Microphone?](https://codegena.com/record-sound-from-computer-without-microphone/), by [Shan Eapen Koshy](https://codegena.com/author/shaneapen/).
 
 ---
 
