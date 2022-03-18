@@ -209,7 +209,8 @@ I also created a count down to the next level variable. For every ten lines comp
 ---
 
 ### Levels
-(WRITE ARTICLE SECTION)
+
+I created levels for the game by creating a level variable. The level variable is incremented by one for every ten lines completed by the player.
 
 ---
 
