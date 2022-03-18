@@ -94,7 +94,7 @@ In an effort to pay homage and capture the essential essence of the Tetris game,
 * Bonus Points
 * Status Window
 * Speed Increase
-* Touch Controles
+* Touch Controls
 * Game Restart
 
 ---
@@ -254,7 +254,7 @@ For the bonus points, if a player completes a combo of two, three, or four lines
 
 ---
 
-### Touch Controles
+### Touch Controls
 (WRITE ARTICLE SECTION)
 
 ---
