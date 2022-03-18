@@ -108,7 +108,61 @@ In an effort to pay homage and capture the essential essence of the Tetris game,
 ---
 
 ### Styling
-(WRITE ARTICLE SECTION)
+
+For the font, I used [Redressed](https://fonts.google.com/specimen/Redressed?query=redress) from [fonts.google.com](https://fonts.google.com/).
+
+I had some trouble with the "TETRIS" logo; I wanted to reverse the "R" in TETRIS, as seen in some of the various game ports.
+
+I realized that the CSS **transform** was not working with an HTML `<span>` tag. I resolved this issue using an HTML `<div>` tag as follows:
+
+```html
+  <!--  Title  -->
+  <div id="title">
+      <div>TET</div>
+      <div class="text-flip">R</div>
+      <div>IS</div>
+  </div>
+```
+
+```css
+  .text-flip {
+    transform: rotateY(180deg);
+    border: none;
+    color: rgb(223,0,31);
+  }
+```
+
+Finally, I used [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) on the "title" class to display all the letters on one line.
+
+---
+
+For the game's background image, I used Saint Basil's Cathedral, as seen in various versions of the Tetris game.
+
+For the game grids, I created a semi-transparent background. I decided to use gray borders on the grid divs for visual assistance and easier gameplay for the users.
+   
+```css
+#grid {
+   background-color: rgba(0,0,0,.5);
+}
+
+  div {
+    border: 1px solid gray;
+  }
+```
+
+---
+
+I came up with a desktop and mobile-friendly design for the game layout. I positioned the game information on the left side of the game grid and placed the game controller on the bottom of both.
+
+For learning how to create design layouts in CSS, I highly recommend learning from [Kevin Powell](https://www.kevinpowell.co/). 
+
+---
+
+***To learn more about Kevin Powell and how he has helped me, you can read my following articles:***
+
+* [Teacher Feature: Kevin Powell](https://selftaughttxg.com/2021/05-21/TeacherFeature-KevinPowell/)
+* [What's new in CSS - With Kevin Powell](https://selftaughttxg.com/2021/06-21/06-14-21/)
+* [Hacktoberfest 2021: Issue IV "A New Approach"](https://selftaughttxg.com/2021/11-21/Hacktoberfest2021Issue4/)
 
 ---
 
