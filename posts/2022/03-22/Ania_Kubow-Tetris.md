@@ -94,6 +94,7 @@ In an effort to pay homage and capture the essential essence of the Tetris game,
 * Bonus Points
 * Status Window
 * Speed Increase
+* Additional Tetrominoes
 * Touch Controls
 * Game Restart
 
@@ -267,6 +268,54 @@ I designed the start button to resemble an arcade game one-player start button, 
 
 ### Speed Increase
 (WRITE ARTICLE SECTION)
+
+---
+
+### Additional Tetrominoes
+
+After extensive playing/testing the game, I realized that I could not rotate the available Tetrominoes to fit in specific patterns created by the player on the game grid.
+
+**It turns out that the Tetris game consists of seven Tetrominoes. Following the tutorial, you only create five Tetrominoes.** 
+
+The missing two Tetrominoes are variations of the "**L**" Tetromino and the "**Z**" Tetromino.
+
+```javascript
+  const lTetromino2 = [
+    [0,width,width*2,width*2+1],
+    [0,1,2,width],
+    [0,1,width+1,width*2+1],
+    [2,width,width+1,width+2]
+  ]
+
+   const zTetromino2 = [
+    [1, width, width+1, width*2],
+    [width, width+1, width*2+1, width*2+2],
+    [1, width, width+1, width*2],
+    [width, width+1, width*2+1, width*2+2]
+  ]
+```
+
+I created both missing Tetrominoes and wrote additional code to implement them into the game. However, it wasn't without incident!
+
+The additional two Tetrominoes worked fine in the game. However, the "Next Up Tetromino" grid displayed the wrong Tetrominoes. Since they were consistent in displaying the wrong Tetrominoes, an "L" for an "O" and and "O" for a "T," I was able to determine the error.
+
+**When adding the additional two Tetrominoes, make sure your "theTetrominoes" array and your "upNextTetrominoes" array are in the same order!**
+
+```javascript
+// The theTetrominoes array
+const theTetrominoes = [lTetromino, lTetromino2, zTetromino, zTetromino2, tTetromino, oTetromino, iTetromino];
+
+// The upNextTetrominoes array
+  const upNextTetrominoes = [
+    [1, displayWidth+1, displayWidth*2+1, 2], //lTetromino
+    [0, displayWidth,displayWidth*2,displayWidth*2+1], //lTetromino2
+    [0, displayWidth, displayWidth+1, displayWidth*2+1], //zTetromino
+    [1, displayWidth, displayWidth+1, displayWidth*2], //zTetromino2
+    [1, displayWidth, displayWidth+1, displayWidth+2], //tTetromino
+    [0, 1, displayWidth, displayWidth+1], //oTetromino
+    [1, displayWidth+1, displayWidth*2+1, displayWidth*3+1] //iTetromino
+  ]  
+```
 
 ---
 
