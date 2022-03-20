@@ -267,7 +267,29 @@ I designed the start button to resemble an arcade game one-player start button, 
 ---
 
 ### Speed Increase
-(WRITE ARTICLE SECTION)
+
+As the game levels increase, to make the game more challenging, I increase the speed of the Tetrominoes.
+
+The game speed starts at 500 milliseconds ( half a second ) and then decreases by 50 milliseconds at each level.
+
+The speed decrease stops at level nine when the game speed equals 100 milliseconds.
+
+I also wrote a "**changeGameSpeed**" function that is activated by the player when they press the down arrow. When the player presses the down arrow, the speed of the Tetromino in play will decrease to 100 milliseconds. Then when the Tetromino in play lands, the next Tetromino in plays speed will resume at the current level speed.
+
+```javascript
+function changeGameSpeed() {
+  if(speedIncrease === true) {
+    gameSpeed = 100;
+      clearInterval(timerId);
+      timerId = setInterval(moveDown, gameSpeed);
+  }
+  if(speedIncrease === false) {
+      levelSpeed();
+      clearInterval(timerId);
+      timerId = setInterval(moveDown, gameSpeed);
+  }
+}
+```
 
 ---
 
@@ -320,7 +342,22 @@ const theTetrominoes = [lTetromino, lTetromino2, zTetromino, zTetromino2, tTetro
 ---
 
 ### Touch Controls
-(WRITE ARTICLE SECTION)
+
+I knew that I wanted to take a "mobile-first" approach from the very beginning of this project. I previously coded a playable [snake game](https://scrimba-snake-game.netlify.app/) on my iPhone that includes a touch-button game controller, and I similarly designed the Tetris game.
+
+The game controller consists of four directional arrow buttons and a start button. It also sports my "La Roc Cade" logo, created by [design_desk](https://www.fiverr.com/design_desk) on [Fiverr](https://www.fiverr.com/).
+
+Since Ania did all of the hefty lifting coding the direction functions, all I had to do was add event listeners to each button and call the corresponding function.
+
+**However, it seems like a good idea on paper and in design. But, during gameplay, it's less than ideal.**
+
+The problem is, during higher levels with faster gameplay, trying it tap the directional buttons is often taken as a "double-tap" by the phone, resulting in zooming into the screen instead of moving the Tetromino in the desired direction.
+
+Additional, there is an issue with the viewable height when viewed on the phone. I set the background image to 100% of the screen's view height. However, on my iPhone, the browser search bar is located at the bottom of the screen, and the background image continues behind it, resulting in an unwanted swipe-down touch gesture that moves the entire game grid up.
+
+**After finding and playing the official [Tetris](https://tetris.com/games-content/play-tetris-content/index-mobile.php) game on my iPhone, I realized that "swipe-gesture" directional controls are a better approach for mobile gameplay.** 
+
+Also, the official [Tetris](https://tetris.com/games-content/play-tetris-content/index-mobile.php) has the game grid along with the background perfectly formatted for the phone, allowing the swipe gestures to control the Tetromeinoes without moving the game grid around.
 
 ---
 
@@ -352,8 +389,12 @@ const theTetrominoes = [lTetromino, lTetromino2, zTetromino, zTetromino2, tTetro
 ---
 
 ### Ania Kubow Links
-(WRITE ARTICLE SECTION)
 
+* 🔗[YouTube](https://www.youtube.com/c/AniaKub%C3%B3w)
+* 🔗[Twitter](https://twitter.com/ania_kubow)
+* 🔗[LinkedIn](https://www.linkedin.com/in/ania-kubow/)
+* 🔗[GitHub](https://github.com/kubowania)
+* 🔗[javascriptgames.online](http://javascriptgames.online/)
 
 ---
 
