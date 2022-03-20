@@ -117,20 +117,20 @@ I had some trouble with the "TETRIS" logo; I wanted to reverse the "R" in TETRIS
 I realized that the CSS **transform** was not working with an HTML `<span>` tag. I resolved this issue using an HTML `<div>` tag as follows:
 
 ```html
-  <!--  Title  -->
-  <div id="title">
-      <div>TET</div>
-      <div class="text-flip">R</div>
-      <div>IS</div>
-  </div>
+<!--  Title  -->
+<div id="title">
+    <div>TET</div>
+    <div class="text-flip">R</div>
+    <div>IS</div>
+</div>
 ```
 
 ```css
-  .text-flip {
-    transform: rotateY(180deg);
-    border: none;
-    color: rgb(223,0,31);
-  }
+.text-flip {
+  transform: rotateY(180deg);
+  border: none;
+  color: rgb(223,0,31);
+}
 ```
 
 Finally, I used [Flexbox](https://www.w3schools.com/css/css3_flexbox.asp) on the "title" to display all the letters on one line.
@@ -142,13 +142,13 @@ For the game's background image, I used Saint Basil's Cathedral, as seen in vari
 For the game grids, I created a semi-transparent background. I decided to use gray borders on the grid divs for visual assistance and easier gameplay for the users.
    
 ```css
-  #grid {
-    background-color: rgba(0,0,0,.5);
-  }
+#grid {
+  background-color: rgba(0,0,0,.5);
+}
 
-    div {
-      border: 1px solid gray;
-    }
+div {
+  border: 1px solid gray;
+}
 ```
 
 ---
@@ -164,14 +164,36 @@ For the Tetrominoes design, I used a Google Chrome "[color picker](https://chrom
 **Below is the code for the orange Tetromino:**
 
 ```css
-  .orange {
-    border-top: 5px solid #FFB56C;
-    border-right: 5px solid #DB852E;
-    border-bottom: 5px solid #DB852E;
-    border-left: 5px solid #FFB56C;
-    background-color: #FF9934;
-  }
+.orange {
+  border-top: 5px solid #FFB56C;
+  border-right: 5px solid #DB852E;
+  border-bottom: 5px solid #DB852E;
+  border-left: 5px solid #FFB56C;
+  background-color: #FF9934;
+}
   ```
+**I wrote a function to select a color to add to the Tetrominoes randomly.**
+
+```javascript
+// Randomly select a color for each Tetromino
+function color() {
+    const tetrominoeColors = ["green", "blue", "orange", "yellow", "purple", "red", "teal"];
+    const chooseRandomColor = Math.floor(Math.random() * tetrominoeColors.length);
+    randomColor = tetrominoeColors[chooseRandomColor];
+  }
+color();
+ ```
+
+**I add the random color when the Tetrominoes are drawn and undrawn.**
+
+```javascript
+//Draw Tetrominoes
+  function draw() {
+    current.forEach(index => {
+    squares[currentPosition + index].classList.add('tetromino', randomColor);
+  })
+}
+```
 
 ---
 
@@ -228,19 +250,19 @@ currentLineScore = level * 10;
 For the bonus points, if a player completes a combo of two, three, or four lines in one move, the bonus points equal the current line score times the number of rows completed. The total bonus and the current line score are displayed in the status window.
 
 ```javascript
-  if(counterRow > 1) {
-    let bonusPoints = currentLineScore * counterRow;
-    score += bonusPoints;
-    display.textContent = `Bonus! +${bonusPoints}`;
+if(counterRow > 1) {
+  let bonusPoints = currentLineScore * counterRow;
+  score += bonusPoints;
+  display.textContent = `Bonus! +${bonusPoints}`;
 
-    setTimeout(function(){
-      display.textContent = `Score +${bonusPoints}`;
-    }, 2500);  
-    
-    setTimeout(function(){
-      display.textContent = ``;
-    }, 5000);
-  }   
+  setTimeout(function(){
+    display.textContent = `Score +${bonusPoints}`;
+  }, 2500);  
+  
+  setTimeout(function(){
+    display.textContent = ``;
+  }, 5000);
+}   
 ```
 
 ---
@@ -293,6 +315,23 @@ function changeGameSpeed() {
 
 ---
 
+***As the Tetrominoes falling speed increased, glitches were visible appearing. Trailing game div spaces were retaining the Tetrominoes color. I wrote a "clearGridDivs" function to clear the game grid to resolve these issues.***
+
+```javascript
+// Erase/Clear grid divs
+function clearGridDivs() {
+  squares.forEach(index => {
+    squares.forEach((item, index)=>{
+      if(!squares[index].classList.contains("taken")) {
+      squares[index].classList.remove("green", "blue", "orange", "yellow", "purple", "red", "teal");  
+      }        
+    })
+  })
+}
+```
+
+---
+
 ### Additional Tetrominoes
 
 After extensive playing/testing the game, I realized that I could not rotate the available Tetrominoes to fit in specific patterns created by the player on the game grid.
@@ -302,19 +341,19 @@ After extensive playing/testing the game, I realized that I could not rotate the
 The missing two Tetrominoes are variations of the "**L**" Tetromino and the "**Z**" Tetromino.
 
 ```javascript
-  const lTetromino2 = [
-    [0,width,width*2,width*2+1],
-    [0,1,2,width],
-    [0,1,width+1,width*2+1],
-    [2,width,width+1,width+2]
-  ]
+const lTetromino2 = [
+  [0,width,width*2,width*2+1],
+  [0,1,2,width],
+  [0,1,width+1,width*2+1],
+  [2,width,width+1,width+2]
+]
 
-   const zTetromino2 = [
-    [1, width, width+1, width*2],
-    [width, width+1, width*2+1, width*2+2],
-    [1, width, width+1, width*2],
-    [width, width+1, width*2+1, width*2+2]
-  ]
+  const zTetromino2 = [
+  [1, width, width+1, width*2],
+  [width, width+1, width*2+1, width*2+2],
+  [1, width, width+1, width*2],
+  [width, width+1, width*2+1, width*2+2]
+]
 ```
 
 I created both missing Tetrominoes and wrote additional code to implement them into the game. However, it wasn't without incident!
@@ -328,15 +367,15 @@ The additional two Tetrominoes worked fine in the game. However, the "Next Up Te
 const theTetrominoes = [lTetromino, lTetromino2, zTetromino, zTetromino2, tTetromino, oTetromino, iTetromino];
 
 // The upNextTetrominoes array
-  const upNextTetrominoes = [
-    [1, displayWidth+1, displayWidth*2+1, 2], //lTetromino
-    [0, displayWidth,displayWidth*2,displayWidth*2+1], //lTetromino2
-    [0, displayWidth, displayWidth+1, displayWidth*2+1], //zTetromino
-    [1, displayWidth, displayWidth+1, displayWidth*2], //zTetromino2
-    [1, displayWidth, displayWidth+1, displayWidth+2], //tTetromino
-    [0, 1, displayWidth, displayWidth+1], //oTetromino
-    [1, displayWidth+1, displayWidth*2+1, displayWidth*3+1] //iTetromino
-  ]  
+const upNextTetrominoes = [
+  [1, displayWidth+1, displayWidth*2+1, 2], //lTetromino
+  [0, displayWidth,displayWidth*2,displayWidth*2+1], //lTetromino2
+  [0, displayWidth, displayWidth+1, displayWidth*2+1], //zTetromino
+  [1, displayWidth, displayWidth+1, displayWidth*2], //zTetromino2
+  [1, displayWidth, displayWidth+1, displayWidth+2], //tTetromino
+  [0, 1, displayWidth, displayWidth+1], //oTetromino
+  [1, displayWidth+1, displayWidth*2+1, displayWidth*3+1] //iTetromino
+]  
 ```
 
 ---
@@ -361,17 +400,23 @@ Also, the official [Tetris](https://tetris.com/games-content/play-tetris-content
 
 ---
 
+### Mobile View
+
+Below is a screenshot of my Tetris game as viewed on an iPhone 11.
+
+---
+
+![Mobile View](img/03-21-22/IMG_3514.PNG)
+
+---
+
 ### Game Restart
-(WRITE ARTICLE SECTION)
 
----
+When the game ends, the game can be restarted by clicking/pressing the start button.
 
-### Mobil View
-(WRITE ARTICLE SECTION)
+I wrote a "**restartGame**" function that clears the game board and resets all necessary starting variables.
 
----
-
-![Mobil View](img/03-21-22/IMG_3514.PNG)
+To draw the player's attention, I once again add the "**blink**" class to the start button.
 
 ---
 
