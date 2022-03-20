@@ -444,11 +444,19 @@ To draw the player's attention, I once again add the "**blink**" class to the st
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
 
+Coding games is a fun and engaging way to learn JavaScript. 
+
+Ania Kubow takes time during the Tetris tutorial to teach the JavaScript methods used, which allows us to learn the language while we code along.
+
+By adding your own enhancements to the Tetris game, you will better understand how the code provided in the tutorial works and sharpen your skills as a JavaScript developer!
 
 ---
 
 ##### **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### Are you now interested in coding games to learn JavaScript? Have you already coded Ania's Tetris and added your own enhancements? Please share the article and comment!
 
 ---
