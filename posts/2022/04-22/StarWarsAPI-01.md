@@ -136,7 +136,7 @@ async function fetchPlanets() {
     console.log(next);
     console.log(previous);
     
-    console.log(data.results[0])
+    console.log(data.results[0]);
 } 
 fetchPlanets();
 ```
@@ -144,7 +144,7 @@ fetchPlanets();
 **Within the "fetchPlanets" function, we can create a variable called  "name" and log the result to the console as follows:**
 
 ```javascript
-let name = data.results[0].name
+let name = data.results[0].name;
 console.log(name);
 ```
 
@@ -154,7 +154,7 @@ console.log(name);
 
 ### Access all of the planets on each page
 
-Each page of the "Planets" contains 10 planet records, respectively. We will use the [JavaScript forEach() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) to access them.
+Each page of the "**Planets**" contains 10 planet records, respectively. We will use the [JavaScript forEach() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) to access them.
 
 **First, we need to create a variable and set it to the results array where each planet record is located.**
 
@@ -175,3 +175,40 @@ let planets = data.results;
 ***Note:*** *To keep this project simple, I am not using fields that contain URL's and nested elements, such as the "residents."*
 
 ---
+
+*Here is the finished example "fetchPlanets" function. You can copy this code to a code editor, such as [CodePen](https://codepen.io/), and then remark and unremark the console logs to see the results.*
+
+```javascript
+async function fetchPlanets() { 
+  let results = await fetch("https://swapi.dev/api/planets/?page=1");
+  const data = await results.json();
+    console.log(data);
+  let count = data.count;
+  let next = data.next;
+  let previous = data.previous;
+    console.log(count);
+    console.log(next);
+    console.log(previous);
+
+    console.log(data.results[0]);
+  let name = data.results[0].name;
+    console.log(name);
+  
+  let planets = data.results;
+  planets.forEach(item => {
+    console.log(item.name);
+  });  
+} 
+fetchPlanets();
+```
+
+--- 
+
+### My finished Star Wars API project
+
+Link to the project: [https://star-wars-api-version-01.netlify.app/](https://star-wars-api-version-01.netlify.app/)
+
+![Star-Wars-API-Version-01](img/SW-API-01.jpg)
+
+---
+
