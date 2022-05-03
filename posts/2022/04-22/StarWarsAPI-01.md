@@ -310,3 +310,11 @@ If you learned how to fetch data from the Star Wars API, convert it to JSON data
 
 You've taken your first step into a larger world, working with an API!
 
+---
+
+Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).
+
+---
+
+###### ***Are you now encouraged to learn how to work with the Star Wars API? Have you already worked with APIs in your own projects? Please share the article and comment!***
+
