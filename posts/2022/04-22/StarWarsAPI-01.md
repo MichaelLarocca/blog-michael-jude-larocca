@@ -89,3 +89,89 @@ If you copy the code and paste it into a code editor, such as CodePen, you will 
 **This function retrieves the data from the first page of the "Planets." When they arrive, the results are then stored in the "data" variable and then printed to the console for viewing.**
 
 --- 
+
+### Setting the data to variables
+
+**Expanding on the first example, let's set variables to the count, next, and previous data on page 1 of the Star Wars API planets page and print the results to the console.**
+
+```javascript
+async function fetchPlanets() { 
+  let results = await fetch("https://swapi.dev/api/planets/?page=1");
+  const data = await results.json();
+    console.log(data);
+  let count = data.count;
+  let next = data.next;
+  let previous = data.previous;
+    console.log(count);
+    console.log(next);
+    console.log(previous);
+} 
+fetchPlanets();
+```
+
+**We have now fetched data, converted it, and set data to variables.**
+
+**A few things to note:**
+
+* The data must first be converted to JSON, in order to set the data to variables
+* In this example, the variables are declared within the function, meaning the variables are not globally scoped. To clarify, if you console log the variables outside of the "fetchPlanets" function, you will get a "is not defined" error
+
+---
+
+### Retrieving the "Planets" data
+
+The "**fetchPlanets**" function retrieves the data from the first page of the "**Planets**" page. Each of the "**Planets**" pages contains 10 planets.
+
+The 10 planets are located in the results array. To view the first planet's information, we will add the following code to the "**fetchPlanets**" function: console.log(data.results[0]).
+
+```javascript
+async function fetchPlanets() { 
+  let results = await fetch("https://swapi.dev/api/planets/?page=1");
+  const data = await results.json();
+    console.log(data);
+  let count = data.count;
+  let next = data.next;
+  let previous = data.previous;
+    console.log(count);
+    console.log(next);
+    console.log(previous);
+    
+    console.log(data.results[0])
+} 
+fetchPlanets();
+```
+
+**Within the "fetchPlanets" function, we can create a variable called  "name" and log the result to the console as follows:**
+
+```javascript
+let name = data.results[0].name
+console.log(name);
+```
+
+**Now that we understand how to access the first planet's data, it's time to learn how to access all of the planets on each page.** 
+
+---
+
+### Access all of the planets on each page
+
+Each page of the "Planets" contains 10 planet records, respectively. We will use the [JavaScript forEach() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach) to access them.
+
+**First, we need to create a variable and set it to the results array where each planet record is located.**
+
+```javascript
+let planets = data.results;
+```
+
+**Then, just to view each of the planets' names, we will write a for each loop as follows:**
+
+```javascript
+    planets.forEach(item => {
+      console.log(item.name);
+    });
+```
+
+**Now that we can access each of the planets on the first page, we can choose any of the data we want and set them to variables to use. Such as the name, climate, terrain, and population.**
+
+***Note:*** *To keep this project simple, I am not using fields that contain URL's and nested elements, such as the "residents."*
+
+---
