@@ -20,7 +20,7 @@ date: "2022-05-04"
 
 ### Intro
 
-Until now, I've managed to postpone learning how to work with API's during my self-taught coding journey. Since it's Star Wars Day this week, "May the 4th", I decided it was an excellent time to learn how to work with them, starting with using the [Star Wars API](https://swapi.dev/)!
+Until now, I've managed to postpone learning how to work with APIs during my self-taught coding journey. Since it's Star Wars Day this week, "May the 4th", I decided it was an excellent time to learn how to work with them, starting with using the [Star Wars API](https://swapi.dev/)!
 
 ---
 
@@ -211,4 +211,102 @@ Link to the project: [https://star-wars-api-version-01.netlify.app/](https://sta
 ![Star-Wars-API-Version-01](img/SW-API-01.jpg)
 
 ---
+
+### Handling the data from the Star Wars API
+
+After watching several tutorials listed in "**Resources I used**," I chose to use some of the information provided from the Starships, People, and Planets.
+
+I then used "[forEach()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/forEach)" loops for the three categories that retrieved the information I chose and then created "**HTML div cards**" to display the information.  
+
+```javascript
+const ctnPlanets = document.getElementById("ctn-main");
+const planetsPrevious = document.getElementById("planets-previous");
+const planetsNext = document.getElementById("planets-next");
+
+// Variables Planets
+let URL_Planets = "https://swapi.dev/api/planets/?page=1";
+let nextPlanets;
+let previousPlanets;
+
+planetsPrevious.addEventListener("click", pagePreviousPlanets);
+planetsNext.addEventListener("click", pageNextPlanets);
+
+// Functions Planets
+async function fetchPlanets() {
+  document.querySelector('.overlay').classList.add('active');
+  let results = await fetch(URL_Planets);
+  const data = await results.json();
+  nextPlanets = data.next;
+  previousPlanets = data.previous;
+  let planets = data.results;
+  let outPut = ' ';
+  document.querySelector('.overlay').classList.remove('active');
+  planets.forEach(item => {
+    outPut += `<div class="card card-planet">
+                  <h2>${item.name}</h2>
+                  <h5>Climate: ${item.climate}</h5>
+                  <h5>Terrain: ${item.terrain}</h5>
+                  <h5>Population: ${item.population}</h5>
+               </div>`
+  })
+  ctnPlanets.innerHTML = outPut;
+}
+
+```
+
+---
+
+***Note:*** *While using the for each loop, initially, I was only getting the last record of the data. This was because the "for each loop" was overwriting the previous data. I resolved the issue by changing the "outPut" variable to "plus equals." Using "plus equals" keeps the last value set and adds new values to it as expected.* 
+
+---
+
+**I then wrote a function to cycle through the pages of the planets; the Star Wars API provides ten records per page ( I wrote similar code for the previous page).**
+
+```javascript
+function pageNextPlanets() {
+  if(nextPlanets) {
+    URL_Planets = new URL(nextPlanets);
+  }
+  fetchPlanets()
+    .then(response => { 
+    console.log(`Success: Planets`);
+  })
+    .catch(error => { 
+    console.log(`error!`)
+    console.error(error) 
+  });
+}
+```
+
+The "**pageNextPlanets**" function checks if there is a URL for the next page. If there is, the URL for the next page is set to the URL_Planets variable for use in the "**fetchPlanets**" function.
+
+I added the [catch() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/catch) to the "pageNextPlanets" function to log errors if they should arrise.
+
+---
+
+### Resources I used
+
+**To learn how to work with APIs, and specifically the Star Wars API, I watched the following YouTube tutorials:**
+
+* [1.1: fetch() - Working With Data & APIs in JavaScript](https://www.youtube.com/watch?v=tc8DU14qX6I)
+* [Async/Await with Starwars API using Vanilla Javascript and Bootstrap](https://www.youtube.com/watch?v=Y6fhfs6nBww&t=1233s)
+* [Having Fun with the Star Wars API](https://www.youtube.com/watch?v=qb6sMTeyLJY&t=1074s)
+
+---
+
+### Your first step into a larger world
+
+![Your First Step](img/YourFirstStep.jpg)
+
+###### *All rights reserved by Disney and Lucasfilm.*
+
+---
+
+### Conclusion
+
+Learning to work with APIs is an essential skill needed in becoming a professional developer.
+
+If you learned how to fetch data from the Star Wars API, convert it to JSON data, and display it in a manner of your choice for the first time, it is a grand achievement you should be proud of!
+
+You've taken your first step into a larger world, working with an API!
 
