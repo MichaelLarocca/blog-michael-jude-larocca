@@ -122,7 +122,7 @@ fetchPlanets();
 
 The "**fetchPlanets**" function retrieves the data from the first page of the "**Planets**" page. Each of the "**Planets**" pages contains 10 planets.
 
-The 10 planets are located in the results array. To view the first planet's information, we will add the following code to the "**fetchPlanets**" function: console.log(data.results[0]).
+The 10 planets are located in the results array. To view the first planet's information, we will add the following code to the "**fetchPlanets**" function: **console.log(data.results[0])**.
 
 ```javascript
 async function fetchPlanets() { 
@@ -308,7 +308,7 @@ Learning to work with APIs is an essential skill needed in becoming a profession
 
 If you learned how to fetch data from the Star Wars API, convert it to JSON data, and display it in a manner of your choice for the first time, it is a grand achievement you should be proud of!
 
-You've taken your first step into a larger world, working with an API!
+You've taken your first step into a larger world, working with APIs!
 
 ---
 
