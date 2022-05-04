@@ -1,5 +1,5 @@
 ---
-title: "Javascript: How to Use the Star Wars API for Beginners"
+title: "JavaScript: How to Use the Star Wars API for Beginners"
 tags:
   [
     "javascript",
