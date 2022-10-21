@@ -279,7 +279,7 @@ You might fill out your LinkedIn profile multilingually if you speak more than o
 
 ---
 
-![My LiveStream Screenshot](HOLD)
+![My LiveStream Screenshot](img/My-Review.png)
 
 My review - timestamp: 49:30
 
@@ -299,10 +299,6 @@ Austin complimented my cover photo, explaining that it has a theme that relates 
 Austin then brings to our attention that recruiters benefit from contact information displayed on the cover photo. 
 
 **Since recruiters have limited InMail message credits, displaying contact information on the cover photo gives them a guaranteed way of contacting you!**
-
----
-
-![profile photo with Leanne and Austin](img/My-Review.png)
 
 ---
 
