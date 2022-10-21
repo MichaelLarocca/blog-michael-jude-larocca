@@ -211,3 +211,15 @@ If you are currently in college or recently graduated, you may not have work exp
 In your LinkedIn experience section, you can talk about any volunteer experience, club experiences, and projects you created. You can even display your projects in your LinkedIn profile's projects section!
 
 ---
+
+### Career transition/break
+If you have a time gap between jobs, most likely, they will ask what you did during that period. 
+
+**Although there may be many reasons for your break, you can create a "positive spin" on it by adding supplemental work experience such as:**
+
+* Freelancing
+* Studying
+* Earning  certificates
+* Completing Bootcamps
+
+---
