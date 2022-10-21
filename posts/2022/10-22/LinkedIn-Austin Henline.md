@@ -189,3 +189,12 @@ In the last paragraph, provide a list of skills that you have. Doing so will hel
 *Note: If you are copying information from your resume into your about section,  be consistent throughout your LinkedIn profile when writing in the first or third person. For example, if you write, "Michael writes articles for both his website and others," and then in your experience section, "I have two years of experience writing articles," it would be inconsistent. Austin advises us to write in the first person for our LinkedIn profile.*
 
 ---
+
+### Experience section
+In the experience section, there is an opportunity to optimize your profile by adding details to each of your experience titles.
+
+**Consider adding bullet points to elaborate on your experience titles, similar to bullet points you may have on your resume. You can even talk about your accomplishments in each of these sections.**
+
+*As it may be tempting to include all of our work experience, Austin advises us only to include the experience that is relevant to the jobs we are currently seeking.*
+
+---
