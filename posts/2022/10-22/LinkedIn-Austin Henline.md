@@ -115,3 +115,25 @@ During this Scrimba Livestream event, Austin goes into further detail on how to 
 ***In the following detailed article sections below, Austin Henline advises us on how to optimize our LinkedIn profile.***
 
 ---
+
+### Headline
+**The headline section provides an opportunity to briefly describe who you are, what you currently do, and what you seek. You will want to make sure that you adequately provide this information succinctly. Think of it similar to a resume that only gets an eight-second glance!**
+
+The headline section is also the section searched for keywords.
+
+**When recruiters and employers search LinkedIn for people with specific skills, the keywords they enter match keywords found in the profiles headline section.** 
+
+*For example, if you are a Front-End Developer and include that text in your headline, your profile will appear in searches that include Front-End Developer. However, you will not appear in JavaScript, CSS, and HTML searches if you do not also have those keywords in your headline!* 
+
+**You can optimize your LinkedIn headline section by:**
+
+* Describing who you are, what you currently do, and what you seek.
+* Using each of your skills as keywords for searches.
+* Utilizing the entire 220-character limit.
+* Saving headline characters by alternatively using the "Open to work" banner.
+
+---
+
+***Tip:*** *You can use the only "let recruiters know" option if you do not wish to display the "open-to-work banner" for everyone to view.* 
+
+---
