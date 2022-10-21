@@ -12,4 +12,106 @@ published: true
 date: "2022-10-24"
 ---
 
-### In this article, marketing associate Austin Henline from LinkedIn joins us on a Scrimba Livestream to teach us how to optimize our profiles, giving us the best chance to acquire new job opportunities!
+#### In this article, marketing associate Austin Henline from LinkedIn joins us on a Scrimba Livestream to teach us how to optimize our profiles, giving us the best chance to acquire new job opportunities!
+
+---
+
+![Austin Henline](img/TN-TXG-64.png)
+
+---
+
+### About Austin Henline 
+Austin Henline studied Strategic Management and Business Strategy at the Bringham Young University Marriott School of Business. He works as a Marketing Associate at LinkedIn and has personally optimized over 1,300 LinkedIn profiles.
+
+Austin hosted a TEDx talk explaining how vital having a LinkedIn profile is in today's job market and teaching us how to establish a professional brand for ourselves to stand out from the crowd on LinkedIn.
+
+---
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/gxqW1hXC3q8" title="How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU
+TS: 6:00
+
+---
+
+Austin explains that nowadays, having a LinkedIn profile is equally important as having a resume. On a personal note, Austin tells us out of the first 24 jobs he applied to, all of them requested a LinkedIn profile as part of the application process, which he did not have then.
+
+Since then, Austin has created an exceptional LinkedIn profile that has attracted over 300 job offers. He now works at LinkedIn and has trained career advisers, businesses, universities, and non-profits on improving their LinkedIn strategies.
+
+---
+
+*"95% of recruiters use LinkedIn to find talent these days."*
+
+> -Austin Henline 
+
+---
+
+**During his TEDx talk presentation,  Austin provides us with four steps to help us establish our professional brand and set ourselves apart from the rest:**
+
+1. Define your purpose and your target audience
+2. Demand attention with your headline
+3. Create your own content
+4. Recognize and nurture your skills
+
+**Define your purpose and your target audience**
+
+Before you can find success on LinkedIn, you need to define why you want to use the platform.
+
+**Are you:**
+
+* Looking for a job.
+* A business owner looking to hire
+* Looking for customers
+* Grow your network
+* Looking for a career change
+
+Once you define what you are using the platform for, you will know your target audience. With your target audience in mind, you can best optimize your LinkedIn profile.
+
+---
+
+*"By stating the value that you bring to people, rather than making them spend their time trying to figure out how you benefit them, then you'll Attract a greater number of your target audience."*
+
+> -Austin Henline
+
+---
+
+**Demand attention with your headline**
+
+If you do not create a headline, LinkedIn defaults your headline to display your work position at the company you work. If you are a student who is not working, LinkedIn defaults your headline to display you as a student at the university you are attending.
+
+*90% of LinkedIn profiles use the default headline. By creating a headline, you will optimize your LinkedIn profile significantly.*
+
+**Demand attention with your headline by:**
+
+* Stating the benefit you provide for your target audience
+* Including your current position
+* Including skills that you have  
+
+Optimizing your headline will not only give others an idea of who you are at a glance, but your profile will show up in more searches due to the keywords included in your headline.
+
+**Create content**
+
+Only 1% of LinkedIn members create content. Not only will you stand out significantly as a content creator, but influential people will likely discover you!
+
+**Recognize and nurture your skills**
+
+Recognize your skills, nurture them, and turn them into your personal brand. Your personal brand will become a catalyst that will continuously open up doors of opportunities for you!
+
+**Following Austin's four optimization steps of defining your target audience, demanding attention with your headline, creating content, and developing your skills will help you to stand out on LinkedIn.**
+
+---
+
+### Scrimba Livestream event
+During this Scrimba Livestream event, Austin goes into further detail on how to optimize our LinkedIn profiles and reviews several submitted profiles, including mine!
+
+---
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/Sb3yQYreopY" title="LinkedIn profile reviews with a tech recruiter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+**LinkedIn profile reviews with a tech recruiter**
+
+---
+
+***In the following detailed article sections below, Austin Henline advises us on how to optimize our LinkedIn profile.***
+
+---
