@@ -137,3 +137,18 @@ The headline section is also the section searched for keywords.
 ***Tip:*** *You can use the only "let recruiters know" option if you do not wish to display the "open-to-work banner" for everyone to view.* 
 
 ---
+
+### Cover photo
+Austin tells us if we are not using a cover photo on our LinkedIn profile, it is a lost opportunity. Not only will it gain the attention of viewers, but it will also provide them with a picture of who you are.
+
+If you are a public speaker, you can use a picture of yourself publicly speaking. If you are a web developer, you could include the icons of what you use, such as HTML, CSS, and JavaScript.
+
+**You can create a cover photo using free resources, such as [Figma](https://www.figma.com/), and you can use license-free pictures and images from sites, such as [Pixabay](https://pixabay.com/).**
+
+If designing a cover photo is not your thing, you can pay someone else to create it. I paid for mine using [Fiverr](https://www.fiverr.com/)
+
+---
+
+***Tip:*** *Adding contact information on your cover photo will give recruiters a way to reach you without using their limited InMail message credits.*
+
+--- 
