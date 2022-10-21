@@ -374,8 +374,6 @@ However, if you stick with it and grow your network on LinkedIn, your patients w
 
 ---
 
----
-
 **I continue to have wonderful experiences with Scrimba, and I highly recommend learning with them! You can read my full [Scrimba review](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) on my 12/13/2020 post.**
 
 ![Per Harald Borgen Quote](img/PerHaraldBorgen-Quote.png)
@@ -384,3 +382,16 @@ However, if you stick with it and grow your network on LinkedIn, your patients w
 ###### &mdash; Per Harald Borgen, CEO of Scrimba <a href="https://twitter.com/perborgen/status/1338462544143540227?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote>
 
 ---
+
+### Conclusion
+
+(WRITE ARTICLE SECTION)
+
+
+---
+
+Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).
+
+---
+
+###### ***Please share the article and comment!***
