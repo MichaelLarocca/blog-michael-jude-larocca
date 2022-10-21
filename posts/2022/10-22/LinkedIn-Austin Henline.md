@@ -223,3 +223,14 @@ If you have a time gap between jobs, most likely, they will ask what you did dur
 * Completing Bootcamps
 
 ---
+
+### For career changers 
+Suppose you have many years of experience in your current job and want to transition into tech. In that case, Austin tells us that we will have to work harder to promote ourselves as capable programmers to recruiters and employers.
+
+**To prove yourself as a capable programmer, In your LinkedIn about section, highlight your accomplishments in your current career, and explain how they would make you an excellent web developer.**
+
+**Since you most likely will not have professional work experience as a developer, make sure to add impressive projects, preferably unique to your current role, that you created to your LinkedIn projects section for recruiters and employers to evaluate.**
+
+As a career changer, you have many years of work experience, equating to a lot of value! Make sure to take your time filling out the LinkedIn about and projects sections to prove it.
+
+---
