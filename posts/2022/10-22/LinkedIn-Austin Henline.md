@@ -257,3 +257,24 @@ Heed caution! Austin informs us that LinkedIn profiles without activity are a re
 * Interacting and building relationships
 
 ---
+
+### Add a profile in another language
+You might fill out your LinkedIn profile multilingually if you speak more than one language. Doing so may confuse others viewing your profile. To resolve this issue, you can create separate profiles for each language.
+
+**Creating profiles in each language that you speak benefits both you and potential employers/recruiters by:** 
+
+* Providing clear and concise information for each profile by eliminating the use of multilingual content.
+* Maximizing character limits on each LinkedIn profile section.
+* Offering an opportunity for you to write new content for each language profile.  
+* Providing toggle buttons for each language.
+* Potentially attracting language-specific job roles.
+
+*Please note that adding a profile in another language is only available on the desktop/laptop version of LinkedIn.* 
+
+**Steps to add a profile in another language:**
+
+1. On the top right, click on "ME."
+2. Then click on "View Profile."
+3. Finally, on the right, click on "Add profile in another language."
+
+---
