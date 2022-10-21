@@ -198,3 +198,16 @@ In the experience section, there is an opportunity to optimize your profile by a
 *As it may be tempting to include all of our work experience, Austin advises us only to include the experience that is relevant to the jobs we are currently seeking.*
 
 ---
+
+### For college students without experience
+If you are currently in college or recently graduated, you may not have work experience.
+
+**As a viable alternative to work experience, you can highlight your:**
+
+* Volunteer experience
+* Club experiences
+* Projects
+
+In your LinkedIn experience section, you can talk about any volunteer experience, club experiences, and projects you created. You can even display your projects in your LinkedIn profile's projects section!
+
+---
