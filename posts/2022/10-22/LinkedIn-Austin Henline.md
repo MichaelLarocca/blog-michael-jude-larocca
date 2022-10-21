@@ -145,10 +145,47 @@ If you are a public speaker, you can use a picture of yourself publicly speaking
 
 **You can create a cover photo using free resources, such as [Figma](https://www.figma.com/), and you can use license-free pictures and images from sites, such as [Pixabay](https://pixabay.com/).**
 
-If designing a cover photo is not your thing, you can pay someone else to create it. I paid for mine using [Fiverr](https://www.fiverr.com/)
+If designing a cover photo is not your thing, you can pay someone else to create it. I paid for mine using [Fiverr](https://www.fiverr.com/).
 
 ---
 
 ***Tip:*** *Adding contact information on your cover photo will give recruiters a way to reach you without using their limited InMail message credits.*
 
 --- 
+
+### About section
+After plenty of research and having my LinkedIn portfolio reviewed three times, there seem to be different opinions on what belongs in the about section. Some advise it to be long and detailed, some recommend it to be short and sweet, and others suggest it to be somewhere in the middle.  
+
+**Austin proposes we provide five paragraphs in our LinkedIn about section that include the following:**
+
+1. A hook
+2. Your past
+3. Your present
+4. Your Future
+5. Your skills
+
+**A hook**
+
+For the first paragraph, write something catchy that will entice the reader. Share some personality, and tell your story.
+
+**Your past**
+
+In the second paragraph, write about where you have been and what you have done.
+
+**Your present**
+
+In this paragraph, write about what you are currently doing. What is your job? Do you enjoy it?
+
+**Your Future**
+
+What career aspirations do you have? What are you interested in doing? Write about these topics in this paragraph.
+
+**Your skills**
+
+In the last paragraph, provide a list of skills that you have. Doing so will help you appear in searches and allow recruiters and employers to see your skills at a glance without having to look deeper into your profile.
+
+---
+
+*Note: If you are copying information from your resume into your about section,  be consistent throughout your LinkedIn profile when writing in the first or third person. For example, if you write, "Michael writes articles for both his website and others," and then in your experience section, "I have two years of experience writing articles," it would be inconsistent. Austin advises us to write in the first person for our LinkedIn profile.*
+
+---
