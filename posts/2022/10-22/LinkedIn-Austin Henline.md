@@ -359,3 +359,10 @@ Unlike other platforms such as TikTok and Instagram, where a post can go viral a
 However, if you stick with it and grow your network on LinkedIn, your patients will pay off by providing you with continual employment opportunities!
 
 ---
+
+### My other LinkedIn review articles
+
+* [Create a LinkedIn profile that gets noticed by tech recruiters](https://selftaughttxg.com/2021/03-21/LinkedIn-Profile-Review/)
+* [LinkedIn Review with Danny Thompson](https://selftaughttxg.com/2021/05-21/LinkedInReviewWithDannyThompson/)
+
+---
