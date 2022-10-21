@@ -302,7 +302,7 @@ Austin then brings to our attention that recruiters benefit from contact informa
 
 ---
 
-![profile photo with Leanne and Austin]()
+![profile photo with Leanne and Austin](img/My-Review.png)
 
 ---
 
