@@ -234,3 +234,26 @@ Suppose you have many years of experience in your current job and want to transi
 As a career changer, you have many years of work experience, equating to a lot of value! Make sure to take your time filling out the LinkedIn about and projects sections to prove it.
 
 ---
+
+### Activity 
+Heed caution! Austin informs us that LinkedIn profiles without activity are a red flag to recruiters and employers; they are hesitant to reach out to them because they are not confident that the messages sent will be read.
+
+**You can gain LinkedIn activity for your profile by:**
+
+* Posting content 
+* Commenting on others' posts
+* Interaction and building relationships
+
+---
+
+![Inactivity image](HOLD)
+
+---
+
+**Make sure not to miss out on employment opportunities due to inactivity! You can easily add activity to your LinkedIn account by:**
+
+* Leaving comments on posts 
+* Creating posts
+* Interacting and building relationships
+
+---
