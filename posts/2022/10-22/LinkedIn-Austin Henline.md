@@ -351,3 +351,11 @@ An [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) is a general e
 **Adding an elevator pitch to your LinkedIn about section will fulfill the reason requirement recruiters and employers are looking for.** 
 
 ---
+
+### Stay encouraged 
+
+Unlike other platforms such as TikTok and Instagram, where a post can go viral and gain thousands of followers, LinkedIn is slow and steady in gaining followers. Austin explains it will take time to build your reputation, grow your network, and see results.
+
+However, if you stick with it and grow your network on LinkedIn, your patients will pay off by providing you with continual employment opportunities!
+
+---
