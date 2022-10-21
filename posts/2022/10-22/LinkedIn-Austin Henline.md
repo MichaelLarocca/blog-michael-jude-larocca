@@ -278,3 +278,76 @@ You might fill out your LinkedIn profile multilingually if you speak more than o
 3. Finally, on the right, click on "Add profile in another language."
 
 ---
+
+![My LiveStream Screenshot](HOLD)
+
+My review - timestamp: 49:30
+
+---
+
+### My LinkedIn profile review
+I had my LinkedIn profile reviewed on two previous Scrimba Livestreams. Taking what I learned, I updated my profile with the feedback and advice I was given.
+
+It is time for LinkedIn professional Austin Henline to review my profile and let us know what I got right, what I got wrong, and how to optimize my profile further.
+
+***What I got right*** 
+
+**Cover Photo**
+
+Austin complimented my cover photo, explaining that it has a theme that relates to my experience; it is clear at first glance that I am a Front-End Web Developer.
+
+Austin then brings to our attention that recruiters benefit from contact information displayed on the cover photo. 
+
+**Since recruiters have limited InMail message credits, displaying contact information on the cover photo gives them a guaranteed way of contacting you!**
+
+---
+
+![profile photo with Leanne and Austin]()
+
+---
+
+***What I got wrong*** 
+
+**LinkedIn location setting**
+
+For my LinkedIn location setting, I entered Brooklyn, New York. By doing so, I unintentionally limited the searches I appeared to just Brooklyn.
+
+**By changing my LinkedIn location from Brooklyn to the New York City Metropolitan Area, I significantly increased the radius of job searches I appear in!** 
+
+---
+
+***Tip:*** *Optimize your LinkedIn location setting by selecting an area encompassing a wide radius so that your profile will appear in more job searches.*
+
+---
+
+**Use your headline**
+
+Take advantage of your headline's character count (220 characters)!
+
+Every word you include in your LinkedIn headline is searchable. Including your technical skills, such as JavaScript and React, along with a short description of yourself, will benefit you as it will be easier for recruiters and employers to find you through searches.
+
+**Add your skills to your About section**
+
+Austin encourages us to have a paragraph detailing our skills in our LinkedIn about section. Doing so gives recruiters and potential employers immediate and convenient access to our skillset at a glance!
+
+*Although I did include a skillset paragraph, I did not have a paragraph describing who I am, what I've done, and what experience I have; an elevator pitch.*
+
+**Add an elevator pitch to your About section**
+
+An [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) is a general explanation of one's skills and goals and why one would be a productive and beneficial person to have on a team or within a company or project.
+
+**In simple terms, an elevator pitch is a short speech describing yourself:**
+
+1. Who you are
+2. What you've done
+3. What experience do you have
+
+---
+
+> **Austin advises all of us,** *"you need to give them (recruiters/employers) a reason to be interested in reaching out to you."*
+
+---
+
+**Adding an elevator pitch to your LinkedIn about section will fulfill the reason requirement recruiters and employers are looking for.** 
+
+---
