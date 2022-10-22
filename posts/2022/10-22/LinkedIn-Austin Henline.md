@@ -390,7 +390,7 @@ In today's job market, having a LinkedIn profile is just as important as having 
 
 To further gain attention to your LinkedIn profile, consider being a content creator, and share your work on the platform. Since only 1% of LinkedIn members create content, you will significantly stand out and potentially gain the attention of influential people in the industry.
 
-Building your reputation, growing your network, and seeing results, is much slower on LinkedIn than on other platforms. But with patients and perseverance, your career will flourish with a continual flow of employment opportunities!
+Building your reputation, growing your network, and seeing results, is much slower on LinkedIn than on other platforms. But with patience and perseverance, by utilizing the advice given, your career will flourish with a continual flow of employment opportunities!
 
 ---
 
