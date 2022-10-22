@@ -392,7 +392,7 @@ Building your reputation, growing your network, and seeing results, is much slow
 
 ---
 
-Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
 
