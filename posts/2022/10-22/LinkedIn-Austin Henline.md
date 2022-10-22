@@ -189,6 +189,10 @@ In the last paragraph, provide a list of skills that you have. Doing so will hel
 
 ---
 
+![LinkedIn](img/LinkedIn.png))
+
+---
+
 ### Experience section
 In the experience section, there is an opportunity to optimize your profile by adding details to each of your experience titles.
 
@@ -234,6 +238,10 @@ As a career changer, you have many years of work experience, equating to a lot o
 
 ---
 
+![Inactivity image](HOLD)
+
+---
+
 ### Activity 
 Heed caution! Austin informs us that LinkedIn profiles without activity are a red flag to recruiters and employers; they are hesitant to reach out to them because they are not confident that the messages sent will be read.
 
@@ -242,10 +250,6 @@ Heed caution! Austin informs us that LinkedIn profiles without activity are a re
 * Posting content 
 * Commenting on others' posts
 * Interaction and building relationships
-
----
-
-![Inactivity image](HOLD)
 
 ---
 
