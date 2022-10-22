@@ -33,7 +33,7 @@ Austin hosted a TEDx talk explaining how vital having a LinkedIn profile is in t
 
 ---
 
-Austin explains that nowadays, having a LinkedIn profile is equally important as having a resume. On a personal note, Austin tells us out of the first 24 jobs he applied to, all of them requested a LinkedIn profile as part of the application process, which he did not have then.
+Austin explains that nowadays, having a LinkedIn profile is equally important as having a resume. On a personal note, Austin tells us out of the first 24 jobs he applied to, all of them requested a LinkedIn profile as part of the application process, which he did not have.
 
 Since then, Austin has created an exceptional LinkedIn profile that has attracted over 300 job offers. He now works at LinkedIn and has trained career advisers, businesses, universities, and non-profits on improving their LinkedIn strategies.
 
