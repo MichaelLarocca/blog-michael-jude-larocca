@@ -282,16 +282,16 @@ You might fill out your LinkedIn profile multilingually if you speak more than o
 
 ---
 
+![My LiveStream Screenshot](img/My-Review.png)
+
+My review - timestamp: 49:30
+
+---
+
 ### My LinkedIn profile review
 I had my LinkedIn profile reviewed on two previous Scrimba Livestreams. Taking what I learned, I updated my profile with the feedback and advice I was given.
 
 It is time for LinkedIn professional Austin Henline to review my profile and let us know what I got right, what I got wrong, and how to optimize my profile further.
-
----
-
-![My LiveStream Screenshot](img/My-Review.png)
-
-My review - timestamp: 49:30
 
 ---
 
