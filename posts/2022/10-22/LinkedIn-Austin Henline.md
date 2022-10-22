@@ -284,14 +284,16 @@ You might fill out your LinkedIn profile multilingually if you speak more than o
 
 ![My LiveStream Screenshot](img/My-Review.png)
 
-*My review - timestamp: 49:30*
+*My review - timestamp: 49:10*
 
 ---
 
 ### My LinkedIn profile review
 I had my LinkedIn profile reviewed on two previous Scrimba Livestreams. Taking what I learned, I updated my profile with the feedback and advice I was given.
 
-It is time for LinkedIn professional Austin Henline to review my profile and let us know what I got right, what I got wrong, and how to optimize my profile further.
+Before this YouTube Livestream event, I reached out to Scrimba community manager [Leanne](https://www.youtube.com/c/CodewithLeanne) and asked if I could once again have my LinkedIn profile reviewed, to which she graciously accommodated.
+
+It is now time for LinkedIn professional Austin Henline to review my profile and let us know what I got right, what I got wrong, and how to optimize my profile further!
 
 ---
 
@@ -352,7 +354,6 @@ An [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) is a general e
 ---
 
 ### Stay encouraged 
-
 Unlike other platforms such as TikTok and Instagram, where a post can go viral and gain thousands of followers, LinkedIn is slow and steady in gaining followers. Austin explains it will take time to build your reputation, grow your network, and see results.
 
 However, if you stick with it and grow your network on LinkedIn, your patients will pay off by providing you with continual employment opportunities!
@@ -383,7 +384,6 @@ However, if you stick with it and grow your network on LinkedIn, your patients w
 ---
 
 ### Conclusion
-
 In today's job market, having a LinkedIn profile is just as important as having a resume. 95% of recruiters use LinkedIn to find talent, and by optimizing your profile, you will appear in more search results and stand out from the crowd.
 
 To further gain attention to your LinkedIn profile, consider being a content creator, and share your work on the platform. Since only 1% of LinkedIn members create content, you will significantly stand out and potentially gain the attention of influential people in the industry.
