@@ -345,11 +345,11 @@ An [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) is a general e
 
 ---
 
-> **Austin advises all of us,** *"you need to give them (recruiters/employers) a reason to be interested in reaching out to you."*
+**Adding an elevator pitch to your LinkedIn about section will fulfill the reason requirement recruiters and employers are looking for.** 
 
 ---
 
-**Adding an elevator pitch to your LinkedIn about section will fulfill the reason requirement recruiters and employers are looking for.** 
+> **Austin advises all of us,** *"you need to give them (recruiters/employers) a reason to be interested in reaching out to you."*
 
 ---
 
