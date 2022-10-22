@@ -27,10 +27,9 @@ Austin hosted a TEDx talk explaining how vital having a LinkedIn profile is in t
 
 ---
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/gxqW1hXC3q8" title="How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+*"95% of recruiters use LinkedIn to find talent these days."*
 
-How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU
-TS: 6:00
+> -Austin Henline 
 
 ---
 
@@ -40,9 +39,9 @@ Since then, Austin has created an exceptional LinkedIn profile that has attracte
 
 ---
 
-*"95% of recruiters use LinkedIn to find talent these days."*
+<iframe width="956" height="538" src="https://www.youtube.com/embed/gxqW1hXC3q8" title="How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-> -Austin Henline 
+How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU
 
 ---
 
