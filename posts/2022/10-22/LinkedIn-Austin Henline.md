@@ -1,5 +1,5 @@
 ---
-title: "LinkedIn profile optimization with Austin Henline"
+title: "LinkedIn Profile Optimization With Austin Henline"
 tags:
   [
     "scrimba",
@@ -41,7 +41,8 @@ Since then, Austin has created an exceptional LinkedIn profile that has attracte
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/gxqW1hXC3q8" title="How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU
+
+**How to establish a professional brand with novice experience on LinkedIn | Austin Henline | TEDxSUU**
 
 ---
 
@@ -106,6 +107,7 @@ During this Scrimba Livestream event, Austin goes into further detail on how to 
 ---
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/Sb3yQYreopY" title="LinkedIn profile reviews with a tech recruiter" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 
 **LinkedIn profile reviews with a tech recruiter**
 
