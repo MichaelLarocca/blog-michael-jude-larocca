@@ -343,8 +343,6 @@ An [elevator pitch](https://en.wikipedia.org/wiki/Elevator_pitch) is a general e
 2. What you've done
 3. What experience do you have
 
----
-
 **Adding an elevator pitch to your LinkedIn about section will fulfill the reason requirement recruiters and employers are looking for.** 
 
 ---
