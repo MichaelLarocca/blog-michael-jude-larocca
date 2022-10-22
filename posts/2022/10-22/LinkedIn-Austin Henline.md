@@ -398,4 +398,4 @@ Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudel
 
 ---
 
-###### ***Please share the article and comment!***
+###### ***Are you now interested in optimizing your LinkedIn profile? Have you already optimized your LinkedIn profile and gained more opportunities after? Please share the article and comment!***
