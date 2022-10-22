@@ -363,14 +363,15 @@ However, if you stick with it and grow your network on LinkedIn, your patients w
 ### My other LinkedIn review articles
 
 * [Create a LinkedIn profile that gets noticed by tech recruiters](https://selftaughttxg.com/2021/03-21/LinkedIn-Profile-Review/)
+
 * [LinkedIn Review with Danny Thompson](https://selftaughttxg.com/2021/05-21/LinkedInReviewWithDannyThompson/)
 
 ---
 
 ### Austin Henline links
 
-🔗 [LinkedIn](https://www.linkedin.com/in/austinhenline)
-🔗 [YouTube](https://www.youtube.com/c/AustinHenline)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/austinhenline)
+* 🔗 [YouTube](https://www.youtube.com/c/AustinHenline)
 
 ---
 
