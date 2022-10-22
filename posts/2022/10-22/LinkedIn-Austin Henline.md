@@ -291,7 +291,7 @@ You might fill out your LinkedIn profile multilingually if you speak more than o
 ### My LinkedIn profile review
 I had my LinkedIn profile reviewed on two previous Scrimba Livestreams. Taking what I learned, I updated my profile with the feedback and advice I was given.
 
-Before this YouTube Livestream event, I reached out to Scrimba community manager [Leanne](https://www.youtube.com/c/CodewithLeanne) and asked if I could once again have my LinkedIn profile reviewed, to which she graciously accommodated.
+Before this YouTube Livestream event, I reached out to Scrimba Community Manager [Leanne](https://www.youtube.com/c/CodewithLeanne) and asked if I could once again have my LinkedIn profile reviewed, to which she graciously accommodated.
 
 It is now time for LinkedIn professional Austin Henline to review my profile and let us know what I got right, what I got wrong, and how to optimize my profile further!
 
