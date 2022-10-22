@@ -16,7 +16,7 @@ date: "2022-10-24"
 
 ---
 
-![Austin Henline](img/TN-TXG-64.png)
+![Austin Henline](img/TN-TXG-64-NEW.png)
 
 ---
 
