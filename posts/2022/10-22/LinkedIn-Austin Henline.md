@@ -369,7 +369,7 @@ However, if you stick with it and grow your network on LinkedIn, your patients w
 
 ### Austin Henline links
 
-🔗 [LinkedIn]()
+🔗 [LinkedIn](https://www.linkedin.com/in/austinhenline)
 🔗 [YouTube](https://www.youtube.com/c/AustinHenline)
 
 ---
