@@ -189,7 +189,7 @@ In the last paragraph, provide a list of skills that you have. Doing so will hel
 
 ---
 
-![LinkedIn](img/LinkedIn.png)
+![LinkedIn](img/linkedIn.png)
 
 ---
 
