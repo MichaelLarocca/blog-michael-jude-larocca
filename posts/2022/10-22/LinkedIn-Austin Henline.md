@@ -284,7 +284,7 @@ You might fill out your LinkedIn profile multilingually if you speak more than o
 
 ![My LiveStream Screenshot](img/My-Review.png)
 
-My review - timestamp: 49:30
+*My review - timestamp: 49:30*
 
 ---
 
