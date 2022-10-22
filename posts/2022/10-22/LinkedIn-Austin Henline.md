@@ -238,7 +238,7 @@ As a career changer, you have many years of work experience, equating to a lot o
 
 ---
 
-![Inactivity image](HOLD)
+![Inactivity image](img/Activity.png)
 
 ---
 
