@@ -62,7 +62,7 @@ Before you can find success on LinkedIn, you need to define why you want to use 
 * Looking for a job.
 * A business owner looking to hire
 * Looking for customers
-* Grow your network
+* Growing your network
 * Looking for a career change
 
 Once you define what you are using the platform for, you will know your target audience. With your target audience in mind, you can best optimize your LinkedIn profile.
@@ -146,7 +146,7 @@ If you are a public speaker, you can use a picture of yourself publicly speaking
 
 **You can create a cover photo using free resources, such as [Figma](https://www.figma.com/), and you can use license-free pictures and images from sites, such as [Pixabay](https://pixabay.com/).**
 
-If designing a cover photo is not your thing, you can pay someone else to create it. I paid for mine using [Fiverr](https://www.fiverr.com/).
+If you are uncomfortable designing a cover photo, you can hire someone else to create it. I used [Fiverr](https://www.fiverr.com/).
 
 ---
 
@@ -247,19 +247,15 @@ As a career changer, you have many years of work experience, equating to a lot o
 ### Activity 
 Heed caution! Austin informs us that LinkedIn profiles without activity are a red flag to recruiters and employers; they are hesitant to reach out to them because they are not confident that the messages sent will be read.
 
-**You can gain LinkedIn activity for your profile by:**
-
-* Posting content 
-* Commenting on others' posts
-* Interaction and building relationships
-
----
-
 **Make sure not to miss out on employment opportunities due to inactivity! You can easily add activity to your LinkedIn account by:**
 
 * Leaving comments on posts 
 * Creating posts
 * Interacting and building relationships
+
+---
+
+***Tip:*** *When creating posts on LinkedIn, add external links in the comments to significantly improve your post's reach/performance on the platform.*
 
 ---
 
@@ -373,7 +369,12 @@ However, if you stick with it and grow your network on LinkedIn, your patients w
 ### Austin Henline links
 
 * 🔗 [LinkedIn](https://www.linkedin.com/in/austinhenline)
+* 🔗 [Twitter](https://twitter.com/AustinHenline)
 * 🔗 [YouTube](https://www.youtube.com/c/AustinHenline)
+
+---
+
+***Be sure to check out Austin's [Scrimba Podcast episode](https://scrimba.com/podcast/make-your-linkedin-profile-standout/), hosted by [Alex Booker](https://twitter.com/bookercodes)!***
 
 ---
 
