@@ -27,7 +27,7 @@ function panic(sentence) {
 }
 ```
 
-Although the solution to this challenge may seem complicated at first glance, it is solved easily using JavaScript methods.
+**Although the solution to this challenge may seem complicated at first glance, it is solved easily using JavaScript methods.**
 
 *By using periods, you can chain JavaScript methods together.*
 
