@@ -37,9 +37,7 @@ The [join()](https://www.w3schools.com/jsref/jsref_join.asp) method returns an a
 
 The [toUpperCase()](https://www.w3schools.com/jsref/jsref_touppercase.asp) method converts a string to uppercase letters. 
 
-Finally, I added the exclamation mark between backticks and used the JavaScript concatenation operator to add it to the end of the string.
-
-***Note:*** *When used on strings, the + operator is called the concatenation operator.*
+The [concat()](https://www.w3schools.com/jsref/jsref_concat_string.asp) method joins two or more strings and returns a new string.
 
 ---
 
