@@ -110,16 +110,17 @@ function transformData(data) {
 
   const records = data.forEach((record) => {
       const fullName = `${record.name.first} ${record.name.last}`;    
-      const date = new Date(record.dob.date);    
+      const birthDate = new Date(record.dob.date);    
           
       const newRecord = {
               fullName: fullName,
-              birthday: date.toDateString()
+              birthday: birthDate.toDateString()
           };
           totallyPrivateDataArray.push(newRecord);
       });
+      
   return totallyPrivateDataArray;
-}
+  }
 ```
 
 For each iteration of the for loop, we create a variable for each record's full name and birthday. We assign the fullName variable by concatenating the first and last name. 
