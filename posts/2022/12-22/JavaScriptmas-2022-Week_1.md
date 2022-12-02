@@ -29,7 +29,7 @@ function panic(sentence) {
 
 **Although the solution to this challenge may seem complicated at first glance, it is solved easily using JavaScript methods.**
 
-*By using periods, you can chain JavaScript methods together.*
+***ℹ Note:*** *By using periods, you can chain JavaScript methods together.*
 
 The [split()](https://www.w3schools.com/jsref/jsref_split.asp) method splits a string into an array of substrings. This method accepts a separator as an optional parameter. We get each word of the string by adding a space between single quotation marks as a separator.
 
