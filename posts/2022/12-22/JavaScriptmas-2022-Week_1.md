@@ -97,7 +97,7 @@ console.log(data[0].dob.date)
 
 To format the date as specified by the challenge:
 ```javascript
-let date = new Date (data[0].dob.date)
+const date = new Date (data[0].dob.date)
 console.log(date.toDateString())
 Fri Aug 20 1971
 ```
