@@ -31,7 +31,7 @@ function panic(sentence) {
 
 *By using periods, you can chain JavaScript methods together.*
 
-The [split()](https://www.w3schools.com/jsref/jsref_split.asp) method splits a string into an array of substrings. We get each word of the string by adding a space between the single quotation marks.
+The [split()](https://www.w3schools.com/jsref/jsref_split.asp) method splits a string into an array of substrings. This method accepts a separator as an optional parameter. We get each word of the string by adding a space between single quotation marks as a separator.
 
 The [join()](https://www.w3schools.com/jsref/jsref_join.asp) method returns an array as a string. This method includes a separator argument (the default separator is a comma). I solved this part of the challenge by passing in single quotation marks with an 😱 emoji as the separator argument. I included a space between the single quotation marks.
 
