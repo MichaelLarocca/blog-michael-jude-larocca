@@ -42,7 +42,68 @@ The [concat()](https://www.w3schools.com/jsref/jsref_concat_string.asp) method j
 ---
 
 ### Day 2 challenge
-#### HOLD
+#### Totally Private Data Farm
+*Write a function that maps through the current data and returns a new array of objects with only two properties: fullName and birthday. Each result in your array should look like this when you're done:* 
+```javascript
+{
+    fullName: "Levent Busser", 
+    birthday: "Fri Aug 20 1971"
+}
+```
+
+**In this challenge, we must format information from the provided array and return it.**
+
+Here is the first record in the provided array: 
+```javascript
+      {
+         "name":{
+            "title":"Mr",
+            "first":"Levent",
+            "last":"Busser"
+         },
+         "dob":{
+            "date":"1971-08-21T01:08:00.099Z",
+            "age":51
+         }
+      }
+```
+
+Let's look at the first record by using the console log as follows:
+```javascript
+console.log(data[0]);
+{name: {title: "Mr", first: "Levent", last: "Busser"}, dob: {date: "1971-08-21T01:08:00.099Z", age: 51}}
+```
+
+We can retrieve the first and last names as follows:
+```javascript
+console.log(data[0].name.first);
+console.log(data[0].name.last);
+Levent
+Busser
+```
+
+Now we retrieve the date as follows:
+```javascript
+console.log(data[0].dob.date)
+1971-08-21T01:08:00.099Z
+```
+
+To format the date as specified by the challenge:
+```javascript
+let date = new Date (data[0].dob.date)
+console.log(date.toDateString())
+Fri Aug 20 1971
+```
+
+To create the full name:
+```javascript
+const fullName = `${data[0].name.first} ${data[0].name.last}`;
+console.log(fullName);
+Levent Busser
+```
+
+---
+
 
 ---
 
