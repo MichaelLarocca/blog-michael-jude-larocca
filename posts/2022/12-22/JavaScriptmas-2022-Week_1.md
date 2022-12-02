@@ -22,7 +22,7 @@ Tis the season to be coding! JavaScriptmas time is here!
 
 ```javascript
 function panic(sentence) {
-    const splitSentence = sentence.split(' ').join(' 😱 ').toUpperCase() + `!`;
+    const splitSentence = sentence.split(' ').join(' 😱 ').toUpperCase().concat('!');
     return splitSentence;
 }
 ```
