@@ -118,7 +118,7 @@ function transformData(data) {
           };
           totallyPrivateDataArray.push(newRecord);
       });
-      
+
   return totallyPrivateDataArray;
   }
 ```
@@ -128,6 +128,8 @@ For each iteration of the for loop, we create a variable for each record's full 
 Then, we assign the birthday variable by creating a [new Date()](https://www.w3schools.com/js/js_dates.asp). We pass in the current record and format it using the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method.
 
 Now that we have new variables with the proper format, we create an object called newRecord and assign them with key-value pairs.
+
+Finally, we push the object we just created into the totallyPrivateDataArray and return the array after the forEach loop.
 
 ---
 
