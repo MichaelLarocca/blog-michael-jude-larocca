@@ -82,6 +82,13 @@ Levent
 Busser
 ```
 
+To create the full name:
+```javascript
+const fullName = `${data[0].name.first} ${data[0].name.last}`;
+console.log(fullName);
+Levent Busser
+```
+
 Now we retrieve the date as follows:
 ```javascript
 console.log(data[0].dob.date)
@@ -93,13 +100,6 @@ To format the date as specified by the challenge:
 let date = new Date (data[0].dob.date)
 console.log(date.toDateString())
 Fri Aug 20 1971
-```
-
-To create the full name:
-```javascript
-const fullName = `${data[0].name.first} ${data[0].name.last}`;
-console.log(fullName);
-Levent Busser
 ```
 
 Now that we understand how to format the data, we can use a [forEach()](https://www.w3schools.com/jsref/jsref_foreach.asp) loop for cycling through the provided data array and then push the formatted data into a new array called totallyPrivateDataArray to return.
