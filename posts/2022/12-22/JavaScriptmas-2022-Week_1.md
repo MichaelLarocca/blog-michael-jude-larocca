@@ -37,7 +37,7 @@ The [join()](https://www.w3schools.com/jsref/jsref_join.asp) method returns an a
 
 The [toUpperCase()](https://www.w3schools.com/jsref/jsref_touppercase.asp) method converts a string to uppercase letters. 
 
-The [concat()](https://www.w3schools.com/jsref/jsref_concat_string.asp) method joins two or more strings and returns a new string.
+The [concat()](https://www.w3schools.com/jsref/jsref_concat_string.asp) method joins two or more strings and returns a new string. We add the exclamation point by passing it in between single quotes as a parameter.
 
 ---
 
