@@ -102,6 +102,32 @@ console.log(fullName);
 Levent Busser
 ```
 
+Now that we understand how to format the data, we can use a [forEach()](https://www.w3schools.com/jsref/jsref_foreach.asp) loop for cycling through the provided data array and then push the formatted data into a new array called totallyPrivateDataArray to return.
+
+```javascript
+function transformData(data) {
+  const totallyPrivateDataArray = [];
+
+  const records = data.forEach((record) => {
+      const fullName = `${record.name.first} ${record.name.last}`;    
+      const date = new Date(record.dob.date);    
+          
+      const newRecord = {
+              fullName: fullName,
+              birthday: date.toDateString()
+          };
+          totallyPrivateDataArray.push(newRecord);
+      });
+  return totallyPrivateDataArray;
+}
+```
+
+For each iteration of the for loop, we create a variable for each record's full name and birthday. We assign the fullName variable by concatenating the first and last name. 
+
+Then, we assign the birthday variable by creating a [new Date()](https://www.w3schools.com/js/js_dates.asp). We pass in the current record and format it using the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method.
+
+Now that we have new variables with the proper format, we create an object called newRecord and assign them with key-value pairs.
+
 ---
 
 
