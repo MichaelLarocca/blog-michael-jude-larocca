@@ -139,9 +139,6 @@ Finally, we push the object we just created into the totallyPrivateDataArray and
 
 ---
 
-
----
-
 ### Day 3 challenge
 #### Favorite Foods
 *Topic: Object Destructuring*
@@ -150,7 +147,48 @@ Finally, we push the object we just created into the totallyPrivateDataArray and
 *3. Fetch the meals <section> from the DOM.*
 *4. Set the innerHTML content of the meals <section> to a paragraph that states what your favorite foods are for breakfast, lunch, and supper.Use a template literal to construct the string.*
 
+**This challenge instructs us to use [object destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp). Destructuring makes it easy to extract just what we need from an object.**
 
+*ℹ Here is a helpful short video [JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) by Fireship.*
+
+First, we add the food to the empty strings provided in the faveFoods object. To add the emojis on Windows, use the buttons "Windows" + "." (period) to open up the emojis dialog box.
+```javascript
+const faveFoods = {
+    breakfast: 'croissants 🥐',
+    lunch: 'tuna sandwiches 🥪',
+    supper: 'pizza 🍕'
+}
+```
+
+Here is how to assign the variables using destructuring as instructed:
+```javascript
+const { breakfast, lunch, supper } = faveFoods;
+```
+
+We can verify it worked by using the console log:
+```javascript
+console.log(breakfast);
+console.log(lunch);
+console.log(supper);
+
+croissants 🥐
+tuna sandwiches 🥪
+pizza 🍕
+```
+
+Next, we use [document.getElementById]() to fetch the meals `<section>` from the DOM as instructed as follows:
+```javascript
+const meals = document.getElementById("meals");
+```
+
+Finally, we solve the challenge by using [innerHTML](https://www.w3schools.com/jsref/prop_html_innerhtml.asp) to add a paragraph using string interpolation.
+```javascript
+meals.innerHTML = `
+    <p>
+        For breakfast, I only like ${breakfast}. I love ${lunch} for lunch, and I usually want ${supper} for supper.
+    </p>
+`;    
+```
 
 ---
 
