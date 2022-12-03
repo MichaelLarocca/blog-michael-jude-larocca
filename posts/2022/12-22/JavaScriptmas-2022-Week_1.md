@@ -149,7 +149,7 @@ Finally, we push the object we just created into the totallyPrivateDataArray and
 
 **This challenge instructs us to use [object destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp). Destructuring makes it easy to extract just what we need from an object.**
 
-*ℹ Here is a helpful short video [JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) by Fireship.*
+*ℹ Here is a helpful short video: [JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) by Fireship.*
 
 First, we add the food to the empty strings provided in the faveFoods object. To add the emojis on Windows, use the buttons "Windows" + "." (period) to open up the emojis dialog box.
 ```javascript
