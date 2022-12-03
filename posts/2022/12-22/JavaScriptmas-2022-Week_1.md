@@ -16,7 +16,7 @@ Tis the season to be coding! JavaScriptmas time is here!
 
 ---
 
-![TN-TXG-65](img/TN-TXG-65.png)
+![TN-TXG-65](img/TN-TXG-65-02.png)
 
 ---
 
