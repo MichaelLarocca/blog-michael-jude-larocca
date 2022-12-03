@@ -68,7 +68,9 @@ Here is the first record in the provided array:
       }
 ```
 
-Let's look at the first record by using the console log as follows:
+First, let's look at how we retrieve each item we need using console logs. To simplify, we will view the first record in the provided array.
+
+We access the first record by using the console log as follows:
 ```javascript
 console.log(data[0]);
 {name: {title: "Mr", first: "Levent", last: "Busser"}, dob: {date: "1971-08-21T01:08:00.099Z", age: 51}}
@@ -82,7 +84,7 @@ Levent
 Busser
 ```
 
-To create the full name:
+To create the full name, we concatenate the first and last name using [string interpolation](https://www.w3schools.com/js/js_string_templates.asp).
 ```javascript
 const fullName = `${data[0].name.first} ${data[0].name.last}`;
 console.log(fullName);
@@ -95,7 +97,7 @@ console.log(data[0].dob.date)
 1971-08-21T01:08:00.099Z
 ```
 
-To format the date as specified by the challenge:
+To format the date specified by the challenge, we need to create a new [date object](https://www.w3schools.com/js/js_dates.asp) and pass in the value. Then we need to use the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method to format it as specified.
 ```javascript
 const date = new Date (data[0].dob.date)
 console.log(date.toDateString())
