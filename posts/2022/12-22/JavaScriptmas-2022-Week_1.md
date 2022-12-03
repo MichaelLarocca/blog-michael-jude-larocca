@@ -91,7 +91,7 @@ console.log(fullName);
 Levent Busser
 ```
 
-Now we retrieve the date as follows:
+Now we retrieve the date of birth date as follows:
 ```javascript
 console.log(data[0].dob.date)
 1971-08-21T01:08:00.099Z
