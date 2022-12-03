@@ -108,7 +108,7 @@ console.log(date.toDateString())
 Fri Aug 20 1971
 ```
 
-**ℹ Now that we understand how to format the data, we can use a [forEach()](https://www.w3schools.com/jsref/jsref_foreach.asp) loop for cycling through the provided data array and then push the formatted data into a new array called totallyPrivateDataArray to return.**
+**Now that we understand how to format the data, we can use a [forEach()](https://www.w3schools.com/jsref/jsref_foreach.asp) loop for cycling through the provided data array and then push the formatted data into a new array called totallyPrivateDataArray to return.**
 
 ```javascript
 function transformData(data) {
