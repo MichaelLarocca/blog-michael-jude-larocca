@@ -142,10 +142,10 @@ Finally, we push the object we just created into the totallyPrivateDataArray and
 ### Day 3 challenge
 #### Favorite Foods
 *Topic: Object Destructuring*
-*1. Edit the faveFoods object so that it contains your favorite foods.*
-*2. Destructure the faveFoods object into three consts: breakfast, lunch, and supper.*
-*3. Fetch the meals <section> from the DOM.*
-*4. Set the innerHTML content of the meals <section> to a paragraph that states what your favorite foods are for breakfast, lunch, and supper.Use a template literal to construct the string.*
+  1. Edit the faveFoods object so that it contains your favorite foods.
+  2. Destructure the faveFoods object into three consts: breakfast, lunch, and supper.
+  3. Fetch the meals <section> from the DOM.
+  4. Set the innerHTML content of the meals <section> to a paragraph that states what your favorite foods are for breakfast, lunch, and supper.Use a template literal to construct the string.
 
 **This challenge instructs us to use [object destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp). Destructuring makes it easy to extract just what we need from an object.**
 
