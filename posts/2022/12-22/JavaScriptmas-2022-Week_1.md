@@ -131,7 +131,7 @@ function transformData(data) {
 
 For each iteration of the for loop, we create a variable for each record's full name and birthday. We assign the fullName variable by concatenating the first and last name. 
 
-Then, we assign the birthday variable by creating a [new Date()](https://www.w3schools.com/js/js_dates.asp). We pass in the current record's date of birth value and format it using the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method.
+Then, we assign the birthday variable by creating a [new Date()](https://www.w3schools.com/js/js_dates.asp) object. We pass in the current record's date of birth value and format it using the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method.
 
 Now that we have new variables with the proper format, we create an object called newRecord and assign them with the key-value pairs as required by the coding challenge.
 
