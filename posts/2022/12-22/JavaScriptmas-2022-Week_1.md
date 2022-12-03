@@ -72,7 +72,7 @@ Here is the first record in the provided array:
       }
 ```
 
-First, let's look at how we retrieve each item we need using console logs. To simplify, we will view the first record in the provided array.
+**First, let's look at how we retrieve each item we need using console logs. To simplify, we will view the first record in the provided array.**
 
 We access the first record by using the console log as follows:
 ```javascript
