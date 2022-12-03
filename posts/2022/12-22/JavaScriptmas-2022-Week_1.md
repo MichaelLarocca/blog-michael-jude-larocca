@@ -215,6 +215,6 @@ By completing all 24 coding challenges, you will be awarded a certificate and an
 
 ---
 
-###### Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment! 
+###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!* 
 
 ---
