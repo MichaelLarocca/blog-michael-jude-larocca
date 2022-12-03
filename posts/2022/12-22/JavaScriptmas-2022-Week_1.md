@@ -97,14 +97,14 @@ console.log(data[0].dob.date)
 1971-08-21T01:08:00.099Z
 ```
 
-To format the date specified by the challenge, we need to create a new [date object](https://www.w3schools.com/js/js_dates.asp) and pass in the value. Then we need to use the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method to format it as specified.
+To format the date specified by the challenge, we need to create a new [date object](https://www.w3schools.com/js/js_dates.asp) and pass in the date of birth value. Then we need to use the [toDateString()](https://www.w3schools.com/jsref/jsref_todatestring.asp) method to format it as specified.
 ```javascript
 const date = new Date (data[0].dob.date)
 console.log(date.toDateString())
 Fri Aug 20 1971
 ```
 
-Now that we understand how to format the data, we can use a [forEach()](https://www.w3schools.com/jsref/jsref_foreach.asp) loop for cycling through the provided data array and then push the formatted data into a new array called totallyPrivateDataArray to return.
+**ℹ Now that we understand how to format the data, we can use a [forEach()](https://www.w3schools.com/jsref/jsref_foreach.asp) loop for cycling through the provided data array and then push the formatted data into a new array called totallyPrivateDataArray to return.**
 
 ```javascript
 function transformData(data) {
