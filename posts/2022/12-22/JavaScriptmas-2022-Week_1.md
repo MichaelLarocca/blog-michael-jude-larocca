@@ -176,7 +176,7 @@ tuna sandwiches 🥪
 pizza 🍕
 ```
 
-Next, we use [document.getElementById]() to fetch the meals `<section>` from the DOM as instructed as follows:
+Next, we use [document.getElementById]() to fetch the meals `<section>` from the DOM as instructed by writing the following code:
 ```javascript
 const meals = document.getElementById("meals");
 ```
