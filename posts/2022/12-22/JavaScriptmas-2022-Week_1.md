@@ -43,6 +43,8 @@ The [toUpperCase()](https://www.w3schools.com/jsref/jsref_touppercase.asp) metho
 
 The [concat()](https://www.w3schools.com/jsref/jsref_concat_string.asp) method joins two or more strings and returns a new string. We add the exclamation point at the end by passing it in between single quotes as a parameter.
 
+***🔗 [My solution for day 1](https://scrimba.com/scrim/co9a34c2898498bcea9f6ecd6)***
+
 ---
 
 ### Day 2 challenge
@@ -137,6 +139,8 @@ Now that we have new variables with the proper format, we create an object calle
 
 Finally, we push the object we just created into the totallyPrivateDataArray and return the array after the forEach loop.
 
+***🔗 [My solution for day 2](https://scrimba.com/scrim/coc5544d981fd75aeb4ef0b50)***
+
 ---
 
 ### Day 3 challenge
@@ -189,6 +193,8 @@ meals.innerHTML = `
     </p>
 `;    
 ```
+
+***🔗 [My solution for day 3](https://scrimba.com/scrim/cob19441da8d65e3f62055ed0)***
 
 ---
 
