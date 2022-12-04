@@ -153,6 +153,10 @@ Finally, we push the object we just created into the totallyPrivateDataArray and
 
 **This challenge instructs us to use [object destructuring](https://www.w3schools.com/react/react_es6_destructuring.asp). Destructuring makes it easy to extract just what we need from an object.**
 
+So what's the benefit of using destructuring? Using it, we can assign multiple variables with just one succinct line of code!
+
+In this challenge, the benefit of using destructuring is not apparent since we are working with a small object. However, it comes in handy when working with large objects.
+
 *ℹ Here is a helpful short video: [JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) by Fireship.*
 
 First, we add the food to the empty strings provided in the faveFoods object. To add the emojis on Windows, use the buttons "Windows" + "." (period) to open up the emojis dialog box.
