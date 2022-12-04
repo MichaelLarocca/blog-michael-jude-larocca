@@ -157,7 +157,7 @@ So what's the benefit of using destructuring? Using it, we can assign multiple v
 
 In this challenge, the benefit of using destructuring is not apparent since we are working with a small object. However, it comes in handy when working with large objects.
 
-*ℹ Here is a helpful short video: [JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY) by Fireship.*
+*ℹ Here is a helpful short video by Fireship: [JS Destructuring in 100 Seconds](https://www.youtube.com/watch?v=UgEaJBz3bjY).*
 
 First, we add the food to the empty strings provided in the faveFoods object. To add the emojis on Windows, use the buttons "Windows" + "." (period) to open up the emojis dialog box.
 ```javascript
