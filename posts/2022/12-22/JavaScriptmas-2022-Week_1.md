@@ -10,13 +10,28 @@ date: "2022-12-05"
 ---
 
 ### JavaScriptmas 2022 - Week 1
-(WRITE ARTICLE SECTION)
 
 Tis the season to be coding! JavaScriptmas time is here!
+
+JavaScriptmas is a FREE annual festive coding event hosted by the online coding school [Scrimba](https://scrimba.com/). 
+
+From December 1st to the 24th, new coding challenges will be released daily. All valid solutions submitted in their Discord JavaScriptmas channel act as a raffle ticket. So the more valid solutions you enter, the more chances you have to win! Two winners will be drawn during their YouTube Livestream on December 24th and receive $1000 cash plus a lifetime Scrimba Pro membership!
+
+The first winner will be chosen randomly from the daily coding challenge submissions (on Discord).
+
+The second winner is randomly chosen from their submitted code reviews (on Discord).    
+
+What are the code reviews? A code review is when YOU [record a scrim](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/) reviewing another person's JavaScriptmas solution, providing constructive feedback.
+
+This year will be my third year participating in Scrimba's JavaScriptmas event. I will be completing each of the daily challenges and providing detailed solutions.
 
 ---
 
 ![TN-TXG-65](img/TN-TXG-65-02.png)
+
+---
+
+###  My JavaScript code challenge solutions ⬇
 
 ---
 
