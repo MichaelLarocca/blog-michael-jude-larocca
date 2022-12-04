@@ -203,7 +203,47 @@ meals.innerHTML = `
 ---
 
 ### Day 4 challenge
-#### HOLD
+#### Whispering function 
+*Write a function 'whisper' that takes in a sentence and returns a new sentence in all lowercase letters with "shh..." at the beginning.* 
+
+*The function should also remove an exclamation point at the end of the sentence, if there is one.* 
+
+*Example*
+*input: "The KITTENS are SLEEPING!"*
+*output: "shh... the kittens are sleeping"*
+
+*Hint: endsWith and slice*
+
+**This challenge asks us to return a formatted sentence. If the sentence ends with an exclamation point, remove it, add "shh..." to the beginning, and set it to lowercase.**
+
+To find out if the sentence ends with an exclamation point, we will use the aptly named [endsWith()](https://www.w3schools.com/jsref/jsref_endswith.asp) method. This method returns true or false.
+
+```javascript
+console.log(sentence.endsWith('!'));
+```
+
+We can use the [slice()](https://www.w3schools.com/jsref/jsref_slice_array.asp) method to remove the last character in the sentence we pass in. 
+
+The slice method accepts a start and an end parameter. We enter zero to start at the beginning, and we enter a negative one to remove the last character.
+
+```javascript
+console.log(sentence.slice(0,-1));
+```
+
+To solve the challenge, we write an if statement that checks if the passed-in sentence ends with an exclamation point. We then return the appropriate sentence using string interpolation and the [toLowerCase()](https://www.w3schools.com/jsref/jsref_tolowercase.asp) method.
+
+```javascript
+function whisper(sentence) {
+
+   if(sentence.endsWith('!')) {
+       return `shh... ${sentence.slice(0,-1).toLowerCase()}`;
+   } else {
+       return `shh... ${sentence.toLowerCase()}`;
+   }
+}
+```
+
+***🔗 [My solution for day 4](https://scrimba.com/scrim/co41d48089c3b9230ecf9ca3a)***
 
 ---
 
