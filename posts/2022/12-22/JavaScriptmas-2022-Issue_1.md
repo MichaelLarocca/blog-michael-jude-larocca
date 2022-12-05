@@ -41,6 +41,17 @@ If you would like a demonstration on how to create a [Scrimba Screencast](https:
 
 Gina teaches us how to solve the first day's coding challenge in not one, not two, but in three ways! She also created beautifully illustrated slides that provide the detailed coding concepts taught, which is very helpful to students following and coding along.  
 
+***[🔗 Link to the scrim](https://scrimba.com/scrim/cJPD3Lu2?pl=p67LBHv)***
+
+---
+
+#### Michaella Rodriguez
+
+![Michaella Rodriguez](img/MichaellaRodriguez.png)
+
+
+***[🔗 Link to the scrim](https://scrimba.com/scrim/coc924780a45744007a4c1c66)***
+
 ---
 
 ###  My JavaScript code challenge solutions ⬇
