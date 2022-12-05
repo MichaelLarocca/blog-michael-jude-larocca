@@ -15,7 +15,7 @@ date: "2022-12-05"
 
 ### JavaScriptmas 2022 - Week 1
 
-Tis the season to be coding! JavaScriptmas time is here!
+Tis the season to be coding! JavaScriptmas time is here again!
 
 JavaScriptmas is a FREE annual festive coding event hosted by the online coding school [Scrimba](https://scrimba.com/). 
 
