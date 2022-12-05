@@ -49,6 +49,12 @@ Gina teaches us how to solve the first day's coding challenge in not one, not tw
 
 ![Michaella Rodriguez](img/MichaellaRodriguez.png)
 
+Michaella went above and beyond the instructions of day four's challenge! She wrote the code to format a sentence as instructed and took it further by creating a function that displays multiple messages when a user clicks a button. 
+
+Michaella's code works similarly to a Magic 8 Ball and displays a comical picture of Santa with a finger over his lips with a "shh..." gesture, warning us to be quiet!
+
+***[🔗 Link to the scrim]](https://scrimba.com/scrim/coc924780a45744007a4c1c66)***
+
 
 ***[🔗 Link to the scrim](https://scrimba.com/scrim/coc924780a45744007a4c1c66)***
 
