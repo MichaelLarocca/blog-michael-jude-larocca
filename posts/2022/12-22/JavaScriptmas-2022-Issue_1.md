@@ -65,8 +65,7 @@ Michaella's code works similarly to a Magic 8 Ball and displays a comical pictur
 
 The background is an animated image of a serene, calm lake. But as soon as you hit the panic button, the background changes to an animated inferno! 
 
-***https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7
-[🔗 Link to the scrim](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7)***
+***[🔗 Link to the scrim](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7)***
 
 ---
 
