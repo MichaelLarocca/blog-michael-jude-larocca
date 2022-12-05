@@ -23,7 +23,7 @@ From December 1st to the 24th, new coding challenges will be released daily. All
 
 The first winner will be chosen randomly from the daily coding challenge submissions (on Discord).
 
-The second winner is randomly chosen from their submitted code reviews (on Discord).    
+The second winner is randomly chosen from their submitted code reviews (on Discord). Each submitted coding review acts as a single raffle ticket, so the more you help others, the more chances you have to win a prize!     
 
 What are the code reviews? A code review is when YOU [record a scrim](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/) reviewing another person's JavaScriptmas solution, providing constructive feedback.
 
@@ -31,7 +31,7 @@ What are the code reviews? A code review is when YOU [record a scrim](https://se
 
 ---
 
->***Note:*** *You must enter each daily coding challenge submission by midnight (GMT-5), and it must be a working solution for your entry to be valid.*
+>***Note:*** *You must enter each daily coding challenge submission by midnight (GMT), and it must be a working solution for your entry to be valid.*
 
 ---
 
@@ -317,7 +317,7 @@ function whisper(sentence) {
 
 Scrimba's JavaScriptmas annual FREE event is a wonderful way to commit to coding daily. It is a fun and festive event where all participants have an equal opportunity to win prizes, regardless of their skill level.
 
-By completing all 24 coding challenges and submitting them daily by midnight (GMT-5) time, each submission acts as a raffle ticket, so you will have up to 24 chances to win prizes!
+By completing all 24 coding challenges and submitting them daily by midnight (GMT-5) time, each submission acts as a raffle ticket, so you will have up to 24 chances to win prizes, plus unlimited more chances with submitting coding reviews!
 
 ---
 
