@@ -31,6 +31,10 @@ What are the code reviews? A code review is when YOU [record a scrim](https://se
 
 ---
 
+>***Note:*** *You must enter each daily coding challenge submission by midnight (GMT-5), and it must be a working solution for your entry to be valid.*
+
+---
+
 ### Community highlights ⬇
 
 #### Gina Russo
@@ -311,9 +315,9 @@ function whisper(sentence) {
 
 ### Conclusion
 
-Scrimba's JavaScriptmas annual FREE event is a wonderful way to commit to coding daily and is a fun and festive event where all participants have an equal opportunity to win prizes, regardless of their skill level.
+Scrimba's JavaScriptmas annual FREE event is a wonderful way to commit to coding daily. It is a fun and festive event where all participants have an equal opportunity to win prizes, regardless of their skill level.
 
-By completing all 24 coding challenges, you will be awarded a certificate and an exclusive Discord badge, and since each submission acts as a raffle ticket, you will have 24 chances to win prizes!
+By completing all 24 coding challenges and submitting them daily by midnight (GMT-5) time, each submission acts as a raffle ticket, so you will have up to 24 chances to win prizes!
 
 ---
 
