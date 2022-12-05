@@ -1,5 +1,5 @@
 ---
-title: "JavaScriptmas 2022 - Week 1"
+title: "JavaScriptmas 2022 - Issue 1"
 tags:
   [
     "scrimba",
