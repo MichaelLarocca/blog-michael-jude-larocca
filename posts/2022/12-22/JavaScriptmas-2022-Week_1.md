@@ -9,6 +9,10 @@ published: true
 date: "2022-12-05"
 ---
 
+![TN-TXG-65](img/TN-TXG-65-02.png)
+
+---
+
 ### JavaScriptmas 2022 - Week 1
 
 Tis the season to be coding! JavaScriptmas time is here!
@@ -27,11 +31,9 @@ This year will be my third year participating in Scrimba's JavaScriptmas event. 
 
 ---
 
-![TN-TXG-65](img/TN-TXG-65-02.png)
-
----
-
 ### Community highlights ⬇
+
+#### Gina Russo
 
 ![Gina Russo](img/GinaRusso.png)
 
