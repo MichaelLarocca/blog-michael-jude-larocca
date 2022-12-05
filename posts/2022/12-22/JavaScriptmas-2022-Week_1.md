@@ -31,6 +31,16 @@ This year will be my third year participating in Scrimba's JavaScriptmas event. 
 
 ---
 
+### Community highlights ⬇
+
+![Gina Russo](img/GinaRusso.png)
+
+If you would like a demonstration on how to create a [Scrimba Screencast](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/) and teach coding with a presentation, it doesn't get any better than [Gina Russo's](https://www.linkedin.com/in/gina-p-russo/)!
+
+Gina teaches us how to solve the first day's coding challenge in not one, not two, but in three ways! She also created beautifully illustrated slides that provide the detailed coding concepts taught, which is very helpful to students following and coding along.  
+
+---
+
 ###  My JavaScript code challenge solutions ⬇
 
 ---
