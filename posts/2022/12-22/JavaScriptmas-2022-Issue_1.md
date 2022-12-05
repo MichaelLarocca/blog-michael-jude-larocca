@@ -27,7 +27,7 @@ The second winner is randomly chosen from their submitted code reviews (on Disco
 
 What are the code reviews? A code review is when YOU [record a scrim](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/) reviewing another person's JavaScriptmas solution, providing constructive feedback.
 
-**This year will be my third year participating in Scrimba's JavaScriptmas event. I will be completing each of the daily challenges and providing detailed solutions. Also, I am featuring others' works in the community hights section!**
+**This year will be my third year participating in Scrimba's JavaScriptmas event. I will be completing each of the daily challenges and providing detailed solutions. Also, I am featuring others' works in the community highlights section!**
 
 ---
 
