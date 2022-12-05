@@ -53,10 +53,20 @@ Gina teaches us how to solve the first day's coding challenge in not one, not tw
 
 Michaella's code works similarly to a Magic 8 Ball and displays a comical picture of Santa with a finger over his lips with a "shh..." gesture, warning us to be quiet!
 
-***[🔗 Link to the scrim]](https://scrimba.com/scrim/coc924780a45744007a4c1c66)***
-
-
 ***[🔗 Link to the scrim](https://scrimba.com/scrim/coc924780a45744007a4c1c66)***
+
+---
+
+#### Matt
+
+![Matt](img/Matt.png)
+
+[Matt](https://twitter.com/mattemmmmm) solved the day one create a panic function in style! Not only does it format a sentence as instructed, but it also accepts user input that allows users to write their own custom sentences.
+
+The background is an animated image of a serene, calm lake. But as soon as you hit the panic button, the background changes to an animated inferno! 
+
+***https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7
+[🔗 Link to the scrim](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7)***
 
 ---
 
