@@ -13,7 +13,7 @@ date: "2022-12-05"
 
 ---
 
-### JavaScriptmas 2022 - Week 1
+### JavaScriptmas 2022 - Issue 1
 
 Tis the season to be coding! JavaScriptmas time is here again!
 
