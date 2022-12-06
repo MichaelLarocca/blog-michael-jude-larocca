@@ -52,7 +52,15 @@ HOLD
 
 *To buy up all the candy, use map() and filter() to put all the candy into a 'shoppingCart' array.* 
 
-*The new array should contain only the item and the price.*
+*The new array should contain only the item and the price, like this:*
+```javascript
+Expected output: 
+[
+    {item: "🍭", price: 2.99},
+    {item: "🍫", price: 1.99}, 
+    {item: "🍬", price: 0.89}
+]
+```    
 
 **This challenge instructs us to solve it using filter() and map().**
 
