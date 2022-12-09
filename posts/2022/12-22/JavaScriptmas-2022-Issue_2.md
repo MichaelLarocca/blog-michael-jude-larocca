@@ -51,6 +51,42 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 
 ### Community highlights ⬇
 
+(WRITE ARTICLE SECTION)
+
+#### Jolene Kearse
+
+![scrim screenshot]()
+
+If you're curious about what a code review providing constructive feedback looks like, @Jolene Kearse just set the standard!
+
+(WRITE ARTICLE SECTION)
+
+🔗[Link to the scrim]()
+
+---
+
+#### Daniel Beck Rose
+
+![scrim screenshot]()
+
+Daniel turned the day six coding change of creating a random number of tacos into a game! 
+
+(WRITE ARTICLE SECTION)
+
+🔗[Link to the scrim]()
+
+---
+
+#### Dheeraj Purohit
+
+![scrim screenshot]()
+
+Creatively combining what he has learned, Dheeraj turned the day seven challenge into a function that simulates a typewriter!
+
+(WRITE ARTICLE SECTION)
+
+🔗[Link to the scrim]()
+
 ---
 
 ### My JavaScript code challenge solutions ⬇
