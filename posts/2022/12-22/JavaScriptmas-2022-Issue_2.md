@@ -55,13 +55,13 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 
 #### Jolene Kearse
 
-![scrim screenshot]()
+![scrim screenshot](img/05-12-2022/JoleneKearse.png)
 
 If you're curious about what a code review providing constructive feedback looks like, @Jolene Kearse just set the standard!
 
 (WRITE ARTICLE SECTION)
 
-🔗[Link to the scrim]()
+🔗[Link to the scrim](https://scrimba.com/scrim/cob664c889972afe30dc69916)
 
 ---
 
