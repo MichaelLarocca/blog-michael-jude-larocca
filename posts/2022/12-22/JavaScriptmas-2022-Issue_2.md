@@ -256,6 +256,14 @@ function getRandomNumberOfTacos() {
 
 ---
 
+For me, Scrimba is much more than an online platform to learn how to code. 
+
+(WRiTE ARtICLe SECTION)
+
+[How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)
+
+---
+
 **I continue to have wonderful experiences with Scrimba, and I highly recommend learning with them! You can read my full [Scrimba review](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) on my 12/13/2020 post.**
 
 ![Per Harald Borgen Quote](img/PerHaraldBorgen-Quote.png)
