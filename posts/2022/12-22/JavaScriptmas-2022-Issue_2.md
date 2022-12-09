@@ -17,8 +17,15 @@ date: "2022-12-12"
 
 ---
 
-### HOLD
-(WRITE ARTICLE SECTION)
+### Intro
+
+Grab your favorite holiday drink, put on some festive music, and get ready to code! 🍹
+
+JavaScriptmas is a 24-day coding challenge event where you can win prizes, regardless of your skill level, by submitting valid solutions and helping others by recording code reviews of their work. 🎄
+
+In this article series, I'm completing each challenge and stepping through and documenting in detail how I solve each one. If you are new to coding or just curious about my solution approach, you may find it helpful for your code-learning journey! 💻
+
+I will also be highlighting others' outstanding works as I come across them during this wonderful festive event! 🎉
 
 ---
 
@@ -185,10 +192,12 @@ function getRandomNumberOfTacos() {
 
 ---
 
----
-
 ### Day 7 challenge
-#### HOLD
+#### Alternating Caps 
+*Write a function that takes in a string of letters and returns a sentence in which every other letter is capitalized.*
+
+*Example input: "I'm so happy it's Monday"*
+*Example output: "I'M So hApPy iT'S MoNdAy"*
 
 ---
 
