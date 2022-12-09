@@ -157,7 +157,7 @@ To create a random number between 1 and 10, after we multiply by 10, we add 1, u
 let randomNumber = Math.floor(Math.random()*10)+1;
 ```
 
-Now, let's create an array name tacos with 3 undefined elements using the JavaScript keyword new:
+Now, let's create an array name tacos with 3 undefined elements using the JavaScript keyword [new Array()](https://www.w3schools.com/js/js_arrays.asp):
 ```javascript
 const tacos= new Array(3); 
 console.log(tacos);  
@@ -173,7 +173,7 @@ console.log(tacos);
 
 Now we have covered everything we need to solve the challenge. 
 
-We can create a variable named tray with one succinct line of code by chaining the JavaScript methods, and the add it to the provided function as follows:
+**We can create a variable named tray with one succinct line of code by chaining the JavaScript methods, and the add it to the provided function as follows:**
 ```javascript
 function getRandomNumberOfTacos() {        
     const tray = new Array(Math.floor(Math.random()*10)+1).fill('🌮').join(' ');    
