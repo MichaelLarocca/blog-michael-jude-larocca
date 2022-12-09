@@ -123,7 +123,67 @@ function getSaleItems(products){
 ---
 
 ### Day 6 challenge
-#### HOLD
+#### Taco Tray
+
+*Make this function return an array that contains between one and ten taco emojis 🌮 Use the following JavaScript concepts:*
+* Math.random()
+* Math.floor()
+* new Array()
+* Array.fill()
+
+**We will use the four JavaScript concepts as instructed to solve this challenge.**
+
+**Random numbers in JavaScript** 
+
+Ah, yes, creating random numbers in JavaScript. If you haven't already done so, you will often create random numbers in your coding projects.
+
+The [Math.random()](https://www.w3schools.com/jsref/jsref_random.asp) method returns a random number from 0 (inclusive) up to but not including 1 (exclusive).
+
+So, to get a number between 0 and 10, we need to use the Math.random() method and multiply it by ten as follows:
+```javascript
+let x = Math.random() * 10;
+console.log(x)
+4.420535959639502
+```
+
+We can eliminate the decimal places using [Math.floor()](https://www.w3schools.com/jsref/jsref_random.asp):
+```javascript
+console.log(Math.floor(x));
+4
+```
+
+To create a random number between 1 and 10, after we multiply by 10, we add 1, utilizing Math.floor():
+```javascript
+let randomNumber = Math.floor(Math.random()*10)+1;
+```
+
+Now, let's create an array name tacos with 3 undefined elements using the JavaScript keyword new:
+```javascript
+const tacos= new Array(3); 
+console.log(tacos);  
+[undefined, undefined, undefined]
+```
+
+We can now assign a taco emoji to all of the undefined elements using the [fill()](https://www.w3schools.com/jsref/jsref_fill.asp) method:
+```javascript
+tacos.fill('🌮');
+console.log(tacos); 
+["🌮", "🌮", "🌮"]
+```
+
+Now we have covered everything we need to solve the challenge. 
+
+We can create a variable named tray with one succinct line of code by chaining the JavaScript methods, and the add it to the provided function as follows:
+```javascript
+function getRandomNumberOfTacos() {        
+    const tray = new Array(Math.floor(Math.random()*10)+1).fill('🌮').join(' ');    
+    return [tray];
+}
+```
+
+**Note:** We use the join(' ') method to remove the commas between the taco emojis.
+
+---
 
 ---
 
