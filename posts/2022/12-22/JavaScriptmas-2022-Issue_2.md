@@ -181,7 +181,7 @@ function getRandomNumberOfTacos() {
 }
 ```
 
-**Note:** We use the [join(' ')](https://www.w3schools.com/jsref/jsref_join.asp) method to remove the commas between the taco emojis.
+***Note:*** *We use the [join(' ')](https://www.w3schools.com/jsref/jsref_join.asp) method to remove the commas between the taco emojis.*
 
 ---
 
