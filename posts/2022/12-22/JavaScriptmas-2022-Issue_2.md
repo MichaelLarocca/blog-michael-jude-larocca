@@ -87,7 +87,9 @@ Daniel turned the day six coding change of creating a random number of tacos int
 
 Creatively combining what he has learned, Dheeraj turned the day seven challenge into a function that simulates a typewriter!
 
-(WRITE ARTICLE SECTION)
+This coding challenge only requires us to return a string with alternating uppercase and lowercase letters.
+
+However, the function Dheeraj wrote not only meets the code challenge requirements but takes in a sentence the user enters and then has the sentence typed out on the screen, letter by letter!  
 
 🔗[Link to the scrim]()
 
