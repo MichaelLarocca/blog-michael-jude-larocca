@@ -83,7 +83,7 @@ Daniel turned the day six coding challenge of creating a random number of tacos 
 * you have 30 seconds to score as many points as you can
 * your top score gets saved
 
-The gameplay is similar to a wack-a-mole game and displays a hilarious gif of Homer Simpson with his mouth open and drooling as if he is the one eating all the remaining tacos!
+The gameplay is similar to a wack-a-mole game and displays a hilarious animated gif of Homer Simpson with his mouth open and drooling as if he is the one eating all the remaining tacos!
 
 🔗[Link to the scrim](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f)
 
