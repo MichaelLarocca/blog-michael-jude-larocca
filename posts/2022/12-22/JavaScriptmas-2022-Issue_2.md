@@ -51,15 +51,19 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 
 ### Community highlights ⬇
 
-(WRITE ARTICLE SECTION)
-
 #### Jolene Kearse
 
 ![scrim screenshot](img/05-12-2022/JoleneKearse.png)
 
-If you're curious about what a code review providing constructive feedback looks like, @Jolene Kearse just set the standard!
+If you're curious about what a code review providing constructive feedback looks like, [Jolene Kearse](https://twitter.com/FromJolene) just set the standard!
 
-(WRITE ARTICLE SECTION)
+In a short four-minute review, Jolene starts by reviewing the code and complimenting the student on their approach to solving the problem and confirms with them that to code works perfectly.
+
+Going over the student's code, she then explains that adding unnecessary variables is not a good idea because of memory (space complexity), which we learn in data structures and algorithms.
+
+Jolene then refactors the code to be more succinct, optimizing for space complexity using less memory.
+
+Finally, Jolene goes over the refactored code, explaining how each code challenge requirement is complete while complementing the student on their approach to solving it!
 
 🔗[Link to the scrim](https://scrimba.com/scrim/cob664c889972afe30dc69916)
 
