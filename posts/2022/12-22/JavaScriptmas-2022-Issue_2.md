@@ -59,9 +59,9 @@ If you're curious about what a code review providing constructive feedback looks
 
 In a short four-minute review, Jolene starts by reviewing the code and complimenting the student on their approach to solving the problem and confirms with them that to code works perfectly.
 
-Going over the student's code, she then explains that adding unnecessary variables is not a good idea because of memory (space complexity), which we learn in data structures and algorithms.
+Going over the student's code, she then explains that adding unnecessary variables is not a good idea because of memory (space complexity), which we learn about in data structures and algorithms.
 
-Jolene then refactors the code to be more succinct, optimizing for space complexity using less memory.
+Jolene then refactors the code to be more succinct and optimizes it to use less memory.
 
 Finally, Jolene goes over the refactored code, explaining how each code challenge requirement is complete while complementing the student on their approach to solving it!
 
