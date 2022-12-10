@@ -89,7 +89,7 @@ Creatively combining what he has learned, Dheeraj turned the day seven challenge
 
 This coding challenge only requires us to return a string with alternating uppercase and lowercase letters.
 
-However, the function Dheeraj wrote not only meets the code challenge requirements but takes in a sentence the user enters and then has the sentence typed out on the screen, letter by letter!  
+However, the function Dheeraj wrote not only meets the code challenge requirements but takes in a sentence the user enters and then has it typed out on the screen, letter by letter!  
 
 🔗[Link to the scrim]()
 
