@@ -73,7 +73,7 @@ Finally, Jolene goes over the refactored code, explaining how each code challeng
 
 ![scrim screenshot](img/05-12-2022/DanielBeckRose.png)
 
-Daniel turned the day six coding challenge of creating a random number of tacos into a game!
+[Daniel Beck Rose](https://discord.com/DanielBeckRose#3967) turned the day six coding challenge of creating a random number of tacos into a game!
 
 **How the game works:**
 * new random number of tacos appears every 2 seconds
@@ -93,7 +93,7 @@ The gameplay is similar to a wack-a-mole game and displays a hilarious animated 
 
 ![scrim screenshot](img/05-12-2022/DheerajPurohit.png)
 
-Creatively combining what he has learned, Dheeraj turned the day seven challenge into a function that simulates a typewriter!
+Creatively combining what he has learned, [Dheeraj Purohit](https://twitter.com/the_indianyoga) turned the day seven challenge into a function that simulates a typewriter!
 
 This coding challenge only requires us to return a string with alternating uppercase and lowercase letters.
 
