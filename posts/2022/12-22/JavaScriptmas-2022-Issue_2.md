@@ -91,7 +91,7 @@ The gameplay is similar to a wack-a-mole game and displays a hilarious animated 
 
 #### Dheeraj Purohit
 
-![scrim screenshot]()
+![scrim screenshot](img/05-12-2022/DheerajPurohit.png)
 
 Creatively combining what he has learned, Dheeraj turned the day seven challenge into a function that simulates a typewriter!
 
@@ -99,7 +99,7 @@ This coding challenge only requires us to return a string with alternating upper
 
 However, the function Dheeraj wrote not only meets the code challenge requirements but takes in a sentence the user enters and then has it typed out on the screen, letter by letter!  
 
-🔗[Link to the scrim]()
+🔗[Link to the scrim](https://scrimba.com/learn/javascriptmas/fork-of-alternating-caps-dheeraj-co3764a0d8f0b3f9fd34cb1a1)
 
 ---
 
