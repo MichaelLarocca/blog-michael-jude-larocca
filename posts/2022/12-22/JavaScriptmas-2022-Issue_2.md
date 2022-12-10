@@ -253,6 +253,47 @@ function getRandomNumberOfTacos() {
 *Example input: "I'm so happy it's Monday"*
 *Example output: "I'M So hApPy iT'S MoNdAy"*
 
+**This challenge requires us to take in a string and return it with alternating capitalization.**
+
+I create an array, use a loop, and use the JavaScript split method to solve this challenge.
+
+First, I create a new empty array named newsStr to return and a strSplit array that converts the string passed into the function into an array. 
+
+```javascript
+const newsStr = [];
+const strSplit = str.split('');
+console.log(strSplit);
+["I", "'", "m", " ", "s", "o", " ", "h", "a", "p", "p", "y", " ", "i", "t", "'", "s", " ", "M", "o", "n", "d", "a", "y"]
+```
+Now it's time to write the [for loop](https://www.w3schools.com/js/js_loop_for.asp).
+
+To find out if a number is odd or even, we use the [modulus operator (%)](https://www.w3schools.com/js/js_arithmetic.asp), which returns the division remainder. If a number divided by 2 leaves a remainder of 1, then the number is odd.
+
+Using the modulus operator (%) in a for loop allows us to check if the current iteration value is odd or even, allowing us to write an if statement to handle each case.
+
+We use the [toUpperCase()](https://www.w3schools.com/jsref/jsref_touppercase.asp) method on the letters in the strSplit array during the even number iterations. If the loop is on an odd number iteration, we use the [toLocaleLowerCase()](https://www.w3schools.com/jsref/jsref_tolocalelowercase.asp) method.
+
+We push each uppercase and lowercase charter into the newsStr array.
+
+```javascript
+function altCaps(str){
+    const newsStr = [];
+    const strSplit = str.split('');
+      
+    for(let i = 0; i < strSplit.length; i++) {
+        if(i % 2 == 0 ) {
+            newsStr.push(strSplit[i].toUpperCase());
+        } else {
+            newsStr.push(strSplit[i].toLocaleLowerCase());
+        }
+    }
+    return newsStr.join('');
+}
+```
+The coding challenge is solved by retuning the newsStr array using the [join('')](https://www.w3schools.com/jsref/jsref_join.asp) method.
+
+🔗 [My solution for day 7](https://scrimba.com/scrim/codc84e3689c8014085ccdde2)
+
 ---
 
 ### Day 8 challenge
