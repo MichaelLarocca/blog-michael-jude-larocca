@@ -257,10 +257,10 @@ function getRandomNumberOfTacos() {
 
 I create an array, use a loop, and use the JavaScript split method to solve this challenge.
 
-First, I create a new empty array named newsStr to return and a strSplit array that converts the string passed into the function into an array. 
+First, I create a new empty array named newStr to return and a strSplit array that converts the string passed into the function into an array. 
 
 ```javascript
-const newsStr = [];
+const newStr = [];
 const strSplit = str.split('');
 console.log(strSplit);
 ["I", "'", "m", " ", "s", "o", " ", "h", "a", "p", "p", "y", " ", "i", "t", "'", "s", " ", "M", "o", "n", "d", "a", "y"]
@@ -273,24 +273,25 @@ Using the modulus operator (%) in a for loop allows us to check if the current i
 
 We use the [toUpperCase()](https://www.w3schools.com/jsref/jsref_touppercase.asp) method on the letters in the strSplit array during the even number iterations. If the loop is on an odd number iteration, we use the [toLocaleLowerCase()](https://www.w3schools.com/jsref/jsref_tolocalelowercase.asp) method.
 
-We push each uppercase and lowercase charter into the newsStr array.
+We push each uppercase and lowercase charter into the newStr array.
 
 ```javascript
 function altCaps(str){
-    const newsStr = [];
+    const newStr = [];
     const strSplit = str.split('');
+        console.log(strSplit)
       
     for(let i = 0; i < strSplit.length; i++) {
         if(i % 2 == 0 ) {
-            newsStr.push(strSplit[i].toUpperCase());
+            newStr.push(strSplit[i].toUpperCase());
         } else {
-            newsStr.push(strSplit[i].toLocaleLowerCase());
+            newStr.push(strSplit[i].toLocaleLowerCase());
         }
     }
-    return newsStr.join('');
+    return newStr.join('');
 }
 ```
-The coding challenge is solved by retuning the newsStr array using the [join('')](https://www.w3schools.com/jsref/jsref_join.asp) method.
+The coding challenge is solved by retuning the newStr array using the [join('')](https://www.w3schools.com/jsref/jsref_join.asp) method.
 
 🔗 [My solution for day 7](https://scrimba.com/scrim/codc84e3689c8014085ccdde2)
 
