@@ -71,13 +71,21 @@ Finally, Jolene goes over the refactored code, explaining how each code challeng
 
 #### Daniel Beck Rose
 
-![scrim screenshot]()
+![scrim screenshot](img/05-12-2022/DanielBeckRose.png)
 
-Daniel turned the day six coding change of creating a random number of tacos into a game! 
+Daniel turned the day six coding challenge of creating a random number of tacos into a game!
 
-(WRITE ARTICLE SECTION)
+**How the game works:**
+* new random number of tacos appears every 2 seconds
+* you get +1 point for every taco you click on
+* you get -1 point for every taco you haven't clicked on when the next tacos appear
+* you get +2 bonus points if you get 6 or more tacos in a single round
+* you have 30 seconds to score as many points as you can
+* your top score gets saved
 
-🔗[Link to the scrim]()
+The gameplay is similar to a wack-a-mole game and displays a hilarious gif of Homer Simpson with his mouth open and drooling as if he is the one eating all the remaining tacos!
+
+🔗[Link to the scrim](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f)
 
 ---
 
