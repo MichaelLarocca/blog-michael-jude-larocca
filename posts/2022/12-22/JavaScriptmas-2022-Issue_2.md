@@ -73,7 +73,7 @@ Finally, Jolene goes over the refactored code, explaining how each code challeng
 
 ![scrim screenshot](img/05-12-2022/DanielBeckRose.png)
 
-[Daniel Beck Rose](https://discord.com/DanielBeckRose#3967) turned the day six coding challenge of creating a random number of tacos into a game!
+[Daniel Beck Rose](https://discord.com/channels/684009642984341525/919153471691849769/1049682864398151730) turned the day six coding challenge of creating a random number of tacos into a game!
 
 **How the game works:**
 * new random number of tacos appears every 2 seconds
@@ -84,6 +84,8 @@ Finally, Jolene goes over the refactored code, explaining how each code challeng
 * your top score gets saved
 
 The gameplay is similar to a wack-a-mole game and displays a hilarious animated gif of Homer Simpson with his mouth open and drooling as if he is the one eating all the remaining tacos!
+
+Discord: DanielBeckRose#3967
 
 🔗[Link to the scrim](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f)
 
@@ -234,7 +236,7 @@ console.log(tacos);
 
 Now we have covered everything we need to solve the challenge. 
 
-**We can create a variable named tray with one succinct line of code by chaining the JavaScript methods, and the add it to the provided function as follows:**
+**We can create a variable named tray with one succinct line of code by chaining the JavaScript methods, and then add it to the provided function as follows:**
 ```javascript
 function getRandomNumberOfTacos() {        
     const tray = new Array(Math.floor(Math.random()*10)+1).fill('🌮').join(' ');    
