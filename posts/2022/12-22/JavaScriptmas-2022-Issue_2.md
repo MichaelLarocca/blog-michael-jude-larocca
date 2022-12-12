@@ -411,6 +411,43 @@ Pumpkin Pranced Purposefully Across The Pond
 
 ---
 
+### Day 10 challenge
+#### Sort by length
+
+*Given an array of strings, sort them in order of increasing lengths. If two strings have the same length, their relative order must be the same as in the initial array.*
+
+**This challenge asks us to sort an array of strings by their length.**
+
+We can use the [length](https://www.w3schools.com/howto/howto_js_string_length.asp) property to determine the length of a string.
+
+```javascript
+const alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+const alphabetLength = alphabet.length;
+
+console.log(alphabetLength);
+26
+```
+
+We can then use JavaScript Array [sort()](https://www.w3schools.com/jsref/jsref_sort.asp) in conjunction with the length property to solve the challenge as follows:
+
+```javascript
+function sortByLength(strs) {
+    let answer = strs.sort(
+        function(a,b){
+            return a.length - b.length;
+        }
+    );
+        console.log(answer);
+        return answer;
+}
+```
+
+🔗 [My solution for day 10](https://scrimba.com/scrim/cofd24b83981281d36e1e8b8d)
+
+---
+
+---
+
 #### *If you would like to learn more about my journey with Scrimba and how learning with them may help you, you can read my article: [How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)*
 
 ---
