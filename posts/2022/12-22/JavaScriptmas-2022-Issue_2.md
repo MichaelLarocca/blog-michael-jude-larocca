@@ -297,21 +297,6 @@ The coding challenge is solved by retuning the newStr array using the [join('')]
 
 ---
 
-### Day 8 challenge
-#### HOLD
-
----
-
-### Day 9 challenge
-#### HOLD
-
----
-
-### Day 10 challenge
-#### HOLD
-
----
-
 #### *If you would like to learn more about my journey with Scrimba and how learning with them may help you, you can read my article: [How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)*
 
 ---
