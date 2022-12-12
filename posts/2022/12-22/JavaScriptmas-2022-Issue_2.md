@@ -373,7 +373,7 @@ function validTime(str) {
 
 **This challenge was helpful, as it taught us to break down a problem into two parts. We first write a function to capitalize one word. Then we write a second function that utilizes the first function we created.**
 
-**We take in a single word for the first function and use the JavaScript slice() method as follows:** 
+**We take in a single word for the first function and use the JavaScript [slice()](https://www.w3schools.com/jsref/jsref_slice_array.asp) method as follows:** 
 * We take the first character and uppercase it
 * We take the rest of the characters and lowercase it
 * We return the capitalized word by concatenating the first character and the remaining characters  
@@ -388,7 +388,7 @@ function capitalizeWord(word){
 
 **Then we write a second function that loops through each word of the sentence passed in as a parameter. Using the first function we wrote to capitalize an individual word, we uppercase each word in the sentence passed in as a parameter.** 
 
-Finally, we return the splitString array using the join() method to solve the challenge.  
+Finally, we return the splitString array using the [join()](https://www.w3schools.com/jsref/jsref_join.asp) method to solve the challenge.  
 
 ```javascript
 function toTitleCase(str){
