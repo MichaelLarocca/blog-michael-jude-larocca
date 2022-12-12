@@ -446,6 +446,58 @@ function sortByLength(strs) {
 
 ---
 
+### Day 11 challenge
+#### Decode an Alien Message
+
+*We've received what (we assume) is a message of peace and brotherhood from an alien planet. They almost got it right, but the messages are backward. Write functions to reverse the backward messages so we can read what they have to say!* 
+
+**Here is another challenge that asks us to break down the solution into two functions to solve it.**
+
+We create the first function to take in a string that returns the reverse of that string. To achieve this, we can chain three JavaScript methods as follows:
+
+```javascript
+const title = ":htraE no od ot ffutS";
+
+function reverseString(arr){
+    return arr.split('').reverse().join('');
+}
+
+console.log(reverseString(title));
+Stuff to do on Earth:
+```
+
+
+Now that we wrote a function to reverse an individual word, we write another function that loops in reverse. During the reverse loop, we use the first function to reverse the current word and push it into a new array on each iteration as follows:
+
+```javascript
+const messages = [
+            "maerc eci yrT",
+            "rewoT leffiE tisiV",
+            "noom eht ot snamuh etacoleR",
+            "egrahc ni stac tuP", 
+        ]
+
+function reverseStringsInArray(arr){
+
+    const newArrayReverse = [];
+
+    for(let i = arr.length -1; i > 0; i--) {
+        newArrayReverse.push(reverseString(arr[i]));
+    }
+    
+    return newArrayReverse;
+}
+
+console.log(reverseStringsInArray(messages));
+["Put cats in charge", "Relocate humans to the moon", "Visit Eiffel Tower"]
+```
+
+We solve the challenge by returning the new reversed array.
+
+🔗 [My solution for day 11](https://scrimba.com/scrim/cob4e48959616f7a6f04ab267)
+
+---
+
 #### *If you would like to learn more about my journey with Scrimba and how learning with them may help you, you can read my article: [How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)*
 
 ---
