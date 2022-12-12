@@ -428,7 +428,7 @@ console.log(alphabetLength);
 26
 ```
 
-We can then use JavaScript Array [sort()](https://www.w3schools.com/jsref/jsref_sort.asp) in conjunction with the length property to solve the challenge as follows:
+**We can then use JavaScript Array [sort()](https://www.w3schools.com/jsref/jsref_sort.asp) in conjunction with the length property to solve the challenge as follows:**
 
 ```javascript
 function sortByLength(strs) {
@@ -443,8 +443,6 @@ function sortByLength(strs) {
 ```
 
 🔗 [My solution for day 10](https://scrimba.com/scrim/cofd24b83981281d36e1e8b8d)
-
----
 
 ---
 
