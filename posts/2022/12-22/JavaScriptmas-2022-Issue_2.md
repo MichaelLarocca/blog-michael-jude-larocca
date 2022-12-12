@@ -356,6 +356,61 @@ function validTime(str) {
 
 ---
 
+### Day 9 challenge
+#### toTitleCase
+
+*Write a function that will capitalize every word in a sentence.*  
+
+*Example Input: "everything, everywhere, all at once"*
+*Example Output: "Everything, Everywhere, All At Once"*
+
+*First, write a function that takes in one word and capitalizes the first letter of that word.*
+
+*Example Input: "scrimba"*
+*Example Output: "Scrimba"*
+
+*Hint: Trying using slice() and .toUpperCase()*
+
+**This challenge was helpful, as it taught us to break down a problem into two parts. We first write a function to capitalize one word. Then we write a second function that utilizes the first function we created.**
+
+**We take in a single word for the first function and use the JavaScript slice() method.** 
+* We take the first character and uppercase it
+* We take the rest of the characters and lowercase it
+* We return the capitalized word by concatenating the first character and the remaining characters  
+
+```javascript
+function capitalizeWord(word){
+    const upperCaseFirstLetter = word.slice(0,1).toUpperCase();
+    const restOfTheWord = word.slice(1)
+    return upperCaseFirstLetter + restOfTheWord;
+}
+```
+
+**Then we write a second function that loops through each word of the sentence passed in as a parameter. Using the first function we wrote to capitalize an individual word, we uppercase each word in the sentence passed in as a parameter.** 
+
+Finally, we return the splitString array using the join() method to solve the challenge.  
+
+```javascript
+function toTitleCase(str){
+    
+    const splitString = str.split(' ');        
+        for(let i = 0; i < splitString.length; i++) {
+            splitString[i] = capitalizeWord(splitString[i]);
+        }
+    return splitString.join(' ');
+}
+
+console.log(capitalizeWord("pumpkin"));
+console.log(toTitleCase("pumpkin pranced purposefully across the pond"));
+
+Pumpkin
+Pumpkin Pranced Purposefully Across The Pond
+```
+
+🔗 [My solution for day 9](https://scrimba.com/scrim/co660469dadaf9bee14baf739)
+
+---
+
 #### *If you would like to learn more about my journey with Scrimba and how learning with them may help you, you can read my article: [How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)*
 
 ---
