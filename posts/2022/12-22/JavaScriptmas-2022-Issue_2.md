@@ -299,6 +299,63 @@ The coding challenge is solved by retuning the newStr array using the [join('')]
 
 ---
 
+### Day 8 challenge
+#### Valid Time
+
+*Check if the given string is a correct time representation on the 24-hour clock.*
+
+**The hints to solve this challenge are to use the JavaScript methods parseInt() and split(). Notice the hint does not tell us to use the JavaScript Date object.**
+
+Using the [split()](https://www.w3schools.com/jsref/jsref_split.asp) method, we isolate the first number before and the second after the colon.
+
+We then use [parseInt()](https://www.w3schools.com/jsref/jsref_parseint.asp) on the first and second numbers so we can then use an if statement to verify valid numbers ( valid clock time ).
+
+*[Military time](https://militaryconnection.com/military-time/#:~:text=Military%20time%20operates%20on%20a%2024%2D%20hour%20clock%20that%20begins,00%20p.m.%20being%202300%20hours.) operates on a 24- hour clock that begins at midnight which is referred to as 0000 hours, with 1:00 a.m. being 0100 hours, 2:00 a.m. being 0200 hours, etc. all the way to 11:00 p.m. being 2300 hours.*
+
+To solve the challenge, we need to check if each of the four numbers falls within a valid range.
+
+**Clock numbers:**
+* First: 0 to 2
+* Second: 0 to 3
+* Third: 0 to 5
+* Forth: 0 to 9
+
+We return true only if all four numbers are within the specified range. Else we return false.
+
+To write the function, I created an empty array and an array created from the passed-in string using the Javascript split() method.
+
+I then use a for loop to take each character, excluding the colon, use parseInt() to convert it into a number, and then push it into the arrTime array.
+
+Finally, I create an if statement to check if each number in the arrTime array falls within a valid range.
+
+```javascript
+function validTime(str) {
+    const arrTime = [];    
+    const strSplit = str.split('');    
+
+    for(let i = 0; i < strSplit.length; i++) {
+        if(strSplit[i] != ':') {
+            arrTime.push(parseInt(strSplit[i]))
+        }   
+    }
+  
+    if(
+        arrTime[0] >= 0 && arrTime[0] <= 2 &&
+        arrTime[1] >= 0 && arrTime[1] <= 3 &&
+        arrTime[2] >= 0 && arrTime[2] <= 5 &&
+        arrTime[3] >= 0 && arrTime[3] <= 9
+        ) {
+        return true;
+    } else {
+        return false;
+    }
+}
+```
+
+🔗 [My solution for day 8](https://scrimba.com/scrim/co6304bd2ba53d34a83486cee)
+
+---
+
 #### *If you would like to learn more about my journey with Scrimba and how learning with them may help you, you can read my article: [How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)*
 
 ---
