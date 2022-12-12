@@ -312,7 +312,7 @@ We then use [parseInt()](https://www.w3schools.com/jsref/jsref_parseint.asp) on 
 
 *[Military time](https://militaryconnection.com/military-time/#:~:text=Military%20time%20operates%20on%20a%2024%2D%20hour%20clock%20that%20begins,00%20p.m.%20being%202300%20hours.) operates on a 24- hour clock that begins at midnight which is referred to as 0000 hours, with 1:00 a.m. being 0100 hours, 2:00 a.m. being 0200 hours, etc. all the way to 11:00 p.m. being 2300 hours.*
 
-To solve the challenge, we need to check if each of the four numbers falls within a valid range.
+**To solve the challenge, we need to check if each of the four numbers falls within a valid range.**
 
 **Clock numbers:**
 * First: 0 to 2
