@@ -80,9 +80,46 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 ---
 
 ### Day 15 challenge
-#### HOLD
+#### Palindromes
+*Palindromes are words that are the same forward or backward. For example, "noon" and "kayak" are palindromes.*
+ 
+*Write a function to check if a lowercase string of letters is a palindrome. If the word is a palindrome, return true. If it isn't, return false.* 
 
-🔗 [My solution for day 15]()
+**We solve this challenge by comparing the string passed in with the reversed version of the passed-in string. We use the JavaScript methods split, reverse, and join in accomplishing this task.** 
+ 
+Let's take a look one step at a time:
+
+We first use [split()](https://www.w3schools.com/jsref/jsref_split.asp)
+```javascript
+    const split = str.split('');
+        console.log(split);
+["p", "u", "m", "p", "k", "i", "n", "s"]
+```
+
+Then we use [reverse()](https://www.w3schools.com/jsref/jsref_reverse.asp)
+```javascript
+    const reverse = split.reverse();
+        console.log(reverse);
+["s", "n", "i", "k", "p", "m", "u", "p"]
+```
+
+Now we use [join()](https://www.w3schools.com/jsref/jsref_join.asp)
+```javascript
+    const join = reverse.join('');
+        console.log(join);  
+snikpmup
+```
+We can clearly see that the word "pumpkins" is not the same when reversed.
+
+**To solve the challenge, we can use the [Conditional (Ternary) Operator](https://www.w3schools.com/js/js_comparisons.asp) to write one succinct line of code to add to the function as follows:**
+
+```javascript
+function isPalindrome(str){
+    return str === str.split('').reverse().join('') ? true : false;        
+}
+```
+
+🔗 [My solution for day 15](https://scrimba.com/scrim/cod394a7c91f7987142755176)
 
 ---
 
