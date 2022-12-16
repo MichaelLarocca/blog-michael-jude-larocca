@@ -87,9 +87,55 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 ---
 
 ### Day 16 challenge
-#### HOLD
+#### Insert Dashes
+*Transform a given sentence into a new one with dashes between each two consecutive letters.*
 
-🔗 [My solution for day 16]()
+**Example**
+For inputString = "aba caba" the output should be "a-b-a c-a-b-a"
+
+**Hints**
+* join()
+* split()
+
+At first glance, this challenge seems like it will be solved by simply using join() and split(). However, doing so results in extra dashes, failing the challenge.
+
+```javascript
+console.log(arr.split('').join('-'));
+a-b-a- -c-a-b-a
+```
+Although my approach to solving it is not succinct code, it is easy to follow logically. 
+
+**Using a [for each loop()](https://www.w3schools.com/jsref/jsref_foreach.asp), I pass each letter through an [else if](https://www.w3schools.com/js/js_if_else.asp) statement that covers all scenarios. I then push each appropriately modified letter into a new array that I [join()](https://www.w3schools.com/jsref/jsref_join.asp) and return.**
+
+**Scenarios:**
+* The next item is blank
+* The current item is blank
+* The current item is the last in the array
+
+```javascript
+function insertDashes(arr) {
+    
+    const returnArray = [];
+    const splitArray = arr.split('');
+
+    for(let i = 0; i < splitArray.length; i++) {
+        
+        if(splitArray[i+1] == " ") {
+            returnArray.push(`${splitArray[i]}`);
+        } else if (splitArray[i] == " "){
+            returnArray.push(`${splitArray[i]}`);
+        } else if(i === splitArray.length -1){
+            returnArray.push(`${splitArray[i]}`);
+        } else {
+            returnArray.push(`${splitArray[i]}-`);
+        }
+    }
+    return returnArray.join('');
+}
+result: ,"a-b-a c-a-b-a"
+```
+
+🔗 [My solution for day 16](https://scrimba.com/scrim/co63a4e4c82106e6cef1a20c7)
 
 ---
 
