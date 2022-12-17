@@ -80,7 +80,7 @@ Now let's take a look at the HTML `<div>` the challenge asks us to create:
 <div class="food">FOOD VALUE HERE</div>
 ```
 
-To solve the challenge, we will use [map()](https://www.w3schools.com/jsref/jsref_map.asp) as instructed, and we will use string interpolation to replace "FOOD VALUE HERE" for each item in the dinner foods array as follows:
+**To solve the challenge, we will use [map()](https://www.w3schools.com/jsref/jsref_map.asp) as instructed, and we will use string interpolation to replace "FOOD VALUE HERE" for each item in the dinner foods array, using join('') to remove the commas.**
 ```javascript
 menu.innerHTML = dinnerFoods.map(item => `<div class="food">${item}</div>`).join('');
 ```
