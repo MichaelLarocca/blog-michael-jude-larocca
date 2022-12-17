@@ -60,8 +60,32 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 
 ### Day 12 challenge
 #### HOLD
+*Topic: .map()*
+*Our restaurant menu currently only shows the breakfast menu,as it has been hard coded into the HTML file. However, we want to offer a dinner menu instead. Let's fix this using .map()*
 
-🔗 [My solution for day 12]()
+1. First, fetch a reference to the menu <section> from the DOM. 
+2. Set the innerHTML content of the menu <section> to...
+3. the dinnerFoods array by mapping over the array and returning the following div for each food in the array: `<div class="food">FOOD VALUE HERE</div>` 
+4. Remember to remove any separating commas between the food divs!
+
+**The challenge provides all the HTML and CSS. We just need to write the JavaScript.**
+
+First, we assign the menu variable using [getElementById()](https://www.w3schools.com/jsref/met_document_getelementbyid.asp) as follows:
+```javascript
+const menu = document.getElementById("menu");
+```
+
+Now let's take a look at the HTML `<div>` the challenge asks us to create:
+```html
+<div class="food">FOOD VALUE HERE</div>
+```
+
+To solve the challenge, we will use [map()](https://www.w3schools.com/jsref/jsref_map.asp) as instructed, and we will use string interpolation to replace "FOOD VALUE HERE" for each item in the dinner foods array as follows:
+```javascript
+menu.innerHTML = dinnerFoods.map(item => `<div class="food">${item}</div>`).join('');
+```
+    
+🔗 [My solution for day 12](https://scrimba.com/scrim/coe6d404f9ded6ede77611415)
 
 ---
 
