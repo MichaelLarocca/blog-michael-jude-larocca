@@ -98,6 +98,7 @@ menu.innerHTML = dinnerFoods.map(item => `<div class="food">${item}</div>`).join
 **We solve this challenge by creating two functions. The first function returns an emoji if they pass certain conditions and if it exists in the emoji object. The second function returns a sentence and utilizes the first function to replace applicable words with emojis.**
 
 **Function 1**
+
 Let's start with writing the first function. The challenge provides an emoji object. I created an emoji array by utilizing [Object.entries()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries) as follows:
 ```javascript
 const emojisArray = Object.entries(emojis); 
@@ -154,10 +155,51 @@ function emojifyWord(word){
 
 **Function 2**
 
+**Now it's time to write the second function. This function will take in a string ( a sentence ) and replace any lowercase word that starts and ends with a colon and exists in the emoji array.**
 
+We start by turning that passed-in string into an array:
+```javascript
+const phraseArray = phrase.split(' ');
+	console.log(phraseArray);
+["I", ":heart:", "my", ":cat:"]
+```
 
+Next, we write a for loop to iterate over the emoji array and use an if statement in search of lowercase words starting and ending with colons.
+```javascript
+        if(phraseArray[i].startsWith(':') && phraseArray[i].endsWith(':')) {
 
-🔗 [My solution for day 13]()
+        }
+```
+
+If we find a lowercase word that starts and ends with a colon, we use the first function to retrieve the emoji, and then we use [splice()](https://www.w3schools.com/jsref/jsref_splice.asp) to replace the word in the string with the emoji.
+```javascript
+phraseArray.splice(i,1,emojifyWord(phraseArray[i]));
+```
+
+Finally, we return the phrase array using [join()](https://www.w3schools.com/jsref/jsref_join.asp).
+```javascript
+return phraseArray.join(' ');
+```
+
+Here is the entire second function:
+```javascript
+function emojifyPhrase(phrase){
+
+    const phraseArray = phrase.split(' ');
+
+    for(let i = 0; i < phraseArray.length; i++) {
+        if(phraseArray[i].startsWith(':') && phraseArray[i].endsWith(':')) {
+            phraseArray.splice(i,1,emojifyWord(phraseArray[i]));
+        }
+    }  
+    return phraseArray.join(' ');
+}
+
+console.log(emojifyPhrase("I :heart: my :cat:"));
+I 💜 my 🐱
+```
+
+🔗 [My solution for day 13](https://scrimba.com/scrim/co78b48fcaa8ee36684bb3559)
 
 ---
 
