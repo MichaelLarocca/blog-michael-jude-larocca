@@ -90,7 +90,72 @@ menu.innerHTML = dinnerFoods.map(item => `<div class="food">${item}</div>`).join
 ---
 
 ### Day 13 challenge
-#### HOLD
+#### Emojify
+*1. Write a function that checks if a lowercase word starts and ends with a colon. If it does, remove the colons and look up the word in the emoji object. If the word is in the emojis object, return the corresponding emoji.If it isn't, return the original word.*
+
+*2. Write a function to find any emoji shortcodes in a phrase.Your function should map over each word in the phrase, emojify any word that begins and ends with a colon, then return the emojified phrase.Feel free to use your emojify function from the previous exercise!*
+
+**We solve this challenge by creating two functions. The first function returns an emoji if they pass certain conditions and if it exists in the emoji object. The second function returns a sentence and utilizes the first function to replace applicable words with emojis.**
+
+**Function 1**
+Let's start with writing the first function. The challenge provides an emoji object. I created an emoji array by utilizing [Object.entries()](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/entries) as follows:
+```javascript
+const emojisArray = Object.entries(emojis); 
+    console.log(emojisArray);
+[["smile", "😊"], ["angry", "😠"], ["party", "🎉"], ["heart", "💜"], ["cat", "🐱"], ["dog", "🐕"]]    
+```
+
+Now, we need to determine whether the passed-in word starts and ends with a colon. We use an [if statement](https://www.w3schools.com/js/js_if_else.asp), [startsWith()](https://www.w3schools.com/jsref/jsref_startswith.asp), and [endsWith()](https://www.w3schools.com/jsref/jsref_endswith.asp).
+```javascript
+if(word.startsWith(':') && word.endsWith(':')) {
+
+}
+```
+
+Next, we create a variable using [slice()](https://www.w3schools.com/jsref/jsref_slice_array.asp) to remove the colons.
+```javascript
+const wordSlice = word.slice(1,-1)
+```
+
+Now, using a for loop, we iterate over the emoji array. If we find a matching word, we return the corresponding emoji. If we do not find a matching word, we return the wordSlice variable (returning the wordSlice variable filters out matches that begin with an UPPERCASE). 
+```javascript
+for(let i = 0; i < emojisArray.length; i++) {
+    if(wordSlice === emojisArray[i][0]) {
+        return emojisArray[i][1];
+    }
+}
+return wordSlice;
+```
+Finally, we return the passed-in word If no conditions are met in the if statement.
+```javascript
+return word; 
+```
+
+That was a lot to take in, so let's see the entire completed function.
+```javascript
+function emojifyWord(word){
+        
+    const emojisArray = Object.entries(emojis); 
+    
+    if(word.startsWith(':') && word.endsWith(':')) {
+        
+        const wordSlice = word.slice(1,-1)
+            
+        for(let i = 0; i < emojisArray.length; i++) {
+            if(wordSlice === emojisArray[i][0]) {
+                return emojisArray[i][1];
+            }
+        }
+        return wordSlice;
+    } 
+    return word;     
+}
+```
+
+**Function 2**
+
+
+
 
 🔗 [My solution for day 13]()
 
