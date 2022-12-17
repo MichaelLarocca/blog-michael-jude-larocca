@@ -59,7 +59,7 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 ---
 
 ### Day 12 challenge
-#### HOLD
+#### Breakfast Menu
 *Topic: .map()*
 *Our restaurant menu currently only shows the breakfast menu,as it has been hard coded into the HTML file. However, we want to offer a dinner menu instead. Let's fix this using .map()*
 
