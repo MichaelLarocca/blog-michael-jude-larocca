@@ -97,9 +97,35 @@ menu.innerHTML = dinnerFoods.map(item => `<div class="food">${item}</div>`).join
 ---
 
 ### Day 14 challenge
-#### HOLD
+#### Count Vowel Consonant
+*You are given string s that consists of only lowercase English letters. If vowels ('a', 'e', 'i', 'o', 'u') are given a value of 1 and consonants are given a value of 2, return the sum of all of the letters in the input string.*
 
-🔗 [My solution for day 14]()
+**I solved this challenge using a [for loop](https://www.w3schools.com/js/js_loop_for.asp) and an [if statement](https://www.w3schools.com/js/js_if_else.asp). If the current letter in the loop is a vowel, I add 1; if the current letter in the loop is a consonant, I add 2. I return the total in a variable named counter.**
+
+```javascript
+function countVowelConsonant(str) {
+
+  let counter = 0;
+  
+  for(let i = 0; i < str.length; i++) {
+
+      if(
+          str[i] === 'a' ||
+          str[i] === 'e' ||
+          str[i] === 'i' ||
+          str[i] === 'o' ||
+          str[i] === 'u' 
+          ){
+           counter++;   
+          } else {
+           counter+=2;  
+          }
+  }
+  return counter;
+}
+```
+
+🔗 [My solution for day 14](https://scrimba.com/scrim/co4c54238bbff17b8c7f50a52)
 
 ---
 
