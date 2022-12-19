@@ -89,7 +89,7 @@ Let's start by getting something out of the way: recursion !== looping. It isn't
 
 Recursion really shines when we need to iterate over a structure of interconnected elements (called nodes) which you need to process, sort or find something in it while having no previous knowledge about its size or depth.
 
-So why does it apply in our current scenario? Let's say you were to flatten an array using a for loop:
+**So why does it apply in our current scenario? Let's say you were to flatten an array using a for loop:**
 ```javascript
 function flatten(arr) {
   const array = [1, 2, [3, 4]];
