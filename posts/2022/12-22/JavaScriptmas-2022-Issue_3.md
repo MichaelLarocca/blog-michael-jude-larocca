@@ -51,11 +51,11 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 
 ### Community highlights ⬇
 
-#### Dan
+#### Daniel Nagaoka
 
 The day 17 challenge instructs us to write a function to flatten nested arrays of strings or numbers into a single array. Although there is a method for this, we are encouraged also solve it manually. 
 
-Unlike the many who solved this challenge with nested loops, including myself, Dan creatively solved it using recursion!
+Unlike the many who solved this challenge with nested loops, including myself, [Dan](https://www.linkedin.com/in/daninagaoka/) creatively solved it using recursion!
 
 So, what is recursion? [FreeCodeCamp describes](https://www.freecodecamp.org/news/quick-intro-to-recursion), *"recursion is when a function calls itself until someone stops it. It can be used instead of a loop. If no one stops it, it'll recurse forever and crash your program. A base case is a condition that stops the recursion."*
 
@@ -152,6 +152,10 @@ console.log(flattenRecursive(yay));
 >*- Dan*
 
 #### *Absolutely amazing! Thank you so much, Dan, for sharing your insights and providing us with this valuable content!*
+
+🔗 LinkedIn: [Daniel Nagaoka](https://www.linkedin.com/in/daninagaoka/) 
+
+🔗 Link to Dan's challenge scrim: [Pumpkin's Prizes](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65)
 
 ---
 
