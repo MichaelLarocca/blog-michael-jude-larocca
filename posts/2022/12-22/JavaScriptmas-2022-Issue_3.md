@@ -75,15 +75,15 @@ In short, the reduce method consolidates the original array into a single value 
 1. The consolidated (or "accumulated") value that will be expanded upon, then passed to the next iteration;
 2. The current child being processed in this iteration.
 
-The reduce method itself, therefore, requires:
+**The reduce method itself, therefore, requires:**
 1. The reducer callback function, as described above;
 2. An initial state for the consolidated value.
 
-For a hands-on explanation, you can refer to this [really good video by Mosh](https://www.youtube.com/watch?v=g1C40tDP0Bk). 
+*For a hands-on explanation, you can refer to this [really good video by Mosh](https://www.youtube.com/watch?v=g1C40tDP0Bk).* 
 
-**Now for the actual usage of recursion.**
+Now for the actual usage of recursion.
 
-Simply put, recursion is just a function that calls itself. That may summarize it, but its applicability is a little more elusive to beginners.
+**Simply put, recursion is just a function that calls itself. That may summarize it, but its applicability is a little more elusive to beginners.**
 
 Let's start by getting something out of the way: recursion !== looping. It isn't, and if you're using it for this purpose, then you're just building confusing code.
 
@@ -112,7 +112,7 @@ const ohnoes = [1, 2, [3, [4, 5]]];
 console.log(flatten(ohnoes));
 ```
 
-I hope you realized quite quickly that it would be unsustainable to nest n for loops in your code to account for n possible layers.
+**I hope you realized quite quickly that it would be unsustainable to nest n for loops in your code to account for n possible layers.**
 
 So what if, instead of nesting for loops, we actually called the function itself to solve the nested arrays for us? 
 Keeping in mind that sole objective is to only have non-array elements as children to our final array, we can come up with a recursive function that will always return an array with an array-free children list, like so:
@@ -150,7 +150,7 @@ console.log(flattenRecursive(yay));
 
 >*- Dan*
 
-#### *Absolutely amazing! Thank you so much, Dan, for sharing your insights and providing us with this valuable content!*
+#### 🎉*Absolutely amazing! Thank you so much, Dan, for sharing your insights and providing us with this valuable content!* 🎉
 
 🔗 LinkedIn: [Daniel Nagaoka](https://www.linkedin.com/in/daninagaoka/) 
 
