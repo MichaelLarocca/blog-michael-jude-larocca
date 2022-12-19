@@ -158,6 +158,13 @@ console.log(flattenRecursive(yay));
 
 ---
 
+#### Carla
+
+![Carla](img/12-19-2022/Carla.png)
+
+[🔗Link to the scrim](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc)
+
+---
 
 ### My JavaScript code challenge solutions ⬇
 
