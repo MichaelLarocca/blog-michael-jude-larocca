@@ -59,14 +59,99 @@ Unlike the many who solved this challenge with nested loops, including myself, D
 
 So, what is recursion? [FreeCodeCamp describes](https://www.freecodecamp.org/news/quick-intro-to-recursion), *"recursion is when a function calls itself until someone stops it. It can be used instead of a loop. If no one stops it, it'll recurse forever and crash your program. A base case is a condition that stops the recursion."*
 
-My initial thought was to use recursion to solve a challenge like this, flattening arrays. However, I understand the theory of recursion, but I need to learn how to use it in practical application. And then I came across Dan's message in the JavaScriptmas Discord, along with [a link to his elegant solution](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65):
+My initial thought was to use recursion to solve a challenge like this, flattening arrays. However, I understand the theory of recursion, but I need to learn how to use it in practical application. So I was excited when I came across Dan's message in the JavaScriptmas Discord, along with [a link to his elegant solution](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65):
 
 ![Dan-01](img/12-19-2022/Dan-01.png)
 
-Initially, Dan only had a few lines of code (without all the explanation comments). I reached out to Dan, complimenting his work, and I asked if he could please elaborate on his solution, as it will significantly benefit others learning to code, including myself!
+Initially, Dan only had a few lines of code (without the comments explaining the code). I reached out to Dan, complimenting his work, and I asked if he could please elaborate on his solution, as it will significantly benefit others learning to code, including myself!
 
-**Not only did he add comments to his solution, but Dan also took the time to write a whole article section! So, without further ado, let's learn from Dan on the topic:**    
+**Not only did he add comments to his solution, but Dan also took the time to write a whole article section! So, without further ado, let's learn from Dan on the topic of recursion ⬇**    
 
+---
+
+First, a few notes on the Array.prototype.reduce method. It's not the main feature of the solution, but it can be quite a handful for beginners, so I'd rather address it, albeit briefly:
+
+In short, the reduce method consolidates the original array into a single value - which can be virtually anything, from a string or number to a new array or an object. To do that, it iterates through its children and will process each of them with a custom function - the reducer callback function. The reducer will always receive data about the current iteration as arguments, the most important being:
+1. The consolidated (or "accumulated") value that will be expanded upon, then passed to the next iteration;
+2. The current child being processed in this iteration.
+
+The reduce method itself, therefore, requires:
+1. The reducer callback function, as described above;
+2. An initial state for the consolidated value.
+
+For a hands-on explanation, you can refer to this [really good video by Mosh](https://www.youtube.com/watch?v=g1C40tDP0Bk). 
+
+**Now for the actual usage of recursion.**
+
+Simply put, recursion is just a function that calls itself. That may summarize it, but its applicability is a little more elusive to beginners.
+
+Let's start by getting something out of the way: recursion !== looping. It isn't, and if you're using it for this purpose, then you're just building confusing code.
+
+Recursion really shines when we need to iterate over a structure of interconnected elements (called nodes) which you need to process, sort or find something in it while having no previous knowledge about its size or depth.
+
+So why does it apply in our current scenario? Let's say you were to flatten an array using a for loop:
+```javascript
+function flatten(arr) {
+  const array = [1, 2, [3, 4]];
+  const newArray = [];
+  for (const item of array) {
+    if (Array.isArray(item)) newArray.push(...item);
+    else newArray.push(item);
+  }
+  return newArray;
+}
+
+// [1, 2, 3, 4];
+console.log(flatten(newArray));
+```
+
+**Sure, that works, but try a different, more elaborate array structure. Let's say:**
+```javascript
+const ohnoes = [1, 2, [3, [4, 5]]];
+// [1, 2, 3, [4, 5]]
+console.log(flatten(ohnoes));
+```
+
+I hope you realized quite quickly that it would be unsustainable to nest n for loops in your code to account for n possible layers.
+
+So what if, instead of nesting for loops, we actually called the function itself to solve the nested arrays for us? 
+Keeping in mind that sole objective is to only have non-array elements as children to our final array, we can come up with a recursive function that will always return an array with an array-free children list, like so:
+```javascript
+function flattenRecursive(arr) {
+    return arr.reduce(
+        (consolidated, child) => {
+            // check if the child is an array itself
+            if (Array.isArray(child)) {
+                // we need to flatten the array before including its elements in
+                // our consolidated array, so we call flattenRecursive recursively
+                consolidated.push(...flattenRecursive(child));
+            } else {
+                // not an array, so just include it in the final array
+                consolidated.push(child);
+            }
+            
+            // return the consolidated array
+            return consolidated;
+        },
+        [], // the initial, empty array
+    );
+}
+```
+
+**And now we get:**
+```javascript
+const yay = [1, 2, [3, [4, [5, [6, [[[[[7], [8, 9]]]]]]], 10]]];
+// [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+console.log(flattenRecursive(yay));
+```
+
+>And that's about it!
+
+>Recursion is a bit too hefty a subject to tackle casually in an article like this and admittedly not something we really use often in our everyday lives as programmers, but a powerful technique when it comes into play, and definitely a must-have skill for every computer scientist. 
+
+>*- Dan*
+
+#### *Absolutely amazing! Thank you so much, Dan, for sharing your insights and providing us with this valuable content!*
 
 ---
 
