@@ -162,7 +162,7 @@ console.log(flattenRecursive(yay));
 
 ![Carla](img/12-19-2022/Carla.png)
 
-Carla Took the day 13 emoji challenge and turned it into a beautifully styled form that displays the messages entered by the users!
+**Carla Took the day 13 emoji challenge and turned it into a beautifully styled form that displays the messages entered by the users!**
 
 The challenge instructs us to write two functions. The first function replaces lowercase words surrounded by colons with a corresponding emoji. Then the second function finds any emoji shortcodes in a phrase.
 
