@@ -53,8 +53,6 @@ What are the code reviews? A code review is when YOU record a scrim reviewing an
 
 #### Dan
 
-![Dan]()
-
 The day 17 challenge instructs us to write a function to flatten nested arrays of strings or numbers into a single array. Although there is a method for this, we are encouraged also solve it manually. 
 
 Unlike the many who solved this challenge with nested loops, including myself, Dan creatively solved it using recursion!
@@ -63,7 +61,7 @@ So, what is recursion? [FreeCodeCamp describes](https://www.freecodecamp.org/new
 
 My initial thought was to use recursion to solve a challenge like this, flattening arrays. However, I understand the theory of recursion, but I need to learn how to use it in practical application. And then I came across Dan's message in the JavaScriptmas Discord, along with [a link to his elegant solution](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65):
 
-![Dan-01]()
+![Dan-01](img/12-19-2022/Dan-01.png)
 
 Initially, Dan only had a few lines of code (without all the explanation comments). I reached out to Dan, complimenting his work, and I asked if he could please elaborate on his solution, as it will significantly benefit others learning to code, including myself!
 
