@@ -57,7 +57,7 @@ The day 17 challenge instructs us to write a function to flatten nested arrays o
 
 Unlike the many who solved this challenge with nested loops, including myself, [Dan](https://www.linkedin.com/in/daninagaoka/) creatively solved it using recursion!
 
-So, what is recursion? [FreeCodeCamp describes](https://www.freecodecamp.org/news/quick-intro-to-recursion), *"recursion is when a function calls itself until someone stops it. It can be used instead of a loop. If no one stops it, it'll recurse forever and crash your program. A base case is a condition that stops the recursion."*
+**So, what is recursion? [FreeCodeCamp describes](https://www.freecodecamp.org/news/quick-intro-to-recursion),** *"recursion is when a function calls itself until someone stops it. It can be used instead of a loop. If no one stops it, it'll recurse forever and crash your program. A base case is a condition that stops the recursion."*
 
 My initial thought was to use recursion to solve a challenge like this, flattening arrays. However, I understand the theory of recursion, but I need to learn how to use it in practical application. So I was excited when I came across Dan's message in the JavaScriptmas Discord, along with [a link to his elegant solution](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65):
 
@@ -146,7 +146,6 @@ console.log(flattenRecursive(yay));
 ```
 
 >And that's about it!
-
 >Recursion is a bit too hefty a subject to tackle casually in an article like this and admittedly not something we really use often in our everyday lives as programmers, but a powerful technique when it comes into play, and definitely a must-have skill for every computer scientist. 
 
 >*- Dan*
