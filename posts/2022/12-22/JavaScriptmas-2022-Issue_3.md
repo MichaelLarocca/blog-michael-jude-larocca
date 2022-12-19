@@ -162,7 +162,24 @@ console.log(flattenRecursive(yay));
 
 ![Carla](img/12-19-2022/Carla.png)
 
-(WRITE ARTICLE SECTION)
+Carla Took the day 13 emoji challenge and turned it into a beautifully styled form that displays the messages entered by the users!
+
+The challenge instructs us to write two functions. The first function replaces lowercase words surrounded by colons with a corresponding emoji. Then the second function finds any emoji shortcodes in a phrase.
+
+```javascript
+const emojis = {
+    "smile": "😊",
+    "angry": "😠",
+    "party": "🎉",
+    "heart": "💜",
+    "cat":   "🐱",
+    "dog":   "🐕"
+}
+```
+
+As you can see in the picture above, when a user enters a phrase and clicks the "Click Me" button, corresponding emojis are replaced by words surrounded by colons. "I 💜 JavaScriptmas! 🎉"
+
+**Carla's Discord:** carlamar#3910 
 
 [🔗Link to the scrim](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc)
 
