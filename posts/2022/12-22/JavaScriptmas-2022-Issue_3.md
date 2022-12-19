@@ -458,16 +458,16 @@ result: ,"a-b-a c-a-b-a"
 ---
 
 ### Day 17 challenge
-#### HOLD
+#### Pumpkin's Prizes
 
-🔗 [My solution for day 17]()
+🔗 [My solution for day 17](https://scrimba.com/scrim/coacd4756b7fa2610ca92b5f6)
 
 ---
 
 ### Day 18 challenge
-#### HOLD
+#### Candies
 
-🔗 [My solution for day 18]()
+🔗 [My solution for day 18](https://scrimba.com/scrim/co5c04fc7b969ba7c7980ace6)
 
 ---
 
