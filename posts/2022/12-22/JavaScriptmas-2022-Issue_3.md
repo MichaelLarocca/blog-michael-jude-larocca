@@ -162,7 +162,19 @@ console.log(flattenRecursive(yay));
 
 ![Carla](img/12-19-2022/Carla.png)
 
+(WRITE ARTICLE SECTION)
+
 [🔗Link to the scrim](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc)
+
+---
+
+#### Zarau baidu
+
+![Zarau](img/12-19-2022/Zarau.png)
+
+(WRITE ARTICLE SECTION)
+
+[🔗Link to the article](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge)
 
 ---
 
