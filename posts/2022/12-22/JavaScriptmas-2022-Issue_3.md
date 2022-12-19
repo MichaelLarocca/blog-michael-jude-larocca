@@ -9,7 +9,7 @@ published: true
 date: "2022-12-19"
 ---
 
-#### ❄ JavaScriptmas continues! I cover the event in this article series by completing each daily challenge providing detailed solutions, and featuring others' works in the community highlights section! ❄
+#### JavaScriptmas is almost over, but there is still time to get in on the fun! I cover the event in this article series by completing each daily challenge, providing solutions, and featuring others' works!
 
 ---
 
