@@ -189,7 +189,11 @@ As you can see in the picture above, when a user enters a phrase and clicks the 
 
 ![Zarau](img/12-19-2022/Zarau.png)
 
-(WRITE ARTICLE SECTION)
+**Zarau solved the first day's JavaScriptmas challenge and wrote a detailed article covering it!**
+
+In Zarau's article, she introduces us to Scrimba's JavaScriptmas event. She then breaks down the explanation of the challenge with a nice bulleted list, a code block, and the hint provided by Scrimba to solve it.
+
+Zarau then details her thought process in a paragraph that steps us through her approach to solving the challenge and then provides the JavaScript code she wrote.
 
 [🔗Link to the article](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge)
 
