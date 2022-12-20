@@ -69,10 +69,10 @@ Initially, Dan only had a few lines of code (without the comments explaining the
 
 ---
 
-First, a few notes on the Array.prototype.reduce method. It's not the main feature of the solution, but it can be quite a handful for beginners, so I'd rather address it, albeit briefly:
+First, a few notes on the [`Array.prototype.reduce()`](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce) method. It's not the main feature of the solution, but it can be quite a handful for beginners, so I'd rather address it, albeit briefly.
 
-In short, the reduce method consolidates the original array into a single value - which can be virtually anything, from a string or number to a new array or an object. To do that, it iterates through its children and will process each of them with a custom function - the reducer callback function. The reducer will always receive data about the current iteration as arguments, the most important being:
-1. The consolidated (or "accumulated") value that will be expanded upon, then passed to the next iteration;
+In short, the reduce method consolidates the original array into a single value - which can be virtually anything, from a `string` or `number` to a completely new array or an object. To do that, it iterates through its children and processes each of them with a custom function - the _reducer callback function_. The reducer will always receive data about the current iteration as arguments, the most important being:
+1. The consolidated (or "accumulated") value that will be expanded upon, then passed on to the next iteration;
 2. The current child being processed in this iteration.
 
 **The reduce method itself, therefore, requires:**
@@ -83,13 +83,13 @@ In short, the reduce method consolidates the original array into a single value 
 
 Now for the actual usage of recursion.
 
-**Simply put, recursion is just a function that calls itself. That may summarize it, but its applicability is a little more elusive to beginners.**
+**Simply put, recursion is just a function that calls itself. That may summarize it, but its applicability can be a little more elusive to beginners.**
 
 Let's start by getting something out of the way: recursion !== looping. It isn't, and if you're using it for this purpose, then you're just building confusing code.
 
-Recursion really shines when we need to iterate over a structure of interconnected elements (called nodes) which you need to process, sort or find something in it while having no previous knowledge about its size or depth.
+Recursion really shines when we need to iterate over a structure of **interconnected elements** (called **nodes**) which you need to process, sort or find something in it while having no previous knowledge about its size or depth. Stuff such as [tree traversal](https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/), [path finding](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/) and [sorting algorithms](https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/) are common scenarios where recursion is required.
 
-**So why does it apply in our current scenario? Let's say you were to flatten an array using a for loop:**
+**So why does it apply in our current scenario? Let's say you were to flatten an array using a `for` loop:**
 ```javascript
 function flatten(arr) {
   const array = [1, 2, [3, 4]];
@@ -112,12 +112,23 @@ const ohnoes = [1, 2, [3, [4, 5]]];
 console.log(flatten(ohnoes));
 ```
 
-**I hope you realized quite quickly that it would be unsustainable to nest n for loops in your code to account for n possible layers.**
+**You probably realized that it is utterly unsustainable to nest `n` `for` loops in your code to account for `n` possible layers.**
 
-So what if, instead of nesting for loops, we actually called the function itself to solve the nested arrays for us? 
-Keeping in mind that sole objective is to only have non-array elements as children to our final array, we can come up with a recursive function that will always return an array with an array-free children list, like so:
+Thinking recursively, though, is often a daunting task. Let's look at the problem a little closer:
+- We want to flatten an array that is likely to have arrays as children;
+- The child arrays, though, are not guaranteed to be flattened themselves.
+
+You probably guessed that we now need to call the same function to micromanage each of the array's children as well. Considering that:
+- The function should **only** ever reach its `return` expression with a _flattened_ array;
+- The recursion path will eventually hit the **bottom node** of the structure - an array without child arrays - and then return it.
+
+All of these stacking function calls are appropriately referred to as the [**call stack**](https://developer.mozilla.org/en-US/docs/Glossary/Call_stack). When our current stack finally resolves itself, we must expect the resulting array to be - ta-dah! Flat as 1 week old soda.
+
+Now all that's left is putting together our recursive function:
+
 ```javascript
 function flattenRecursive(arr) {
+    // loop through the children to see which requires flattening
     return arr.reduce(
         (consolidated, child) => {
             // check if the child is an array itself
@@ -145,10 +156,11 @@ const yay = [1, 2, [3, [4, [5, [6, [[[[[7], [8, 9]]]]]]], 10]]];
 console.log(flattenRecursive(yay));
 ```
 
->And that's about it!
->Recursion is a bit too hefty a subject to tackle casually in an article like this and admittedly not something we really use often in our everyday lives as programmers, but a powerful technique when it comes into play, and definitely a must-have skill for every computer scientist. 
+And that's about it!
 
->*- Dan*
+> Recursion is a bit too hefty a subject to tackle casually in an article like this and admittedly not something we really use often in our everyday lives as programmers. It is, however, a powerful technique when it comes into play, and definitely a must-have skill for every computer scientist. 
+
+> *- Dan*
 
 #### 🎉*Absolutely amazing! Thank you so much, Dan, for sharing your insights and providing us with this valuable content!* 🎉
 
