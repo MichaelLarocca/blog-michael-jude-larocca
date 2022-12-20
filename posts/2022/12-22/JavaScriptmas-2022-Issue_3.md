@@ -557,6 +557,25 @@ function flatten(arr){
 
 ### Day 18 challenge
 #### Candies
+*n children have got m pieces of candy. They want to each as much candy as they can, but each child must eat exactly the same amount of candy as any other child. Determine how many pieces of candy will be eaten by all the children together. Individule pieces of candy cannot be split.*
+
+***Example***
+
+For n = 3 and m = 10, the output should be candies (n,m) = 9.
+Each child will eat 3 pieces. So the answer is 9.
+
+***Hints***
+
+Math.floor()
+
+This challenge is solved easily using logical math. We take the total amount of candy and divide it by the children, then multiply it by the number of children. We use [Math.floor()](https://www.w3schools.com/jsref/jsref_floor.asp) to eliminate any remainder.
+
+```javascript
+function candies(children, candy) {
+    return Math.floor(candy / children) * children;
+}
+```
+
 
 🔗 [My solution for day 18](https://scrimba.com/scrim/co5c04fc7b969ba7c7980ace6)
 
