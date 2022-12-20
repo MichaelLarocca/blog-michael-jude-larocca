@@ -549,7 +549,7 @@ function flatten(arr){
 }
 ```
 
-***Note:*** *For this type of challenge, dealing with flattening nested loops, I advise using recursion as a solution. Be sure to check out Dan's recursion section in this article!*
+***Note:*** *For this type of challenge, dealing with flattening nested arrays, I advise using recursion as a solution. Be sure to check out Dan's recursion section in this article!*
 
 🔗 [My solution for day 17](https://scrimba.com/scrim/coacd4756b7fa2610ca92b5f6)
 
