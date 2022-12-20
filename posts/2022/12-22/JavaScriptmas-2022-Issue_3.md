@@ -492,6 +492,64 @@ result: ,"a-b-a c-a-b-a"
 
 ### Day 17 challenge
 #### Pumpkin's Prizes
+*Scrimba mascot Pumpkin has won the grand prize at an international cat show. Below are Pumpkin's scores from the judges, as well as all the prizes he's won. In all the excitement of victory, they've become a jumbled mess of nested arrays. Let's help Pumpkin by sorting it out.* 
+
+*Write a function to flatten nested arrays of strings or numbers into a single array. There's a method for this, but pratice both doing it manually and using the method.* 
+
+*Example input: [1, [4,5], [4,7,6,4], 3, 5]*
+*Example output: [1, 4, 5, 4, 7, 6, 4, 3, 5]*
+
+**This challenge was a tricky one, to say the least. Although there is a method to flatten arrays, they ask to devise a manual solution.** 
+
+So I took the approach of checking the length of each item in the array. If the item was a length of 1, push it into a new array to return. If the value is greater than 1, start a new loop and push all of the values into the same new array to return. 
+
+However, I ran into several interesting issues. The length of a single number is "undefined." So to resolve this issue, I check if the current value type is equal to "undefined," and if it is, then it is a single number to push into the return array.
+
+```javascript
+if(arr[i].length === undefined) {
+
+}
+```
+
+Now, I was able to pass the challenge by checking if the type is equal to "undefined" on each item in a nested loop. That is, of course, until I tried to pass in an array of emojis.
+
+**Did you know that the length of an emoji is 2? Actually, JavaScript [misinterprets an emoji length as 2](https://stackoverflow.com/questions/38345372/why-is-length-2).**
+
+So then, what is an emojis type of value? It's a string! So now I check if the current items in a loop are equal to a string.
+```javascript
+typeof arr[i] === "string"
+```
+
+So, does my updated code help me pass the challenge? Almost.
+
+The nested arrays have a type of value of "object." However, remember, I'm getting an "undefined" type of value for single numbers. To resolve this issue and to finally solve the challenge, I check for both as follows:
+```javascript
+if(arr[i].length !== undefined && typeof arr[i] === "object") {
+
+}
+```
+
+Here is a code block of my final code challenge solution.
+```javascript
+function flatten(arr){
+    const arrayFlattened = [];
+    for(let i = 0; i < arr.length; i++) {
+
+        if(arr[i].length === undefined || typeof arr[i] === "string") {
+            arrayFlattened.push(arr[i])
+        }
+        
+        for(let r = 0; r < arr[i].length; r++) {
+            if(arr[i].length !== undefined && typeof arr[i] === "object") {
+                arrayFlattened.push(arr[i][r]);
+            } 
+        }
+    }
+    return arrayFlattened;
+}
+```
+
+***Note:*** *For this type of challenge, dealing with flattening nested loops, I advise using recursion as a solution. Be sure to check out Dan's recursion section in this article!*
 
 🔗 [My solution for day 17](https://scrimba.com/scrim/coacd4756b7fa2610ca92b5f6)
 
