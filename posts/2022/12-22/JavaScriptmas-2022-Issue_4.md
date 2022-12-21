@@ -30,20 +30,20 @@ HOLD
 ---
 
 ### ❄ Community highlights list ❄
-| Highlight |      Name    |
-| ------------- | :-----------: |
-| 1  | [Gina Russo](https://scrimba.com/scrim/cJPD3Lu2?pl=p67LBHv) | 
-| 2  | [Michaella Rodriguez](https://scrimba.com/scrim/coc924780a45744007a4c1c66) |
-| 3  | [Matt](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7) |
-| 4  | [Jolene Kearse](https://scrimba.com/scrim/cob664c889972afe30dc69916) |
-| 5  | [Daniel Beck Rose](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f) |
-| 6  | [Dheeraj Purohit](https://scrimba.com/learn/javascriptmas/fork-of-alternating-caps-dheeraj-co3764a0d8f0b3f9fd34cb1a1) |
-| 7  | [Daniel Nagaoka](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65) |
-| 8  | [Carla](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc) |
-| 9  | [Zarau baidu](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge) |
-| 10 | [HOLD]() |
-| 11 | [HOLD]() |
-| 12 | [HOLD]() |
+| Highlight |      Name    | Scrim |
+| ------------- | :-----------: | ------------- |
+| 1  | [Gina Russo](https://www.linkedin.com/in/gina-p-russo/) | [Panic function](https://scrimba.com/scrim/cJPD3Lu2?pl=p67LBHv) |
+| 2  | [Michaella Rodriguez](https://www.linkedin.com/in/michaella-rodriguez/) | [Whispering function](https://scrimba.com/scrim/coc924780a45744007a4c1c66) |
+| 3  | [Matt](https://twitter.com/mattemmmmm) | [Panic function ](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7) |
+| 4  | [Jolene Kearse](https://twitter.com/FromJolene) | [Taco Tray](https://scrimba.com/scrim/cob664c889972afe30dc69916) |
+| 5  | Daniel Beck Rose | [Taco Tray](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f) |
+| 6  | [Dheeraj Purohit](https://twitter.com/the_indianyoga) | [Alternating Caps ](https://scrimba.com/learn/javascriptmas/fork-of-alternating-caps-dheeraj-co3764a0d8f0b3f9fd34cb1a1) |
+| 7  | [Daniel Nagaoka](https://www.linkedin.com/in/daninagaoka/) | [Pumpkin's Prizes](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65) |
+| 8  | Carla | [Emojify](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc) |
+| 9  | [Zarau baidu](https://twitter.com/Zarau47902847) | [Panic function ](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge) |
+| 10 | [HOLD]() | |
+| 11 | [HOLD]() | |
+| 12 | [HOLD]() | |
 
 ---
 
