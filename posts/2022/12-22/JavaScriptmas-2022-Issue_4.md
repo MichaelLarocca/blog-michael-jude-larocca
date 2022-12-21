@@ -35,6 +35,11 @@ HOLD
 
 ---
 
+### Announcing the winnerS
+(WRITE ARTICLE SECTION)
+
+---
+
 ### My JavaScript code challenge solutions ⬇
 (WRITE ARTICLE SECTION)
 
