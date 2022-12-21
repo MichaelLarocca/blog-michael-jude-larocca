@@ -29,6 +29,12 @@ HOLD
 
 ---
 
+### Scrimba JavaScriptmas Grand Finale
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/--ujdY7Qdgk" title="Scrimba JavaScriptmas Grand Finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
 ### My JavaScript code challenge solutions ⬇
 (WRITE ARTICLE SECTION)
 
