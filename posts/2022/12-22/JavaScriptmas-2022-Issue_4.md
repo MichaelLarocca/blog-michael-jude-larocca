@@ -29,13 +29,31 @@ HOLD
 
 ---
 
+### ❄ Community highlights list ❄
+| Date          |      Scrim    |
+| ------------- | :-----------: |
+| 12/01/2022    | [Gina Russo](https://scrimba.com/scrim/cJPD3Lu2?pl=p67LBHv) | 
+| 12/02/2022    | [Michaella Rodriguez](https://scrimba.com/scrim/coc924780a45744007a4c1c66) |
+| 12/03/2022    | [Matt](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7) |
+| 12/04/2022    | [Jolene Kearse](https://scrimba.com/scrim/cob664c889972afe30dc69916) |
+| 12/05/2022    | [Daniel Beck Rose](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f) |
+| 12/06/2022    | [Dheeraj Purohit](https://scrimba.com/learn/javascriptmas/fork-of-alternating-caps-dheeraj-co3764a0d8f0b3f9fd34cb1a1) |
+| 12/07/2022    | [Daniel Nagaoka](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65) |
+| 12/08/2022    | [Carla](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc) |
+| 12/09/2022    | [Zarau baidu](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge) |
+| 12/10/2022    | [HOLD]() |
+| 12/11/2022    | [HOLD]() |
+| 12/12/2022    | [HOLD]() |
+
+---
+
 ### Scrimba JavaScriptmas Grand Finale
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/--ujdY7Qdgk" title="Scrimba JavaScriptmas Grand Finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ---
 
-### Announcing the winnerS
+### Announcing the winners
 (WRITE ARTICLE SECTION)
 
 ---
