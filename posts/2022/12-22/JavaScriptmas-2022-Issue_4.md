@@ -30,7 +30,7 @@ HOLD
 ---
 
 ### ❄ Community highlights list ❄
-| Highlight Number |      Scrim    |
+| Highlight |      Scrim    |
 | ------------- | :-----------: |
 | 1  | [Gina Russo](https://scrimba.com/scrim/cJPD3Lu2?pl=p67LBHv) | 
 | 2  | [Michaella Rodriguez](https://scrimba.com/scrim/coc924780a45744007a4c1c66) |
