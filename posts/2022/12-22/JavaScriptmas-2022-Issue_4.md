@@ -65,8 +65,29 @@ HOLD
 
 ### Day 19 challenge
 #### Century From Year
+*Given a year, return the century it is in. The first century spans from the year 1 up to and including the year 100, the second - from year 101 up and including the year 200, etc.*
+
+**Example**
+* For the year = 1905, the output should be centuryFromYear(year) = 20;
+* For the year = 1700, the output should be centuryFromYear(year) = 17;
+
+**Hints**
+* Math.floor()
+
+**We solve this challenge by using math. We need to divide the year passed in by 100, and we need to round up to determine the century.** 
+
+To round up in JavaScript we use the [Math.ceil()](https://www.w3schools.com/jsref/jsref_ceil.asp) method.
+
+```javascript
+function centuryFromYear(num) {
+    return Math.ceil(num / 100);
+}
+```   
+
+🔗 [My solution for day 19](https://scrimba.com/scrim/co69e459aa221dfcac22bf94b)
 
 ---
+
 
 ### Day 20 challenge
 #### Find Free Podcasts
