@@ -120,7 +120,7 @@ While iterating over the **readyTables** array, we add an HTML div element for e
     });
 ```
 
-**We solve the challenge by returning the outPut variable.**
+**We solve the challenge by setting the *tables* inner HTML to the value of the *outPut* variable.**
 
 *Here is the completed function:*
 ```javascript
