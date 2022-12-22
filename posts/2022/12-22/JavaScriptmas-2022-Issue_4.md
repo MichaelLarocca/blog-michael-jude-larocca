@@ -82,6 +82,7 @@ HOLD
 #### Ready Tables
 
 *- Topic: Return a Function*
+
 *Our restaurant has 20 tables and the staff serves 2 tables at a time. They need to know which tables are ready to serve. Let's fix this with what we learned about returning a function inside of another function.*
 
 1. Create a function called displayTables.
