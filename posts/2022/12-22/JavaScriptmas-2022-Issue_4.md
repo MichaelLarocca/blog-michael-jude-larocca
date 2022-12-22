@@ -79,7 +79,64 @@ HOLD
 ---
 
 ### Day 22 challenge
-#### HOLD
+#### Ready Tables
+
+*- Topic: Return a Function*
+*Our restaurant has 20 tables and the staff serves 2 tables at a time. They need to know which tables are ready to serve. Let's fix this with what we learned about returning a function inside of another function.*
+
+1. Create a function called displayTables.
+2. displayTables should map over the array of ready tables 
+returned from getReadyTables to generate the html we 
+need to render our display for the staff. One div should 
+be generated for each table value. Here is an example: 
+`<div class="table">TABLE VALUE HERE</div>`. 
+3. Remember to remove the commas after applying map()
+4. Fetch the tables <section> from the DOM 
+5. Set the innerHTML content of the tables <section> 
+to the displayTables function call.
+
+**This challenge provides all the HTML & CSS; we just need to write the JavaScript. We will write a new function called displayTables that calls the provided function getReadyTables to solve this problem.**
+
+**Inside the displayTables function, we will write three variables:**
+* **tables** to fetch the HTML tables `<section>` from the DOM 
+* **readyTables** to call the provided function
+* **outPut** to set the innerHTML content of the tables
+
+```javascript
+function displayTables() {
+    const tables = document.getElementById("tables");
+    const readyTables = getReadyTables();
+    let outPut = ``;
+}
+```
+
+As instructed, we will use the JavaScript [map()](https://www.w3schools.com/jsref/jsref_map.asp) method to loop over the ready tables returned from getReadyTables function.
+
+While iterating over the readyTables array, we add an HTML div element for every item ( table ) in the array, and add it to the outPut variable as follows: 
+```javascript
+    readyTables.map(tabel => {
+        outPut += `<div class="table">${tabel}</div>`;
+    });
+```
+
+We solve the challenge by returning the outPut variable.
+
+Here is the completed function:
+```javascript
+function displayTables() {
+    const tables = document.getElementById("tables");
+    const readyTables = getReadyTables();
+    let outPut = ``;
+
+    readyTables.map(tabel => {
+        outPut += `<div class="table">${tabel}</div>`;
+    });
+    
+    tables.innerHTML = outPut;
+}
+```
+
+🔗 [My solution for day 22](https://scrimba.com/scrim/cof064557b12f601700e24091)
 
 ---
 
