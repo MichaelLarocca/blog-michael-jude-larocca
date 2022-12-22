@@ -96,7 +96,7 @@ be generated for each table value. Here is an example:
 5. Set the innerHTML content of the tables <section> 
 to the displayTables function call.
 
-**This challenge provides all the HTML & CSS; we just need to write the JavaScript. We will write a new function called displayTables that calls the provided function getReadyTables to solve this problem.**
+**This challenge provides all the HTML & CSS; we just need to write the JavaScript. We will write a new function called *displayTables* that calls the provided function *getReadyTables* to solve this problem.**
 
 **Inside the displayTables function, we will write three variables:**
 * **tables** to fetch the HTML tables `<section>` from the DOM 
