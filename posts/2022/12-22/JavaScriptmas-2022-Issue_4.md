@@ -110,18 +110,18 @@ function displayTables() {
 }
 ```
 
-As instructed, we will use the JavaScript [map()](https://www.w3schools.com/jsref/jsref_map.asp) method to loop over the ready tables returned from getReadyTables function.
+**As instructed, we will use the JavaScript [map()](https://www.w3schools.com/jsref/jsref_map.asp) method to loop over the ready tables returned from getReadyTables function.**
 
-While iterating over the readyTables array, we add an HTML div element for every item ( table ) in the array, and add it to the outPut variable as follows: 
+While iterating over the **readyTables** array, we add an HTML div element for every item ( table ) in the array, and add it to the **outPut** variable as follows: 
 ```javascript
     readyTables.map(tabel => {
         outPut += `<div class="table">${tabel}</div>`;
     });
 ```
 
-We solve the challenge by returning the outPut variable.
+**We solve the challenge by returning the outPut variable.**
 
-Here is the completed function:
+*Here is the completed function:*
 ```javascript
 function displayTables() {
     const tables = document.getElementById("tables");
