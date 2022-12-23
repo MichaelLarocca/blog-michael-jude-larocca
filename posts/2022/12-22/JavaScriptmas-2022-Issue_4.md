@@ -71,7 +71,7 @@ function showList() {
 | 7  | [Daniel Nagaoka](https://www.linkedin.com/in/daninagaoka/) | [Pumpkin's Prizes](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65) |
 | 8  | Carla | [Emojify](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc) |
 | 9  | [Zarau baidu](https://twitter.com/Zarau47902847) | [Panic function ](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge) |
-| 10 | [HOLD]() | |
+| 10 | Farrah | [Holiday Gift Shopping](https://scrimba.com/scrim/cob724152b3df686ab394fd09) |
 | 11 | [HOLD]() | |
 | 12 | [HOLD]() | |
 
@@ -89,7 +89,6 @@ function showList() {
 ---
 
 ### My JavaScript code challenge solutions ⬇
-(WRITE ARTICLE SECTION)
 
 ---
 
