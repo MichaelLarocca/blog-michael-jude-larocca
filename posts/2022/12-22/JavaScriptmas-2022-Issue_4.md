@@ -163,7 +163,64 @@ function displayTables() {
 ---
 
 ### Day 23 challenge
-#### HOLD
+#### Holiday Gift Shopping
+*You're online shopping for holiday gifts, but money is tight so we need to look at the cheapest items first. Use the built in sort() method to write a function that returns a new array of products sorted by price, cheapest to most expensive.* 
+
+
+**This challenge provides us with an array of products. The product array consists of key-value pairs, the product value in the form of an icon, and the product's price. To solve the challenge, we will use the JavaScript sort method to sort the items by price from lowest to highest.**
+
+When working with strings, the Javascript sort method works as expected.
+```javascript
+const letters = ["a", "e", "d", "c", "b"];
+letters.sort();
+
+console.log(letters);
+["a","b","c","d","e"]
+```
+
+However, when working with numbers, we need to pass the following function into the  sort method:
+```javascript
+const points = [40, 100, 1, 5, 25, 10];
+points.sort(function(a, b){return a-b});
+
+console.log(points);
+[1,5,10,25,40,100]
+```
+
+We need to access and compare each product's value to solve the challenge.
+
+Let's look at the first record in the products array as follows:
+```javascript
+console.log(data[0]);
+{product: "🍭", price: 2.99}
+```
+
+To access the price, we can access an object's properties using dot notation.
+```javascript
+console.log(data[0].price);
+2.99
+```
+
+Now, to solve the challenge, let's use the JavaScript sort method to sort from the lowest to the highest price. 
+```javascript
+return data.sort(function(a, b) {return a.price - b.price}); 
+```
+
+We can write a more succinct line of code by refactoring as follows:
+```javascript
+return data.sort((a, b) => a.price - b.price); 
+```
+
+Here is the completed function:
+```javascript
+function sortProducts(data){
+    return data.sort((a, b) => a.price - b.price); 
+}
+```
+
+
+
+🔗 [My solution for day 23](https://scrimba.com/learn/javascriptmas/-holiday-gift-shopping-cob4d41cabc75bb2fdaec4a6f)
 
 ---
 
