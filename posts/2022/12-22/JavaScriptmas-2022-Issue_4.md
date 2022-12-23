@@ -293,8 +293,8 @@ function sortProducts(data){
 | 12/17/2022    | [Pumpkin's Prizes](https://scrimba.com/scrim/coacd4756b7fa2610ca92b5f6) |
 | 12/18/2022    | [Candies](https://scrimba.com/scrim/co5c04fc7b969ba7c7980ace6) |
 | 12/19/2022    | [Century From Year](https://scrimba.com/scrim/co69e459aa221dfcac22bf94b) |
-| 12/20/2022    | [HOLD]() |
-| 12/21/2022    | [HOLD]() |
+| 12/20/2022    | [Find Free Podcasts](https://scrimba.com/scrim/co76e4e4f8de4d5dd6a472202) |
+| 12/21/2022    | [Definitely Not FizzBuzz](https://scrimba.com/scrim/co1904c558deb52c6588cc1fe) |
 | 12/22/2022    | [Ready Tables](https://scrimba.com/scrim/cof064557b12f601700e24091) |
 | 12/23/2022    | [Holiday Gift Shopping](https://scrimba.com/learn/javascriptmas/-holiday-gift-shopping-cob4d41cabc75bb2fdaec4a6f) |
 | 12/24/2022    | [HOLD]() |
