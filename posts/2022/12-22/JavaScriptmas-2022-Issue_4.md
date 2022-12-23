@@ -77,17 +77,6 @@ function showList() {
 
 ---
 
-### Scrimba JavaScriptmas Grand Finale
-
-<iframe width="956" height="538" src="https://www.youtube.com/embed/--ujdY7Qdgk" title="Scrimba JavaScriptmas Grand Finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
----
-
-### Announcing the winners
-(WRITE ARTICLE SECTION)
-
----
-
 ### My JavaScript code challenge solutions ⬇
 
 ---
@@ -462,6 +451,17 @@ function sortProducts(data){
 | 12/22/2022    | [Ready Tables](https://scrimba.com/scrim/cof064557b12f601700e24091) |
 | 12/23/2022    | [Holiday Gift Shopping](https://scrimba.com/learn/javascriptmas/-holiday-gift-shopping-cob4d41cabc75bb2fdaec4a6f) |
 | 12/24/2022    | [HOLD]() |
+
+---
+
+### Scrimba JavaScriptmas Grand Finale
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/--ujdY7Qdgk" title="Scrimba JavaScriptmas Grand Finale" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+---
+
+### Announcing the winners
+(WRITE ARTICLE SECTION)
 
 ---
 
