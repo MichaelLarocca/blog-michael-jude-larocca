@@ -120,6 +120,95 @@ function centuryFromYear(num) {
 
 ### Day 20 challenge
 #### Find Free Podcasts
+*We have a list of podcasts and need the ability to filter by only podcasts which are free.*
+
+*Write a function that takes in the podcast data and returns an new array of only those podcasts which are free.*
+
+*Additionally, your new array should return only objects containing only the podcast title, rating, and whether or not it is paid.* 
+
+*Expected output:* 
+```javascript
+[
+    {title: "Scrimba Podcast", rating: 10, paid: false}, 
+    {title: "Something about Witches", rating: 8, paid: false}, 
+    {title: "Coding Corner", rating: 9, paid: false}
+]
+```
+
+**We solve this challenge in 2 steps:**
+1. Filter()
+2. Map()
+
+Let's take a look at the first record in the podcasts array.
+```javascript
+    {
+        id: 1,
+        title: "Scrimba Podcast", 
+        duration: 50, 
+        tags: ["education", "jobs", "technology"], 
+        hosts: ["Alex Booker"], 
+        rating: 10,
+        genre: "education",
+        paid: false
+    },
+```
+
+First, we need to create a new array to push records into and return.
+```javascript
+const freePadCastsArrray = [];
+``` 
+
+Next, let's see how to filter out the free podcasts. Using the JavaScript [filter()](https://www.w3schools.com/jsref/jsref_filter.asp) method, we can iterate over the podcasts array and filter out the records with a **false** value for **paid**.
+```javascript
+const podCasts = data.filter(podcast => podcast.paid === false);
+```
+
+Now that we have the filtered list, we can chain on the JavaScript [map()](https://www.w3schools.com/jsref/jsref_map.asp) method to return only the key-value pairs needed. We then set the key-value pairs to variables and add them to a new object named **newRecord**.
+```javascript
+    const podCasts = data.filter(podcast => podcast.paid === false).map(podcast => {
+        const title = podcast.title;
+        const rating = podcast.rating;
+        const paid = podcast.paid;
+        
+        const newRecord = {
+            title: title,
+            rating: rating,
+            paid: paid,
+        }
+```
+
+Each iteration creates one **newRecord** that we push into the **freePadCastsArrray**. 
+```javascript
+freePadCastsArrray.push(newRecord);
+```
+We solve the challenge by returning the returning **freePadCastsArrray**.
+```javascript
+return freePadCastsArrray; 
+```
+
+Here is the completed function.
+```javascript
+function getFreePodcasts(data){
+    const freePadCastsArrray = [];
+
+    const podCasts = data.filter(podcast => podcast.paid === false).map(podcast => {
+        const title = podcast.title;
+        const rating = podcast.rating;
+        const paid = podcast.paid;
+        
+        const newRecord = {
+            title: title,
+            rating: rating,
+            paid: paid,
+        }
+        freePadCastsArrray.push(newRecord);
+    });    
+    return freePadCastsArrray; 
+}
+```
+
+
+🔗 [My solution for day 20](https://scrimba.com/scrim/co76e4e4f8de4d5dd6a472202)
 
 ---
 
