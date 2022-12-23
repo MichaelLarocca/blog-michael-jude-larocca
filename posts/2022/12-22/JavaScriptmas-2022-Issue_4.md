@@ -25,6 +25,36 @@ HOLD
 ---
 
 ### Community highlights ⬇
+#### Farrah
+
+![Farrah](img/12-26-2022/Farrah.png)
+
+Farrah completed the day 23 challenge with one succinct line of code, and then for a stretch goal, wrote a second function to display the list of sorted items by price (cheapest to most expensive) in DOM!
+
+```javascript
+function sortProducts(data){
+    return data.sort((a,b)=>{return a.price - b.price})
+}
+//Stretch - display list of items sorted by price (cheapest to most expensive) in DOM
+function showList() {
+    let listEl = ''
+    listByCheapest.forEach((i)=>{
+    listEl += `<div>${i.product} &nbsp&nbsp $${i.price}</div>`
+    })
+    return listEl
+}
+```
+
+**Farrah Discord: 9tfdev#1635**
+
+🔗 [Link to the scrim](https://scrimba.com/scrim/cob724152b3df686ab394fd09)
+
+---
+
+(WRITE ARTICLE SECTION)
+
+---
+
 (WRITE ARTICLE SECTION)
 
 ---
