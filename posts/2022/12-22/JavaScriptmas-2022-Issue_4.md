@@ -214,6 +214,81 @@ function getFreePodcasts(data){
 
 ### Day 21 challenge
 #### Definitely Not FizzBuzz
+*Scrimba CEO Per Borgen wants you to write a program to grant special bonuses to all his employees based on their employee ID numbers!* 
+
+*Scrimba has 100 employees and their employee ID numbers range from 1 - 100. If the employee's ID number is:* 
+
+* *Divisible by 3 - Vacation!* 
+* *Divisible by 5 - $100,000 bonus!* 
+* *Divisible by both 3 and 5 - JACKPOT! 1 Million and a Yacht!*
+* *Not divisible by 3 or 5 - :(*
+    
+*Write a program to loop through all the ID numbers and print their prize.* 
+
+*Your function's output should look something like this:* 
+
+* 1 - :(
+* 2 - :(
+* 3 - Vacation! 
+* 4 - :(
+* 5 - $100,000 bonus!
+
+The code for this challenge is simple; we can solve it with a [for loop](https://www.w3schools.com/js/js_loop_for.asp) and an [else if](https://www.w3schools.com/js/js_if_else.asp) statement. 
+
+**The tricky part is structuring the correct order of the else if statement.**  
+
+To solve the challenge, we will use the modulus [operator (%)](https://www.w3schools.com/js/js_arithmetic.asp) to determine if each number is divisible as instructed.
+
+First, we create a for loop that counts from 1 to 100.
+```javascript
+for(let i = 1; i <= 100; i++) {
+
+}
+```
+
+Now we start the if statement by checking if the current number i is divisible by both 3 and 5. 
+```javascript
+if(i % 3 === 0 && i % 5 === 0) {
+    console.log(`${i}: JACKPOT! 1 Million and a Yacht!`);
+```
+
+Then, if the current number i is just divisible by 3:
+```javascript
+else if(i % 3 === 0) {
+            console.log(`${i}: Vacation!`);
+```
+
+Next, we check if the current number i is just divisible by 5:
+```javascript
+else if(i % 5 === 0) {
+            console.log(`${i}: $100,000 bonus!`)
+```
+
+And finally, if the current number i is not divisible by 3 or by 5:
+```javascript
+else if(!i % 3 === 0 || !i % 5 === 0) {
+            console.log(`${i}: :(`);
+```
+
+Here is the completed function:
+```javascript
+function awardBonuses(){
+    for(let i = 1; i <= 100; i++) {
+        
+        if(i % 3 === 0 && i % 5 === 0) {
+            console.log(`${i}: JACKPOT! 1 Million and a Yacht!`);
+        } else if(i % 3 === 0) {
+            console.log(`${i}: Vacation!`);
+        } else if(i % 5 === 0) {
+            console.log(`${i}: $100,000 bonus!`)
+        } else if(!i % 3 === 0 || !i % 5 === 0) {
+            console.log(`${i}: :(`);
+        }
+    }
+}
+```
+
+🔗 [My solution for day 21](https://scrimba.com/scrim/co1904c558deb52c6588cc1fe)
 
 ---
 
