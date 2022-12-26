@@ -407,7 +407,56 @@ function sortProducts(data){
 ---
 
 ### Day 24 challenge
-#### HOLD
+#### Christmas Jukebox
+
+**The final Javascriptmas challenge is to build a music jukebox.** 
+
+The styling of the music jukebox is complete, along with an embedded YouTube iframe to display Christmas videos and buttons containing the corresponding YouTube ID to the songs.
+
+**To solve this challenge, we need to program a function that changes the iframe's URL source when the user clicks on each of the song buttons.**
+
+Before we code the JavaScript, let's first look at the HTML iframe provided.
+```html
+  <div class="container">
+    <h1>🎄 Christmas Jukebox</h1>
+    <iframe id="player" type="text/html" width="480" height="240" src="https://www.youtube.com/embed/PoAjmmD89Vw?autoplay=1" frameborder="0"></iframe>
+    
+    <div class="songs">
+        <button onclick="playSong('PoAjmmD89Vw')">White Christmas</button>
+        <button onclick="playSong('1qYz7rfgLWE')">Rockin' Around The Christmas Tree</button>
+        <button onclick="playSong('R_vmuL0gjU0')">Jingle Bell Rock</button>
+        <button onclick="playSong('WaNwEkCeZrE')">It's Beginning to Look a Lot Like Christmas</button>
+        <button onclick="playSong('AN_R4pR1hck')">It's the Most Wonderful Time of the Year</button>
+    </div>
+  </div>
+```
+
+Looking at the iframe src value, we can see the entire URL containing the YouTube song ID for White Christmas.
+```html
+src="https://www.youtube.com/embed/PoAjmmD89Vw?autoplay=1"
+```
+
+Below is just the unique YouTube ID for White Christmas.
+```html
+PoAjmmD89Vw
+```
+
+Now, look at each button, and you will see a click event that calls a function called playSong with each song's unique YouTube ID passed in as a parameter.
+
+**To solve the challenge, we will use [template literals](https://www.w3schools.com/js/js_string_templates.asp) to create a string that incorporates each song's YouTube ID passed in as a parameter and set the value to the player source.**
+```javascript
+player.src = `https://www.youtube.com/embed/${id}?autoplay=1`;
+```
+
+Here is the completed function.
+```javascript
+const player = document.getElementById("player")
+
+function playSong(id) {
+  // Challenge: Add code here to make the youtube player play the new YouTube song
+    player.src = `https://www.youtube.com/embed/${id}?autoplay=1`;
+}
+```
 
 ---
 
