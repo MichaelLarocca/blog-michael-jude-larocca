@@ -91,15 +91,15 @@ Jordan then refactors the code, thoroughly explaining and proving that the chang
 | 1  | [Gina Russo](https://www.linkedin.com/in/gina-p-russo/) | [Panic function](https://scrimba.com/scrim/cJPD3Lu2?pl=p67LBHv) |
 | 2  | [Michaella Rodriguez](https://www.linkedin.com/in/michaella-rodriguez/) | [Whispering function](https://scrimba.com/scrim/coc924780a45744007a4c1c66) |
 | 3  | [Matt](https://twitter.com/mattemmmmm) | [Panic function ](https://scrimba.com/scrim/co2884c13af5c29b1f9c396d7) |
-| 4  | [Jolene Kearse](https://twitter.com/FromJolene) | [Taco Tray](https://scrimba.com/scrim/cob664c889972afe30dc69916) |
+| 4  | [Jolene Kearse](https://twitter.com/FromJolene) | [Code Review - Taco Tray](https://scrimba.com/scrim/cob664c889972afe30dc69916) |
 | 5  | Daniel Beck Rose | [Taco Tray](https://scrimba.com/scrim/coea541eeafbc701b1b7c607f) |
 | 6  | [Dheeraj Purohit](https://twitter.com/the_indianyoga) | [Alternating Caps ](https://scrimba.com/learn/javascriptmas/fork-of-alternating-caps-dheeraj-co3764a0d8f0b3f9fd34cb1a1) |
 | 7  | [Daniel Nagaoka](https://www.linkedin.com/in/daninagaoka/) | [Pumpkin's Prizes](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65) |
 | 8  | Carla | [Emojify](https://scrimba.com/learn/javascriptmas/fork-of-emojify-co1544d709da17c8e24fd6dcc) |
 | 9  | [Zarau baidu](https://twitter.com/Zarau47902847) | [Panic function ](https://zeerau.hashnode.dev/scrimba-javascriptmas-challenge) |
 | 10 | Farrah | [Holiday Gift Shopping](https://scrimba.com/scrim/cob724152b3df686ab394fd09) |
-| 11 | [HOLD]() | |
-| 12 | [HOLD]() | |
+| 11 | mykalimba | [Christmas Jukebox](https://scrimba.com/scrim/cE4BGNh6) |
+| 12 | Jordan | [Code Review - Ready Tables](https://scrimba.com/scrim/coad44b548b624f854eeff222) |
 
 ---
 
