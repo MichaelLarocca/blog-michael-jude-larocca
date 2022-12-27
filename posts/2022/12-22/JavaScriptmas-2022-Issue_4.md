@@ -59,7 +59,7 @@ The JavaScriptmas coder, who goes by the name **mykalimba**, created a visually 
 
 This Christmas Jukebox starts with the click of just one button that says, "Do it." When you click the button, it disappears, and then eight new buttons slide in one at a time with a nice slide-in effect! Each button has a color transition from green to red as you hover over them, and the selected song button changes to a gold-yellow. 
  
-In addition to the provided song buttons, new ones were added. One button included says "🎄🎅 Happy Holidays, Fellow Scrimbians! 🤶 🎄" that plays the song Never Gonna Give You Up, by Rick Astley when clicked!
+In addition to the provided song buttons, new ones were added. One button included says "**🎄🎅 Happy Holidays, Fellow Scrimbians! 🤶 🎄**" that plays the song Never Gonna Give You Up, by Rick Astley when clicked!
 
 **mykalimba - Discord: headtothesky#3781**
 
