@@ -541,6 +541,19 @@ function playSong(id) {
 
 ---
 
+#### 💥 Holiday Sale! 76% Christmas Discount on Pro membership!💥
+
+##### Pro Member
+***All the content you need to become a hireable developer!***
+* 77h Frontend Career Path
+* All 60+ courses
+* Full access to community
+* Course certificates
+
+🔗 [Pro member Discount](https://click.convertkit-mail.com/e5ugq2l53ps7hp22nxga8/6qh0wv7pi8hp3x7ozeb9/aHR0cHM6Ly9zY3JpbWJhLmNvbS9wcmljaW5nPyNqb2lu)
+
+---
+
 #### *If you would like to learn more about my journey with Scrimba and how learning with them may help you, you can read my article: [How Scrimba is helping me and many others to become confident, well-prepared web developers](https://selftaughttxg.com/2021/06-21/06-07-21/)*
 
 ---
@@ -555,8 +568,14 @@ function playSong(id) {
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
 
+JavaScriptmas is a wonderful festive seasonal event created by Scrimba. Participants grow their coding skills and "online" presence by being encouraged to code every day during the event and sharing their solutions with the community.
+
+JavaScriptmas participants of all coding levels receive an equal opportunity to win prizes throughout the event due to Scrimba's craftily created "raffle" style contest; the more you code and submit valid solutions, the more chances you have to win!
+
+This year, Scrimba also added code review submissions as  "raffle" tickets, encouraging students to provide constructive feedback for each other, resulting in earning more chances to win a grand prize! 
+
+Scrimba is once again running a holiday sale! There is still time to get a 76% discount on a year of Scrimba Pro membership, so if you are considering signing up, now is a great time while it's at this fantastic price! 
 
 ---
 
@@ -564,6 +583,6 @@ function playSong(id) {
 
 ---
 
-###### *HOLD* 
+###### *Did you take part in this year's JavaScriptmas event? Are you interested in taking part in JavaScriptmas next year? Please share the article and comment!* 
 
 ---
