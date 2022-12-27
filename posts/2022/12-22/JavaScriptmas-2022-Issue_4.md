@@ -536,14 +536,41 @@ function playSong(id) {
 
 ---
 
-### Announcing the winners
-(WRITE ARTICLE SECTION)
+### Huge congratulations to the two winners! 🎉 
+
+#### Solution winner: @Kouski 
+
+#### Code Review winner: @Leroy 
+
+**Kouski**
+
+*Hi, what a Christmas present...Thank you so much to all the Scrimba crew. I really appreciate the prize, i think that this web is one of the best places to learn, the courses are interactive, fun, useful. Besides they spend a lot of time and effort in free stuff, helping the people for free. I recommend to invest some money learning at Scrimba, I was thinking seriously to suscribe when i start the javascript Challenge...and i am so happy to win this prize. Thank you again and Merry Christmas to everyone!*
+
+> Kouski
+
+**Kouski - Discord: Oscar Gamarra#1310**
+
+**Leroy**
+
+*Dear, Scrimba Team.*
+
+*I just want to express my sincere gratitude for the opportunity to participate in the recent challenge. I gained so much knowledge from it, and it was a priceless experience.*
+
+*I'm incredibly appreciative that I was given the chance to put my abilities to the test and challenge myself to become a better coder. The resources and support provided by Scrimba were top-notch, and I feel confident that I have gained valuable knowledge and skills that will serve me well in my future endeavors.*
+
+*Once more, many thanks for everything. I am looking forward to future opportunities to learn and grow with Scrimba.*
+
+*Sincerely,*
+
+> *Leroy*
+
+**Leroy- Discord: Leroy#0512**
 
 ---
 
 #### 💥 Holiday Sale! 76% Christmas Discount on Pro membership!💥
 
-##### Pro Member
+#### Pro Member
 ***All the content you need to become a hireable developer!***
 * 77h Frontend Career Path
 * All 60+ courses
@@ -575,7 +602,7 @@ JavaScriptmas participants of all coding levels receive an equal opportunity to 
 
 This year, Scrimba also added code review submissions as  "raffle" tickets, encouraging students to provide constructive feedback for each other, resulting in earning more chances to win a grand prize! 
 
-Scrimba is once again running a holiday sale! There is still time to get a 76% discount on a year of Scrimba Pro membership, so if you are considering signing up, now is a great time while it's at this fantastic price! 
+Scrimba is once again running a holiday sale! There is still time to get a [76% discount](https://click.convertkit-mail.com/e5ugq2l53ps7hp22nxga8/6qh0wv7pi8hp3x7ozeb9/aHR0cHM6Ly9zY3JpbWJhLmNvbS9wcmljaW5nPyNqb2lu) on a year of Scrimba Pro membership, so if you are considering signing up, now is a great time while it's at this fantastic price! 
 
 ---
 
