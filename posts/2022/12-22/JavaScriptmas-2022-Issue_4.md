@@ -67,7 +67,21 @@ In addition to the provided song buttons, new ones were added. One button includ
 
 ---
 
-(WRITE ARTICLE SECTION)
+### Jordan
+
+![Jordan](img/12-26-2022/Jordan.png)
+
+Jordan created a constructive code review of Jakub's already succinct JavaScript challenge solution!
+
+Jordan starts by complimenting Jakub's solution, acknowledging that it works, and analyzing that Jakub's goal was to solve the challenge in as few lines of code as possible.
+
+Jordan then refactors the code, thoroughly explaining and proving that the changes work in solving the coding challenge; he removes a [spread operator](https://www.w3schools.com/react/react_es6_spread.asp), breaks repetitive code into a new function making the code [dry](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself), and changes a [query selector](https://www.w3schools.com/jsref/met_document_queryselector.asp) to a [getElementById](https://www.w3schools.com/jsref/met_document_getelementbyid.asp). 
+
+🔗 [Link to the code review](https://scrimba.com/scrim/coad44b548b624f854eeff222)
+
+**Jordan - Discord: chinagoblin#3171**
+
+**Jakub - Discord: Jirous#5567**
 
 ---
 
