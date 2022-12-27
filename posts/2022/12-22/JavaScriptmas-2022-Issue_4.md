@@ -51,7 +51,18 @@ function showList() {
 
 ---
 
-(WRITE ARTICLE SECTION)
+### mykalimba
+
+![mykalimba](img/12-26-2022/mykalimba.png)
+
+The JavaScriptmas coder, who goes by the name **mykalimba**, created a visually impressive Christmas Jukebox for the day 24 challenge!
+
+This Christmas Jukebox starts with the click of just one button that says, "Do it." When you click the button, it disappears, and then eight new buttons slide in one at a time with a nice slide-in effect! Each button has a color transition from green to red as you hover over them, and the selected song button changes to a gold-yellow. 
+ 
+In addition to the provided song buttons, new ones were added. One button included says "🎄🎅 Happy Holidays, Fellow Scrimbians! 🤶 🎄" that plays the song Never Gonna Give You Up, by Rick Astley when clicked!
+
+🔗 [Link to the scrim](https://scrimba.com/scrim/cE4BGNh6)
+mykalimba - Discord: headtothesky#3781
 
 ---
 
@@ -400,8 +411,6 @@ function sortProducts(data){
 }
 ```
 
-
-
 🔗 [My solution for day 23](https://scrimba.com/learn/javascriptmas/-holiday-gift-shopping-cob4d41cabc75bb2fdaec4a6f)
 
 ---
@@ -458,6 +467,9 @@ function playSong(id) {
 }
 ```
 
+🔗 [My solution for day 24](https://scrimba.com/scrim/co7234b8b930436dbc69b1d2e)
+
+
 ---
 
 ### My JavaScriptmas Submissions 💻
@@ -499,7 +511,7 @@ function playSong(id) {
 | 12/21/2022    | [Definitely Not FizzBuzz](https://scrimba.com/scrim/co1904c558deb52c6588cc1fe) |
 | 12/22/2022    | [Ready Tables](https://scrimba.com/scrim/cof064557b12f601700e24091) |
 | 12/23/2022    | [Holiday Gift Shopping](https://scrimba.com/learn/javascriptmas/-holiday-gift-shopping-cob4d41cabc75bb2fdaec4a6f) |
-| 12/24/2022    | [HOLD]() |
+| 12/24/2022    | [Christmas Jukebox](https://scrimba.com/scrim/co7234b8b930436dbc69b1d2e) |
 
 ---
 
