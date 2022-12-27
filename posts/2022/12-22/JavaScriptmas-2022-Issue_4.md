@@ -45,7 +45,7 @@ function showList() {
 }
 ```
 
-**Farrah Discord: 9tfdev#1635**
+**Farrah - Discord: 9tfdev#1635**
 
 🔗 [Link to the scrim](https://scrimba.com/scrim/cob724152b3df686ab394fd09)
 
@@ -61,8 +61,9 @@ This Christmas Jukebox starts with the click of just one button that says, "Do i
  
 In addition to the provided song buttons, new ones were added. One button included says "🎄🎅 Happy Holidays, Fellow Scrimbians! 🤶 🎄" that plays the song Never Gonna Give You Up, by Rick Astley when clicked!
 
+**mykalimba - Discord: headtothesky#3781**
+
 🔗 [Link to the scrim](https://scrimba.com/scrim/cE4BGNh6)
-mykalimba - Discord: headtothesky#3781
 
 ---
 
