@@ -71,7 +71,7 @@ In addition to the provided song buttons, new ones were added. One button includ
 
 ![Jordan](img/12-26-2022/Jordan.png)
 
-Jordan created a constructive code review of Jakub's already succinct JavaScript challenge solution!
+**Jordan** created a constructive code review of **Jakub's** already succinct JavaScript challenge solution!
 
 Jordan starts by complimenting Jakub's solution, acknowledging that it works, and analyzing that Jakub's goal was to solve the challenge in as few lines of code as possible.
 
