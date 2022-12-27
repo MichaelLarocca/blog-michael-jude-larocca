@@ -11,16 +11,19 @@ date: "2022-12-26"
 
 #### The post-JavaScriptmas 2022 post! This article concludes Scrimba's annual 24-day holiday event! I cover the remaining challenges with detailed solutions, more community highlights, and the Livestream!
 
-(WRITE ARTICLE SECTION)
-
 ---
 
 ![TN-TXG-68](img/12-26-2022/TN-TXG-68.png) 
 
 ---
 
-HOLD
-(WRITE ARTICLE SECTION)
+Another successful JavaScriptmas annual event has come to an end! 💻
+
+Although there are only two prize winners, I believe all participants are winners! Many have participated in the 24-day coding challenge, expanding their knowledge, growing their online presence by learning in public, and creating code reviews providing constructive feedback for their fellow coders! Indeed, all participants in this wonderful festive event were filled with the JavaScriptmas spirit! 🎄
+
+In this last article of the JavaScriptmas 2022 series, I complete the remaining challenges, highlight others' outstanding works, and include the two announced prize winners along with their response messages! 🎉
+
+*I also list all 12 community highlights and all of my 24 challenge solutions!*
 
 ---
 
