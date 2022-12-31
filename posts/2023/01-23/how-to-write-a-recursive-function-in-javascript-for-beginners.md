@@ -31,7 +31,7 @@ Dan has experience in both Frontend and Full Stack Development. He graduated fro
 
 ### When to use recursion 
 
-Dan tells us to use recursion when iterating over a structure of interconnected elements without previous knowledge about its size or depth.
+
 
 ---
 
