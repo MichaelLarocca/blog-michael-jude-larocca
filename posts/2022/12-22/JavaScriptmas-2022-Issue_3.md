@@ -87,12 +87,11 @@ Now for the actual usage of recursion.
 
 Let's start by getting something out of the way: recursion !== looping. It isn't, and if you're using it for this purpose, then you're just building confusing code.
 
-Recursion really shines when we need to iterate over a structure of **interconnected elements** (called **nodes**) which you need to process, sort or find something in it while having no previous knowledge about its size or depth. Stuff such as [tree traversal](https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/), [path finding](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/) and [sorting algorithms](https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/) are common scenarios where recursion is required.
+Recursion really shines when we need to iterate over a structure of **interconnected elements** (called **nodes**) which you need to process, sort or find something in it while having no previous knowledge about its size or depth  - most often to perform complex operations that is likely to produce many branches during the execution. Stuff such as [tree traversal](https://www.freecodecamp.org/news/binary-search-tree-traversal-inorder-preorder-post-order-for-bst/), [path finding](https://www.freecodecamp.org/news/dijkstras-shortest-path-algorithm-visual-introduction/) and [sorting algorithms](https://www.freecodecamp.org/news/sorting-algorithms-explained-with-examples-in-python-java-and-c/) are common scenarios where recursion is required.
 
 **So why does it apply in our current scenario? Let's say you were to flatten an array using a `for` loop:**
 ```javascript
 function flatten(arr) {
-  const array = [1, 2, [3, 4]];
   const newArray = [];
   for (const item of array) {
     if (Array.isArray(item)) newArray.push(...item);
@@ -101,8 +100,10 @@ function flatten(arr) {
   return newArray;
 }
 
+const array = [1, 2, [3, 4]];
+
 // [1, 2, 3, 4];
-console.log(flatten(newArray));
+console.log(flatten(array));
 ```
 
 **Sure, that works, but try a different, more elaborate array structure. Let's say:**
