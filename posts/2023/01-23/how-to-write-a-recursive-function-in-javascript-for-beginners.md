@@ -86,7 +86,34 @@ So before we learn how to write a recursive function, let's understand each part
 ---
 
 ### Arrow Function
-(Write article section)
+
+[MDN web docs](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Functions/Arrow_functions) explains that an arrow function expression is a compact alternative to a traditional function expression, with some semantic differences and deliberate limitations in usage:
+* Arrow functions don't have their own bindings to this, arguments, or super, and should not be used as methods.
+* Arrow functions cannot be used as constructors. Calling them with new throws a TypeError. They also don't have access to the new.target keyword.
+* Arrow functions cannot use yield within their body and cannot be created as generator functions.
+
+**To demonstrate, I wrote two simple greet functions:**
+```javascript
+function greetOne(name) {
+  return "Hello " + name;
+}
+
+  console.log(greetOne("Michael"));
+"Hello Michael"  
+```
+**Here is the same function rewritten as an arrow function:**
+```javascript
+greetTwo = name => "Hello " + name;
+
+  console.log(greetTwo("Michael"));
+"Hello Michael"  
+```
+
+**By rewriting the greet function as an arrow function, we eliminated the following syntax:**
+* function
+* parentheses 
+* curly brackets
+* return
 
 ---
 
