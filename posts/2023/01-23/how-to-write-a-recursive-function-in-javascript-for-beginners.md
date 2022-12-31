@@ -69,6 +69,7 @@ Before Dan shows us how to create a recursive function, let us first break down 
 
 **Dan's recursive function consists of the following:**
 * Reduce method
+* Arrow Function
 * If else statement 
 * isArray method
 * Array push method
@@ -80,6 +81,11 @@ So before we learn how to write a recursive function, let's understand each part
 ---
 
 ### Reduce
+(Write article section)
+
+---
+
+### Arrow Function
 (Write article section)
 
 ---
