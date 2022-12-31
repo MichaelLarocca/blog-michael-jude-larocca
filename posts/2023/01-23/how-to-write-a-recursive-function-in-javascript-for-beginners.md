@@ -25,7 +25,7 @@ Dan has experience in both Frontend and Full Stack Development. He graduated fro
 ### What is recursion 
 
 
-**So, what is recursion? The [MDN web docs](https://developer.mozilla.org/en-US/docs/Glossary/Recursion) explains,** *"The act of a function calling itself recursion is used to solve problems that contain smaller sub-problems. A recursive function can receive two inputs: a base case (ends recursion) or a recursive case (resumes recursion)."*
+**So, what is recursion? [MDN web docs](https://developer.mozilla.org/en-US/docs/Glossary/Recursion) explains,** *"The act of a function calling itself recursion is used to solve problems that contain smaller sub-problems. A recursive function can receive two inputs: a base case (ends recursion) or a recursive case (resumes recursion)."*
 
 ---
 
@@ -37,7 +37,7 @@ In simple terms, think of it like a JavaScript [do while loop](https://www.w3sch
 
 ---
 
-How I found Dan's recursive function 
+### How I found Dan's recursive function 
 
 I came across Dan's recursive function while participating in Scrimba's [JavaScriptmas](https://selftaughttxg.com/2022/12-22/JavaScriptmas-2022-Issue_1/) 24-day annual coding event. 
 
