@@ -92,6 +92,8 @@ So before we learn how to write a recursive function, let's understand each part
 * Arrow functions cannot be used as constructors. Calling them with new throws a TypeError. They also don't have access to the new.target keyword.
 * Arrow functions cannot use yield within their body and cannot be created as generator functions.
 
+*The arrow function written in Dan's recursive function is simple, so don't worry. I just want you to understand the syntax if you are unfamiliar with arrow functions.*
+
 **To demonstrate, I wrote two simple greet functions:**
 ```javascript
 function greetOne(name) {
