@@ -104,8 +104,11 @@ So before we learn how to write a recursive function, let's understand each part
 
 ---
 
-Intro to Dan’s article
-(Write article section)
+### Dan's article section 
+
+Now that we've covered all of the JavaScript used in Dan's recursive function, it's time for Dan to teach us how to create one. 
+
+Below is Dan's article section previously featured JavaScriptmas 2022 - Issue 3 on the topic of recursion ⬇
 
 ---
 
