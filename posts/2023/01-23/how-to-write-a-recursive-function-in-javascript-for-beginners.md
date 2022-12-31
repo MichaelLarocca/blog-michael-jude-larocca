@@ -31,9 +31,11 @@ Dan has experience in both Frontend and Full Stack Development. He graduated fro
 
 ### When to use recursion 
 
-Dan tells us to use recursion when iterating over a structure of interconnected elements without previous knowledge about its size or depth.
+To quote Dan:
 
-In simple terms, think of it like a JavaScript [do while loop](https://www.w3schools.com/jsref/jsref_dowhile.asp); keep iterating until we meet a specific condition.
+> Recursion really shines when we need to iterate over a structure of **interconnected elements** (called **nodes**) which you need to process, sort or find something in it while having no previous knowledge about its size or depth - most often to perform complex operations that is likely to produce many branches during the execution.
+
+We'll learn more on its applicability further ahead in the article.
 
 ---
 
