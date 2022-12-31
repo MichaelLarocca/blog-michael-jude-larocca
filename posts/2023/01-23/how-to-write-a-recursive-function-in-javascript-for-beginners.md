@@ -12,7 +12,7 @@ date: "2023-01-02"
 
 ---
 
-![TN-TXG-69]()
+![TN-TXG-69](img/TN-TXG-069.png)
 
 ---
 
@@ -47,7 +47,7 @@ By the very nature of the challenge, my initial thought was to use recursion to 
 
 So I was excited when I came across Dan's message in the JavaScriptmas Discord, along with [a link to his elegant solution](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65):
 
-![Dan Discord]()
+![Dan Discord](img/Dan-01.png)
 
 Initially, Dan only had a few lines of code without comments explaining what line of code does.
 
