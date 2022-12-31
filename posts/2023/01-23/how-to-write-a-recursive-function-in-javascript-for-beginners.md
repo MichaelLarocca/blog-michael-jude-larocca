@@ -130,7 +130,6 @@ Recursion really shines when we need to iterate over a structure of **interconne
 **So why does it apply in our current scenario? Let's say you were to flatten an array using a `for` loop:**
 ```javascript
 function flatten(arr) {
-  const array = [1, 2, [3, 4]];
   const newArray = [];
   for (const item of array) {
     if (Array.isArray(item)) newArray.push(...item);
@@ -139,8 +138,10 @@ function flatten(arr) {
   return newArray;
 }
 
+const array = [1, 2, [3, 4]];
+
 // [1, 2, 3, 4];
-console.log(flatten(newArray));
+console.log(flatten(array));
 ```
 
 **Sure, that works, but try a different, more elaborate array structure. Let's say:**
