@@ -8,24 +8,96 @@ published: true
 date: "2023-01-02"
 ---
 
-Intro
+#### Whether you are preparing for a coding interview or would like to learn about recursion, in this article Daniel Nagaoka teaches us how to write a recursive function in JavaScript!
+
+---
+
+![TN-TXG-69]()
+
+---
+
+### About Daniel Nagaoka
+
+Dan has experience in both Frontend and Full Stack Development. He graduated from the Universidade Paulista in São Paulo, Brazil, with a Bachelor's degree in Computer Science.
+
+---
+
+### What is recursion 
+
+
+**So, what is recursion? The [MDN web docs](https://developer.mozilla.org/en-US/docs/Glossary/Recursion) explains,** *"The act of a function calling itself recursion is used to solve problems that contain smaller sub-problems. A recursive function can receive two inputs: a base case (ends recursion) or a recursive case (resumes recursion)."*
+
+---
+
+### When to use recursion 
+
+Dan tells us to use recursion when iterating over a structure of interconnected elements without previous knowledge about its size or depth.
+
+In simple terms, think of it like a JavaScript [do while loop](https://www.w3schools.com/jsref/jsref_dowhile.asp); keep iterating until we meet a specific condition.
+
+---
+
+How I found Dan's recursive function 
+
+I came across Dan's recursive function while participating in Scrimba's [JavaScriptmas](https://selftaughttxg.com/2022/12-22/JavaScriptmas-2022-Issue_1/) 24-day annual coding event. 
+
+**The day 17 challenge, Pumpkin's Prizes, instructs us to write a function to flatten nested arrays of strings or numbers into a single array.**
+
+By the very nature of the challenge, my initial thought was to use recursion to solve this problem. However, although I understand the concept of recursion, I need to learn how to use it in practical application.
+
+So I was excited when I came across Dan's message in the JavaScriptmas Discord, along with [a link to his elegant solution](https://scrimba.com/scrim/co5e04457ab5f4ce8e3982c65):
+
+![Dan Discord]()
+
+Initially, Dan only had a few lines of code without comments explaining what line of code does.
+
+I reached out to Dan, complimenting his work, and I asked if he could please elaborate on his solution, as it will significantly benefit others learning to code, including myself!
+
+Not only did he add comments to his solution, but Dan also took the time to write a whole article section in [issue 3](https://selftaughttxg.com/2022/12-22/JavaScriptmas-2022-Issue_3/) of my JavaScriptmas 2023 article series.
+
+**The topic of recursion and the article section Dan wrote deserved a separate article, the one you are reading now.** 
+
+---
+
+### Understanding the function 
+
+Before Dan shows us how to create a recursive function, let us first break down and understand all the moving parts.
+
+**As a self-taught developer, I know what it is like to rewrite someone else's code, get it working, and feel great about it. Until you realize you don't actually understand how it works and have difficulty writing the code yourself.**
+
+**Dan's recursive function consists of the following:**
+* Reduce method
+* If else statement 
+* isArray method
+* Array push method
+* Spread operator
+* A JavaScript Array
+
+So before we learn how to write a recursive function, let's understand each part needed to build it.
+
+---
+
+### Reduce
 (Write article section)
 
 ---
 
-Reduce
+### If else
 (Write article section)
 
-If else
+---
+
+### IsArray
 (Write article section)
 
-IsArray
+---
+
+### Push
 (Write article section)
 
-Push
-(Write article section)
+---
 
-Spread operator
+### Spread operator
 (Write article section)
 
 ---
