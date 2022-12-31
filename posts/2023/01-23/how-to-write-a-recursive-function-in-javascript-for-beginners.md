@@ -33,8 +33,6 @@ Dan has experience in both Frontend and Full Stack Development. He graduated fro
 
 Dan tells us to use recursion when iterating over a structure of interconnected elements without previous knowledge about its size or depth.
 
-In simple terms, think of it like a JavaScript [do while loop](https://www.w3schools.com/jsref/jsref_dowhile.asp); keep iterating until we meet a specific condition.
-
 ---
 
 ### How I found Dan's recursive function 
