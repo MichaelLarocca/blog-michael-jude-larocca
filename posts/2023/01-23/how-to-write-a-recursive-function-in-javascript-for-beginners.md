@@ -31,7 +31,11 @@ Dan has experience in both Frontend and Full Stack Development. He graduated fro
 
 ### When to use recursion 
 
+To quote Dan:
 
+> Recursion really shines when we need to iterate over a structure of **interconnected elements** (called **nodes**) which you need to process, sort or find something in it while having no previous knowledge about its size or depth - most often to perform complex operations that is likely to produce many branches during the execution.
+
+We'll learn more on its applicability further ahead in the article.
 
 ---
 
