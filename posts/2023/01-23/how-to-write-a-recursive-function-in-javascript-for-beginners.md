@@ -197,8 +197,19 @@ false
 
 ---
 
-### Push
-(Write article section)
+### JavaScript Array push()
+
+The [push() method](https://www.w3schools.com/jsref/jsref_push.asp) adds new items to the end of an array.
+
+In the example below, we add the color "Orange" to the colors array using the push method.
+
+```javascript
+const colors = ["Red", "Yellow", "Green", "Blue"];
+colors.push("Orange");
+
+console.log(colors);
+["Red","Yellow","Green","Blue","Orange"]
+```
 
 ---
 
