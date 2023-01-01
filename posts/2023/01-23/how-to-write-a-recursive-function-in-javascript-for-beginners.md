@@ -157,6 +157,11 @@ false
 
 ---
 
+### JavaScript Arrays
+(Write article section)
+
+---
+
 ### Dan's article section 
 
 Now that we've covered all of the JavaScript used in Dan's recursive function, it's time for Dan to teach us how to create one. 
