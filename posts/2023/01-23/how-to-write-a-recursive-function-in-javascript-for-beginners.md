@@ -80,8 +80,34 @@ So before we learn how to write a recursive function, let's understand each part
 
 ---
 
-### Reduce
-(Write article section)
+### JavaScript Array reduce()
+
+The MDN web docs explain that the [reduce() method](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/reduce) is an iterative method. It runs a "reducer" callback function over all elements in the array, in ascending-index order, and accumulates them into a single value.
+
+```javascript
+const numbers = [1,2,3,4,5];
+
+const numbersReduced = numbers.reduce((total, currentValue) => {
+return total += currentValue;
+}, 0);
+
+console.log(numbersReduced);
+15
+```
+
+In the example above, the numbers 1,2,3,4 and 5 in the numbers array reduce to the value of 15 as follows:
+
+```javascript
+1+0 = 1
+2+1 = 3
+3+3 = 6
+4+6 = 10
+5+10 = 15
+```
+
+In the reduce method, the initial value is optional. In the example above, we set the initial value to 0. 
+
+*Understanding how to set the initial value in the reduce method is essential for Dan's recursive function; he sets the initial value to an empty array.*
 
 ---
 
@@ -120,7 +146,6 @@ greetTwo = name => "Hello " + name;
 ---
 
 ### The if and else statements
-(Write article section)
 
 The [if statement](https://www.w3schools.com/js/js_if_else.asp) specifies a code block to execute if the condition is true, and the [else statement](https://www.w3schools.com/js/js_if_else.asp) specifies a code block to execute if the condition is false.
 
