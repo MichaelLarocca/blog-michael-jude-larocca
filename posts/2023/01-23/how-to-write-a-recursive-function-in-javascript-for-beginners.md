@@ -196,8 +196,10 @@ function flatten(arr) {
   return newArray;
 }
 
+const array = [1, 2, [3, 4]];
+
 // [1, 2, 3, 4];
-console.log(flatten(newArray));
+console.log(flatten(array));
 ```
 
 **Sure, that works, but try a different, more elaborate array structure. Let's say:**
