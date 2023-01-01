@@ -119,16 +119,18 @@ greetTwo = name => "Hello " + name;
 
 ---
 
-### The else statement
+### The if and else statements
 (Write article section)
 
-The [else statement](https://www.w3schools.com/js/js_if_else.asp) specifies a code block to execute if the condition is false. The first code block, "if," is executed if the condition is true. The second code block, "else," is executed if the condition is false. 
+The [if statement](https://www.w3schools.com/js/js_if_else.asp) specifies a code block to execute if the condition is true, and the [else statement](https://www.w3schools.com/js/js_if_else.asp) specifies a code block to execute if the condition is false.
+
+In the greet function below, if you pass in a name as the parameter, the greeting variable incorporates the name. If you do not pass in a name as the parameter, the greeting variable equals "Hello." 
 
 ```javascript
 function greet(name) {
   let greeting = "";
 
-  if (name) {
+  if (name != null) {
     //  Condition is true
     greeting = "Hello, " + name;
   } else {
