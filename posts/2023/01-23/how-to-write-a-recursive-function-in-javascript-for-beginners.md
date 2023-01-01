@@ -70,7 +70,7 @@ Before Dan shows us how to create a recursive function, let us first break down 
 **Dan's recursive function consists of the following:**
 * Reduce method
 * Arrow Function
-* If else statement 
+* if and else statements 
 * isArray method
 * Array push method
 * Spread operator
@@ -88,7 +88,7 @@ The MDN web docs explain that the [reduce() method](https://developer.mozilla.or
 const numbers = [1,2,3,4,5];
 
 const numbersReduced = numbers.reduce((total, currentValue) => {
-return total += currentValue;
+  return total += currentValue;
 }, 0);
 
 console.log(numbersReduced);
