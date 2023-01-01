@@ -125,7 +125,25 @@ greetTwo = name => "Hello " + name;
 ---
 
 ### IsArray
-(Write article section)
+
+The JavaScript method [IsArray](https://www.w3schools.com/jsref/jsref_isarray.asp) checks if an object is an array. If it is an array, it returns true. If it is not an array, it returns false.    
+
+**In this code block, isArray returns true:**
+```javascript
+const colors = ["Red", "Yellow", "Green", "Blue"];
+let result = Array.isArray(colors);
+
+  console.log(result);
+true
+```
+
+**In this code block, isArray returns false:**
+```javascript
+const firstName = "Michael";
+
+  console.log(Array.isArray(firstName));
+false
+```
 
 ---
 
