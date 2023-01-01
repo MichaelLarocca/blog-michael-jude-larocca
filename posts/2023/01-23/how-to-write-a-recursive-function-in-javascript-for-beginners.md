@@ -12,7 +12,7 @@ date: "2023-01-02"
 
 ---
 
-![TN-TXG-69](img/TN-TXG-069.png)
+![TN-TXG-69](img/TN-TXG-069-NEW.png)
 
 ---
 
