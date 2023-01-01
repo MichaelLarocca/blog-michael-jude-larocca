@@ -216,6 +216,17 @@ console.log(colors);
 ### Spread operator
 (Write article section)
 
+
+```javascript
+const numberSetOne = [1,2,3,4,5];
+const numberSetTwo = [6,7,8,9,10];
+
+const numberSetsCombined = [...numberSetOne, ...numberSetTwo];
+
+console.log(numberSetsCombined);
+[1,2,3,4,5,6,7,8,9,10]
+```
+
 ---
 
 ### JavaScript Arrays
