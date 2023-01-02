@@ -247,11 +247,14 @@ console.log(numberSetOneAndNumberSetTwo);
 
 MDN web docs tell us the [Array object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations.
 
-As demonstrated below, we can create an array in JavaScript by creating a variable using const and assigning it to square brackets.
+As demonstrated below, we can create an array in JavaScript by declaring a variable using const and assigning it to square brackets.
 
 ```javascript
 const myArray = [];
 ```
+
+***Note:*** *Arrays are Not Constants. [w3schools](https://www.w3schools.com/js/js_array_const.asp) explains the keyword const is a little misleading.It does NOT define a constant array. It defines a constant reference to an array. Because of this, we can still change the elements of a constant array.*
+
 
 ---
 
