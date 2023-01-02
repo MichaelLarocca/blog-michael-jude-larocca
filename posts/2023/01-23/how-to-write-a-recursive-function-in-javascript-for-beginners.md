@@ -16,6 +16,39 @@ date: "2023-01-02"
 
 ---
 
+**This article aims to break down and step through the recursive JavaScript function to learn and understand how it works.**
+
+The recursive JavaScript function featured in this article is only several lines of code. 
+
+When I first saw it, I didn't quite understand how it worked, so I reached out to Daniel, who was kind enough to elaborate.
+
+Taking it a step further, I broke down all of the JavaScript used in the recursive function to make this article beginner friendly.
+
+*Depending on your JavaScript level, feel free to skip around this article. If you are new to JavaScript, I recommend reading the whole article, as the topics covered will lead to writing the recursive function (think of it as learning prerequisites).*
+
+**Here is the completed  recursive JavaScript function covered in this article:**
+```javascript
+function flattenRecursive(arr) {
+    return arr.reduce(
+        (consolidated, child) => {
+            if (Array.isArray(child)) {
+                consolidated.push(...flattenRecursive(child));
+            } else {
+                consolidated.push(child);
+            }
+            return consolidated;
+        },
+        [], 
+    );
+}
+
+const yay = [1, 2, [3, [4, [5, [6, [[[[[7], [8, 9]]]]]]], 10]]];
+  console.log(flattenRecursive(yay));
+// [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
+```
+
+---
+
 ### About Daniel Nagaoka
 
 Dan has experience in both Frontend and Full Stack Development. He graduated from the Universidade Paulista in São Paulo, Brazil, with a Bachelor's degree in Computer Science.
@@ -262,7 +295,7 @@ const myArray = [];
 
 Now that we've covered all of the JavaScript used in Dan's recursive function, it's time for Dan to teach us how to create one. 
 
-Below is Dan's article section previously featured JavaScriptmas 2022 - Issue 3 on the topic of recursion ⬇
+Below is Dan's article section previously featured in [JavaScriptmas 2022 - Issue 3](https://selftaughttxg.com/2022/12-22/JavaScriptmas-2022-Issue_3/) on the topic of recursion ⬇
 
 ---
 
