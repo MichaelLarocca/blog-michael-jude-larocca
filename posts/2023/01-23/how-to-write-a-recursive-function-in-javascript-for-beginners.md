@@ -8,7 +8,7 @@ published: true
 date: "2023-01-02"
 ---
 
-#### Whether you are preparing for a coding interview or would like to learn about recursion, in this article Daniel Nagaoka teaches us how to write a recursive function in JavaScript!
+#### Whether you're preparing for a coding interview or would like to learn about recursion, in this article, Full Stack Developer Daniel Nagaoka teaches us how to write a recursive function in JavaScript!
 
 ---
 
