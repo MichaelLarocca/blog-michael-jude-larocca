@@ -403,8 +403,13 @@ And that's about it!
 
 ---
 
-Conclusion
-(Write article section)
+### Conclusion
+
+Learning how to write a recursive function helps us to think recursively. Recursive thinking helps us break down complex problems into smaller ones, and gaining this skill will be essential for coding interviews. In addition, Dan tells us that recursion is a powerful technique and a must-have skill for every computer scientist.
+
+When learning how to program, we spend a lot of time coding along with tutorials. Even though our copied code works, it is sometimes difficult to understand how it works and even more difficult to recreate on our own. 
+
+While following these coding tutorials, taking the extra time to break down each line of code to comprehend how it works will ultimately make us better programmers.
 
 ---
 
