@@ -214,8 +214,10 @@ console.log(colors);
 ---
 
 ### Spread operator
-(Write article section)
 
+**w3schools** explains that the JavaScript [spread operator (...)](https://www.w3schools.com/jsref/jsref_push.asp) allows us to quickly copy all or part of an existing array or object into another array or object.
+
+The example below combines two number arrays into one new number array.
 
 ```javascript
 const numberSetOne = [1,2,3,4,5];
@@ -225,6 +227,18 @@ const numberSetsCombined = [...numberSetOne, ...numberSetTwo];
 
 console.log(numberSetsCombined);
 [1,2,3,4,5,6,7,8,9,10]
+```
+
+Combining both number arrays without the spread operator, we end up with a nested array (two arrays inside of the outer array), as demonstrated in the example below.
+
+```javascript
+const numberSetOne = [1,2,3,4,5];
+const numberSetTwo = [6,7,8,9,10];
+
+const numberSetOneAndNumberSetTwo = [numberSetOne, numberSetTwo];
+
+console.log(numberSetOneAndNumberSetTwo);
+[[1,2,3,4,5],[6,7,8,9,10]]
 ```
 
 ---
