@@ -244,7 +244,14 @@ console.log(numberSetOneAndNumberSetTwo);
 ---
 
 ### JavaScript Arrays
-(Write article section)
+
+MDN web docs tell us the [Array object](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array), as with arrays in other programming languages, enables storing a collection of multiple items under a single variable name, and has members for performing common array operations.
+
+As demonstrated below, we can create an array in JavaScript by creating a variable using const and assigning it to square brackets.
+
+```javascript
+const myArray = [];
+```
 
 ---
 
