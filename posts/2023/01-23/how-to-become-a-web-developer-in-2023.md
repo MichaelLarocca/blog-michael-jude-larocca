@@ -123,7 +123,7 @@ date: "2023-01-06"
 
 ---
 
-![2023 Web Dev Roadmap]()
+![2023 Web Dev Roadmap](img/01-09-23/WebDevRoadmap2023.png)
 
 ##### For the complete list of links, you can sign up for Jesse Halls's FREE [2023 Web Dev Roadmap Podia course](https://courses.codestackr.com/products/home).
 
