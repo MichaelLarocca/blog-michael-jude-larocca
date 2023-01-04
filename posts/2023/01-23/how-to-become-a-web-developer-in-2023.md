@@ -51,7 +51,7 @@ date: "2023-01-06"
 
 **Jesse tells us that "Googling" is the best skill any developer can master.**
 
-When you don't know how to fix an issue or need to learn how to accomplish a specific task, you should search online using google.
+When you don't know how to fix an issue or need to learn how to accomplish a specific task, you should search online using Google.
 
 Always do your best to research and try to resolve issues you have on your own before reaching out to the community. When reaching out to the community for help, be detailed. Be specific about the problem, what you tried, and what you already searched. 
 
