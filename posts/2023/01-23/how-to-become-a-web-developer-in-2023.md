@@ -41,7 +41,7 @@ date: "2023-01-06"
 
 ---
 
-#### Skills
+### Skills
 (WRITE ARTICLE SECTION)
 
 * Google
@@ -58,7 +58,18 @@ Always do your best to research and try to resolve issues you have on your own b
 Jesse tells us even the most experienced developers can't remember everything; they Google regularly.
 
 #### How the internet works
-(WRITE ARTICLE SECTION)
+
+**When first getting started, you need to have a basic understanding of how the internet works.**
+
+**Internet**
+* browsers
+* domains
+* hosting HTTP/HTTPS
+* DNS
+
+*Jesse provides us with these resources to help us understand these concepts.*
+[How the internet works in 5 min](https://youtu.be/7_LPdttKXPc)  
+[What is the internet?](https://youtu.be/Dxcc6ycZ73M)
 
 ---
 
