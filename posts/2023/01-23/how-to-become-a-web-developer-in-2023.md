@@ -68,6 +68,7 @@ Jesse tells us even the most experienced developers can't remember everything; t
 * DNS
 
 *Jesse provides us with these resources to help us understand these concepts.*
+
 [How the internet works in 5 min](https://youtu.be/7_LPdttKXPc)  
 [What is the internet?](https://youtu.be/Dxcc6ycZ73M)
 
