@@ -163,7 +163,21 @@ Jesse tells us there is a lot to CSS, and if you're planning to be a Front-End D
 * [Grid Crash Course](https://youtu.be/0-DY8J_skZ0)
 
 #### JavaScript
-(WRITE ARTICLE SECTION)
+
+JavaScript (JS) is a programming language used in Front-End and Back-End development. We use it to make web pages interactive.
+
+**When it comes to JavaScript, Jesse tells us that we will need to spend most of our time learning the following :**
+* Basic syntax
+* DOM
+* Fetch API
+* JSON
+* ES6
+
+---
+
+***Important:*** *Before learning a framework such as React or Vue, you must fully understand JavaScript (also known as Vanilla JavaScript)*.
+
+---
 
 **Jesse provides us with the following JavaScript resources:**
 * [JavaScript in 90 seconds](https://youtu.be/bGDK1rpykOQ)
