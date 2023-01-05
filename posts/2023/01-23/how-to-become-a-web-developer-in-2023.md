@@ -126,17 +126,6 @@ Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
 
 ---
 
-#### Browsers
-(WRITE ARTICLE SECTION)
-
-#### Code editor
-(WRITE ARTICLE SECTION)
-
-#### Terminals
-(WRITE ARTICLE SECTION)
-
----
-
 <iframe width="956" height="538" src="https://www.youtube.com/embed/8aosxBJQdVc" title="Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ##### Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
@@ -149,6 +138,37 @@ Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
 * HTML
 * CSS
 * JavaScript
+
+#### HTML
+
+HTML (HyperText Markup Language) is the standard markup language for documents designed to display in a web browser. HTML is the web's main building block and provides a website's structure.
+
+**Jesse provides us with the following HTML resources:**
+* [HTML in 100](https://youtu.be/ok-plXXHlWw)
+* [HTML Crash Course](https://youtu.be/XiQ9rjaa2Ow)
+
+#### CSS
+
+CSS (Cascading Style Sheets) is a style sheet language used to style the content on a webpage; we use CSS to style HTML elements. We also use it to add flair to a website, such as transitions and animations.
+
+Jesse tells us there is a lot to CSS, and if you're planning to be a Front-End Developer, it is essential to understand CSS fully.
+
+**After you learn the basic syntax, learn the following:**
+* Flexbox
+* Grid
+* Responsive Web Design
+
+**Jesse provides us with the following CSS resources:**
+* [CSS in 100](https://youtu.be/OEV8gMkCHXQ)
+* [CSS Crash Course](https://youtu.be/Tfjd5yzCaxk)
+* [Position Explained](https://youtu.be/XrHMv_9LCfo)
+* [Units Explained](https://youtu.be/8UTMS3WTM0k)
+* [Flexbox in 100](https://youtu.be/K74l26pE4YA)
+* [Flexbox Crash Course](https://youtu.be/qqDH0T6K5gY)
+* [Grid in 100](https://youtu.be/uuOXPWCh-6o)
+* [Grid Crash Course](https://youtu.be/0-DY8J_skZ0)
+
+(WRITE ARTICLE SECTION)
 
 * Version Control
 * Hosting & Deployment
