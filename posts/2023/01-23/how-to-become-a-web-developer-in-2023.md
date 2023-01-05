@@ -122,12 +122,6 @@ As a developer, you will want to become comfortable using the command line (term
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/8aosxBJQdVc" title="Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
-
----
-
-<iframe width="956" height="538" src="https://www.youtube.com/embed/8aosxBJQdVc" title="Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
 ##### Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
 
 ---
@@ -167,6 +161,22 @@ Jesse tells us there is a lot to CSS, and if you're planning to be a Front-End D
 * [Flexbox Crash Course](https://youtu.be/qqDH0T6K5gY)
 * [Grid in 100](https://youtu.be/uuOXPWCh-6o)
 * [Grid Crash Course](https://youtu.be/0-DY8J_skZ0)
+
+#### JavaScript
+(WRITE ARTICLE SECTION)
+
+**Jesse provides us with the following JavaScript resources:**
+* [JavaScript in 90 seconds](https://youtu.be/bGDK1rpykOQ)
+* [JavaScript Crash Course](https://youtu.be/d5ob3WAGeZE)
+* [DOM](https://youtu.be/y17RuWkWdn8)
+* [Loops Explained](https://youtu.be/Kn06785pkJg)
+* [JavaScript Micro Bytes Playlist](https://youtu.be/hkM0VJyJc1Y)
+* ["this" in 100](https://youtu.be/YOlr79NaAtQ)
+* ["this"](https://youtu.be/Pi3QC_fVaD0)
+* [JSON](https://youtu.be/s6OIOL9OMYA)
+* [Fetch Crash Course](https://youtu.be/djCuFrLLjVk)
+* [JavaScript Arrow Functions](https://youtu.be/NAN7U3MrX6o)
+* [JavaScript Async / Await](https://youtu.be/F8xANXY0kaU)
 
 (WRITE ARTICLE SECTION)
 
