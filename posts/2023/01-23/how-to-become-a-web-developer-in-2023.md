@@ -75,7 +75,56 @@ Jesse tells us even the most experienced developers can't remember everything; t
 ---
 
 ### Tools
-(WRITE ARTICLE SECTION)
+
+When you are ready to start coding, you must first set up your web developer environment.
+
+**Basic Tools**
+* Browsers
+* Code editor
+* Terminals
+
+#### Browsers
+
+Browsers are how your users view your applications. Depending on what browser they use, they may have different experiences. For that reason, developers test their applications on multiple browsers to ensure they are working as expected. 
+
+**Major browsers:**
+* [Chrome](https://www.google.com/chrome/dr/download/)
+* [Microsoft Edge](https://www.microsoft.com/en-us/edge)
+* [Safari](https://www.apple.com/safari/)
+* [Fire Fox](https://www.mozilla.org/en-US/firefox/new/)
+
+#### Code editor
+
+The most popular code editor for developers is Microsoft's [VS Code](https://code.visualstudio.com/), and it's FREE!
+
+Jesse has created plenty of content on [YouTube](https://www.youtube.com/@codeSTACKr) on how to install, configure, and become familiar with VS Code.
+
+*If you want to dive deep into learning how to use VS Code, check out Jesse's [Become a VS Code SuperHero](https://www.vscodehero.com/) course.*
+
+#### Terminals
+
+As a developer, you will want to become comfortable using the command line (terminal). Every operating system comes with a terminal.
+
+**Terminals**
+* command prompt (comes with Windows)
+* powershell (comes with Windows)
+* [WSL](https://docs.microsoft.com/en-us/windows/wsl/install)
+* [gitbash](https://git-scm.com/download/win)
+* [zsh](https://ohmyz.sh/)
+
+**If you are using Microsoft Windows, you are not limited to the preinstalled terminals. Jesse, and many developers, including myself, use [gitbash](https://git-scm.com/download/win).** 
+
+*If you want to learn how to use the command line, check out Brad Traversy's [Command Line Crash Course For Beginners | Terminal Commands](https://www.youtube.com/watch?v=uwAqEzhyjtw).*
+
+*Brad Traversy also has a helpful YouTube scripting course, [Shell Scripting Crash Course - Beginner Level](https://www.youtube.com/watch?v=v-F3YLd6oMw).*
+
+---
+
+<iframe width="956" height="538" src="https://www.youtube.com/embed/8aosxBJQdVc" title="Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
+
+---
 
 #### Browsers
 (WRITE ARTICLE SECTION)
