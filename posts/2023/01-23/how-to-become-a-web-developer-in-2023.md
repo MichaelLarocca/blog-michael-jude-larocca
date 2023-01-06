@@ -207,7 +207,7 @@ An API (application programming interface) is code that enables software program
 
 APIs allow you to perform queries or computations on the back end and then send the results to the front end.
 
-Jesse explains requesting data from a database as a simple example. The API on the server will perform that action and then send the data to the front end, allowing a layer of security for applications *(the front end would expose database login credentials, whereas the back end conceals it)*. 
+Jesse explains requesting data from a database as a simple example. The API on the server will perform that action and then send the data to the front end, allowing a layer of security for applications *(the front end would expose database login credentials, whereas the back end conceals them)*. 
 
 **Jesse provides us with the following API resources:**
 * [APIs in 100](https://youtu.be/-MTSQjw5DrM)
