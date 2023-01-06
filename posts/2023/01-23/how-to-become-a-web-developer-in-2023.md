@@ -269,7 +269,7 @@ If your application requires a true back-end environment, you will need a more t
 * [React JS Crash Course](https://youtu.be/w7ejDZ8SWv8)
 * [Next.js in 100 Seconds // Plus Full Beginner's Tutorial](https://youtu.be/Sklc_fQBmcs)
 * [Next.js Crash Course](https://youtu.be/mTz0GXj8NN0)
-* [Gatsby Tutorial Playlist](https://youtu.be/Qms4k6y7OgI)
+* [Gatsby Tutorial Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9hw1g77I35ZivVLe8k2nvjB)
 * [Vue.js Explained in 100 Seconds](https://youtu.be/nhBVL41-_Cw)
 * [Vue JS Crash Course](https://youtu.be/qZXt1Aom3Cs)
 * [Nuxt JS Crash Course](https://youtu.be/ltzlhAxJr74)
@@ -280,6 +280,11 @@ If your application requires a true back-end environment, you will need a more t
 
 ### CSS Frameworks
 (WRITE ARTICLE SECTION)
+
+**Jesse provides us with the following CSS Frameworks resources:**
+* [Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook)
+* [Your First Tailwind Website](https://youtu.be/NRagrTU_v8o)
+* [Bootstrap 5 Tutorial Playlist](https://www.youtube.com/playlist?list=PL4cUxeGkcC9joIM91nLzd_qaH_AimmdAR)
 
 ---
 
