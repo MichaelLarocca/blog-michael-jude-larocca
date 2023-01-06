@@ -8,7 +8,7 @@ tags:
     "web3",
   ]
 published: true
-date: "2023-01-06"
+date: "2023-01-09"
 ---
 
 #### In this article, tech industry expert Jesse Hall (codeSTACKr) provides us with a road map to becoming a developer in 2023!
@@ -192,14 +192,61 @@ JavaScript (JS) is a programming language used in Front-End and Back-End develop
 * [JavaScript Arrow Functions](https://youtu.be/NAN7U3MrX6o)
 * [JavaScript Async / Await](https://youtu.be/F8xANXY0kaU)
 
-(WRITE ARTICLE SECTION)
+---
 
+* APIs
 * Version Control
 * Hosting & Deployment
-* APIs
+
+---
+
+### Working with APIs
+(WRITE ARTICLE SECTION)
+
+---
+
+
+### Version Control with Git & GitHub
+
+Version control allows us to keep track of changes to our codebases. Version control is essential when working with other developers, such as on a team.
+
+[Git](https://git-scm.com/) is a free and open-source distributed version control system popular among developers.
+
+[GitHub](https://github.com/) is a code hosting platform for collaboration and version control.
+
+**Git and GitHub are integral to the CI/CD pipeline (Continuous Integration/Deployment).**
+
 
 * JavaScript Frameworks
 * CSS Frameworks
+
+---
+
+### Hosting & deployment
+
+As a developer, You must learn how to set up a hosting service and deploy a basic website.
+
+Jesse tells us that a static host is the easiest way to accomplish this.
+
+**Static hosts**
+* Netlify
+* Vercel
+* Cloudflare
+* GitHub pages
+
+The provided list consists of static hosts that can be integrated with GitHub *(I use Netlify for my blog website)*.
+
+When you use one of the static hosts with GitHub, you can set the configuration to rebuild and redeploy your website automatically every time you push changes to the GitHub repo. Very convenient!
+
+If your application requires a true back-end environment, you will need a more traditional hosting service, such as [Heroku](https://www.heroku.com/) or [Linode](http://www.linode.com/).
+
+**Jesse provides us with the following hosting and deployment resources:**
+* [Netlify Tutorial - How to build and deploy websites using Netlify](https://youtu.be/mT5siI19gtc)
+* [Vercel](https://vercel.com/)
+* [Cloudflare](https://www.cloudflare.com/)
+* [Getting Started with GitHub Pages](https://www.youtube.com/watch?v=QyFcl_Fba-k)
+* [Heroku](https://www.heroku.com/)
+* [Linode](https://www.linode.com/)
 
 ---
 
