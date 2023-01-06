@@ -194,6 +194,7 @@ JavaScript (JS) is a programming language used in Front-End and Back-End develop
 
 ---
 
+(WRITE ARTICLE SECTION)
 * APIs
 * Version Control
 * Hosting & Deployment
@@ -201,10 +202,23 @@ JavaScript (JS) is a programming language used in Front-End and Back-End develop
 ---
 
 ### Working with APIs
-(WRITE ARTICLE SECTION)
+
+An API (application programming interface) is code that enables software programs to communicate.
+
+APIs allow you to perform queries or computations on the back end and then send the results to the front end.
+
+Jesse explains that a simple example is requesting data from a database. The API on the server will perform that action and then send the data to the front end, allowing a layer of security for applications (the front end would expose database login credentials, whereas the back end conceals it). 
+
+**Jesse provides us with the following API resources:**
+* [APIs in 100](https://youtu.be/-MTSQjw5DrM)
+* [Build a REST API](https://youtu.be/l8WPWK9mS5M)
+* [GraphQL in 100](https://youtu.be/eIQh02xuVw4)
 
 ---
 
+***If you would like a beginner-friendly introduction to working with an API, check out my article [JavaScript: How to Use the Star Wars API for Beginners](https://selftaughttxg.com/2022/04-22/StarWarsAPI-01/). No authentication is needed to connect to it, making it easy!***
+
+---
 
 ### Version Control with Git & GitHub
 
@@ -215,10 +229,6 @@ Version control allows us to keep track of changes to our codebases. Version con
 [GitHub](https://github.com/) is a code hosting platform for collaboration and version control.
 
 **Git and GitHub are integral to the CI/CD pipeline (Continuous Integration/Deployment).**
-
-
-* JavaScript Frameworks
-* CSS Frameworks
 
 ---
 
@@ -247,6 +257,14 @@ If your application requires a true back-end environment, you will need a more t
 * [Getting Started with GitHub Pages](https://www.youtube.com/watch?v=QyFcl_Fba-k)
 * [Heroku](https://www.heroku.com/)
 * [Linode](https://www.linode.com/)
+
+---
+
+### Frameworks
+(WRITE ARTICLE SECTION)
+
+* JavaScript Frameworks
+* CSS Frameworks
 
 ---
 
