@@ -260,11 +260,26 @@ If your application requires a true back-end environment, you will need a more t
 
 ---
 
-### Frameworks
+### JavaScript Frameworks
 (WRITE ARTICLE SECTION)
 
-* JavaScript Frameworks
-* CSS Frameworks
+**Jesse provides us with the following JavaScript Frameworks resources:**
+* [Do This! BEFORE Learning A JavaScript Framework](https://www.youtube.com/watch?v=KkdY8X61K9g)
+* [React in 100 Seconds](https://youtu.be/Tn6-PIqc4UM)
+* [React JS Crash Course](https://youtu.be/w7ejDZ8SWv8)
+* [Next.js in 100 Seconds // Plus Full Beginner's Tutorial](https://youtu.be/Sklc_fQBmcs)
+* [Next.js Crash Course](https://youtu.be/mTz0GXj8NN0)
+* [Gatsby Tutorial Playlist](https://youtu.be/Qms4k6y7OgI)
+* [Vue.js Explained in 100 Seconds](https://youtu.be/nhBVL41-_Cw)
+* [Vue JS Crash Course](https://youtu.be/qZXt1Aom3Cs)
+* [Nuxt JS Crash Course](https://youtu.be/ltzlhAxJr74)
+* [Angular in 100 Seconds](https://youtu.be/Ata9cSC2WpM)
+* [Angular Crash Course](https://youtu.be/3dHNOWTI7H8)
+
+---
+
+### CSS Frameworks
+(WRITE ARTICLE SECTION)
 
 ---
 
