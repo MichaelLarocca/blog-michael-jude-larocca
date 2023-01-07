@@ -369,10 +369,20 @@ Jesse recommends [Auth0](https://auth0.com/) as an authentication provider.
 
 #### Content Management Systems (CMS)
 
-**Content Management Systems**
-* WordPress Headless
-* Sanity.io Crash Course
-* Strapi Crash Course
+Content management systems allow us to manage the content of our websites easily. 
+
+If you plan on freelancing, content management systems are a good choice. With content management systems, you provide a way for your customers to update their website content easily on their own.
+
+Jesse tells us that [WordPress]() is probably the most popular CMS. However, they traditionally require us to use their service for the front-end CMS and back-end CMS.
+
+In the past few years, Headless CMSs have become popular, and now WordPress supports Headless CMSs. This allows us to use a headless CMS for the back-end, then you can use any front-end technology that you want, freeing us from being tied to a specific technology on the front-end and back-end.
+
+Examples of headless CMSs are [Sanity.io](https://www.sanity.io/) and [Strapi](https://strapi.io/).
+
+**Jesse provides us with the following content Management Systems resources:**
+* [WordPress Headless](https://youtu.be/YZR6P6Q0tmc)
+* [Sanity.io Crash Course](https://youtu.be/32RP-sG1njE)
+* [Strapi Crash Course](https://youtu.be/6FnwAbd2SDY)
 
 ---
 
