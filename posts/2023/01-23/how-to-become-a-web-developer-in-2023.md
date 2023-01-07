@@ -291,10 +291,22 @@ If your application requires a true back-end environment, you will need a more t
 ### Full-Stack Web Developer
 (WRITE ARTICLE SECTION)
 
-* Back-end Development with Node.js
-* Node.js Crash Course
-* Express.js Tutorial
-* Node Package Manager (npm)
+**Back-end Development with Node.js**
+
+Once you have learned JavaScript, you should learn [Node.js](https://nodejs.org/en/about/) and [Express.js](https://expressjs.com/). 
+
+Node.js allows us to use JavaScript on the back-end server.
+
+Express is a Node.js web application framework that provides features such as defining routes, building out APIs, connecting to databases, and more.
+
+You will also need to learn with [npm](https://www.npmjs.com/) (Node Package Manager). Package managers allow us to easily add pre-built packages to our applications, which helps us accomplish various tasks without constantly "reinventing the wheel." 
+
+**Jesse provides us with the following resources:**
+* [Node.js Crash Course for Beginners Tutorial - Learn Node Basics in 30 Minutes!](https://youtu.be/2LUdnb-mls0)
+* [Learn Express JS In 35 Minutes](https://youtu.be/SccSCuHhOw0)
+* [What is NPM, and why do we need it? | Tutorial for beginners](https://youtu.be/P3aKRdUyr0s)
+
+---
 
 **Databases**
 * SQL Crash Course
