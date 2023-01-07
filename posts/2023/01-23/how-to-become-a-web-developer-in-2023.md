@@ -201,7 +201,7 @@ JavaScript (JS) is a programming language used in Front-End and Back-End develop
 
 ---
 
-### Working with APIs
+#### Working with APIs
 
 An API (application programming interface) is code that enables software programs to communicate.
 
@@ -220,7 +220,7 @@ Jesse explains requesting data from a database as a simple example. The API on t
 
 ---
 
-### Version Control with Git & GitHub
+#### Version Control with Git & GitHub
 
 Version control allows us to keep track of changes to our codebases. Version control is essential when working with other developers, such as on a team.
 
@@ -232,7 +232,7 @@ Version control allows us to keep track of changes to our codebases. Version con
 
 ---
 
-### Hosting & deployment
+#### Hosting & deployment
 
 As a developer, You must learn how to set up a hosting service and deploy a basic website.
 
@@ -260,7 +260,9 @@ If your application requires a true back-end environment, you will need a more t
 
 ---
 
-### JavaScript Frameworks
+### Frameworks
+
+#### JavaScript Frameworks
 (WRITE ARTICLE SECTION)
 
 **Jesse provides us with the following JavaScript Frameworks resources:**
@@ -278,7 +280,7 @@ If your application requires a true back-end environment, you will need a more t
 
 ---
 
-### CSS Frameworks
+#### CSS Frameworks
 (WRITE ARTICLE SECTION)
 
 **Jesse provides us with the following CSS Frameworks resources:**
@@ -291,7 +293,9 @@ If your application requires a true back-end environment, you will need a more t
 ### Full-Stack Web Developer
 (WRITE ARTICLE SECTION)
 
-**Back-end Development with Node.js**
+### Back-end Development
+
+#### Back-end Development with Node.js
 
 Once you have learned JavaScript, you should learn [Node.js](https://nodejs.org/en/about/) and [Express.js](https://expressjs.com/). 
 
@@ -308,7 +312,7 @@ You will also need to learn with [npm](https://www.npmjs.com/) (Node Package Man
 
 ---
 
-**Databases**
+#### Databases
 
 Jesse tells us that just about every website needs to keep track of data, for example, products on an e-commerce website.
 
@@ -349,10 +353,23 @@ Document databases use JSON-structured documents, making it easy for JavaScript 
 
 ---
 
-**Authentication**
-* Auth0 with React.js User Login
+#### Authentication
 
-**Content Management Systems (CMS)**
+If your website needs to keep track of user interactions, such as a shopping cart, or it has user accounts, you will need to implement authentication.
+
+You can use oAuth or JWT (JavaScript Web Tokens) to implement authentication manually, or you can use an authentication provider to do all the work for you.
+
+Jesse recommends [Auth0](https://auth0.com/) as an authentication provider.
+
+**Jesse provides us with the following Authentication resources:**
+* [Auth0 in 100](https://youtu.be/yufqeJLP1rI)
+* [Auth0 with React.js User Login](https://youtu.be/MqczHS3Z2bc)
+
+---
+
+#### Content Management Systems (CMS)**
+
+**Content Management Systems**
 * WordPress Headless
 * Sanity.io Crash Course
 * Strapi Crash Course
