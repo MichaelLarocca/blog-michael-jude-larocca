@@ -309,8 +309,45 @@ You will also need to learn with [npm](https://www.npmjs.com/) (Node Package Man
 ---
 
 **Databases**
-* SQL Crash Course
-* MongoDB Crash Course
+
+Jesse tells us that just about every website needs to keep track of data, for example, products on an e-commerce website.
+
+**There are different types of databases, such as:**
+* Relational
+* Document
+* Graph
+* Wide Column
+
+Relational databases are similar to spreadsheets, containing tables, rows, and columns. The tables link to each other using a unique identifier.
+
+Relational databases are more strict, requiring each table's column and type to be defined ahead of time, creating a predefined [scheme](https://www.w3schools.in/dbms/data-schemas).
+
+ORM (Object Relational Mapper) makes handling disconnected data easier when working with relational databases. When queried, the database will return all of the connected data.
+
+**Jesse tells us the most popular databases use SQL (Structured Query Language). Examples of structured query languages are:**
+* SQL
+* MySQL
+* PostgreSQL
+* MS SQL
+
+Document databases are relatively new, which brings many benefits over SQL databases.
+
+**Document databases are:**
+* Flexible
+* Uses JSON
+* No ORM needed
+
+Jesse explains that document databases are not as strict as relational databases by default but can be as strict as you need, making them flexible.
+
+Document databases use JSON-structured documents, making it easy for JavaScript developers to understand and implement. Because of this, there is no need for ORMs when working with them.
+
+**Jesse provides us with the following database resources:**
+* [SQL in 100](https://youtu.be/zsjvFFKOm3c)
+* [SQL Crash Course](https://youtu.be/p3qvj9hO_Bo)
+* [MongoDB in 100](https://youtu.be/-bt_y4Loofg)
+* [MongoDB Crash Course](https://youtu.be/2QQGWYe7IDU)
+
+---
 
 **Authentication**
 * Auth0 with React.js User Login
