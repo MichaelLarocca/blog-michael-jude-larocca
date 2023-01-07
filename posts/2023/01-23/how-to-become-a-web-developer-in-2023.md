@@ -367,7 +367,7 @@ Jesse recommends [Auth0](https://auth0.com/) as an authentication provider.
 
 ---
 
-#### Content Management Systems (CMS)**
+#### Content Management Systems (CMS)
 
 **Content Management Systems**
 * WordPress Headless
@@ -396,7 +396,8 @@ Jesse recommends [Auth0](https://auth0.com/) as an authentication provider.
 ---
 
 ### My other Jesse Hall articles
-(WRITE ARTICLE SECTION)
+* 🔗 [Teacher Feature: Jesse Hall (codeSTACKr)](https://selftaughttxg.com/2021/02-21/TeacherFeature_JesseHall/)
+* 🔗 [How to Create a Next Level GitHub Profile, with Jesse Hall](https://selftaughttxg.com/2021/11-21/CreateAGitHubProfileJesseHall/)
 
 ---
 
