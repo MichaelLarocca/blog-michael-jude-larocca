@@ -296,7 +296,14 @@ After learning a JavaScript framework, you can take it further by learning Next.
 ---
 
 #### CSS Frameworks
-(WRITE ARTICLE SECTION)
+
+CSS Frameworks make it easier to use CSS to style your applications. 
+
+***Note:*** *Before you learn a CSS Framework, you should first learn CSS.* 
+
+**Two CSS Frameworks that Jesse uses and recommends are:**
+* Tailwind 
+* Bootstrap 
 
 **Jesse provides us with the following CSS Frameworks resources:**
 * [Tailwind in 100 Seconds](https://youtu.be/mr15Xzb1Ook)
