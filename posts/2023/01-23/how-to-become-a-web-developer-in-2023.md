@@ -11,7 +11,7 @@ published: true
 date: "2023-01-09"
 ---
 
-#### In this article, tech industry expert Jesse Hall (codeSTACKr) provides us with a road map to becoming a developer in 2023!
+#### The demand for programmers continues to rise, and there are plenty of FREE resources to learn how to code. In this article, Jesse Hall provides us with a road map to becoming a web developer in 2023!
 
 ---
 
@@ -19,21 +19,25 @@ date: "2023-01-09"
 
 ---
 
-### Into
-(WRITE ARTICLE SECTION)
-
----
-
 ### About Jesse Hall
-(WRITE ARTICLE SECTION)
+
+Jesse Hall is a tech industry expert and is well-known as "codeSTACKr" in the web dev community.
+
+He creates the "best content he possibly can" to give away for FREE on his codeSTACKr YouTube channel, which has over 274,000 followers and is growing!
+
+Each week he also provides top tech resources to help us keep up to date with the developer community and technology with his codeSTACKr newsletter.
+
+Jesse currently works as a Senior Developer Advocate at MongoDB. 
 
 ---
 
 ### Road Map Layout
-(WRITE ARTICLE SECTION)
 
+In this road map, Jesse provides us with the core essentials to become a full-stack developer in 2023.
 
-**Skills**
+A full-stack developer is a programmer that works with both front-end and back-end development.
+
+**The core essentials include:**
 * Tools
 * Front-End Web Developer
 * Full-Stack Web Developer
@@ -42,9 +46,9 @@ date: "2023-01-09"
 ---
 
 ### Skills
-(WRITE ARTICLE SECTION)
 
-* Google
+**Before we learn how to code, Jesse advises us to learn the following skills:**
+* Googling
 * How the internet works
 
 #### Googling
@@ -387,15 +391,14 @@ Examples of headless CMSs are [Sanity.io](https://www.sanity.io/) and [Strapi](h
 ---
 
 ### Additional Skills
-(WRITE ARTICLE SECTION)
 
-* TypeScript Crash Course
+**Jesse also provides a list of additional optional skills, including:**
+* [TypeScript Crash Course](https://youtu.be/wyO8RWl1ges)
 * Blockchain & Cryptocurrencies
 * Soft Skills & Personal Development
+* And more!
 
----
-
-***If you want to learn more about Blockchain & Cryptocurrencies, you can read my article: [Kacie Ahmed: Web3 - How to Get Started as a Beginner](https://selftaughttxg.com/2021/11-21/Kaci_Ahmed-Web3/).***
+Watch his YouTube video to learn more, and you can also sign up for his FREE [2023 Web Dev Roadmap Podia course](https://courses.codestackr.com/products/home), which includes the complete list of resource links.
 
 ---
 
