@@ -412,7 +412,14 @@ Examples of headless CMSs are [Sanity.io](https://www.sanity.io/) and [Strapi](h
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+Armed with a roadmap of FREE resources consisting of the skills, tools, and technologies you need, with hard work and dedication, there's is time to become a web developer in 2023.
+
+As a developer, you will still need to learn continually as new technologies emerge. Be encouraged, knowing that once you have learned a language, it will be easier for you to learn new ones. 
+
+When deciding what framework to learn, consider researching the companies you want to work with and learn their frameworks and technologies; they might use something other than the most popular. 
+
+In addition to the core requirements of being a web developer, additional skills, such as soft skills, will significantly benefit you and set you apart from others when seeking employment opportunities. Check out Jesse's FREE complete resource list, providing what you need to become a web developer in 2023!
 
 ---
 
