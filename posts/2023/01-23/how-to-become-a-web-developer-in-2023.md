@@ -131,8 +131,8 @@ As a developer, you will want to become comfortable using the command line (term
 ---
 
 ### Front-End Web Developer
-(WRITE ARTICLE SECTION)
 
+**After we set up our web development environment, it's time to start coding! We will need to learn the following:**
 * HTML
 * CSS
 * JavaScript
@@ -198,7 +198,7 @@ JavaScript (JS) is a programming language used in Front-End and Back-End develop
 
 ---
 
-(WRITE ARTICLE SECTION)
+**After you learn the web development foundations of HTML, CSS, and JavaScript, it's best to learn about the following:**
 * APIs
 * Version Control
 * Hosting & Deployment
@@ -267,7 +267,18 @@ If your application requires a true back-end environment, you will need a more t
 ### Frameworks
 
 #### JavaScript Frameworks
-(WRITE ARTICLE SECTION)
+
+Although you can find employment as a front-end web developer without first learning a framework, plenty of jobs require it, and you will increase your opportunity of landing a job if you know one.
+
+**Popular JavaScript Frameworks include:**
+* React
+* Vue
+* Angular
+* Svelte
+
+When deciding what framework to learn, consider researching the companies you want to work with and learn their frameworks and technologies.
+
+After learning a JavaScript framework, you can take it further by learning Next.js or Gatsby, frameworks built on top of React. Or, if you learn Vue, you can learn Nuxt.js. Learning these frameworks will give you more built-in functionality, such as static site generation and server-side rendering.
 
 **Jesse provides us with the following JavaScript Frameworks resources:**
 * [Do This! BEFORE Learning A JavaScript Framework](https://www.youtube.com/watch?v=KkdY8X61K9g)
