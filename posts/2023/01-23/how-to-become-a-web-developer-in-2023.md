@@ -5,7 +5,7 @@ tags:
     "javascript",
     "css",
     "html",
-    "web3",
+    "tailwind",
   ]
 published: true
 date: "2023-01-09"
