@@ -38,6 +38,7 @@ In this road map, Jesse provides us with the core essentials to become a full-st
 A full-stack developer is a programmer that works with both front-end and back-end development.
 
 **The core essentials include:**
+* Skills
 * Tools
 * Front-End Web Development
 * Back-End Development
@@ -71,10 +72,9 @@ Jesse tells us even the most experienced developers can't remember everything; t
 * hosting HTTP/HTTPS
 * DNS
 
-*Jesse provides us with these resources to help us understand these concepts.*
-
-[How the internet works in 5 min](https://youtu.be/7_LPdttKXPc)  
-[What is the internet?](https://youtu.be/Dxcc6ycZ73M)
+**Jesse provides us with these resources to help us understand these concepts.**
+* [How the internet works in 5 min](https://youtu.be/7_LPdttKXPc)  
+* [What is the internet?](https://youtu.be/Dxcc6ycZ73M)
 
 ---
 
@@ -126,7 +126,7 @@ As a developer, you will want to become comfortable using the command line (term
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/8aosxBJQdVc" title="Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-##### Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
+#### Web Development 101: A Beginner's Guide to Launching a Successful Career in 2023
 
 ---
 
@@ -413,13 +413,13 @@ Examples of headless CMSs are [Sanity.io](https://www.sanity.io/) and [Strapi](h
 * Soft Skills & Personal Development
 * And more!
 
-Watch his YouTube video to learn more, and you can also sign up for his FREE [2023 Web Dev Roadmap Podia course](https://courses.codestackr.com/products/home), which includes the complete list of resource links.
+*Watch his YouTube video to learn more, and you can also sign up for his FREE [2023 Web Dev Roadmap Podia course](https://courses.codestackr.com/products/home), which includes the complete list of resource links.*
 
 ---
 
 ![2023 Web Dev Roadmap](img/01-09-23/WebDevRoadmap2023.png)
 
-##### For the complete list of links, you can sign up for Jesse Halls's FREE [2023 Web Dev Roadmap Podia course](https://courses.codestackr.com/products/home).
+#### *For the complete list of links, you can sign up for Jesse Halls's FREE [2023 Web Dev Roadmap Podia course](https://courses.codestackr.com/products/home).*
 
 ---
 
