@@ -39,8 +39,8 @@ A full-stack developer is a programmer that works with both front-end and back-e
 
 **The core essentials include:**
 * Tools
-* Front-End Web Developer
-* Full-Stack Web Developer
+* Front-End Web Development
+* Back-End Development
 * Additional Skills
 
 ---
@@ -130,7 +130,7 @@ As a developer, you will want to become comfortable using the command line (term
 
 ---
 
-### Front-End Web Developer
+### Front-End Web Development
 
 **After we set up our web development environment, it's time to start coding! We will need to learn the following:**
 * HTML
@@ -312,9 +312,6 @@ CSS Frameworks make it easier to use CSS to style your applications.
 
 ---
 
-### Full-Stack Web Developer
-(WRITE ARTICLE SECTION)
-
 ### Back-end Development
 
 #### Back-end Development with Node.js
@@ -448,4 +445,4 @@ In addition to the core requirements of being a web developer, additional skills
 
 ---
 
-###### *HOLD* 
+###### *Are you now confident in becoming a web developer in 2023? Have you already learned web development from Jesse Hall's tutorials? Please share the article and comment!* 
