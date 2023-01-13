@@ -44,7 +44,7 @@ In addition to great talks on various topics, James tells us that conferences ar
 1. CodeMash 
 2. THAT
 3. NDC London 
-4. 4
+4. JSWORLD
 5. 5
 6. 6
 7. 7
@@ -61,7 +61,7 @@ James has heard great things about this Conference for years and highly recommen
 
 The CodeMash conference takes place in a Kalahari resort, which includes an indoor arcade, water park, and more, which is perfect for kids! 
 
-*🔗Event website: [CodeMash](https://dev.events/conferences/code-mash-sandusky-0-2023)*
+*🔗 Event website: [CodeMash](https://dev.events/conferences/code-mash-sandusky-0-2023)*
 
 **Below is information from the conference website 🔽**
 
@@ -89,7 +89,7 @@ James tells us that Clark, the event's founder, cares about the community, and t
 *WISCONSIN DELLS, WI CONFERENCE*
 *July 24, 2023 - July 27, 2023*
 
-*🔗Event website: [THAT Conference](https://that.us/)* 
+*🔗 Event website: [THAT Conference](https://that.us/)* 
 
 **Below is information from the conference website 🔽**
 
@@ -109,7 +109,7 @@ James tells us that Clark, the event's founder, cares about the community, and t
 
 Unfortunately, James informs us he has yet to be accepted to speak at this conference. Nevertheless, he tells us NDC London is well-known with an established brand and encourages us to attend.
 
-*🔗Event website: [NDC London](https://ndclondon.com/)* 
+*🔗 Event website: [NDC London](https://ndclondon.com/)* 
 
 **Below is information from the conference website 🔽**
 
@@ -185,5 +185,26 @@ Join the Learn Build Teach [Discord Server 💬](https://discord.gg/vM2bagU)
 ---
 
 ###### *Are you now interested in attending a conference? Have you already attended conferences and leveled up your career? Please share the article and comment!* 
+
+---
+
+### JSWORLD
+*JavaScript conference in Amsterdam, Netherlands*
+*Feb 8-10, 2023*
+
+[JSWORLD](https://dev.events/conferences/jsworld-conference-amsterdam-1-2023) is a JavaScript-focused conference held in Amsterdam.
+
+Just as with the other conferences, James continuously hears great things, and he looks forward to attending and speaking at the JSWORLD conference in the future.
+
+*🔗 Event website: [jsworldconference](https://jsworldconference.com/)* 
+
+**Below is information from the conference website 🔽**
+
+#### JOIN WORLD'S LARGEST JAVASCRIPT COMMUNITY
+*A 3-day JavaScript Celebration together with 2139 JavaScript Developers. Packed with the Latest JavaScript Updates by Authors, Creators and Experts.*
+
+*45 talks to stay on top of the latest topics like Vue3, Angular 15, React 18, Qwik, Vite, AuthZ, Demystifying Protocol Buffers and gRPC.*
+
+*Your chance get in touch with Creators and Maintainers from Vue, Astro, Nuxt, Angular, Vite and Storybook. You will be provided with technical updates on the largest and hottest technologies alongside case studies on how to tackle your developer challenges.*
 
 ---
