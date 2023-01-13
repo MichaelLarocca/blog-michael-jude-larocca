@@ -179,11 +179,20 @@ James cites it as the most diverse conference he has been to; tons of culture, m
 
 ---
 
-04:12 - RenderATL - https://www.renderatl.com/
+### JSNation 
+*June 1 (hybrid in Amsterdam) & June 5 (remote), 2023*
 
----
+[JSNation ](https://jsnation.com/) is another JavaScript-focused conference held in Amsterdam.
 
-05:05 - JSNation - https://jsnation.com/
+James has heard many great things about this conference and tells us there are a lot of familiar faces in terms of the speakers; it is a high-profile event!
+
+*🔗 Event website: [JSNation ](https://jsnation.com/)* 
+
+**Below is information from the conference website 🔽**
+
+*JSNation is a 2-day 2-track event focusing exclusively on JavaScript development. Discover the future of the JavaScript development ecosystem and get connected to its stellar crowd!*
+
+*This year, the format of the event will be hybrid, with the first day (June 1) streamed from the Amsterdam venue including hybrid networking features and interactive entertainment; and second day (June 5), as well as the numerous free workshops, streamed to the global audience online.*
 
 ---
 
