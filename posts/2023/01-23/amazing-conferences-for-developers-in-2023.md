@@ -45,7 +45,7 @@ In addition to great talks on various topics, James tells us that conferences ar
 2. THAT
 3. NDC London 
 4. JSWORLD
-5. 5
+5. RenderATL 
 6. 6
 7. 7
 8. 8
@@ -125,7 +125,57 @@ Unfortunately, James informs us he has yet to be accepted to speak at this confe
 
 ---
 
-03:32 - JSWORLD - https://dev.events/conferences/jsworl... 
+### JSWORLD
+*JavaScript conference in Amsterdam, Netherlands*
+*Feb 8-10, 2023*
+
+[JSWORLD](https://dev.events/conferences/jsworld-conference-amsterdam-1-2023) is a JavaScript-focused conference held in Amsterdam.
+
+Just as with the other conferences, James continuously hears great things, and he looks forward to attending and speaking at the JSWORLD conference in the future.
+
+*🔗 Event website: [jsworldconference](https://jsworldconference.com/)* 
+
+**Below is information from the conference website 🔽**
+
+#### JOIN WORLD'S LARGEST JAVASCRIPT COMMUNITY
+*A 3-day JavaScript Celebration together with 2139 JavaScript Developers. Packed with the Latest JavaScript Updates by Authors, Creators and Experts.*
+
+*45 talks to stay on top of the latest topics like Vue3, Angular 15, React 18, Qwik, Vite, AuthZ, Demystifying Protocol Buffers and gRPC.*
+
+*Your chance get in touch with Creators and Maintainers from Vue, Astro, Nuxt, Angular, Vite and Storybook. You will be provided with technical updates on the largest and hottest technologies alongside case studies on how to tackle your developer challenges.*
+
+---
+
+### RenderATL 
+*MAY 31 - JUNE 2 | ATLANTA, GA*
+
+James attended [RenderATL](https://www.renderatl.com/) last year.
+
+Although RenderATL is a relatively new conference, James tells us how much they've grown and speaks highly of the community, branding, and community they built.
+
+James cites it as the most diverse conference he has been to; tons of culture, music, and great food!
+
+*🔗 Event website: [RenderATL ](https://www.renderatl.com/)* 
+
+**Below is information from the conference website 🔽**
+
+*A TECH CONFERENCE; A CULTURAL FESTIVAL; WHERE TALENT FEELS WELCOMED;*
+
+*COLLARDS AND CODE.*
+
+*WAFFLES AND WINGS.*
+
+*3 DAYS. 80+ SPEAKERS.*
+
+*THIS IS A TECH CONFERENCE.*
+
+*THIS IS RENDER(ATL).*
+
+---
+
+<iframe width="751" height="480" src="https://www.youtube.com/embed/rk2aD1aF9GM" title="10 AMAZING Conferences for JavaScript Developers in 2023!" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### 10 AMAZING Conferences for JavaScript Developers in 2023!
 
 ---
 
@@ -185,26 +235,5 @@ Join the Learn Build Teach [Discord Server 💬](https://discord.gg/vM2bagU)
 ---
 
 ###### *Are you now interested in attending a conference? Have you already attended conferences and leveled up your career? Please share the article and comment!* 
-
----
-
-### JSWORLD
-*JavaScript conference in Amsterdam, Netherlands*
-*Feb 8-10, 2023*
-
-[JSWORLD](https://dev.events/conferences/jsworld-conference-amsterdam-1-2023) is a JavaScript-focused conference held in Amsterdam.
-
-Just as with the other conferences, James continuously hears great things, and he looks forward to attending and speaking at the JSWORLD conference in the future.
-
-*🔗 Event website: [jsworldconference](https://jsworldconference.com/)* 
-
-**Below is information from the conference website 🔽**
-
-#### JOIN WORLD'S LARGEST JAVASCRIPT COMMUNITY
-*A 3-day JavaScript Celebration together with 2139 JavaScript Developers. Packed with the Latest JavaScript Updates by Authors, Creators and Experts.*
-
-*45 talks to stay on top of the latest topics like Vue3, Angular 15, React 18, Qwik, Vite, AuthZ, Demystifying Protocol Buffers and gRPC.*
-
-*Your chance get in touch with Creators and Maintainers from Vue, Astro, Nuxt, Angular, Vite and Storybook. You will be provided with technical updates on the largest and hottest technologies alongside case studies on how to tackle your developer challenges.*
 
 ---
