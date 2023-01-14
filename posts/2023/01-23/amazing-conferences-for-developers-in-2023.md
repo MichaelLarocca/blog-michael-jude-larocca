@@ -46,9 +46,9 @@ In addition to great talks on various topics, James tells us that conferences ar
 3. NDC London 
 4. JSWORLD
 5. RenderATL 
-6. 6
-7. 7
-8. 8
+6. JSNation
+7. React Summit
+8. KCDC
 9. 9
 10. 10
 
@@ -217,7 +217,18 @@ If you are looking to level up your React skills and want to socialize with othe
 
 ---
 
-06:15 - KCDC - https://www.kcdc.info/
+### KCDC 
+*Thursday June 22 - Friday June 23 Kansas City Convention Center*
+
+KCDC is another conference in the USA that James has attended and highly recommends.
+
+This conference is not JavaScript-specific and has its roots in the .NET community. James says it has evolved to be very polyglot, and if we want an opportunity to check out a ton of different speakers at a big conference, this is a great one to check out!
+
+*🔗 Event website: [KCDC ](https://www.kcdc.info/)* 
+
+**Below is information from the conference website 🔽**
+ 
+*The Kansas City Developer Conference is excited to announce our 14th annual event! Our 2023 conference will be held June 21-23, 2023, with a pre-conference workshop day and two full conference days. Once again, the event will be held at the Kansas City Convention Center in downtown Kansas City. Each year, we draw a large audience of new and experienced Developers, Architects, UI/UX Designers, QA Professionals, PMs, and Technology Managers from Missouri, Kansas, Illinois, Nebraska, Iowa, Minnesota, Oklahoma, the Dakotas, and around the United States and the world. We hope you will join us!*
 
 ---
 
