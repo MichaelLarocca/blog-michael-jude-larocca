@@ -253,7 +253,22 @@ James tells us that as this is a small conference, we will have the ability to t
 
 ---
 
-07:45 - All Things Open - https://www.allthingsopen.org/
+### ATO (All Things Open)
+*October 15-17 in Raleigh, NC*
+
+All Things Open was one of the most fun conferences James attended last year.
+
+All Things Open is a large conference with an all-star lineup of speakers. James tells us the activities and engagement were great, and the downtown Raleigh area was fun and easy to get around.
+
+*🔗 Event website: [ATO ](https://www.allthingsopen.org/)* 
+
+**Below is information from the conference website 🔽**
+
+*Why Attend All Things Open?*
+
+*After all these years, open source skills are more important and sought after than ever.*
+
+*More than anything, ATO is an educational conference where attendees learn about new technologies and topics, and it’s always been that way. The goal is for attendees to leave having learned something or been made aware of something new.*
 
 ---
 
