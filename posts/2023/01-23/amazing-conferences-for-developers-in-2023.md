@@ -232,7 +232,24 @@ This conference is not JavaScript-specific and has its roots in the .NET communi
 
 ---
 
-06:55 - MagnoliaJS - https://www.magnoliajs.com/
+### MagnoliaJS
+*October 17-18, 2023, Mississippi Museum of Art in Jackson, MS* 
+
+In contrast to James's previous picks, MagnoliaJS is a really small conference.
+
+James attended this event last year with a bunch of his friends ( who were guest speakers ) and his [Compressed FM](https://www.compressed.fm/) co-host, [Amy Dutton](https://selfteach.me/).
+
+The size of the conference was approximately 50 people, making it easy to participate; no worries about missing out on talks or which groups to attend since it was so intimate.
+
+James tells us that as this is a small conference, we will have the ability to take in everything that it offers.
+
+*🔗 Event website: [MagnoliaJS](https://www.magnoliajs.com/)* 
+
+**Below is information from the conference website 🔽**
+
+*MagnoliaJS is a front-end conference based in Jackson, Mississippi. Our goal with MagnoliaJS is ultimately to move Mississippi forward by highlighting the tech community within Jackson.* 
+
+*MagnoliaJS 2023 will be our 5th event and we're doing something special by having a Halloween-themed event! Costumes are welcomed (if not encouraged)!* 
 
 ---
 
