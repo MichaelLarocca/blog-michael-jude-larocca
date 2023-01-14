@@ -196,7 +196,29 @@ James has heard many great things about this conference and tells us there are a
 
 ---
 
-05:30 - React Summit - https://reactsummit.com/
+### React Summit
+*June 2 (in-person in Amsterdam) & June 6 (remote), 2023*
+
+The React Summit is a high-profile conference that is framework specific. 
+
+James tells us this is another event where there will be a lot of familiar guest speakers.
+
+If you are looking to level up your React skills and want to socialize with other React developers, James tells us it would be a great option for us and to check it out.
+
+*🔗 Event website: [React Summit](https://reactsummit.com/)* 
+
+**Below is information from the conference website 🔽**
+
+*THE BIGGEST REACT CONFERENCE WORLDWIDE*
+
+* *2 Tracks: Base Camp & Summit*
+* *60+ Speakers sharing latest insights*
+* *25K+ Devs from all over the globe*
+* *1500 Luckies meet in Amsterdam*
+
+*React Summit is an annual conference on all things React, gathering thousands of Front-end and Full-stack engineers from around the world.*
+
+*Originally exclusively in-person, React Summit now offers a hybrid format with both remote and in-person participation.*
 
 ---
 
