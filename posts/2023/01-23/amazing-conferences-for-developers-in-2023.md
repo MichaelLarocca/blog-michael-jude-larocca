@@ -49,8 +49,9 @@ In addition to great talks on various topics, James tells us that conferences ar
 6. JSNation
 7. React Summit
 8. KCDC
-9. 9
-10. 10
+9. MagnoliaJS
+10. ATO
+11. Jamstack Conf (TBA)
 
 ---
 
