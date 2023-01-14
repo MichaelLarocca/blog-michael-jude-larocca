@@ -83,11 +83,11 @@ During the upcoming event in Austin on January 17th, 2023, James will be giving 
 James tells us that Clark, the event's founder, cares about the community, and the branding for THAT Conference is a fun camping theme!
 
 **Upcoming conference dates:**
-*ROUND ROCK, TX CONFERENCE*
-*January 15, 2023 - January 18, 2023*
+* *ROUND ROCK, TX CONFERENCE*
+* *January 15, 2023 - January 18, 2023*
 
-*WISCONSIN DELLS, WI CONFERENCE*
-*July 24, 2023 - July 27, 2023*
+* *WISCONSIN DELLS, WI CONFERENCE*
+* *July 24, 2023 - July 27, 2023*
 
 *🔗 Event website: [THAT Conference](https://that.us/)* 
 
@@ -160,16 +160,11 @@ James cites it as the most diverse conference he has been to; tons of culture, m
 **Below is information from the conference website 🔽**
 
 *A TECH CONFERENCE; A CULTURAL FESTIVAL; WHERE TALENT FEELS WELCOMED;*
-
-*COLLARDS AND CODE.*
-
-*WAFFLES AND WINGS.*
-
-*3 DAYS. 80+ SPEAKERS.*
-
-*THIS IS A TECH CONFERENCE.*
-
-*THIS IS RENDER(ATL).*
+* *COLLARDS AND CODE.*
+* *WAFFLES AND WINGS.*
+* *3 DAYS. 80+ SPEAKERS.*
+* *THIS IS A TECH CONFERENCE.*
+* *THIS IS RENDER(ATL).*
 
 ---
 
