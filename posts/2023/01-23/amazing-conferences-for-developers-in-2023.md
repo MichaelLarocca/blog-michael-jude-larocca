@@ -272,7 +272,42 @@ All Things Open is a large conference with an all-star lineup of speakers. James
 
 ---
 
-08:15 - Jamstack Conf - https://jamstack.org/conf/
+### Jamstack Conf
+*Dates to be announced - San Francisco*
+
+**Netlify hosts the Jamstack conference, which is all about modern web development:**
+* server deployments
+* acronyms
+* methodologies
+* and more
+
+James informs us there is a high-quality lineup of speakers, engagements, and more.
+
+He has yet to attend but is excited about participating, including speaking, in the future.
+
+***Note:*** *The conference dates for 2023 have yet to be announced.*
+
+*🔗 Event website: [Jamstack ](https://jamstack.org/)* 
+
+**Below is information from the conference website 🔽**
+
+*Jamstack Conf is for engineers, technology leaders, and digital agencies who are embracing the next evolution of modern web development architecture.*
+
+***Learn***
+*Watch talks from people creating the building blocks of the modern web and from people putting those tools to work.*
+
+***Liaise***
+*Connect virtually and in person as we bring this bustling community together to share experiences and make new connections.*
+
+***Level-up***
+*Take your skills up a notch by attending one of the in-person workshops from experts in the industry.*
+
+***What is Jamstack?***
+*[Jamstack](https://jamstack.org/) is an architectural approach that decouples the web experience layer from data and business logic, improving flexibility, scalability, performance, and maintainability.*
+
+*Jamstack removes the need for business logic to dictate the web experience.*
+
+*It enables a composable architecture for the web where custom logic and 3rd party services are consumed through APIs.*
 
 ---
 
