@@ -18,7 +18,14 @@ date: "2023-01-16"
 ---
 
 ### About James Q Quick
-(WRITE ARTICLE SECTION)
+
+James Q Quick is a tech industry professional with over 20 years of experience. He studied at Vanderbilt University and has a degree in Computer Science. 
+
+He is passionate about teaching developers through content by creating weekly videos on his YouTube channel, which has over 174,000 followers and is growing!
+
+James also hosts the popular weekly podcast Compressed FM, a show about web design and development, with co-host Amy Dutton.
+
+During his time at Microsoft as a Technical Evangelist, James gave technical talks, a skill he continues to use today as an avid tech conference speaker.
 
 ---
 
@@ -331,7 +338,10 @@ Join the Learn Build Teach [Discord Server 💬](https://discord.gg/vM2bagU)
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+As a developer attending conferences, you can level up your career by learning from the topics covered, networking with like-minded peers and representatives from hiring companies, and taking advantage of other opportunities that arise.
+
+James credits attending conferences as one of his hacks for advancing his career. He believes if we also participate in conferences as active attendees and possibly speakers as he does, we will also succeed in advancing our careers!
 
 ---
 
