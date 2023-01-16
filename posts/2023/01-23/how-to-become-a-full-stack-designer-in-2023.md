@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "How to Become a Full Stack Designer in 2023"
 tags:
   [
     "javascript",
