@@ -109,6 +109,15 @@ James tells us that Clark, the event's founder, cares about the community, and t
 
 ---
 
+<iframe width="900" height="506" src="https://www.youtube.com/embed/DajdLKD0OmQ" title="James Q. Quick - Feeling stuck in Your Career...Now What?" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### James Q. Quick - Feeling stuck in Your Career...Now What?
+
+
+*Feeling stuck? We've all been there, but you alone have the ability to influence and control the path that of your career. Sometimes you just need a nudge in the right direction! In this talk, let's discuss tangible steps for actively pursuing happiness and fulfillment in your career.*
+
+---
+
 ### NDC London
 *23-27 January 2023*
 *Queen Elizabeth II Centre*
