@@ -77,36 +77,28 @@ Before becoming a full-stack designer, you must first learn the design fundament
 * Proximity
 * Visual Hierarchy
 
-**Colors**
-
+#### **Colors**
 To create a cohesive layout, you must learn color theory, including how colors work in a user interface.
 
-**Contrast**
-
+#### **Contrast**
 You must understand contrast, especially regarding the type, to ensure it is readable.
 
-**Typography**
-
+#### **Typography**
 Typography is a field in and of itself. Nevertheless, you will need a basic understanding of the main principles.
 
-**White Space**
-
+#### **White Space**
 When it comes to white space, you will need to understand how empty space plays an important role, even though it's a void!
 
-**Alignment**
-
+#### **Alignment**
 You must learn how to align content correctly along columns and rows. 
 
-**Scale**
-
+#### **Scale**
 Understanding scale involves knowing how big pieces of content should be in a shared space.
 
-**Proximity**
-
+#### **Proximity**
 Understanding proximity involves knowing how close content should be in a shared space, also referred to as groupings.
 
-**Visual Hierarchy**
-
+#### **Visual Hierarchy**
 Visual hierarchy involves placing importance on certain elements. Visual hierarchy can be achieved with size, color, and contrast, to name a few techniques.
 
 **Gary created the fantastic YouTube tutorial "[The 2020 UI Design Fundamentals Crash Course](https://youtu.be/tRpoI6vkqLs)" to help us with learning the UI Design Fundamentals.** 
@@ -219,20 +211,17 @@ As becoming a full-stack designer, Gary brings the following HTML concepts to ou
 * Accessibility
 * Layout Structure
 
-**Elements / Tags**
-
+#### **Elements / Tags**
 We define HTML elements with a start and end tag and put out content between the tags.
 
 ```html
 <p>This paragraph is surrounded by an opening paragraph tag and an ending paragraph tag.</p>
 ```
 
-**Closing vs. Self Closing**
-
+#### **Closing vs. Self Closing**
 Some HTML elements, such as the break `<br>`, are self-closing, which only has one tag (no closing tag).
 
-**Attributes**
-
+#### **Attributes**
 Attributes provide additional information about elements. We specify attributes in the start tag or the self-closing tag, respectively.
 
 For example, an anchor tag `<a>` has a  hypertext reference attribute (href), which specifies the URL (Uniform Resource Locator).
@@ -241,15 +230,13 @@ For example, an anchor tag `<a>` has a  hypertext reference attribute (href), wh
 <a href="https://selftaughttxg.com/">Link to my website</a>
 ```
 
-**Accessibility**
-
+#### **Accessibility**
 According to MDN web docs, [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) (Accessible Rich Internet Applications) is a set of roles and attributes that define ways to make web content and web applications (especially those developed with JavaScript) more accessible to people with disabilities.
 
 ***Gary created this informative YouTube tutorial on the topic: [ARIA HTML Tutorial - What is ARIA & Why it's Important to Use!](https://youtu.be/0hqhAIjE_8I)***
 
 
-**Layout Structure**
-
+#### **Layout Structure**
 We must learn to take our UI design and translate the layout structure with as few lines of code as possible (succinctly).
 
 ---
