@@ -107,6 +107,8 @@ Visual hierarchy involves placing importance on certain elements. Visual hierarc
 
 <iframe width="702" height="395" src="https://www.youtube.com/embed/tRpoI6vkqLs" title="The 2020 UI Design Fundamentals Crash Course (INTERACTIVE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+---
+
 #### The 2020 UI Design Fundamentals Crash Course (INTERACTIVE)
 
 ---
@@ -159,3 +161,28 @@ Gary explains that you can import your Figma designs and use this software to cr
 
 ---
 
+### UX Usability Testing Software
+
+As a full-stack designer, Gary tells us that testing software is also optional.
+
+UX usability testing software allows us to import our designs, such as Figma prototypes, for users to evaluate and provide feedback. 
+
+**Gary provides us with several UX usability testing software options:**
+* [UXtweak](https://www.uxtweak.com/)
+* [UserZoom](https://www.userzoom.com/usability-testing/)
+* [Lookback](https://www.lookback.com/)
+* [Hotjar](https://www.hotjar.com/user-testing-tool/)
+* [UserTesting](https://www.usertesting.com/)
+* [UsabilityHub](https://usabilityhub.com/)
+* [Optimal Workshop](https://www.optimalworkshop.com/)
+* [Useberry](https://www.useberry.com/)
+
+---
+
+<iframe width="1520" height="553" src="https://www.youtube.com/embed/nbQpUhdVLlo" title="What is a Full Stack Designer? 2023 Roadmap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### What is a Full Stack Designer? 2023 Roadmap
+
+---
