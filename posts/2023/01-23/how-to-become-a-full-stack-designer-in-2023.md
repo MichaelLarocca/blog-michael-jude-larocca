@@ -54,3 +54,59 @@ To be considered a full-stack designer extraordinaire, you must have WebGL, Thre
 Having these skills in your toolkit allows you to create impressive graphical experiences that exceed the capability of just HTML, CSS, and JavaScript.
 
 ---
+
+### UI/UX Design Fundamentals
+
+Before becoming a full-stack designer, you must first learn the design fundamentals, also called design principles.
+
+**UI/UX Design Fundamentals**
+* Colors
+* Contrast
+* Typography
+* White Space
+* Alignment
+* Scale
+* Proximity
+* Visual Hierarchy
+
+**Colors**
+
+To create a cohesive layout, you must learn color theory, including how colors work in a user interface.
+
+**Contrast**
+
+You must understand contrast, especially regarding the type, to ensure it is readable.
+
+**Typography**
+
+Typography is a field in and of itself. Nevertheless, you will need a basic understanding of the main principles.
+
+**White Space**
+
+When it comes to white space, you will need to understand how empty space plays an important role, even though it's a void!
+
+**Alignment**
+
+You must learn how to align content correctly along columns and rows. 
+
+**Scale**
+
+Understanding scale involves knowing how big pieces of content should be in a shared space.
+
+**Proximity**
+
+Understanding proximity involves knowing how close content should be in a shared space, also referred to as groupings.
+
+**Visual Hierarchy**
+
+Visual hierarchy involves placing importance on certain elements. Visual hierarchy can be achieved with size, color, and contrast, to name a few techniques.
+
+**Gary created the fantastic YouTube tutorial "[The 2020 UI Design Fundamentals Crash Course](https://youtu.be/tRpoI6vkqLs)" to help us with learning the UI Design Fundamentals.** 
+
+---
+
+<iframe width="702" height="395" src="https://www.youtube.com/embed/tRpoI6vkqLs" title="The 2020 UI Design Fundamentals Crash Course (INTERACTIVE)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### The 2020 UI Design Fundamentals Crash Course (INTERACTIVE)
+
+---
