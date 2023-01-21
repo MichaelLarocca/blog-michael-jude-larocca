@@ -186,3 +186,62 @@ UX usability testing software allows us to import our designs, such as Figma pro
 #### What is a Full Stack Designer? 2023 Roadmap
 
 ---
+
+### Frontend Development
+
+To be a full-stack designer, you must have a solid understanding and skill in translating user interfaces that you or others create into working projects in the browser.
+
+**The skills needed to translate user interfaces include**
+* HTML
+* CSS
+* JavaScript 
+
+---
+
+#### HTML
+
+[HTML](https://www.w3schools.com/html/html_intro.asp) (Hyper Text Markup Language) is the standard markup language for creating Web pages.
+
+As becoming a full-stack designer, Gary brings the following HTML concepts to our attention.
+
+**HTML**
+* Elements / Tags
+* Closing vs. Self Closing
+* Attributes
+* Accessibility
+* Layout Structure
+
+**Elements / Tags**
+
+We define HTML elements with a start and end tag and put out content between the tags.
+
+```html
+<p>This paragraph is surrounded by an opening paragraph tag and an ending paragraph tag.</p>
+```
+
+**Closing vs. Self Closing**
+
+Some HTML elements, such as the break `<br>`, are self-closing, which only has one tag (no closing tag).
+
+**Attributes**
+
+Attributes provide additional information about elements. We specify attributes in the start tag or the self-closing tag, respectively.
+
+For example, an anchor tag `<a>` has a  hypertext reference attribute (href), which specifies the URL (Uniform Resource Locator).
+
+```html
+<a href="https://selftaughttxg.com/" >Link to my website</a>
+```
+
+**Accessibility**
+
+According to MDN web docs, [ARIA](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA) (Accessible Rich Internet Applications) is a set of roles and attributes that define ways to make web content and web applications (especially those developed with JavaScript) more accessible to people with disabilities.
+
+***Gary created this informative YouTube tutorial on the topic: [ARIA HTML Tutorial - What is ARIA & Why it's Important to Use!](https://youtu.be/0hqhAIjE_8I)***
+
+
+**Layout Structure**
+
+We must learn to take our UI design and translate the layout structure with as few lines of code as possible (succinctly).
+
+---
