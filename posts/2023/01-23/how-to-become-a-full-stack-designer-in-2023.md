@@ -8,6 +8,14 @@ published: true
 date: "2023-01-23"
 ---
 
+#### In this article (WRITE ARTICLE SECTION)
+
+---
+
+![TN-TXG-72](img/01-23-23/TN-TXG-72.png)
+
+---
+
 ### Intro
 (WRITE ARTICLE SECTION)
 
@@ -230,7 +238,7 @@ Attributes provide additional information about elements. We specify attributes 
 For example, an anchor tag `<a>` has a  hypertext reference attribute (href), which specifies the URL (Uniform Resource Locator).
 
 ```html
-<a href="https://selftaughttxg.com/" >Link to my website</a>
+<a href="https://selftaughttxg.com/">Link to my website</a>
 ```
 
 **Accessibility**
