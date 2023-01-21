@@ -124,3 +124,21 @@ To become a full-stack designer, you must learn how to use design software.
 **Gary creates excellent annual Figma crash courses on YouTube. If you are interested in learning this design software, check out the "[Ultimate Figma Crash Course 2023](https://youtu.be/o1nCmiW6auE) "YouTube tutorial!**
 
 ---
+
+### UI Prototyping Software
+
+What is prototyping software? Gary tells us prototyping software adds interactivity to the UI designs we create.
+
+Figma has prototyping built-in, and Gary thinks that it is pretty good. However, if you want more advanced features, such as logic and conditionals, without the need for coding, he advises [ProtoPie](https://www.protopie.io/) and [Proto.io](https://proto.io/).
+
+Gary informs us that we can import our Figma prototypes into these apps to add really cool interactivity!
+
+**UI Prototyping Software**
+* [ProtoPie](https://www.protopie.io/)
+* [Proto.io](https://proto.io/)
+
+**If you would like to learn more, check out Gary's YouTube videos on these topics:**
+* [Protopie Beginner's Tutorial](https://youtu.be/Te2IZCVjtF4)
+* [Checking out a Powerful UI/UX Prototyping Tool (Proto.io)](https://youtu.be/wLmS0IWftPw)
+
+---
