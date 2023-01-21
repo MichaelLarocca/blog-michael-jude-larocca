@@ -289,6 +289,14 @@ Gary explains that in addition to the technical syntax aspects of animation, we 
 
 ---
 
+#### *Now that we've covered UI/UX design and frontend web development fundamentals, Gary provides us with hands-on practice with these two YouTube tutorials!*
+
+[The UI/UX Crash Course for 2023 - Learn UI/UX Design](https://youtu.be/QwSN4n2sjR8)
+
+[The 2023 Frontend Development Crash Course - Learn HTML & CSS](https://youtu.be/Kl3nOXQjVnQ)
+
+---
+
 #### WebGL / Three.js / Shaders
 (WRITE ARTICLE SECTION)
 14:39
