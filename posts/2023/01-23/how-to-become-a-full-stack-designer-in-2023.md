@@ -253,3 +253,97 @@ According to MDN web docs, [ARIA](https://developer.mozilla.org/en-US/docs/Web/A
 We must learn to take our UI design and translate the layout structure with as few lines of code as possible (succinctly).
 
 ---
+
+#### CSS
+(WRITE ARTICLE SECTION)
+
+**CSS**
+* Ruleset Structure
+* Sizing Translation & Units
+* Responsive Design (Media Queries)
+* Transitions
+* Animations
+* Sass
+
+(WRITE ARTICLE SECTION)
+
+---
+
+#### JavaScript
+(WRITE ARTICLE SECTION)
+
+**JavaScript**
+* Vanilla JavaScript Basics
+* DOM Manipulation
+* GreenSock Animation Platform (GSAP)
+* Frameworks (React/Vue/Svelte, etc..)
+* Barba.js (Optional)
+
+(WRITE ARTICLE SECTION)
+
+---
+
+#### WebGL / Three.js / Shaders
+(WRITE ARTICLE SECTION)
+14:39
+
+---
+
+### Gary's final thoughts
+(WRITE ARTICLE SECTION)
+17:47
+
+---
+
+![Gary Simon](img/01-23-23/GarySimon-01.png)
+
+---
+
+### Gary has several courses excellent courses
+
+##### Kickstart your UI/UX Design Career
+[Our Interactive UI/UX Course will help you design better & earn more](https://designcourse.com/ui-ux).
+
+##### You're going to rock at making layouts.
+[Learn how to build beautiful layouts with CSS in our new Interactive Course taught by Gary Simon](https://designcourse.com/css).
+
+#### Mentor
+[The fastest way to level up as a UI/UX designer](https://designcourse.com/mentor).
+
+#### Freelancing doesn't have to be smoke & mirrors.
+[An exclusive 1-on-1 session and a personalized strategy guide for a successful freelance designer or developer career](https://designcourse.com/coaching).
+
+---
+
+### Gary Simon Links
+
+* 🔗 [Website - Designcourse](https://www.designcourse.com/)
+* 🔗 [YouTube - DesignCourse](https://www.youtube.com/user/DesignCourse)
+* 🔗 [Twich](https://www.twitch.tv/designcourse)
+* 🔗 [Twitter - DesignCourse](https://twitter.com/designcoursecom?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor)
+* 🔗 [Udemy - Gary Simon](https://www.udemy.com/user/garysimon2/)
+* 🔗 [Lynda - Gary Simon](https://www.lynda.com/Gary-Simon/427927-1.html)
+* 🔗 [Pluralsight - Gary Simon](https://www.pluralsight.com/authors/gary-simon)
+* 🔗 [Skillshare - Gary Simon](https://www.skillshare.com/profile/Gary-Simon/249961)
+
+---
+
+### My other Gary Simon articles
+
+* 🔗 [Teacher Feature: Gary Simon](https://selftaughttxg.com/2021/04-21/TeacherFeature-GarySimon/)
+* 🔗 [Review: The Boja](https://selftaughttxg.com/2021/08-21/Review-The_Boja/)
+
+---
+
+### Conclusion
+(WRITE ARTICLE SECTION)
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### *HOLD. HOLD. Please share the article and comment!* 
+
+---
