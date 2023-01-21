@@ -110,3 +110,17 @@ Visual hierarchy involves placing importance on certain elements. Visual hierarc
 #### The 2020 UI Design Fundamentals Crash Course (INTERACTIVE)
 
 ---
+
+### UI Design Software
+
+To become a full-stack designer, you must learn how to use design software.
+
+**Gary provides us with the following popular design software options:** 
+* [Adobe Figma](https://www.figma.com/)
+* [Penpot](https://penpot.app/)
+* [Sketch](https://www.sketch.com/)
+* [Lunacy](https://apps.microsoft.com/store/detail/lunacy-graphic-design-software/9PNLMKKPCLJJ?hl=en-us&gl=us&rtc=1)
+
+**Gary creates excellent annual Figma crash courses on YouTube. If you are interested in learning this design software, check out the "[Ultimate Figma Crash Course 2023](https://youtu.be/o1nCmiW6auE) "YouTube tutorial!**
+
+---
