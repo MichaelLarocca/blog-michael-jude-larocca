@@ -206,7 +206,7 @@ To be a full-stack designer, you must have a solid understanding and skill in tr
 
 ---
 
-#### HTML
+#### **HTML**
 
 [HTML](https://www.w3schools.com/html/html_intro.asp) (Hyper Text Markup Language) is the standard markup language for creating Web pages.
 
@@ -254,10 +254,11 @@ We must learn to take our UI design and translate the layout structure with as f
 
 ---
 
-#### CSS
-(WRITE ARTICLE SECTION)
+#### **CSS**
 
-**CSS**
+[CSS](https://www.w3schools.com/css/css_intro.asp) is the language used to style a Web page, including the colors, layout, fonts, and more. 
+
+**Gary advises us to focus on the following aspects of CSS:**
 * Ruleset Structure
 * Sizing Translation & Units
 * Responsive Design (Media Queries)
@@ -265,7 +266,25 @@ We must learn to take our UI design and translate the layout structure with as f
 * Animations
 * Sass
 
-(WRITE ARTICLE SECTION)
+#### **Ruleset Structure**
+We must learn the basic ruleset [structure](https://developer.mozilla.org/en-US/docs/Learn/CSS/First_steps/How_CSS_is_structured) and syntax.
+
+#### **Sizing Translation & Units**
+Understanding sizing translation is essential. When working with a design created from software, such as Figma, you must accurately translate the unit sizes when writing the code for a webpage. 
+
+#### **Responsive Design (Media Queries)**
+Responsive design is an approach that considers how the layout displays on multiple platforms, such as desktops, laptops, tablets, cell phones, and others.
+
+We use [media queries](https://www.w3schools.com/css/css3_mediaqueries.asp) to determine the dimensions of the user's viewport so that we can display the appropriate corresponding layout.
+
+#### **Transitions**
+We use transitions to change an element's value gradually, such as a submit button that changes size and color when hovered over. 
+
+#### **Animations**
+Gary explains that in addition to the technical syntax aspects of animation, we need to learn the artistic aspects to ensure our results are on point.
+
+#### **Sass**
+[Sass](https://www.w3schools.com/sass/sass_intro.php#) (Syntactically Awesome Stylesheet) is a CSS pre-processor. Sass has many features, and Gary advises we do not have to be an expert, but we will significantly benefit by utilizing some of its features, such as nesting rule sets. 
 
 ---
 
