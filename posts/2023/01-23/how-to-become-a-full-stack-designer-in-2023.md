@@ -142,3 +142,20 @@ Gary informs us that we can import our Figma prototypes into these apps to add r
 * [Checking out a Powerful UI/UX Prototyping Tool (Proto.io)](https://youtu.be/wLmS0IWftPw)
 
 ---
+
+### Low to No Code Software
+
+As a full-stack designer, Gary tells us that using low to no-code software is optional.
+
+**Low to no-code software includes:**
+* [Framer](https://www.framer.com/)
+* [Webflow](https://webflow.com/no-code)
+
+Gary explains that you can import your Figma designs and use this software to create functional websites without coding (for the most part).
+
+**If you would like to learn more, check out Gary's YouTube videos on these topics:**
+* [Framer Crash Course - From UI/UX to Frontend with No Code](https://youtu.be/alvy1hFow2E)
+* [Webflow Crash Course - Responsive Web Design without Code?](https://youtu.be/S67X-sfW0IA)
+
+---
+
