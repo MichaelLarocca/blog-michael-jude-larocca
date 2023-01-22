@@ -332,9 +332,9 @@ Learning [Barba.js](https://barba.js.org/) is also optional for full-stack desig
 
 Gary tells us that WebGL, Three.js, and Shaders are also optional.  
 
-WebGL will utilize your graphics card for rendering using the HTML canvas element, typically used for 3D games.
+[WebGL](https://developer.mozilla.org/en-US/docs/Web/API/WebGL_API) (Web Graphics Library) is a JavaScript API that utilizes your graphics card for rendering using the HTML canvas element, typically used for 3D games.
 
-Three.js is a library that makes interaction with WebGL easier.
+[Three.js](https://threejs.org/) is a library that makes interaction with WebGL easier.
 
 Gary tells us there is a steep learning curve in mastering WebGL and Three.js. However, gaining this skill will unlock your ultimate creativity!
 
