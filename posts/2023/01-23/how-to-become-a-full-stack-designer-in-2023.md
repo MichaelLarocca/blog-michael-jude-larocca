@@ -276,7 +276,8 @@ Gary explains that in addition to the technical syntax aspects of animation, we 
 ---
 
 #### JavaScript
-(WRITE ARTICLE SECTION)
+
+Regarding JavaScript, Gary tells us to be considered a full-stack designer, you will also need to know how to code; not only will you need to design a product, but you will also need to acquire the skill of fully translating the design to the web browser.
 
 **JavaScript**
 * Vanilla JavaScript Basics
@@ -285,7 +286,37 @@ Gary explains that in addition to the technical syntax aspects of animation, we 
 * Frameworks (React/Vue/Svelte, etc..)
 * Barba.js (Optional)
 
-(WRITE ARTICLE SECTION)
+#### **Vanilla JavaScript Basics**
+
+Vanilla JavaScript is plain JavaScript without frameworks, such as React or Vue.
+
+**JavaScript Basics includes:**
+* Define variables
+* Functions
+* Objects
+* Classes
+* Loops
+* and more
+
+*You can learn JavaScript and earn a certification for free with freeCodeCamp: "[JavaScript Algorithms and Data Structures](https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/)"*
+
+#### **DOM Manipulation**
+
+You will also need to acquire the skill of DOM (Document Object Model) manipulation to integrate interactivity.
+
+#### **GreenSock Animation Platform (GSAP)**
+
+The GreenSock animation platform allows you to create complicated animations with ease. GreenSock is a JavaScript library. 
+
+Gary has several [tutorials and crash courses to learn GreenSock](https://www.youtube.com/@DesignCourse/search?query=GreenSock).
+
+#### **Frameworks (React/Vue/Svelte, etc..)**
+
+Gary tells us that learning JavaScript frameworks is optional for full-stack designers.
+
+#### **Barba.js (Optional)**
+
+Learning [Barba.js](https://barba.js.org/) is also optional for full-stack designers. Barba.js is a JavaScript library that helps create fluid and smooth transitions between your website's pages. 
 
 ---
 
