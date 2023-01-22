@@ -329,8 +329,20 @@ Learning [Barba.js](https://barba.js.org/) is also optional for full-stack desig
 ---
 
 #### WebGL / Three.js / Shaders
-(WRITE ARTICLE SECTION)
-14:39
+
+Gary tells us that WebGL, Three.js, and Shaders are also optional.  
+
+WebGL will utilize your graphics card for rendering using the HTML canvas element, typically used for 3D games.
+
+Three.js is a library that makes interaction with WebGL easier.
+
+Gary tells us there is a steep learning curve in mastering WebGL and Three.js. However, gaining this skill will unlock your ultimate creativity!
+
+Shaders work inside Three.js, and Gary tells us there is also a steep learning curve in mastering it.
+
+A [shader](https://en.wikipedia.org/wiki/Shader#) is a small program that calculates the appropriate levels of light, darkness, and color while rendering a 3D scene.
+
+Gary explains that utilizing shaders can create effects that are not possible with HTML, CSS, and JavaScript alone. 
 
 ---
 
