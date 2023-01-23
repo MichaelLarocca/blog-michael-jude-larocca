@@ -17,7 +17,10 @@ date: "2023-01-23"
 ---
 
 ### Intro
-(WRITE ARTICLE SECTION)
+
+As a programmer, you are most likely familiar with the term full-stack developer and what it entails to become one. But are you familiar with the term full-stack designer and what it entails to become one?
+
+In this article, Gary Simon will explain what a full-stack designer is, along with the necessary skills and tools to become one.
 
 ---
 
