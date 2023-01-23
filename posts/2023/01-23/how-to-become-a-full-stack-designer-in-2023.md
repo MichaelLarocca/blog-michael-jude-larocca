@@ -347,8 +347,12 @@ Gary explains that utilizing shaders can create effects that are not possible wi
 ---
 
 ### Gary's final thoughts
-(WRITE ARTICLE SECTION)
-17:47
+
+First, you need to understand UI and some UX and acquire basic identity design knowledge to the point where you can design a simple logo, including the branding colors and typography.
+
+Then when you develop the programming skills to translate your designs for viewing and interacting within a web browser, Gary tells us we can consider ourselves full-stack designers!
+
+*Gary informs us that he is creating more content in 2023, including WebGL and Three.js, to teach us these immersive technologies!*
 
 ---
 
