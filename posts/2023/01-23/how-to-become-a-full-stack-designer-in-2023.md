@@ -184,7 +184,7 @@ UX usability testing software allows us to import our designs, such as Figma pro
 
 ---
 
-<iframe width="1520" height="553" src="https://www.youtube.com/embed/nbQpUhdVLlo" title="What is a Full Stack Designer? 2023 Roadmap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="900" height="506" src="https://www.youtube.com/embed/nbQpUhdVLlo" title="What is a Full Stack Designer? 2023 Roadmap" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
