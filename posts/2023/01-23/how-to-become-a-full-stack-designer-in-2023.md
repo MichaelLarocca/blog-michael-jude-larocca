@@ -217,7 +217,7 @@ As becoming a full-stack designer, Gary brings the following HTML concepts to ou
 * Layout Structure
 
 #### **Elements / Tags**
-We define HTML elements with a start and end tag and put out content between the tags.
+We define HTML elements with a start and end tag and put our content between the tags.
 
 ```html
 <p>This paragraph is surrounded by an opening paragraph tag and an ending paragraph tag.</p>
