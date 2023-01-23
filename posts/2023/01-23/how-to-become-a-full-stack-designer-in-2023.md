@@ -402,7 +402,12 @@ Then when you develop the programming skills to translate your designs for viewi
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+Being a full-stack designer includes knowledge and skills in UI/UX design,  Frontend web development, and identity design. You can also learn WebGL, Three.js, and shaders to add to your designer tool kit to really stand out.
+
+Becoming a full-stack designer will give YOU a competitive advantage in the job market as a web developer. Even if you do not possess artistic design skills, having a solid foundation in its concepts will inherently make you a better developer. 
+
+Learning and understanding the responsibilities of a full-stack designer will also make you a better team candidate for positions where you are responsible for translating a designer's work into web applications, ultimately providing YOU a better chance when pursuing new employment opportunities!
 
 ---
 
