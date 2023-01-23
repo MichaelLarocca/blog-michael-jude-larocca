@@ -410,6 +410,6 @@ Then when you develop the programming skills to translate your designs for viewi
 
 ---
 
-###### *HOLD. HOLD. Please share the article and comment!* 
+###### *Are you now interested in becoming a full-stack designer? Have you already gained a competitive advantage due to UI/UX design proficiency? Please share the article and comment!*
 
 ---
