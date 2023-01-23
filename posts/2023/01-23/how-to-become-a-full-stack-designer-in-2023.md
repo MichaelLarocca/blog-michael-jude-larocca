@@ -365,7 +365,7 @@ Then when you develop the programming skills to translate your designs for viewi
 
 ---
 
-### Gary has several courses excellent courses
+### Gary has several excellent courses to help you become a better developer!
 
 ##### Kickstart your UI/UX Design Career
 [Our Interactive UI/UX Course will help you design better & earn more](https://designcourse.com/ui-ux).
