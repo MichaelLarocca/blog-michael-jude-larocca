@@ -22,7 +22,10 @@ date: "2023-01-23"
 ---
 
 ### About Gary Simon
-(WRITE ARTICLE SECTION)
+
+Gary Simon is a professional UI/UX Designer & Frontend Developer with over 20 years of experience.
+
+Gary has helped countless individuals establish careers through his content, consisting of his articles, courses, and DesignCourse YouTube channel, which currently has over 1 million subscribers.
 
 ---
 
