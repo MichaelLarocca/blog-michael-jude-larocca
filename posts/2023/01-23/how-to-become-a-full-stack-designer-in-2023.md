@@ -8,8 +8,7 @@ published: true
 date: "2023-01-23"
 ---
 
-#### In this article (WRITE ARTICLE SECTION)
-
+#### There is more to web development than programming, and having UI/UX design skills can give YOU a competitive advantage. In this article, expert Gary Simon tells us how to become Full Stack Designers!
 ---
 
 ![TN-TXG-72](img/01-23-23/TN-TXG-72.png)
