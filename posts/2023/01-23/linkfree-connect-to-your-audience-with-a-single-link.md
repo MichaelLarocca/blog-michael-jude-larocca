@@ -127,6 +127,103 @@ Here is a selection of our popular documentation guides to help you get started.
 ### Template
 (WRITE ARTICLE SECTION)
 
+```json
+{
+  "name": "HOLD",
+  "type": "personal",
+  "displayStatsPublic": true,
+  "bio": "HOLD | HOLD | HOLD",
+  "avatar": "HOLD",
+  "tags": [
+    "Javascript",
+    "writing",
+    "frontend"
+  ],
+  "socials": [
+    { "icon": "FaTwitter", "url": "HOLD" },
+    { "icon": "FaGithub", "url": "HOLD" },
+    { "icon": "FaYoutube", "url": "HOLD" }
+  ],
+  "testimonials": [
+    "HOLD",
+    "HOLD",
+    "HOLD"
+  ],
+  "links": [
+    {
+      "group": "Business",
+      "name": "Website: HOLD",
+      "url": "HOLD",
+      "icon": "FaLink"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "Twitter: Follow me",
+      "url": "HOLD",
+      "icon": "FaTwitter",
+      "color": "#00ACEE"
+    },
+    {
+      "group": "Socials Primary",
+      "name": "LinkedIn: Let's connect",
+      "url": "HOLD",
+      "icon": "FaLinkedin"
+    },
+    {
+      "group": "Socials Secondary",
+      "name": "YouTube Shorts: Quick technical tips",
+      "url": "HOLD",
+      "icon": "FaYoutube"
+    },
+    {
+      "group": "Socials Secondary",
+      "name": "HOLD",
+      "url": "http://discord.eddiehub.org",
+      "icon": "FaDiscord"
+    },
+    {
+      "group": "Socials Secondary",
+      "name": "Podcast: ",
+      "url": "Socials Secondary",
+      "icon": "FaPodcast"
+    },
+    {
+      "name": "CodePen",
+      "url": "HOLD",
+      "icon": "FaCodepen"
+    }
+  ],
+  "milestones": [
+    {
+      "title": "Started Freelancing",
+      "date": "HOLD",
+      "icon": "FaDollarSign",
+      "color": "grey",
+      "description": "Started my own business",
+      "url": "HOLD"
+    },
+    {
+      "title": "Started Writing Articles",
+      "date": "HOLD",
+      "icon": "FaPencilAlt",
+      "color": "grey",
+      "description": "Started my blog",
+      "url": "HOLD"
+    },    
+    {
+      "title": "Started YouTube",
+      "image": "HOLD",
+      "date": "HOLD",
+      "icon": "FaYoutube",
+      "color": "red",
+      "description": "Started creating content",
+      "url": "HOLD"
+    }
+  ]
+}
+
+```
+
 ---
 
 ### My other Eddie Jaoude articles:
