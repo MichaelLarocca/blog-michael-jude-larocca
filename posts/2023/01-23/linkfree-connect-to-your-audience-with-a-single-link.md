@@ -144,11 +144,6 @@ Here is a selection of our popular documentation guides to help you get started.
     { "icon": "FaGithub", "url": "HOLD" },
     { "icon": "FaYoutube", "url": "HOLD" }
   ],
-  "testimonials": [
-    "HOLD",
-    "HOLD",
-    "HOLD"
-  ],
   "links": [
     {
       "group": "Business",
