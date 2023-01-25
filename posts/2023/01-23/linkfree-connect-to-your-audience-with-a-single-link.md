@@ -1,1 +1,142 @@
+---
+title: "LinkFree: Connect to Your Audience With a Single Link"
+tags:
+  [
+    "opensource",
+    "github",
+    "networking",
+  ]
+published: true
+date: "2023-01-02"
+---
 
+#### HOLD
+
+---
+
+![TN-TXG-73](img/01-30-23/TN-TXG-73.png)
+
+---
+
+Intro
+(WRITE ARTICLE SECTION)
+
+---
+
+### About Eddie
+(WRITE ARTICLE SECTION)
+
+---
+
+### LinkFree
+(WRITE ARTICLE SECTION)
+
+![LinkFree-advert](img/01-30-23/LinkFree-advert.png)
+
+### Features
+(WRITE ARTICLE SECTION)
+
+* Your Bio, Social links & Stats
+* Search by Tags
+* Your QR code
+* Your Links
+* Your Milestones
+* Your Testimonials
+* Your Events
+* Community Events
+
+#### **Your Bio, Social links & Stats**
+
+In this section, you can provide a short bio and add social links via icons.
+
+When people view your profile, the total number is displayed next you your image.
+
+![Your Bio](img/01-30-23/YourBio.png)
+
+#### **Search by Tags**
+(WRITE ARTICLE SECTION)
+![Tags](img/01-30-23/Tags.png)
+
+#### **Your QR code**
+(WRITE ARTICLE SECTION)
+
+#### **Your Links**
+(WRITE ARTICLE SECTION)
+
+![MyLinks](img/01-30-23/MyLinks.png)
+
+#### **Your Milestones**
+(WRITE ARTICLE SECTION)
+
+![Milestones](img/01-30-23/Milestones.png)
+
+#### **Your Testimonials**
+(WRITE ARTICLE SECTION)
+
+![Testimonials](img/01-30-23/Testimonials.png)
+
+#### **Your Events**
+(WRITE ARTICLE SECTION)
+
+![Your Events](img/01-30-23/YourEvents.png)
+
+#### **Community Events**
+(WRITE ARTICLE SECTION)
+
+![CommunityEvents](img/01-30-23/CommunityEvents.png)
+
+---
+
+### Discover page
+(WRITE ARTICLE SECTION)
+
+* Discover LinkFree Profiles
+* Random LinkFree Profiles
+* Trending LinkFree Profiles (last 24 hours)
+* Popular LinkFree Profiles
+
+![DiscoverProfiles](img/01-30-23/DiscoverProfiles.png)
+
+*Also includes a search page!*
+
+---
+
+### Documentation
+(WRITE ARTICLE SECTION)
+
+Here is a selection of our popular documentation guides to help you get started.
+
+**Popular User Guides**
+* [QuickStart](https://linkfree.eddiehub.io/docs/quickstart)
+* [Links](https://linkfree.eddiehub.io/docs/how-to-guides/links)
+* [Bio](https://linkfree.eddiehub.io/docs/how-to-guides/bio)
+* [Statistics](https://linkfree.eddiehub.io/docs/how-to-guides/statistics)
+* [Events](https://linkfree.eddiehub.io/docs/how-to-guides/events)
+* [Milestones](https://linkfree.eddiehub.io/docs/how-to-guides/milestones)
+
+---
+
+### My other Eddie Jaoude articles:
+
+🔗 [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
+
+---
+
+### Eddie's links
+
+* 🔗[Website: eddiejaoude](https://www.eddiejaoude.io/)
+* 🔗[GitHub: eddiejaoude](https://github.com/eddiejaoude)
+* 🔗[EddieHubCommunity](https://github.com/EddieHubCommunity)
+* 🔗[YouTube: eddiejaoude](https://www.youtube.com/c/eddiejaoude)
+* 🔗[Twitter: eddiejaoude](https://twitter.com/eddiejaoude)
+
+---
+
+### Conclusion
+(WRITE ARTICLE SECTION)
+
+---
+
+###### HOLD? HOLD? Please share the article and comment!
+
+---
