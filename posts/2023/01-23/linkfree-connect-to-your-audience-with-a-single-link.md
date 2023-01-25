@@ -124,6 +124,11 @@ Here is a selection of our popular documentation guides to help you get started.
 
 ---
 
+### Template
+(WRITE ARTICLE SECTION)
+
+---
+
 ### My other Eddie Jaoude articles:
 
 🔗 [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
