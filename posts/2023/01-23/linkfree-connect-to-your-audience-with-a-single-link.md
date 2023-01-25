@@ -116,6 +116,14 @@ Here is a selection of our popular documentation guides to help you get started.
 
 ---
 
+<iframe width="900" height="506" src="https://www.youtube.com/embed/05HEeCQSKRE" title="LinkFree Quickstart: How to create YOUR Profile! (Open Source)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### LinkFree Quickstart: How to create YOUR Profile! (Open Source)
+
+---
+
 ### My other Eddie Jaoude articles:
 
 🔗 [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
