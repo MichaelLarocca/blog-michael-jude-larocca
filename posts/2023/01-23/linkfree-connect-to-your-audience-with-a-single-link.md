@@ -49,7 +49,9 @@ Intro
 
 In this section, you can provide a short bio and add social links via icons.
 
-When people view your profile, the total number is displayed next you your image.
+For my bio, I wrote "Front-End Web Developer | `**Writer**` | Musician" ( since it's Markdown language, I made Writer bold by surrounding it with asterisks).
+
+When people view your profile, the total number is displayed next you your image. As you can see, Eddie used bold on "EddieHub" and "GitHub." 
 
 ![Your Bio](img/01-30-23/YourBio.png)
 
