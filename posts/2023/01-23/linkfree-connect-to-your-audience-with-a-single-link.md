@@ -14,7 +14,7 @@ date: "2023-01-02"
 
 ---
 
-![TN-TXG-73](img/01-30-23/TN-TXG-73.png)
+![TN-TXG-73](img/01-30-23/TN-TXG-73-NEW.png)
 
 ---
 
