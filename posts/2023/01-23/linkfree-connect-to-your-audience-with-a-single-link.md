@@ -226,6 +226,14 @@ Here is a selection of our popular documentation guides to help you get started.
 
 ---
 
+<iframe width="900" height="506" src="https://www.youtube.com/embed/h3_qNTLx6dI" title="Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude
+
+---
+
 ### My other Eddie Jaoude articles:
 
 🔗 [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
