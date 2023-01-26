@@ -1,5 +1,5 @@
 ---
-title: "LinkFree: Connect to Your Audience With a Single Link"
+title: "LinkFree: More Than Just Links, It’s a Social Tech Platform"
 tags:
   [
     "opensource",
