@@ -49,7 +49,7 @@ Creating a LinkFree account in its early stages will allow you to stand out sign
 In addition to a smaller user base compared to other platforms, currently, LinkFree consists of tech-related individuals. 
 
 #### **Advertise your products**
-Do you have a book, course, or other product to sell? You can add links along with descriptions on your LinkFree profile!
+Do you have a book, course, or other product to sell? You can add links to them along with descriptions on your LinkFree profile!
 
 #### **Share your accomplishments**
 You can share your significant achievements in your "Milestones" section. 
