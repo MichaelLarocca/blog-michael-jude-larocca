@@ -71,10 +71,9 @@ LinkFree is an open-source project that is just getting started. Enhancements al
 
 ---
 
-### LinkFree
-(WRITE ARTICLE SECTION)
-
 ![LinkFree-advert](img/01-30-23/LinkFree-advert.png)
+
+---
 
 ### Features
 (WRITE ARTICLE SECTION)
