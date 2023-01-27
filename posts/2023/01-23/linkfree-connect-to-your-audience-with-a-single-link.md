@@ -46,7 +46,7 @@ LinkFree is a newer platform with just over 1,000 active users/profiles.
 Creating a LinkFree account in its early stages will allow you to stand out significantly on the platform, making it easier for you to grow your online presence.
 
 #### **Niche tech social platform**
-In addition to a smaller user base compared to other platforms, currently, LinkFree consists of tech-related individuals. 
+In addition to a smaller user base compared to other platforms, currently, LinkFree consists of like-minded tech individuals.
 
 #### **Advertise your products**
 Do you have a book, course, or other product to sell? You can add links to them along with descriptions on your LinkFree profile!
