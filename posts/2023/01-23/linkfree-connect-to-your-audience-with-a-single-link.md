@@ -10,21 +10,62 @@ published: true
 date: "2023-01-02"
 ---
 
-#### HOLD
+#### (WRITE ARTICLE SECTION) More than just links, it's a tech social platform!
 
 ---
 
-![TN-TXG-73](img/01-30-23/TN-TXG-73-NEW.png)
-
----
-
-Intro
-(WRITE ARTICLE SECTION)
+![TN-TXG-73](img/01-30-23/TN-TXG-73-FINAL.png)
 
 ---
 
 ### About Eddie
 (WRITE ARTICLE SECTION)
+
+---
+
+### What is LinkFree?
+
+What is LinkFree? LinkFree is a FREE, open-source platform that allows you to connect to your audience with a single link, similar to services like Linktree.
+
+### Why use LinkFree?
+
+**If you are a developer, content creator, writer, or learning in public, creating a LinkFree account will benefit you for several reasons.**
+* Comparatively small user base
+* Niche tech social platform
+* Advertise your products
+* Share your accomplishments
+* Give and receive testimonials
+* Share upcoming events your attending
+* And more!
+
+#### **Comparatively small user base**
+LinkFree is a newer platform with just over 1,000 active users/profiles. 
+
+Creating a LinkFree account in its early stages will allow you to stand out significantly on the platform, making it easier for you to grow your online presence.
+
+#### **Niche tech social platform**
+In addition to a smaller user base compared to other platforms, currently, LinkFree consists of tech-related individuals. 
+
+#### **Advertise your products**
+Do you have a book, course, or other product to sell? You can add links along with descriptions on your LinkFree profile!
+
+#### **Share your accomplishments**
+You can share your significant achievements in your "Milestones" section. 
+
+#### **Give and receive testimonials**
+You can let others know how they've helped you by writing testimonials. Additionally, others can also write testimonials about you!
+
+Testimonials on LinkFree profiles are an excellent way for others to learn about each other at a glance.
+
+#### **Share upcoming events your attending**
+Are you attending upcoming conferences, meetups, virtual, or similar events?
+
+Let others know what upcoming events you're attending in your LinkFree events section.
+
+#### **And more!**
+LinkFree is an open-source project that is just getting started. Enhancements already in the works include login authorization, enhanced search features, and a more beginner-friendly interface.
+
+***What is the best part about LinkFree? As it is an open-source project, YOUR ideas, opinions, and contributions matter in making the platform the best it can be!***
 
 ---
 
