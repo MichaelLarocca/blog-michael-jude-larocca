@@ -27,6 +27,8 @@ date: "2023-01-02"
 
 What is LinkFree? LinkFree is a FREE, open-source platform that allows you to connect to your audience with a single link, similar to services like Linktree.
 
+---
+
 ### Why use LinkFree?
 
 **If you are a developer, content creator, writer, or learning in public, creating a LinkFree account will benefit you for several reasons.**
