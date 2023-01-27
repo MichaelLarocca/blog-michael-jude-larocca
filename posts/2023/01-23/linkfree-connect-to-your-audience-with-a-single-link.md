@@ -55,9 +55,9 @@ Do you have a book, course, or other product to sell? You can add links to them 
 You can share your significant achievements in your "Milestones" section. 
 
 #### **Give and receive testimonials**
-You can let others know how they've helped you by writing testimonials. Additionally, others can also write testimonials about you!
-
 Testimonials on LinkFree profiles are an excellent way for others to learn about each other at a glance.
+
+You can let others know how they've helped you by writing testimonials. Additionally, others can also write testimonials about you!
 
 #### **Share upcoming events your attending**
 Are you attending upcoming conferences, meetups, virtual, or similar events?
