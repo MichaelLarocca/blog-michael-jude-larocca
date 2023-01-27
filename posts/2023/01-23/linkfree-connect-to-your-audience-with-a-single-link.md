@@ -65,9 +65,9 @@ Are you attending upcoming conferences, meetups, virtual, or similar events?
 Let others know what upcoming events you're attending in your LinkFree events section.
 
 #### **And more!**
-LinkFree is an open-source project that is just getting started. Enhancements already in the works include login authorization, enhanced search features, and a more beginner-friendly interface.
+LinkFree is an open-source project that is just getting started. Enhancements already in the works include login authorization, enhanced search features, and a more beginner-friendly user interface.
 
-***What is the best part about LinkFree? As it is an open-source project, YOUR ideas, opinions, and contributions matter in making the platform the best it can be!***
+*What is the best part about LinkFree? As it is an open-source project, ***YOUR*** ideas, opinions, and contributions matter in making the platform the best it can be!*
 
 ---
 
