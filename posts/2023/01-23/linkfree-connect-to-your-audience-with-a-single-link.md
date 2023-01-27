@@ -170,99 +170,98 @@ Here is a selection of our popular documentation guides to help you get started.
 ---
 
 ### Template
-(WRITE ARTICLE SECTION)
+
+Below is the JSON file I created for my LinkFree profile; the file met the necessary requirements and was successfully merged via pull request. **Feel free to use it as a template and modify it accordingly**.
 
 ```json
+
 {
-  "name": "HOLD",
+  "name": "Michael Larocca",
   "type": "personal",
   "displayStatsPublic": true,
-  "bio": "HOLD | HOLD | HOLD",
-  "avatar": "HOLD",
+  "bio": "Front-End Web Developer | **Writer** | Musician",
+  "avatar": "https://github.com/MichaelLarocca.png",
   "tags": [
-    "Javascript",
+    "frontend",
+    "javascript",
     "writing",
-    "frontend"
+    "music"
   ],
   "socials": [
-    { "icon": "FaTwitter", "url": "HOLD" },
-    { "icon": "FaGithub", "url": "HOLD" },
-    { "icon": "FaYoutube", "url": "HOLD" }
+    { "icon": "FaLinkedin", "url": "https://www.linkedin.com/in/michael-larocca-9315a3202/" },
+    { "icon": "FaTwitter", "url": "https://twitter.com/MikeJudeLarocca" },
+    { "icon": "FaGithub", "url": "https://github.com/MichaelLarocca" }
   ],
   "links": [
     {
       "group": "Business",
-      "name": "Website: HOLD",
-      "url": "HOLD",
+      "name": "Website: michaeljudelarocca.com",
+      "url": "https://michaeljudelarocca.com/",
       "icon": "FaLink"
     },
     {
       "group": "Socials Primary",
-      "name": "Twitter: Follow me",
-      "url": "HOLD",
+      "name": "Blog: Self-Taught the X Generation",
+      "url": "https://selftaughttxg.com/",
+      "icon": "FaLink"
+    },    
+    {
+      "group": "Socials Primary",
+      "name": "Twitter: @MikeJudeLarocca",
+      "url": "https://twitter.com/MikeJudeLarocca",
       "icon": "FaTwitter",
       "color": "#00ACEE"
     },
     {
       "group": "Socials Primary",
       "name": "LinkedIn: Let's connect",
-      "url": "HOLD",
+      "url": "https://www.linkedin.com/in/michael-larocca-9315a3202/",
       "icon": "FaLinkedin"
     },
     {
       "group": "Socials Secondary",
-      "name": "YouTube Shorts: Quick technical tips",
-      "url": "HOLD",
-      "icon": "FaYoutube"
-    },
-    {
-      "group": "Socials Secondary",
-      "name": "HOLD",
-      "url": "http://discord.eddiehub.org",
+      "name": "Discord: Michael Larocca#7221",
+      "url": "https://discord.com",
       "icon": "FaDiscord"
     },
     {
-      "group": "Socials Secondary",
-      "name": "Podcast: ",
-      "url": "Socials Secondary",
-      "icon": "FaPodcast"
-    },
-    {
-      "name": "CodePen",
-      "url": "HOLD",
+      "name": "CodePen: @Michael_Larocca",
+      "url": "https://codepen.io/Michael_Larocca",
       "icon": "FaCodepen"
     }
   ],
   "milestones": [
     {
       "title": "Started Freelancing",
-      "date": "HOLD",
+      "date": "August 9th, 2022",
       "icon": "FaDollarSign",
       "color": "grey",
-      "description": "Started my own business",
-      "url": "HOLD"
+      "description": "My first paid article 📝",
+      "url": "https://scrimba.com/articles/author/michael/"
     },
     {
       "title": "Started Writing Articles",
-      "date": "HOLD",
+      "date": "December 6th, 2020",
       "icon": "FaPencilAlt",
       "color": "grey",
       "description": "Started my blog",
-      "url": "HOLD"
+      "url": "https://selftaughttxg.com/"
     },    
     {
-      "title": "Started YouTube",
-      "image": "HOLD",
-      "date": "HOLD",
-      "icon": "FaYoutube",
-      "color": "red",
-      "description": "Started creating content",
-      "url": "HOLD"
+      "title": "Earned a Certification",
+      "date": "May 2nd, 2020",
+      "icon": "FaFreeCodeCamp",
+      "color": "green",
+      "description": "Earned freeCodeCamps Responsive Web Design Certification",
+      "url": "https://www.freecodecamp.org/certification/fccab1f30e2-e3ae-4d33-944a-659978c16159/responsive-web-design"
     }
   ]
 }
-
 ```
+
+---
+
+![LinkFree-MJL](img/01-30-23/LinkFree-MJL.png) 
 
 ---
 
