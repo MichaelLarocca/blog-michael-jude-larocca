@@ -31,7 +31,7 @@ What is LinkFree? LinkFree is a FREE, open-source platform that allows you to co
 
 ### Why use LinkFree?
 
-**If you are a developer, content creator, writer, or learning in public, creating a LinkFree account will benefit you for several reasons.**
+**If you are a developer, content creator, writer, or learning in public, creating a LinkFree account will benefit you for several reasons:**
 * Comparatively small user base
 * Niche tech social platform
 * Advertise your products
