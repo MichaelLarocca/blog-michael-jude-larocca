@@ -168,8 +168,7 @@ This section displays the overall popular LinkFree profiles, typically profiles 
 ---
 
 ### Search page
-
-
+(WRITE ARTICLE SECTION)
 
 ---
 
