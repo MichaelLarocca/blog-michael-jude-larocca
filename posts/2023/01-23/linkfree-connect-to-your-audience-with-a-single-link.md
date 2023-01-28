@@ -170,7 +170,7 @@ This section displays the overall popular LinkFree profiles, typically profiles 
 ---
 
 ### Search page
-(WRITE ARTICLE SECTION)
+Use the search page to find LinkFree members by name; alternatively, you can search by tags.
 
 ---
 
