@@ -45,7 +45,7 @@ What is LinkFree? [LinkFree](https://linkfree.eddiehub.io/) is a FREE, open-sour
 #### **Comparatively small user base**
 LinkFree is a newer platform with just over 1,000 active users/profiles. 
 
-Creating a LinkFree account in its early stages will allow you to stand out significantly on the platform, making it easier for you to grow your online presence.
+Creating a LinkFree account in its early stages will allow you to stand out significantly on the platform, making it easier for you to grow your network and online presence.
 
 #### **Niche tech social platform**
 In addition to a smaller user base compared to other platforms, currently, LinkFree consists of like-minded tech individuals.
