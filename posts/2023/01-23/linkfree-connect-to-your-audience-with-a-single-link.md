@@ -103,7 +103,7 @@ Similar to tags on a blog article, you can add tags that relate to you on your p
 
 When you click on a tag, for example, a javascript tag, you jump to the search page, now populated with other LinkFree members that have the corresponding tag, making it easy to network with others!
 
-Currently, you can make up your original tags; you are not limited to a pre-defined group. However, slight spelling and upper/lowercase variations are presently causing issues. For example, the tags, javascript, and JavaScript result in two groups. They are aware of this issue and are addressing it.
+Currently, you can invent your own tags; you are not limited to pre-defined tags. However, this causes a known issue. Slight spelling differences, including upper/lowercase variations, separate users into separate groups ( javascript and JavaScript result in two groups). This issue is being addressed.
 
 ![Tags](img/01-30-23/Tags.png)
 
