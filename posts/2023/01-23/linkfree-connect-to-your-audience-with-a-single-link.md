@@ -76,8 +76,8 @@ LinkFree is an open-source project that is just getting started. Enhancements al
 ---
 
 ### Features
-(WRITE ARTICLE SECTION)
 
+**In this section of the article, we will take a look at LinkFree's current features:**
 * Your Bio, Social links & Stats
 * Search by Tags
 * Your QR code
