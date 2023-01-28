@@ -111,7 +111,9 @@ Now, this is really cool! You automatically get a QR code associated with your L
 You will see an icon for your QR code bouncing on the bottom left side of your profile picture. The page expands when you click the icon, revealing your QR code.
 
 #### **Your Links**
-(WRITE ARTICLE SECTION)
+And now, it is time for LinkFree's main feature, links! This section is where you create links to your other platforms. 
+
+You can organize your links into several categories: business, socials primary, secondary, and others.
 
 ![MyLinks](img/01-30-23/MyLinks.png)
 
