@@ -165,6 +165,11 @@ This section displays the overall popular LinkFree profiles, typically profiles 
 
 ![DiscoverProfiles](img/01-30-23/DiscoverProfiles.png)
 
+---
+
+### Search page
+
+
 
 ---
 
