@@ -10,7 +10,7 @@ published: true
 date: "2023-01-02"
 ---
 
-#### (WRITE ARTICLE SECTION) More than just links, it's a tech social platform!
+#### If you want a single link to one place showcasing all of your content, and want to expand your network, let me introduce you to LinkFree. It is more than just your links. It is a tech social platform!
 
 ---
 
