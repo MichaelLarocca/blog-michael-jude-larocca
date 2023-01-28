@@ -144,16 +144,27 @@ All events posted by community LinkFree accounts, such as the EddieHubEddieHubCo
 ---
 
 ### Discover page
-(WRITE ARTICLE SECTION)
 
+**The LinkFree discover page currently consists of the following four sections:**
 * Discover LinkFree Profiles
 * Random LinkFree Profiles
 * Trending LinkFree Profiles (last 24 hours)
 * Popular LinkFree Profiles
 
+#### **Discover LinkFree Profiles**
+In the discover LinkFree profiles section, you can filter members by the corresponding tags on display.
+
+#### **Random LinkFree Profiles**
+In this section, every LinkFree member gets a chance to get discovered! Just click the refresh icon to display a new random group of profiles.
+
+#### **Trending LinkFree Profiles (last 24 hours)**
+Different members trend on different days! Discover who is currently tending in this section.
+
+#### **Popular LinkFree Profiles**
+This section displays the overall popular LinkFree profiles, typically profiles with over 5k views.
+
 ![DiscoverProfiles](img/01-30-23/DiscoverProfiles.png)
 
-*Also includes a search page!*
 
 ---
 
