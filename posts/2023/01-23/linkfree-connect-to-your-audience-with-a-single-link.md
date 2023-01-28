@@ -125,12 +125,14 @@ On your profile, you will see a milestones tab. The milestones section displays 
 #### **Your Testimonials**
 When other LinkFree members write testimonials about you, upon your approval, they will display in the testimonials section of your profile.
 
-When someone writes you a testimonial, you will receive a GitHub notification. If you want to display the testimonial on your LinkFree profile, you must merge it via pull request. Additionally, you will need to add a testimonial field to your JSON file that includes the LinkFree member's user name that gave you the testimonial. Don't worry, it's not a difficult as it sounds, and there is thorough documentation on the whole process.
+When someone writes you a testimonial, you will receive a GitHub notification. If you want to display the testimonial on your LinkFree profile, you must merge it via pull request. Additionally, you will need to add a testimonial field to your JSON file that includes the LinkFree member's user name that gave you the testimonial. Don't worry, it's not as difficult as it sounds, and there is thorough documentation on the whole process.
 
 ![Testimonials](img/01-30-23/Testimonials.png)
 
 #### **Your Events**
-(WRITE ARTICLE SECTION)
+If you are attending upcoming events, in person or virtual, you can let others know in this section.
+
+To add upcoming events to your profile, you will need to create a JSON file and have it merged via pull request. Again, no worries; the documentation is easy to follow.
 
 ![Your Events](img/01-30-23/YourEvents.png)
 
