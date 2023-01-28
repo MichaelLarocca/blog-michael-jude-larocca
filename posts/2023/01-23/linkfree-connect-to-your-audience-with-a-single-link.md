@@ -118,7 +118,7 @@ You can organize your links into several categories: business, socials primary, 
 ![MyLinks](img/01-30-23/MyLinks.png)
 
 #### **Your Milestones**
-(WRITE ARTICLE SECTION)
+On your profile, you will see a milestones tab. The milestones section displays the highlights of your career, such as earning a certification, your first paid gig in tech, starting a blog, YouTube, or similar accomplishments.
 
 ![Milestones](img/01-30-23/Milestones.png)
 
