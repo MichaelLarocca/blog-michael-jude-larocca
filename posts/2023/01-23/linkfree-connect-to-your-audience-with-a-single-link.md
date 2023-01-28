@@ -25,7 +25,9 @@ date: "2023-01-02"
 
 ### What is LinkFree?
 
-What is LinkFree? LinkFree is a FREE, open-source platform that allows you to connect to your audience with a single link, similar to services like Linktree.
+What is LinkFree? [LinkFree](https://linkfree.eddiehub.io/) is a FREE, open-source platform that allows you to connect to your audience with a single link, similar to services like Linktree.
+
+**🔗 Link to the website: [linkfree.eddiehub.io](https://linkfree.eddiehub.io/)** 
 
 ---
 
@@ -200,7 +202,6 @@ Here is a selection of our popular documentation guides to help you get started.
 Below is the JSON file I created for my LinkFree profile; the file met the necessary requirements and was successfully merged via pull request. **Feel free to use it as a template and modify it accordingly**.
 
 ```json
-
 {
   "name": "Michael Larocca",
   "type": "personal",
@@ -307,6 +308,7 @@ Below is the JSON file I created for my LinkFree profile; the file met the neces
 
 ### Eddie's links
 
+* 🔗[LinkFree](https://linkfree.eddiehub.io/)
 * 🔗[Website: eddiejaoude](https://www.eddiejaoude.io/)
 * 🔗[GitHub: eddiejaoude](https://github.com/eddiejaoude)
 * 🔗[EddieHubCommunity](https://github.com/EddieHubCommunity)
