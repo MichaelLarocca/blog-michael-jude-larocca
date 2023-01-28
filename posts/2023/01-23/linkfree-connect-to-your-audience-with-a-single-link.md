@@ -175,17 +175,16 @@ Use the search page to find LinkFree members by name; alternatively, you can sea
 ---
 
 ### Documentation
-(WRITE ARTICLE SECTION)
 
-Here is a selection of our popular documentation guides to help you get started.
-
-**Popular User Guides**
+**Here is a selection of LinkFree's popular documentation guides to help you get started:**
 * [QuickStart](https://linkfree.eddiehub.io/docs/quickstart)
 * [Links](https://linkfree.eddiehub.io/docs/how-to-guides/links)
 * [Bio](https://linkfree.eddiehub.io/docs/how-to-guides/bio)
 * [Statistics](https://linkfree.eddiehub.io/docs/how-to-guides/statistics)
 * [Events](https://linkfree.eddiehub.io/docs/how-to-guides/events)
 * [Milestones](https://linkfree.eddiehub.io/docs/how-to-guides/milestones)
+
+*As LinkFree is an open-source project, contributions are welcome! Check out the [LinkFree repo](https://github.com/EddieHubCommunity/LinkFree) and the [documentation source](https://github.com/EddieHubCommunity/LinkFree/tree/main/pages/docs) on GitHub for more information.*
 
 ---
 
