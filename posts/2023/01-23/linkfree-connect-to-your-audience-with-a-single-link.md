@@ -323,6 +323,6 @@ Below is the JSON file I created for my LinkFree profile; the file met the neces
 
 ---
 
-###### ***HOLD? HOLD? Please share the article and comment!***
+###### ***Are you now interested in creating a LinkFree profile? Have you already created a profile and made new connections? Please share the article and comment!***
 
 ---
