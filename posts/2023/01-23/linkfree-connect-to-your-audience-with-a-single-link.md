@@ -88,7 +88,6 @@ LinkFree is an open-source project that is just getting started. Enhancements al
 * Community Events
 
 #### **Your Bio, Social links & Stats**
-
 In this section, you can provide a short bio and add social links via icons.
 
 For my bio, I wrote "Front-End Web Developer | `**Writer**` | Musician" ( since it's Markdown language, I made Writer bold by surrounding it with asterisks).
@@ -98,11 +97,18 @@ When people view your profile, the total number is displayed next you your image
 ![Your Bio](img/01-30-23/YourBio.png)
 
 #### **Search by Tags**
-(WRITE ARTICLE SECTION)
+Similar to tags on a blog article, you can add tags that relate to you on your profile.
+
+When you click on a tag, for example, a javascript tag, you jump to the search page, now populated with other LinkFree members that have the corresponding tag, making it easy to network with others!
+
+Currently, you can make up your original tags; you are not limited to a pre-defined group. However, slight spelling and upper/lowercase variations are presently causing issues. For example, the tags, javascript, and JavaScript result in two groups. They are aware of this issue and are addressing it.
+
 ![Tags](img/01-30-23/Tags.png)
 
 #### **Your QR code**
-(WRITE ARTICLE SECTION)
+Now, this is really cool! You automatically get a QR code associated with your LinkFree account by just joining! 
+
+You will see an icon for your QR code bouncing on the bottom left side of your profile picture. The page expands when you click the icon, revealing your QR code.
 
 #### **Your Links**
 (WRITE ARTICLE SECTION)
