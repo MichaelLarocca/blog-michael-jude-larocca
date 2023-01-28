@@ -184,6 +184,8 @@ Use the search page to find LinkFree members by name; alternatively, you can sea
 * [Events](https://linkfree.eddiehub.io/docs/how-to-guides/events)
 * [Milestones](https://linkfree.eddiehub.io/docs/how-to-guides/milestones)
 
+🔗 Here is a link to the complete documentation: [https://linkfree.eddiehub.io/docs](https://linkfree.eddiehub.io/docs)
+
 *As LinkFree is an open-source project, contributions are welcome! Check out the [LinkFree repo](https://github.com/EddieHubCommunity/LinkFree) and the [documentation source](https://github.com/EddieHubCommunity/LinkFree/tree/main/pages/docs) on GitHub for more information.*
 
 ---
