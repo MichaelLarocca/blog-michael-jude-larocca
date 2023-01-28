@@ -137,7 +137,7 @@ To add upcoming events to your profile, you will need to create a JSON file and 
 ![Your Events](img/01-30-23/YourEvents.png)
 
 #### **Community Events**
-(WRITE ARTICLE SECTION)
+All events posted by community LinkFree accounts, such as the EddieHubEddieHubCommunity, will be displayed in this section.
 
 ![CommunityEvents](img/01-30-23/CommunityEvents.png)
 
