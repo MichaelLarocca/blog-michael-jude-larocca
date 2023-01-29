@@ -302,11 +302,23 @@ Below is the JSON file I created for my LinkFree profile; the file met the neces
 
 ---
 
+#### Check out this “LinkFree in action” video of [Francesco Ciulla](https://linkfree.eddiehub.io/FrancescoXX) setting up a LinkeFree profile with Eddie Jaoude from scratch!
+
+*“This is one of the most promising projects I saw so far. Congrats to Eddie Jaoude and to whoever is participating in the amazing OPEN-SOURCE project!”*
+
+> *-Francesco Ciulla*
+
+---
+
 <iframe width="900" height="506" src="https://www.youtube.com/embed/h3_qNTLx6dI" title="Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
 #### Linkfree - Open Source way to connect to your audience with one link - Eddie Jaoude
+
+---
+
+📝 ***If you found this article helpful and have created a LinkFree profile, please consider writing a brief testimonial for me on [LinkFree](https://linkfree.eddiehub.io/MichaelLarocca).*** 👍🏻 
 
 ---
 
@@ -328,7 +340,16 @@ Below is the JSON file I created for my LinkFree profile; the file met the neces
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+As a developer, content creator, writer, or someone simply learning in public, you will significantly benefit from creating a LinkFree profile, as it provides you with so much more than just one link to all of your content.
+
+LinkFree also offers you a spotlight in a small yet growing community of wonderful like-minded people to network with, resulting in a significantly greater chance of others discovering YOU than on similar services with much larger user bases.
+
+As a platform, LinkFree is just getting started and already has many more features in the making. Since LinkFree is an open-source project, creating a profile empowers YOU! As part of the LinkFree community, you will have an opportunity to contribute, ultimately providing you with an overall inclusive say in where this fantastic project is going!
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
 
