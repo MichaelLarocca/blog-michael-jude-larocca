@@ -19,7 +19,16 @@ date: "2023-01-02"
 ---
 
 ### About Eddie
-(WRITE ARTICLE SECTION)
+
+Eddie earned an Msc in Advanced Electronic Engineering at the University of Warwick.
+
+He is a full-stack developer passionate about open-source, culture, community, and best coding practices. As a public speaker, Eddie promotes these topics at conferences worldwide.
+
+As one of GitHub’s most influential developers, the community nominated him to become a GitHub star!
+
+Eddie is also the founder of EddieHub, an inclusive open-source community that encourages and promotes communication, best practices, and technical expertise.
+
+Eddie also promotes open-source and teaches on his YouTube channel, consisting of over 37k subscribers with over 1 million video views.
 
 ---
 
