@@ -7,7 +7,7 @@ tags:
     "networking",
   ]
 published: true
-date: "2023-01-02"
+date: "2023-01-30"
 ---
 
 #### If you want a single link to one place showcasing all of your content, and want to expand your network, let me introduce you to LinkFree. It is more than just your links. It is a tech social platform!
