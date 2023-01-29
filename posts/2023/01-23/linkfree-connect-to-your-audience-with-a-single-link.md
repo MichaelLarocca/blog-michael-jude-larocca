@@ -302,7 +302,7 @@ Below is the JSON file I created for my LinkFree profile; the file met the neces
 
 ---
 
-#### Check out this “LinkFree in action” video of [Francesco Ciulla](https://linkfree.eddiehub.io/FrancescoXX) setting up a LinkeFree profile with Eddie Jaoude from scratch!
+#### Check out this “LinkFree in action” video of [Francesco Ciulla](https://linkfree.eddiehub.io/FrancescoXX) setting up a LinkFree profile with Eddie Jaoude from scratch!
 
 *“This is one of the most promising projects I saw so far. Congrats to Eddie Jaoude and to whoever is participating in the amazing OPEN-SOURCE project!”*
 
