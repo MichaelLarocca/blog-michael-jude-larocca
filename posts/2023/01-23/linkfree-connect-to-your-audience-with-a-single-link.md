@@ -1,5 +1,5 @@
 ---
-title: "LinkFree: More Than Just Your Links, It’s a Social Tech Platform"
+title: "LinkFree: More Than Just Your Links, It’s a Tech Social Platform"
 tags:
   [
     "opensource",
