@@ -78,7 +78,7 @@ Let others know what upcoming events you're attending in your LinkFree events se
 #### **And more!**
 LinkFree is an open-source project that is just getting started. Enhancements already in the works include login authorization, enhanced search features, and a more beginner-friendly user interface.
 
-*What is the best part about LinkFree? As it is an open-source project, ***YOUR*** ideas, opinions, and contributions matter in making the platform the best it can be!*
+*What is the best part about LinkFree? As it is an open-source project,* ***YOUR*** *ideas, opinions, and contributions matter in making the platform the best it can be!*
 
 ---
 
@@ -101,7 +101,7 @@ LinkFree is an open-source project that is just getting started. Enhancements al
 #### **Your Bio, Social links & Stats**
 In this section, you can provide a short bio and add social links via icons.
 
-For my bio, I wrote "Front-End Web Developer | `**Writer**` | Musician" ( since it's Markdown language, I made Writer bold by surrounding it with asterisks).
+For my bio, I wrote "`Front-End Web Developer | **Writer** | Musician`" ( since it's Markdown language, I made Writer bold by surrounding it with asterisks).
 
 When people view your profile, the total number is displayed next you your image. As you can see, Eddie used bold on "EddieHub" and "GitHub." 
 
@@ -318,7 +318,7 @@ Below is the JSON file I created for my LinkFree profile; the file met the neces
 
 ---
 
-📝 ***If you found this article helpful and have created a LinkFree profile, please consider writing a brief testimonial for me on [LinkFree](https://linkfree.eddiehub.io/MichaelLarocca).*** 👍🏻 
+📝 ***If you found this article helpful and have created a LinkFree profile, please consider writing a brief testimonial for me on [LinkFree](https://linkfree.eddiehub.io/MichaelLarocca).*** 👍🏻
 
 ---
 
