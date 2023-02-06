@@ -1,5 +1,5 @@
 ---
-title: "iCodeThis: Improve Your Coding Skills With Free Daily Challenges!"
+title: "iCodeThis: Improve Your Coding Skills With Free Daily Challenges"
 tags:
   [
     "javascript",
