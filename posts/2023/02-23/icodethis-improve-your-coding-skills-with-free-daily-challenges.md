@@ -68,7 +68,7 @@ You use your email to log in via [Magic Link](https://supabase.com/docs/guides/a
 Your username is prominent on your profile card, and your member joined date displays directly below it.
 
 #### **Bio**
-The bio section provides you an opportunity to let others know more about you.
+The bio section provides you an opportunity to let others know more about you. Below your bio, the total number of likes and completed challenges display with corresponding icons.
 
 #### **Website**
 You can only add one URL for your website, so I decided to provide my newly created [LinkFree](https://selftaughttxg.com/2023/01-23/linkfree-connect-to-your-audience-with-a-single-link/) address! 
@@ -90,5 +90,73 @@ I added GitHub and Twitter.
 ***Note:*** *If you are experiencing issues with your profile URLs, make sure not to include the domain, just the path.* 
 
 ![My Profile](img/02-06-23/MyProfile.png)
+
+---
+
+### Home screen
+
+The home screen displays an image and description of the current coding challenge. There is also an option to complete up to three previous challenges.
+
+A countdown clock on the top of the page shows when the next challenge will be released!
+
+The current amount of iCodeThis members display at the bottom of the page, along with the total challenges completed.
+
+---
+
+### Daily Challenge
+
+The daily challenge page displays an image and description of the current coding challenge, along with instructions on qualifications for completing it and optional stretch goals. 
+
+This page also displays fellow iCoders submitted challenges which show as cards that include their name, an image of their challenge, and a purple heart that acts as a like counter which you can click!
+
+**Click the "submit entry" to participate in the current coding challenge. You will code using a built-in code editor.** 
+
+This page provides an adjustable split-screen. On the left is the code editor, with HTML, CSS, and JavaScript tabs. The right side displays the result of your code along with a nice toggle button that reveals an image of the completed challenge for you to reference.
+
+In addition, you can time yourself with a built-in timer! Just click on the clock icon. The clock options are a start, pause, and restart timer. Very cool!
+
+While coding, you can save your progress by clicking the save button at the top right of the screen.
+
+**When your coding challenge is complete, you can submit it using the submit button, which is also at the top right of the screen.**
+
+You are also encouraged to share your solutions using the hashtag #icodethis on social media!
+
+***Note:*** *The coding challenges use the CSS framework Tailwind by default. If you do not want to use it, delete or remark the following code from the HTML file:*
+
+```html
+<script src="https://cdn.tailwindcss.com"></script>
+```
+
+---
+
+### Past Challenges
+
+The past challenge page allows you to access and participate in the previous three challenges.
+
+At the time of writing this article, iCodeThis is FREE. There is a PRO membership in the making, and when it is available, all PRO members can access ALL challenges and more!
+
+---
+
+### Leaderboard
+
+To quote a line from one of my favorite movies, "This is where the fun begins!"
+
+**The leaderboard has three categories: likes today, likes all time, and completed challenges.**
+
+The top three candidates display at the top of the page of each corresponding category, and the remaining fourth-place through tenth-place leaders show below.
+
+Each leader displays the total number of likes received in the form of a purple heart!
+
+---
+
+### Discord community 
+
+Meet and connect with other iCoders on Discord! The Discord community is a great place to introduce yourself, showcase your work, and give and receive help for iCodeThis coding challenges.
+
+You can also stay updated with all iCodeThis-related news in the updates section. They even have a custom projects section that encourages you to create and showcase original work you make on the iCodeThis platform!
+
+As the iCodeThis platform is still in the making, you can offer suggestions to improve the platform by submitting them in the suggestions section.
+
+🔗 ***[iCodeThis Discord channel](https://discord.gg/wrFuatUx7f)***
 
 ---
