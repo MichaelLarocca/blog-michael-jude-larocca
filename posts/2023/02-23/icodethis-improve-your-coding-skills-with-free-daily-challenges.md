@@ -127,6 +127,10 @@ You are also encouraged to share your solutions using the hashtag #icodethis on 
 
 ---
 
+![Code Editor](img/02-06-23/CodeEditor.png)
+
+---
+
 ### Past Challenges
 
 The past challenge page allows you to access and participate in the previous three challenges.
@@ -144,6 +148,10 @@ To quote a line from one of my favorite movies, "This is where the fun begins!"
 The top three candidates display at the top of the page of each corresponding category, and the remaining fourth-place through tenth-place leaders show below.
 
 Each leader displays the total number of likes received in the form of a purple heart!
+
+---
+
+![Leaderboards](img/02-06-23/Leaderboards.png)
 
 ---
 
