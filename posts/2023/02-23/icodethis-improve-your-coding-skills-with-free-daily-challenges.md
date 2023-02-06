@@ -89,6 +89,6 @@ I added GitHub and Twitter.
 
 ***Note:*** *If you are experiencing issues with your profile URLs, make sure not to include the domain, just the path.* 
 
-![HOLD](HOLD)
+![My Profile](img/02-06-23/MyProfile.png)
 
 ---
