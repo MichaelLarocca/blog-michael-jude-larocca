@@ -10,9 +10,7 @@ published: true
 date: "2023-02-06"
 ---
 
-#### 
-Opening
-(200 characters)
+#### The best way to improve your coding skills is to code daily. In this article, we look at iCodeThis, a new FREE platform that offers daily challenges to help you become the best developer you can be!
 
 ---
 
@@ -191,7 +189,12 @@ As the iCodeThis platform is still in the making, you can offer suggestions to i
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+If you want to improve your coding skills, it is best to practice daily. iCodeThis is a FREE platform that offers daily coding challenges, a place to write original programs, and a place to share your work. 
+
+The leaderboards are a fun and engaging way to encourage you to do your best to make the ranks and cheer on your fellow iCoders to do the same!
+
+The iCodeThis Discord community is also an excellent resource for you. You can receive and give help there regarding the coding challenges, your original projects, and more, ultimately helping you become a better programmer!
 
 ---
 
