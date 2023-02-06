@@ -37,8 +37,8 @@ iCodeThis is a community-based platform where you complete daily coding challeng
 ---
 
 ### Why use iCodeThis
-(WRITE ARTICLE SECTION)
 
+The best way to improve your coding skills is by coding daily. iCodeThis is a FREE platform that offers daily coding challenges and a community to help you become the best developer you can be! 
 
 🔗 [https://www.icodethis.com/](https://www.icodethis.com/)
 
@@ -160,3 +160,43 @@ As the iCodeThis platform is still in the making, you can offer suggestions to i
 🔗 ***[iCodeThis Discord channel](https://discord.gg/wrFuatUx7f)***
 
 ---
+
+##### *Check out Florin completing iCodeThis challenges on this YouTube Livestream!*
+
+<iframe width="853" height="480" src="https://www.youtube.com/embed/xsP_qD1zXu4" title="Daily Coding Projects on iCodeThis" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### Daily Coding Projects on iCodeThis
+
+---
+
+### My other Florin Pop articles
+
+🔗 [Scrimba Livestream with Florin Pop](https://selftaughttxg.com/2021/06-21/06-21-21/)
+
+---
+
+### Florin Pop links
+
+* 🔗 [Website/Blog](https://florin-pop.com) 
+* 🔗 [Twitter](https://twitter.com/florinpop1705)
+* 🔗 [Linkedin](https://linkedin.com/in/florinpop17)
+* 🔗 [Instagram](https://instagram.com/florinpop17)
+* 🔗 [Facebook](https://facebook.com/florinpop17)
+* 🔗 [Github](https://github.com/florinpop17)
+* 🔗 [Dev.to](https://dev.to/florinpop17)
+* 🔗 [Twitch](https://twitch.com/florinpop17)
+
+---
+
+### Conclusion
+(WRITE ARTICLE SECTION)
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### ***Are you now interested in joining the iCodeThis community to better your coding skills? Are you already part of the iCodeThis community and would like to tell us how it has helped you? Please share the article and comment!***
