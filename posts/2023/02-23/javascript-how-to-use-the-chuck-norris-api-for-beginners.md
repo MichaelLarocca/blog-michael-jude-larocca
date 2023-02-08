@@ -221,3 +221,19 @@ fetchJoke();
 🔗 Here is a link to the finished project: [chuck-norris-api-vd-card-one.netlify.app](https://chuck-norris-api-vd-card-one.netlify.app/)
 
 ---
+
+### HOLD
+(WRITE ARTICLE SECTION)
+
+---
+
+### Conclusion
+(WRITE ARTICLE SECTION)
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### *** ? ? Please share the article and comment!***
