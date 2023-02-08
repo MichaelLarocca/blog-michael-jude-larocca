@@ -214,11 +214,9 @@ fetchJoke();
 
 ***Since I wanted to focus on the JavaScript aspects and keep this article beginner-friendly, feel free to copy my HTML and CSS code to complete the Valentine's Day card.***
 
-🔗 Here is a link to the GitHub repo: [Chuck-Norris-API-VD-Card-01](https://github.com/MichaelLarocca/Chuck-Norris-API-VD-Card-01)
-
-🔗 Here is a link to the CodePen: [Chuck Norris VD Card one](https://codepen.io/Michael_Larocca/pen/MWBdyZb?editors=0011)
-
-🔗 Here is a link to the finished project: [chuck-norris-api-vd-card-one.netlify.app](https://chuck-norris-api-vd-card-one.netlify.app/)
+* 🔗 Here is a link to the GitHub repo: [Chuck-Norris-API-VD-Card-01](https://github.com/MichaelLarocca/Chuck-Norris-API-VD-Card-01)
+* 🔗 Here is a link to the CodePen: [Chuck Norris VD Card one](https://codepen.io/Michael_Larocca/pen/MWBdyZb?editors=0011)
+* 🔗 Here is a link to the finished project: [chuck-norris-api-vd-card-one.netlify.app](https://chuck-norris-api-vd-card-one.netlify.app/)
 
 ---
 
