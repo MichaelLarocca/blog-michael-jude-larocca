@@ -186,8 +186,6 @@ const displayJoke = document.getElementById("display-joke");
 
 Here is the final JavaScript function:
 ```javascript
-console.clear();
-
 const displayJoke = document.getElementById("display-joke");
 
 async function fetchJoke() {
