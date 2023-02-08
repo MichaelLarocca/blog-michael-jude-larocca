@@ -189,7 +189,7 @@ Here is the final JavaScript function:
 const displayJoke = document.getElementById("display-joke");
 
 async function fetchJoke() {
-const errorMessage = `"DO NOT DISTURB!" Chuck Norris is currently entertaining guests in his hotel room.`;
+    const errorMessage = `"DO NOT DISTURB!" Chuck Norris is currently entertaining guests in his hotel room.`;
   
 	try {
 		const results = await fetch(`https://api.chucknorris.io/jokes/random`);
