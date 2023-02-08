@@ -66,6 +66,36 @@ The [json()](https://developer.mozilla.org/en-US/docs/Web/API/Response/json) met
 
 ---
 
+To simplify, if we successfully retrieve the requested data, we will need to parse it ( convert it ), so we can work with it using JavaScript.
+
+Now, it is essential to know that APIs are different and that you will need to read the documentation of the APIs to see how to work with them.
+
+Let's take a look at the documentation of the [Chuck Norris API](https://api.chucknorris.io/).
+
+---
+
+![Random Joke](img/02-14-2023/RandomJoke.png)
+
+---
+
+The documentation tells us we can retrieve a random joke by using a GET request with the following URL: https://api.chucknorris.io/jokes/random
+
+**When we first receive and parse the data, we get an object like the following:**
+
+![Object](img/02-14-2023/Object.png)
+
+We assigned the whole object to the data variable in the fetch joke function and parsed the results using json().
+ ```javascript
+const data = await results.json();
+```
+
+Now we can access just the joke inside the object as follows:
+```javascript
+data.value
+```
+
+---
+
 **Now that we better understand how an asynchronous function works, let's tighten up the fetch joke function by adding code to handle errors. We will use a try/catch statement.**
 
 We will first add a try block to the fetch joke. If we are unsuccessful in fetching a joke, we will use a catch block to throw an error.
