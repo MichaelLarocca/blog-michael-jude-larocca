@@ -184,6 +184,8 @@ Add this code to JavaScript above the fetch joke function, not in it ( using Cod
 const displayJoke = document.getElementById("display-joke");
 ```
 
+***Note:*** *To add the text of the joke to the HTML paragraph tag, we use the JavaScript [textContent](https://developer.mozilla.org/en-US/docs/Web/API/Node/textContent) property.*
+
 Here is the final JavaScript function:
 ```javascript
 const displayJoke = document.getElementById("display-joke");
