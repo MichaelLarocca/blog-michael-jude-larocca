@@ -220,6 +220,34 @@ fetchJoke();
 
 ---
 
+### Card two
+
+**By reading the Chuck Norris API instructions, you will see we can also retrieve a joke by category.**
+
+Below is the simplest version of the function. 🔽
+```javascript
+async function fetchJoke() {
+		const results = await fetch(
+			`https://api.chucknorris.io/jokes/random?category=dev`);
+		const data = await results.json();
+		  console.log(data.value);
+}
+fetchJoke();
+```
+
+You will notice that the URL to retrieve a random joke by category is slightly different than the one we previously used; we added the following additional code: **?category=dev**. 
+
+The dev in the URL refers to the dev category of Chuck Norris jokes. Let's take a look at the new URL.
+```javascript
+https://api.chucknorris.io/jokes/random?category=dev
+```
+
+The dev category is one of 16 available categories.
+
+**For the second Chuck Norris Valentine's Day card, we will add an HTML selection for the user to choose 1 of 16 categories.**
+
+---
+
 ### HOLD
 (WRITE ARTICLE SECTION)
 
