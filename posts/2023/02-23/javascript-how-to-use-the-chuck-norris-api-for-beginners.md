@@ -254,7 +254,7 @@ let chosenCategory = `dev`;
 #### Template literals
 Next, using [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals), let's update the random category URL:
 ```javascript
-https://api.chucknorris.io/jokes/random?category=${chosenCategory}
+`https://api.chucknorris.io/jokes/random?category=${chosenCategory}`
 ```
 
 #### Available categories
@@ -262,7 +262,7 @@ Great! Now, let's find out what all available categories are by following the Ch
 
 **To retrieve a list of available categories, we use the following URL:**
 ```
-https://api.chucknorris.io/jokes/categories
+`https://api.chucknorris.io/jokes/categories`
 ```
 
 #### Category function
