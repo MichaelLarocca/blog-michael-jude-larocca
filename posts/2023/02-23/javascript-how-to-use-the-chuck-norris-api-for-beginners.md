@@ -267,7 +267,7 @@ Great! Now, let's find out what all available categories are by following the Ch
 
 #### Category function
 **Let's write a function to retrieve the available Chuck Norris joke categories:**
-```
+```javascript
 async function generateCategoryOptions() {
   const results = await fetch(`https://api.chucknorris.io/jokes/categories`);
   const data = await results.json();
