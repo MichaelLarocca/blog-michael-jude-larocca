@@ -243,7 +243,7 @@ https://api.chucknorris.io/jokes/random?category=dev
 
 The dev category is one of 16 available categories.
 
-**For the second Chuck Norris Valentine's Day card, we will add an HTML selection for the user to choose 1 of 16 categories.**
+**For the second Chuck Norris Valentine's Day card, we will add an [HTML Select element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select) for the user to choose 1 of 16 categories.**
 
 #### Create a variable
 First, let's create a **chosenCategory** variable and assign dev to it.
