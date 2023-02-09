@@ -247,6 +247,39 @@ The dev category is one of 16 available categories.
 
 ---
 
+First, let's create a **chosenCategory** variable and assign dev to it.
+```javascript
+let chosenCategory = `dev`;
+```
+
+Next, using template literals, let's update the random category URL:
+```javascript
+https://api.chucknorris.io/jokes/random?category=${chosenCategory}
+```
+Great! Now, let's find out what all available categories are by following the Chuck Norris API instructions.
+
+**To retrieve a list of available categories, we use the following URL:**
+```
+https://api.chucknorris.io/jokes/categories
+```
+
+**Let's write a function to retrieve the available Chuck Norris joke categories:**
+```
+async function generateCategoryOptions() {
+  const results = await fetch(`https://api.chucknorris.io/jokes/categories`);
+  const data = await results.json();
+    console.log(data);
+}
+generateCategoryOptions();
+```
+
+When we run the generate category options function, we receive the following data:
+```javascript
+[animal,career,celebrity,dev,explicit,fashion,food,history,money,movie,music,political,religion,science,sport,travel]
+```
+
+---
+
 ### HOLD
 (WRITE ARTICLE SECTION)
 
