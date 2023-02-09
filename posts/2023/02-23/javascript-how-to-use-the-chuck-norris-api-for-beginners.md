@@ -79,8 +79,11 @@ Let's take a look at the documentation of the [Chuck Norris API](https://api.chu
 ---
 
 The documentation tells us we can retrieve a random joke by using a GET request with the following URL: https://api.chucknorris.io/jokes/random
+```javascript
+const results = await fetch(`https://api.chucknorris.io/jokes/random`);
+```
 
-**When we first receive and parse the data, we get an object like the following:**
+**When we first receive the data, we get an object like the following:**
 
 ![Object](img/02-14-2023/Object.png)
 
