@@ -281,6 +281,8 @@ When we run the generate category options function, we receive the following dat
 [animal,career,celebrity,dev,explicit,fashion,food,history,money,movie,music,political,religion,science,sport,travel]
 ```
 
+**Now that we know all 16 Chuck Norris joke categories, we only need to update the *chosenCategory* variable to choose a new category.** 
+
 ---
 
 ### HOLD
