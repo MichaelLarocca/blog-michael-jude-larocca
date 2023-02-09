@@ -285,6 +285,12 @@ When we run the generate category options function, we receive the following dat
 ```javascript
 let chosenCategory = `music`;
 
+async function fetchJoke() {
+		const results = await fetch(`https://api.chucknorris.io/jokes/random?category=${chosenCategory}`);
+		const data = await results.json();
+		  console.log(data.value);
+}
+fetchJoke();
 ```
 
 ---
