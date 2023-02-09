@@ -252,7 +252,7 @@ First, let's create a **chosenCategory** variable and assign dev to it.
 let chosenCategory = `dev`;
 ```
 
-Next, using template literals, let's update the random category URL:
+Next, using [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals), let's update the random category URL:
 ```javascript
 https://api.chucknorris.io/jokes/random?category=${chosenCategory}
 ```
