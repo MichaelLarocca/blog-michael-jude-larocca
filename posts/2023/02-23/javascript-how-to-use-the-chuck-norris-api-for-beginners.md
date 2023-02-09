@@ -87,7 +87,7 @@ const results = await fetch(`https://api.chucknorris.io/jokes/random`);
 
 ![Object](img/02-14-2023/Object.png)
 
-We assigned the whole object to the data variable in the fetch joke function and parsed the results using json().
+We assigned the object to the data variable in the fetch joke function and parsed the results using json().
  ```javascript
 const data = await results.json();
 ```
