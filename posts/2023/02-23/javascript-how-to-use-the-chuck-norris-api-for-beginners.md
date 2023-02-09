@@ -245,17 +245,19 @@ The dev category is one of 16 available categories.
 
 **For the second Chuck Norris Valentine's Day card, we will add an HTML selection for the user to choose 1 of 16 categories.**
 
----
-
+#### Create a variable
 First, let's create a **chosenCategory** variable and assign dev to it.
 ```javascript
 let chosenCategory = `dev`;
 ```
 
+#### Template literals
 Next, using [template literals](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Template_literals), let's update the random category URL:
 ```javascript
 https://api.chucknorris.io/jokes/random?category=${chosenCategory}
 ```
+
+#### Available categories
 Great! Now, let's find out what all available categories are by following the Chuck Norris API instructions.
 
 **To retrieve a list of available categories, we use the following URL:**
@@ -263,6 +265,7 @@ Great! Now, let's find out what all available categories are by following the Ch
 https://api.chucknorris.io/jokes/categories
 ```
 
+#### Category function
 **Let's write a function to retrieve the available Chuck Norris joke categories:**
 ```
 async function generateCategoryOptions() {
