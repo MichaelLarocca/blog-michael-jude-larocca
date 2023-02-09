@@ -282,6 +282,10 @@ When we run the generate category options function, we receive the following dat
 ```
 
 **Now that we know all 16 Chuck Norris joke categories, we only need to update the *chosenCategory* variable to choose a new category.** 
+```javascript
+let chosenCategory = `music`;
+
+```
 
 ---
 
