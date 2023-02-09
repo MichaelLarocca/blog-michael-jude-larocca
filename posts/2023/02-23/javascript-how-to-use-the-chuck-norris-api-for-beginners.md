@@ -188,8 +188,6 @@ const displayJoke = document.getElementById("display-joke");
 
 Here is the final JavaScript function:
 ```javascript
-const displayJoke = document.getElementById("display-joke");
-
 async function fetchJoke() {
     const errorMessage = `"DO NOT DISTURB!" Chuck Norris is currently entertaining guests in his hotel room.`;
   
