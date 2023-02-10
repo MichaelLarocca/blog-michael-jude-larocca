@@ -382,16 +382,16 @@ Here is the finished generate category options function:
 ```javascript
 async function generateCategoryOptions() {
 	let outPut = ``;
-		const results = await fetch(`https://api.chucknorris.io/jokes/categories`);
-		const data = await results.json();
+	const results = await fetch(`https://api.chucknorris.io/jokes/categories`);
+	const data = await results.json();
 
-		category.removeAttribute("disabled");
+	category.removeAttribute("disabled");
 
-		data.forEach((category) => {
-			outPut += `<option value="${category}">${category}</option>`;
-		});
-		category.innerHTML = outPut;
-		category[3].selected = true;
+	data.forEach((category) => {
+		outPut += `<option value="${category}">${category}</option>`;
+	});
+	category.innerHTML = outPut;
+	category[3].selected = true;
 }
 ```
 
