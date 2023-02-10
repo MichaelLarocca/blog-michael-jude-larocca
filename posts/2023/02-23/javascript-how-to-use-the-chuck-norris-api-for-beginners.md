@@ -353,7 +353,7 @@ const data = await results.json();
 ```
 
 #### Remove the disabled attribute
-When we receive the data, we will enable the HTML select. We initialy disabled the select tag to prevent users from accessing the categories before we received the data.
+When we receive the parsed data, we will enable the HTML select. We initialy disabled the select tag to prevent users from trying to access the categories before we received the data.
 ```javascript
 category.removeAttribute("disabled");
 ```
