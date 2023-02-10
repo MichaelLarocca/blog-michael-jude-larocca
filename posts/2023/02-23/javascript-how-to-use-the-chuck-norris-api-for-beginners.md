@@ -395,7 +395,7 @@ async function generateCategoryOptions() {
 }
 ```
 
-**Now, let's tighten up this function by handling errors. We will use an if statement and a try/catch blocks as we did in the first Chuck Norris Valentine's Day card:**
+**Now, let's tighten up this function by handling errors. We will use an if statement and try/catch blocks as we did in the first Chuck Norris Valentine's Day card:**
 ```javascript
 async function generateCategoryOptions() {
 	let outPut = ``;
