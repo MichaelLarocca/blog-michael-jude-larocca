@@ -294,6 +294,107 @@ async function fetchJoke() {
 fetchJoke();
 ```
 
+#### The HTML Select element
+Now, let's look at how to create a simple HTML selection. We will just make options for the first 4 categories. We will use [label](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select), [select](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/select), and [option](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option) HTML tags.
+```html
+      <label for="category"> Select your category</label>
+      <select name="category" id="category">
+      	<option value="animal">animal</option>
+        <option value="career">career</option>
+        <option value="celebrity">celebrity</option>
+        <option value="dev">dev</option>
+      </select>
+```
+
+We can add the [selected](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option#attr-selected) attribute to the dev option to make it the default value.
+```html
+<option value="dev" selected>dev</option>
+```
+
+Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option#attr-disabled) to disable the select tag.
+```html
+<select name="category" id="category" disabled>
+```
+
+**Ok, so why are we disabling the select tag? We can continue adding the remaining options manually, for a total of 16 options, or write a function to do it instead.**
+
+#### Generate category options function
+
+**The new async function contains the following:**
+* Create an outPut variable
+* Fetch the categories from the API
+* Parse the fetched data
+* Remove the disabled attribute
+* For each loop
+* Set the outPut to inner HTML
+* Select the dev category
+
+#### Write the async function
+```javascript
+async function generateCategoryOptions() {
+}
+```
+
+#### Create an outPut variable
+We will create an outPut variable to store each of the 16 Chuck Norris joke categories. Initially, we will set the outPut variable to an empty string.
+```javascript
+let outPut = ``;
+```
+
+#### Fetch the categories from the API
+The generate category options function will first fetch the categories from the Chuck Norris API.
+```javascript
+const results = await fetch(`https://api.chucknorris.io/jokes/categories`);
+```
+
+#### Parse the fetched data
+```javascript
+const data = await results.json();
+```
+
+#### Remove the disabled attribute
+When we receive the data, we will enable the HTML select. We initialy disabled the select tag to prevent users from accessing the categories before we received the data.
+```javascript
+category.removeAttribute("disabled");
+```
+
+#### For each loop
+Now, instead of writing each category manually, we will use a for each loop to set each category to an option as follows:
+```javascript
+		data.forEach((category) => {
+			outPut += `<option value="${category}">${category}</option>`;
+		});
+```
+
+#### Set the outPut to inner HTML
+Now that we have all 16 Chuck Norris joke categories set to the outPut variable, we then set the inner HTML of the select tag to the outPut value as follows:
+````
+category.innerHTML = outPut;
+````
+
+#### Select the dev category
+Finally, since we know that the 3rd category is dev, we can set it as the default value by setting the selected value to true.
+````javascript
+category[3].selected = true;
+````
+
+Here is the finished generate category options function:
+```javascript
+async function generateCategoryOptions() {
+	let outPut = ``;
+		const results = await fetch(`https://api.chucknorris.io/jokes/categories`);
+		const data = await results.json();
+
+		category.removeAttribute("disabled");
+
+		data.forEach((category) => {
+			outPut += `<option value="${category}">${category}</option>`;
+		});
+		category.innerHTML = outPut;
+		category[3].selected = true;
+}
+```
+
 ---
 
 ### HOLD
