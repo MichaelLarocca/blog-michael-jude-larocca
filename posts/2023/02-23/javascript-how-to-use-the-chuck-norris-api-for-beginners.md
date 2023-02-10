@@ -361,9 +361,9 @@ category.removeAttribute("disabled");
 #### For each loop
 Now, instead of writing each category manually, we will use a for each loop to set each category to an option as follows:
 ```javascript
-		data.forEach((category) => {
-			outPut += `<option value="${category}">${category}</option>`;
-		});
+data.forEach((category) => {
+	outPut += `<option value="${category}">${category}</option>`;
+});
 ```
 
 #### Set the outPut to inner HTML
