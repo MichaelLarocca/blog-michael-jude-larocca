@@ -311,7 +311,7 @@ We can add the [selected](https://developer.mozilla.org/en-US/docs/Web/HTML/Elem
 <option value="dev" selected>dev</option>
 ```
 
-Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option#attr-disabled) to disable the select tag.
+Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option#attr-disabled) attribute to disable the select tag.
 ```html
 <select name="category" id="category" disabled>
 ```
@@ -378,7 +378,7 @@ Finally, since we know that the 4rd category is dev (index number 3), we can set
 category[3].selected = true;
 ````
 
-Here is the finished generate category options function:
+**Here is the finished generate category options function:**
 ```javascript
 async function generateCategoryOptions() {
 	let outPut = ``;
