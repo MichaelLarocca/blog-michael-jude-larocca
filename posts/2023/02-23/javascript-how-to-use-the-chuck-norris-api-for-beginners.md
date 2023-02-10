@@ -368,12 +368,12 @@ Now, instead of writing each category manually, we will use a for each loop to s
 
 #### Set the outPut to inner HTML
 Now that we have all 16 Chuck Norris joke categories set to the outPut variable, we then set the inner HTML of the select tag to the outPut value as follows:
-````
+````javascript
 category.innerHTML = outPut;
 ````
 
 #### Select the dev category
-Finally, since we know that the 3rd category is dev, we can set it as the default value by setting the selected value to true.
+Finally, since we know that the 4rd category is dev (index number 3), we can set it as the default value by setting the selected value to true.
 ````javascript
 category[3].selected = true;
 ````
