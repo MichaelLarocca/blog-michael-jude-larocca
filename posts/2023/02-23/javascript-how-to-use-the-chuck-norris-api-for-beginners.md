@@ -23,7 +23,7 @@ Into
 
 ---
 
-### Card one
+### Card One
 
 Below is the simplest version of the function. 🔽
 ```javascript
@@ -221,7 +221,7 @@ fetchJoke();
 
 ---
 
-### Card two
+### Card Two
 
 **By reading the Chuck Norris API instructions, you will see we can also retrieve a joke by category.**
 
