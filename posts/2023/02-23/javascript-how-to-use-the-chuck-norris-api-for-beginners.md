@@ -318,6 +318,40 @@ Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML
 
 **Ok, so why are we disabling the select tag? We can continue adding the remaining options manually, for a total of 16 options, or write a function to do it instead.**
 
+*Below is the hard-coded HTML. If you want to use this code, be sure to remove the disabled attribute from the select tag.*
+```html
+<label for="category"> Select your category</label>
+<select name="category" id="category">
+	<option value="animal">animal</option>
+	<option value="career">career</option>
+	<option value="celebrity">celebrity</option>
+	<option value="dev" selected>dev</option>
+	<option value="explicit">explicit</option>
+	<option value="fashion">fashion</option>
+	<option value="food">food</option>
+	<option value="history">history</option>
+	<option value="money">money</option>
+	<option value="movie">movie</option>
+	<option value="music">music</option>
+	<option value="political">political</option>
+	<option value="religion">religion</option>
+	<option value="science">science</option>
+	<option value="sport">sport</option>
+	<option value="travel">travel</option>
+</select>
+```
+
+*Here is the HTML code to use with the generate category options function we are about to write.*
+```html
+<label for="category"> Select your category</label>
+<select name="category" id="category" disabled>
+</select>
+```
+
+**As you can see, we are writing a lot less HTML by writing a function in JavaScript to do it for us.** 
+
+*Now, here is where I needed help understanding what was happening when using JavaScript to write HTML. You will not see the HTML in your HTML file after using JavaScript to write HTML, but you will see it using your browser's dev tools!*
+
 #### Generate category options function
 
 **The new async function contains the following:**
