@@ -432,6 +432,7 @@ async function generateCategoryOptions() {
 	category.innerHTML = outPut;
 	category[3].selected = true;
 }
+generateCategoryOptions();
 ```
 
 **Now, let's tighten up this function by handling errors. We will use an if statement and try/catch blocks as we did in the first Chuck Norris Valentine's Day card:**
