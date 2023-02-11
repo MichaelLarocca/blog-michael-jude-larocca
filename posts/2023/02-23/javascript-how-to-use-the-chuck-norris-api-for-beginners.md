@@ -350,6 +350,11 @@ Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML
 
 **As you can see, we are writing a lot less HTML by writing a function in JavaScript to do it for us instead.** 
 
+Next, let's get access to the HTML select tag in the JavaScript file by using get element by id as follows:
+```javascript
+const category = document.getElementById("category");
+```
+
 *Now, here is where I needed help understanding what was happening when using JavaScript to write HTML. You will not see the HTML in your HTML file after using JavaScript to write HTML, but you will see it using your browser's dev tools!*
 
 #### Generate category options function
@@ -462,14 +467,14 @@ generateCategoryOptions();
 #### Chosen category function
 At this point, we have the HTML written and the JavaScript function to select categories. Next, we need to write another JavaScript function that sets the **chosenCategory** variable each time the user selects a new category.
 
-First, let's change the current global **chosenCategory** variable from music to dev.
-```javascript
-let chosenCategory = `dev`;
-```
-
-Next, let's get access to the HTML select tag in JavaScript by using get element by id as follows:
+First, make sure you already have the category variable.
 ```javascript
 const category = document.getElementById("category");
+```
+
+Next, let's change the current global **chosenCategory** variable from music to dev.
+```javascript
+let chosenCategory = `dev`;
 ```
 
 Now let's add an event listener to the category variable and write an anonymous function to run each time the category changes.
