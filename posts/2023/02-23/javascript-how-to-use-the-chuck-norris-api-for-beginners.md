@@ -348,7 +348,7 @@ Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML
 </select>
 ```
 
-**As you can see, we are writing a lot less HTML by writing a function in JavaScript to do it for us.** 
+**As you can see, we are writing a lot less HTML by writing a function in JavaScript to do it for us instead.** 
 
 *Now, here is where I needed help understanding what was happening when using JavaScript to write HTML. You will not see the HTML in your HTML file after using JavaScript to write HTML, but you will see it using your browser's dev tools!*
 
@@ -395,7 +395,7 @@ category.removeAttribute("disabled");
 #### For each loop
 Now, instead of writing each category manually, we will use a for each loop to set each category to an option as follows:
 ```javascript
-data.forEach((category) => {
+data.forEach(category => {
 	outPut += `<option value="${category}">${category}</option>`;
 });
 ```
