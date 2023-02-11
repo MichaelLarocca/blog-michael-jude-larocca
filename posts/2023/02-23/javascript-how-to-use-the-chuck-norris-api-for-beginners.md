@@ -459,6 +459,32 @@ generateCategoryOptions();
 
 ---
 
+#### Chosen category function
+At this point, we have the HTML written and the JavaScript function to select categories. Next, we need to write another JavaScript function that sets the **chosenCategory** variable each time the user selects a new category.
+
+First, let's change the current global **chosenCategory** variable from music to dev.
+```javascript
+let chosenCategory = `dev`;
+```
+
+Next, let's get access to the HTML select tag in JavaScript by using get element by id as follows:
+```javascript
+const category = document.getElementById("category");
+```
+
+Now let's add an event listener to the category variable and write an anonymous function to run each time the category changes.
+```javascript
+category.addEventListener("change", () => {
+	chosenCategory = category.value;
+    console.log(chosenCategory);
+});
+```
+
+In the console log, you will see the **chosenCategory** variable set to the category chosen from the drop-down list of the HTML select tag. 
+
+---
+
+---
 ### HOLD
 (WRITE ARTICLE SECTION)
 
