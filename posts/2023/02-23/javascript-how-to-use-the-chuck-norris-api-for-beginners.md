@@ -499,14 +499,19 @@ In the HTML paragraph tag, we set the id to display-joke so we can access it in 
 ---
 
 #### The new fetch joke function
-**Before we write the new fetch joke function on the top of the JavaScript file above the chosenCategory variable we wrote, we will create two new variables to access the HTML select tag and the paragraph tag as follows:**
+**Before we write the new fetch joke function, on the top of the JavaScript file, we will create a new variable to access the paragraph tag:**
 ```javascript
-const category = document.getElementById("category");
-const displayJoke = document.getElementById("display-joke");
+const displayJoke = document.getElementById("display-joke"); 
+```
+
+***You should now have a total of three variables:***
+```javascript
+const category = document.getElementById("category"); // This is the select tag
+const displayJoke = document.getElementById("display-joke"); // This is the paragraph tag
 let chosenCategory = `dev`;
 ```
 
-For this fetch joke function, we will use the new URL that incorporates the  chosenCategory variable:
+For this fetch joke function, we will use the new URL that incorporates the chosenCategory variable:
 ```javascript
 `https://api.chucknorris.io/jokes/random?category=${chosenCategory}`
 ```
