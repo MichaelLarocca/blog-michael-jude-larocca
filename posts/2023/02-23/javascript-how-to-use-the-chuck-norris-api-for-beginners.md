@@ -512,8 +512,8 @@ const displayJoke = document.getElementById("display-joke");
 
 ***You should now have a total of three variables:***
 ```javascript
-const category = document.getElementById("category"); // This is the select tag
 const displayJoke = document.getElementById("display-joke"); // This is the paragraph tag
+const category = document.getElementById("category"); // This is the select tag
 let chosenCategory = `dev`;
 ```
 
