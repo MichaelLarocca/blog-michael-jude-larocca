@@ -552,6 +552,12 @@ async function fetchJoke() {
 
 **You will now have a working model that displays new category jokes in both the HTML paragraph tag and the console log!**
 
+***Once again, since I wanted to focus on the JavaScript aspects and keep this article beginner-friendly, feel free to copy my HTML and CSS code to complete the second Valentine's Day card.***
+
+* 🔗 Here is a link to the GitHub repo: [Chuck-Norris-API-VD-Card-02](https://github.com/MichaelLarocca/Chuck-Norris-API-VD-Card-02)
+* 🔗 Here is a link to the CodePen: [Chuck Norris VD Card two](https://codepen.io/Michael_Larocca/pen/eYjaaYO)
+* 🔗 Here is a link to the finished project: [chuck-norris-api-vd-card-02.netlify.app](https://chuck-norris-api-vd-card-02.netlify.app/)
+
 ---
 
 ### HOLD
