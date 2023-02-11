@@ -420,6 +420,7 @@ async function generateCategoryOptions() {
 		console.error(error);
 	}
 }
+generateCategoryOptions();
 ```
 
 ---
