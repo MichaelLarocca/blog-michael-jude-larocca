@@ -484,7 +484,65 @@ In the console log, you will see the **chosenCategory** variable set to the cate
 
 ---
 
+#### HTML button & paragraph
+**Now that the user can select a Chuck Norris joke category, let's create a button that runs a new fetch joke function and an HTML paragraph tag to display the joke.**
+
+```html
+<button onclick="fetchJoke()">Get a new category joke! 💘</button>
+<p id="display-joke">A Chuck Norris movie will touch your heart. Then it will rip it out of your chest!</p>
+```
+
+We set the onclick event attribute to fetchJoke(), which will run the fetch joke function we are about to write when the user clicks it.
+
+In the HTML paragraph tag, we set the id to display-joke so we can access it in JavaScript. We then write the first joke as placeholder text.
+
 ---
+
+#### The new fetch joke function
+**Before we write the new fetch joke function on the top of the JavaScript file above the chosenCategory variable we wrote, we will create two new variables to access the HTML select tag and the paragraph tag as follows:**
+```javascript
+const category = document.getElementById("category");
+const displayJoke = document.getElementById("display-joke");
+let chosenCategory = `dev`;
+```
+
+For this fetch joke function, we will use the new URL that incorporates the  chosenCategory variable:
+```javascript
+`https://api.chucknorris.io/jokes/random?category=${chosenCategory}`
+```
+
+**We will also incorporate the try/catch blocks and the if statement to handle errors as we did in the first project, and we will also add back the errorMessage variable.**
+
+Here is the finished fetch joke function that utilizes categories chosen by the user:
+```javascript
+async function fetchJoke() {
+	const errorMessage = `"DO NOT DISTURB!" Chuck Norris is currently entertaining guests in his hotel room.`;
+
+	try {
+		const results = await fetch(
+			`https://api.chucknorris.io/jokes/random?category=${chosenCategory}`
+		);
+
+		if (!results.ok) {
+			displayJoke.textContent = errorMessage;
+        		console.log(errorMessage);
+			throw new Error("Request failed.");
+		}
+
+		const data = await results.json();
+		displayJoke.textContent = data.value;
+		  console.log(data.value);
+	} catch (error) {
+		displayJoke.textContent = errorMessage;
+		console.error(error);
+	}
+}
+```
+
+**You will now have a working model that displays new category jokes in both the HTML paragraph tag and the console log!**
+
+---
+
 ### HOLD
 (WRITE ARTICLE SECTION)
 
