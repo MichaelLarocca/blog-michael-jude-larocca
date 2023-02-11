@@ -350,7 +350,7 @@ Then we can use the [disabled](https://developer.mozilla.org/en-US/docs/Web/HTML
 
 **As you can see, we are writing a lot less HTML by writing a function in JavaScript to do it for us instead.** 
 
-Next, let's get access to the HTML select tag in the JavaScript file by using get element by id as follows:
+Next, let's get access to the HTML select tag by adding this variable named category at the top of the JavaScript file by using get element by id as follows:
 ```javascript
 const category = document.getElementById("category");
 ```
