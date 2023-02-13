@@ -16,7 +16,7 @@ date: "2023-02-14"
 
 ---
 
-![TXG-75](img/02-14-2023/TN-TXG-75.png)
+![TXG-75](img/02-14-2023/TN-TXG-75-NEW.png)
 
 ---
 
@@ -374,10 +374,7 @@ Next, let's get access to the HTML select tag by adding this variable named cate
 const category = document.getElementById("category");
 ```
 
-*Now, here is where I needed help understanding what was happening when using JavaScript to write HTML. You will not see the HTML in your HTML file after using JavaScript to write HTML, but you will see it using your browser's dev tools!*
-
 #### Generate category options function
-
 **The new async function contains the following:**
 * Create an outPut variable
 * Fetch the categories from the API
@@ -453,6 +450,12 @@ async function generateCategoryOptions() {
 }
 generateCategoryOptions();
 ```
+
+---
+
+*Now, here is where I needed help understanding what was happening when using JavaScript to write HTML. You will not see the HTML in your HTML file after using JavaScript to write HTML, but you will see it using your browser's dev tools!*
+
+---
 
 **Now, let's tighten up this function by handling errors. We will use an if statement and try/catch blocks as we did in the first Chuck Norris Valentine's Day card:**
 ```javascript

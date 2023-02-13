@@ -294,6 +294,10 @@ I added the [catch() method](https://developer.mozilla.org/en-US/docs/Web/JavaSc
 
 ---
 
+#### 🔗 *If you would like another beginner-friendly API project, be sure to check out my article: [JavaScript: How to Use the Chuck Norris API for Beginners](https://selftaughttxg.com/2023/02-23/javascript-how-to-use-the-chuck-norris-api-for-beginners/)*
+
+---
+
 ### Your first step into a larger world
 
 ![Your First Step](img/YourFirstStep.jpg)
