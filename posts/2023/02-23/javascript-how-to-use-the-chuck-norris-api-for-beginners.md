@@ -596,7 +596,12 @@ Are you already proficient in CSS? Try designing your own Chuck Norris Valentine
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+
+Learning to work with APIs is an essential skill for web developers. Since the Chuck Norris API does not require API keys to access it, and the documentation is very short, it makes for an excellent, fun, beginner-friendly project. 
+
+We first started by accessing and retrieving a random joke with just 5 lines of JavaScript code. We then tightened up the function by adding additional code to catch errors.
+
+The second card builds upon what we learned with the first card, this time allowing the user to choose 16 available joke categories. We then learned how to use the HTML select tag and manually create a drop-down list with all the options. Then we alternatively learned how to write a function to automate the process!
 
 ---
 
