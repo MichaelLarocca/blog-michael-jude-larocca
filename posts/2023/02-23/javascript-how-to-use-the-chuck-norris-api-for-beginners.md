@@ -603,10 +603,12 @@ We first started by accessing and retrieving a random joke with just 5 lines of 
 
 The second card builds upon what we learned with the first card, this time allowing the user to choose 16 available joke categories. We then learned how to use the HTML select tag and manually create a drop-down list with all the options. Then we alternatively learned how to write a function to automate the process!
 
+Chuck Norris lovingly proclaims to us on this Valentine's Day, "The Force is with Chuck Norris... for its own good!"
+
 ---
 
 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
 
-###### *** ? ? Please share the article and comment!***
+###### *** ***
