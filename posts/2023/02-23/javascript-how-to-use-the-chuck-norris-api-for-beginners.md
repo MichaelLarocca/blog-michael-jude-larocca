@@ -5,6 +5,7 @@ tags:
     "javascript",
     "html",
     "css",
+	"project",
   ]
 published: true
 date: "2023-02-14"
@@ -18,8 +19,25 @@ date: "2023-02-14"
 
 ---
 
-Into
-(WRITE ARTICLE SECTION)
+### Intro
+
+The skill of working with APIs is essential for a developer, and working specifically with the Chuck Norris API is a beginner-friendly introduction.
+
+**With just 5 lines of code**, we can access the Chuck Norris API and retrieve random jokes, and accessing it doesn't require an API key, making the whole process easy!
+
+So to have some festive fun while learning how to work with an API, we'll make two Chuck Norris Valentine's Day cards! 
+
+**Card one** will retrieve a random joke every time the user clicks a button. We will start simply by just using 5 lines of code. Then we will gradually add more code to handle errors.
+
+**Card two** will build upon what we learned, and this time we will access jokes based on one of 16 categories chosen by the user. We will learn to create a drop-down list with an HTML select tag manually and then alternatively create a JavaScript function to automate it instead!
+
+***Note:*** *The Chuck Norris API contains explicit content that you may find offensive!* ⚠
+
+---
+
+### API
+
+So, what exactly is an API anyway? **Wikipedia defines** *"an application programming interface (API) is a way for two or more computer programs to communicate with each other."*
 
 ---
 
