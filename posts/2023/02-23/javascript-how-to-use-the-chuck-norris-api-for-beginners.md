@@ -6,6 +6,7 @@ tags:
     "html",
     "css",
 	"project",
+	"tutorial",
   ]
 published: true
 date: "2023-02-14"
@@ -578,8 +579,9 @@ async function fetchJoke() {
 
 ---
 
-### HOLD
-(WRITE ARTICLE SECTION)
+![TN-TXG-63](img/02-14-2023/TN-TXG-63.jpg)
+
+#### *If you would like another beginner-friendly API project, be sure to check out my article: [JavaScript: How to Use the Star Wars API for Beginners](https://selftaughttxg.com/2022/04-22/StarWarsAPI-01/)*
 
 ---
 
