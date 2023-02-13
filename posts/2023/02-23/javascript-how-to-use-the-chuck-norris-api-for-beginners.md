@@ -579,6 +579,16 @@ async function fetchJoke() {
 
 ---
 
+#### What's next?
+
+How about some stretch goals? Read the API [documentation](https://api.chucknorris.io/) and then try to write your own function. Did you know you can also access the jokes in the Chuck Norris API by text search?
+
+Are you already proficient in CSS? Try designing your own Chuck Norris Valentine's Day card. Maybe you can even code the card to open and close!
+
+**If you're a Star Wars fan like me, you can also have fun by creating projects with the Star Wars API!**
+
+---
+
 ![TN-TXG-63](img/02-14-2023/TN-TXG-63.jpg)
 
 #### *If you would like another beginner-friendly API project, be sure to check out my article: [JavaScript: How to Use the Star Wars API for Beginners](https://selftaughttxg.com/2022/04-22/StarWarsAPI-01/)*
