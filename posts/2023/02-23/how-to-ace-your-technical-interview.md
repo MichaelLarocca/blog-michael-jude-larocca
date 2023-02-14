@@ -15,12 +15,29 @@ Opening
 (WRITE ARTICLE SECTION)
 
 ---
-About Kyle Tryon
+
+### About Kyle Tryon
 (WRITE ARTICLE SECTION)
 
 ---
 
-HOLD
+### How to prepare for a technical  interview
+
+**Researching the company you're applying to will give you a competitive advantage!**
+
+When applying for a specific position, make sure to read the job description thoroughly. When interviewing, it's best to know what technologies they use ahead of time.
+
+**Examples of technologies:**
+* React Framework
+* Vue Framework
+* MERN Stack
+* MEAN Stack
+
+Study the job description as if you are studying for a test. With this method, even if you lack experience with some technologies, you will have ample time to research them enough to discuss them insightfully.
+
+---
+
+### HOLD
 (WRITE ARTICLE SECTION)
 
 ---
@@ -29,22 +46,23 @@ HOLD
 
 ---
 
-HOLD
+### HOLD
 (WRITE ARTICLE SECTION)
 
 ---
-My Question
+### My Question
 (WRITE ARTICLE SECTION)
 
 ![My Question](img/02-20-23/MyQuestion.jpg)
 
 ---
-Kyle Tryon links
+
+### Kyle Tryon links
 (WRITE ARTICLE SECTION)
 
 ---
 
-Conclusion
+### Conclusion
 (WRITE ARTICLE SECTION)
 
 ---
