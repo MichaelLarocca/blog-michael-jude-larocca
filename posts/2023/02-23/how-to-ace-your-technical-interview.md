@@ -62,9 +62,9 @@ As Kyle mentioned, prospective employers want to ensure that you can work with s
 * Do you have version control experience working with other developers
 * Do you use conventional commit messages
 * Can you merge pull requests
-* Are you familiar with other Git-based operations
+* Are you familiar with other common Git-based operations
 
-**So how can you get this experience before ever working on a team? A great way is to contribute to open-source projects! You will become familiar with team-based Git operations by actively contributing to open-source projects.**
+**So how can you get this experience before ever working on a team? A great way is to contribute to open-source projects! You will become familiar with team-based Git operations by actively contributing.**
 
 *An excellent place for beginners to get started with open-source is the EddieHub community! EddieHub is an open-source community that encourages and promotes communication best practices, as well as
 technical expertise in an inclusive and welcoming environment.* 🔗 *[http://eddiehub.org/](http://eddiehub.org/)*
