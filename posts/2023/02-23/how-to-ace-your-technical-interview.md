@@ -2,7 +2,10 @@
 title: "How to Ace Your Technical Interview"
 tags:
   [
+    "scrimba",
     "javascript",
+    "recruitment",
+    "twitter",
   ]
 published: true
 date: "2023-02-20"
