@@ -66,8 +66,8 @@ As Kyle mentioned, prospective employers want to ensure that you can work with s
 
 **So how can you get this experience before ever working on a team? A great way is to contribute to open-source projects! You will become familiar with team-based Git operations by actively contributing.**
 
-*An excellent place for beginners to get started with open-source is the EddieHub community! EddieHub is an open-source community that encourages and promotes communication best practices, as well as
-technical expertise in an inclusive and welcoming environment.* 🔗 *[http://eddiehub.org/](http://eddiehub.org/)*
+*An excellent place for beginners to get started with open-source is the EddieHub community! [EddieHub](http://eddiehub.org/) is an open-source community that encourages and promotes communication best practices, as well as
+technical expertise in an inclusive and welcoming environment.*
 
 **If you would like to get some practice with Git branching, Scrimba host [Leanne](https://www.youtube.com/@CodewithLeanne) provides us with the following resource: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=en_US)**
 
