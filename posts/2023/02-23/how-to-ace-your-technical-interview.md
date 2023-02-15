@@ -73,6 +73,8 @@ technical expertise in an inclusive and welcoming environment.*
 
 🔗 [http://eddiehub.org/](http://eddiehub.org/)
 
+**If you would like to get some practice with Git branching, Scrimba host [Leanne](https://www.youtube.com/@CodewithLeanne) provides us with the following resource [learngitbranching.js.org](https://learngitbranching.js.org/?locale=en_US)**
+
 ---
 
 ### HOLD
