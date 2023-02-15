@@ -59,19 +59,15 @@ For example, if you are great with front-end design, you could create several ap
 As Kyle mentioned, prospective employers want to ensure that you can work with source control in a team environment. Using it on your own is great, but it's in your best interest to get experience working with others. 
 
 **Common interview questions include:**
-* Do you have experience with version control with other developers
+* Do you have version control experience working with other developers
 * Do you use conventional commit messages
 * Can you merge pull requests
 * Are you familiar with other Git-based operations
 
-So how can you get this experience before ever working on a team? A great way is to get involved with open-source projects!
-
-**You will become familiar with team-based Git operations by actively contributing to open-source projects.**
+**So how can you get this experience before ever working on a team? A great way is to contribute to open-source projects! You will become familiar with team-based Git operations by actively contributing to open-source projects.**
 
 *An excellent place for beginners to get started with open-source is the EddieHub community! EddieHub is an open-source community that encourages and promotes communication best practices, as well as
-technical expertise in an inclusive and welcoming environment.*
-
-🔗 [http://eddiehub.org/](http://eddiehub.org/)
+technical expertise in an inclusive and welcoming environment.* 🔗 *[http://eddiehub.org/](http://eddiehub.org/)*
 
 **If you would like to get some practice with Git branching, Scrimba host [Leanne](https://www.youtube.com/@CodewithLeanne) provides us with the following resource: [learngitbranching.js.org](https://learngitbranching.js.org/?locale=en_US)**
 
