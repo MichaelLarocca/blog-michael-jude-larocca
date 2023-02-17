@@ -97,12 +97,6 @@ Viewing his pinned repositories, you can also see he has as many as 236 stars an
 * 🔗 [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
 * 🔗 [How to Create a Next Level GitHub Profile, with Jesse Hall](https://selftaughttxg.com/2021/11-21/CreateAGitHubProfileJesseHall/)
 
-
----
-
-
-![Pinned](img/02-20-23/Pinned.png)
-
 ---
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/q84IgTViFv8" title="How to ace the software engineer technical interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
