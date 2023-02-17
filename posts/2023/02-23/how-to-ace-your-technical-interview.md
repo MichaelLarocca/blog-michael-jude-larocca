@@ -73,8 +73,10 @@ technical expertise in an inclusive and welcoming environment.*
 
 ---
 
-### HOLD
+### Your GitHub profile
 (WRITE ARTICLE SECTION)
+
+![Pinned](img/02-20-23/Pinned.png)
 
 ---
 
