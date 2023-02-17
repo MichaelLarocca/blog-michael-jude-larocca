@@ -25,7 +25,6 @@ Opening
 ---
 
 ### How to prepare for a technical  interview
-
 **Researching the company you're applying to will give you a competitive advantage!**
 
 When applying for a specific position, make sure to read the job description thoroughly. When interviewing, it's best to know what technologies they use ahead of time.
@@ -41,7 +40,6 @@ Study the job description as if you are studying for a test. With this method, e
 ---
 
 ### Have a solid portfolio
-
 What is a portfolio? A portfolio is a website, or page on a website, displaying your works. While there are plenty of standard portfolio projects, such as weather apps and calculators, Kyle recommends creating one or two exceptionally unique ones that showcase our programming capabilities and help us to stand out from the crowd. 
 
 For example, if you are great with front-end design, you could create several apps, even if they are not functional. Also, consider building a UI library or other open-source project for others to use and contribute.  
@@ -55,7 +53,6 @@ For example, if you are great with front-end design, you could create several ap
 ---
 
 ### Get comfortable with Git
-
 As Kyle mentioned, prospective employers want to ensure that you can work with source control in a team environment. Using it on your own is great, but it's in your best interest to get experience working with others. 
 
 **Common interview questions include:**
@@ -74,7 +71,35 @@ technical expertise in an inclusive and welcoming environment.*
 ---
 
 ### Your GitHub profile
-(WRITE ARTICLE SECTION)
+Your GitHub profile is an excellent way to showcase your skill and experience.
+
+**By pinning your best repositories, you provide an easy way for prospective employers to see your capabilities at a glance.**
+
+---
+
+***Tip:*** *On your GitHub profile, you can pin up to six of your best projects for others to view.* 
+
+---
+
+![Pinned](img/02-20-23/Pinned.png)
+
+---
+
+**On Kyle's pinned repositories, you can see he uses the following languages:**
+* TypeScript
+* Go
+* Shell
+* JavaScript
+
+Viewing his pinned repositories, you can also see he has as many as 236 stars and 207 forks, which shows the popularity of the projects! In addition, there are also repositories demonstrating he has experience working with other developers.
+
+***If you would like to learn how to customize your GidHub profile, you may find my other related articles helpful:***
+* 🔗 [Review: Eddie Jaoude Course - How to customize your GitHub Profile](https://selftaughttxg.com/2021/11-21/ReviewEddieJaoudeGitHubCourse/)
+* 🔗 [How to Create a Next Level GitHub Profile, with Jesse Hall](https://selftaughttxg.com/2021/11-21/CreateAGitHubProfileJesseHall/)
+
+
+---
+
 
 ![Pinned](img/02-20-23/Pinned.png)
 
