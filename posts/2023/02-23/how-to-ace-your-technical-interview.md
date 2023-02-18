@@ -99,6 +99,20 @@ Viewing his pinned repositories, you can also see he has as many as 236 stars an
 
 ---
 
+### Data structures and algorithms
+
+For Kyle, data structures and algorithms have not come up that much regarding interviews. 
+
+**Through Twitter, Kyle has noticed data structures and algorithms are common during interviews in India. So it would be best for you to research your area to determine if it's a requirement.**
+
+Needing to know data structures and algorithms in the USA is more common when interviewing for higher-level jobs and for FAANG jobs (Facebook, Amazon, Apple, Netflix, and Google).
+
+Kyle advises us not to stress over data structures and algorithms when applying for entry-level positions. However, learning them will be good and give you a competitive advantage!
+
+---
+
+---
+
 <iframe width="956" height="538" src="https://www.youtube.com/embed/q84IgTViFv8" title="How to ace the software engineer technical interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
