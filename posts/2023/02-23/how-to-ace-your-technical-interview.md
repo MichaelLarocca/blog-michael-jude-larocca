@@ -24,7 +24,7 @@ Kyle Tryon is a Software Engineer, a content creator, and a JavaScript enthusias
 
 He earned an Associate's degree in Information Technology at the ITT Technical Institute-Marlton, NJ, and he currently works at CircleCi as a Staff Software Development Engineer.
 
-He teaches on his YouTube channel TechSquidTV, which has over one million video views!
+He is well-known in the Tech Twitter community and teaches on his YouTube channel TechSquidTV, which has over one million video views!
 
 ---
 
