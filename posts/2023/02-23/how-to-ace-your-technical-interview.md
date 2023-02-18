@@ -115,6 +115,33 @@ Kyle advises us not to stress over data structures and algorithms when applying 
 
 ---
 
+### Testing 
+
+With test-driven development, you write unit tests before you write the code. The idea of unit testing is to write functional code with expected outputs.
+
+**An example is writing a unit test for an adding function involves:**
+* Taking in two parameters (numbers)
+* Expecting one output (number)
+
+After the unit test successfully passes, by adding the two parameters and then returning the one expected output, you then write the function.
+
+Kyle informs us that there are different levels of testing. As self-taught developers, we can start by learning unit testing, then learn the testing used at the companies we are employed. 
+
+**Larger companies use other types of testing, such as:**
+* End-to-end testing
+* Load testing
+* Smoke testing
+
+If you are comfortable with unit testing, Kyle tells us we will have gained the core skills, and with them, we will be able to learn other types of testing quickly.
+
+*If you can knowledgeably talk about test-driven development or have experience with it, Kyle tells us we are already doing great!*
+
+**Here are some helpful unit testing resources:**
+* 🔗 [Unit Testing in JavaScript and Jasmine | TLDR Jasmine Unit Test Tutorial By: Dylan Israel](https://www.youtube.com/watch?v=h2eWfvcAOTI)
+* 🔗 [Scrimba: Introduction to unit testing with Dylan C. Israel](https://scrimba.com/learn/unittest)
+
+---
+
 #### How to ace the software engineer technical interview
 
 ---
