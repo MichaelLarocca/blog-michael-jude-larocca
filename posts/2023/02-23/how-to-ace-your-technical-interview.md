@@ -128,7 +128,13 @@ Kyle informs us that there are different levels of testing. As self-taught devel
 
 If you are comfortable with unit testing, Kyle tells us we will have gained the core skills, and with them, we will be able to learn other types of testing quickly.
 
-*If you can knowledgeably talk about test-driven development or have experience with it, Kyle tells us we are already doing great!*
+**If you can knowledgeably talk about test-driven development or have experience with it, Kyle tells us we are already doing great!**
+
+---
+
+**Danny Thompson said during the Livestream,** *"I ​definitely agree with Kyle, and we have spoke about this before. If you understand testing and can speak about it in an interview, you will definitely have an edge in your favor!"*
+
+---
 
 **Here are some helpful unit testing resources:**
 * 🔗 [Unit Testing in JavaScript and Jasmine | TLDR Jasmine Unit Test Tutorial By: Dylan Israel](https://www.youtube.com/watch?v=h2eWfvcAOTI)
