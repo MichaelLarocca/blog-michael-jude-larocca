@@ -20,7 +20,11 @@ Opening
 ---
 
 ### About Kyle Tryon
-(WRITE ARTICLE SECTION)
+Kyle Tryon is a Software Engineer, a content creator, and a JavaScript enthusiast who loves to teach! 
+
+He earned an Associate's degree in Information Technology at the ITT Technical Institute-Marlton, NJ, and he currently works at CircleCi as a Staff Software Development Engineer.
+
+He teaches on his YouTube channel TechSquidTV, which has over one million video views!
 
 ---
 
