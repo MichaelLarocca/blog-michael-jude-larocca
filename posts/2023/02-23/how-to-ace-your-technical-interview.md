@@ -146,8 +146,22 @@ If you are comfortable with unit testing, Kyle tells us we will have gained the 
 
 ---
 
-### HOLD
-(WRITE ARTICLE SECTION)
+#### *My question: "Do you have any advice for career changers interviewing for their first job in tech?"*
+
+![My Question](img/02-20-23/MyQuestion.jpg)
+
+---
+
+### Advice for career changers
+**Regarding your age, as a career changer, Kyle conveys to us that our age doesn't matter!**
+
+**When interviewing, Kyle believes it is essential to show that you are passionate about programming.**
+
+A great way to portray yourself as a passionate developer is through your original projects! For example, if you like video games, make them! You will exhibit your passion when you show and describe the process of creating them!
+
+---
+
+*While Kyle was learning TypeScript, he created this interactive [fish tank game](https://kyletryon.github.io/Splat-Labs-Aquarium/)! You can view the code on his [Splat Labs Aquarium GitHub repo](https://github.com/KyleTryon/Splat-Labs-Aquarium).*
 
 ---
 
@@ -161,12 +175,6 @@ If you are comfortable with unit testing, Kyle tells us we will have gained the 
 
 ### HOLD
 (WRITE ARTICLE SECTION)
-
----
-### My Question
-(WRITE ARTICLE SECTION)
-
-![My Question](img/02-20-23/MyQuestion.jpg)
 
 ---
 
