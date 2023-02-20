@@ -165,6 +165,14 @@ A great way to portray yourself as a passionate developer is through your origin
 
 ---
 
+<iframe width="956" height="538" src="https://www.youtube.com/embed/q84IgTViFv8" title="How to ace the software engineer technical interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### *How to ace the software engineer technical interview*
+
+---
+
 ### Whiteboard testing
 Whiteboard testing is a common technique for assessing candidates' coding skills without them relying on a computer's resources. While handwriting code (pseudo code in some cases), the candidates' will "talk through" their solutions so that interviewers can evaluate their thought processes.
 
@@ -181,16 +189,16 @@ When you are asked a question on an unfamiliar topic, be truthful about it and k
 
 ---
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/q84IgTViFv8" title="How to ace the software engineer technical interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+### Where do you see yourself in five years?
+Where do you see yourself in five years?
 
----
+**Kyle reveals that this question is to assess your personal and career motivations.**
 
-#### *How to ace the software engineer technical interview*
+What do you expect to learn in that time, and what will you do with that knowledge in five years?
 
----
+**To best way to reply is by conveying that in five years, you will learn and acquire the skills necessary to handle the responsibilities of a senior software engineer.**
 
-### HOLD
-(WRITE ARTICLE SECTION)
+By replying in this manner, you are expressing your will to learn and grow while at the same time not revealing if you plan on still being employed by them!
 
 ---
 
