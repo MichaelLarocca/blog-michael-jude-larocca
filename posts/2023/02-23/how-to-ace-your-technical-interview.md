@@ -11,7 +11,9 @@ published: true
 date: "2023-02-20"
 ---
 
-#### HOLD
+#### You've acquired the skills of a web developer, but will you pass your first interview? In this article, experienced hiring manager Kyle Tryon (TechSquidTV) prepares us to ace the technical interview!
+
+---
 
 ![TXG-76](img/02-20-23/TN-TXG-76.png)
 Opening
