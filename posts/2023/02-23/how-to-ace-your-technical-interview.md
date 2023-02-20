@@ -174,8 +174,10 @@ Kyle encourages us to be comfortable and confident while explaining our solution
 
 ---
 
-### HOLD
-(WRITE ARTICLE SECTION)
+### Unfamiliar topics
+When you are asked a question on an unfamiliar topic, be truthful about it and know that your goal is to show interest. 
+
+**Kyle elaborates,** *"It's not that you don't know it; it's that you don't know it yet, and you are willing to learn!"*
 
 ---
 
