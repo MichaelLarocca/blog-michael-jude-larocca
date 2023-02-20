@@ -234,4 +234,4 @@ By replying in this manner, you are expressing your will to learn and grow while
 
 ---
 
-###### *** ? ? Please share the article and comment!***
+###### *** Are you now confident in passing the technical interview? Have you already passed a technical interview? Please share the article and comment!***
