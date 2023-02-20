@@ -193,7 +193,10 @@ Kyle encourages us to be comfortable and confident while explaining our solution
 ---
 
 ### Kyle Tryon links
-(WRITE ARTICLE SECTION)
+* 🔗 [techsquidtv.com](https://techsquidtv.com/)
+* 🔗 [YouTube](https://www.youtube.com/techsquidtv)
+* 🔗 [Twitter](https://twitter.com/TechSquidTV)
+* 🔗 [GitHub](https://github.com/KyleTryon)
 
 ---
 
