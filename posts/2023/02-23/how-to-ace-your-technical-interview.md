@@ -165,6 +165,20 @@ A great way to portray yourself as a passionate developer is through your origin
 
 ---
 
+### Whiteboard testing
+Whiteboard testing is a common technique for assessing candidates' coding skills without them relying on a computer's resources. While handwriting code (pseudo code in some cases), the candidates' will "talk through" their solutions so that interviewers can evaluate their thought processes.
+
+**In simple terms, Kyle explains that the purpose of whiteboard testing is to determine if you understand the fundamentals of coding.**
+
+Kyle encourages us to be comfortable and confident while explaining our solutions to succeed in these "under-pressure" tests. 
+
+---
+
+### HOLD
+(WRITE ARTICLE SECTION)
+
+---
+
 <iframe width="956" height="538" src="https://www.youtube.com/embed/q84IgTViFv8" title="How to ace the software engineer technical interview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
