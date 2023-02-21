@@ -226,7 +226,13 @@ By replying in this manner, you are expressing your will to learn and grow while
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+You can best prepare for your technical interview by researching what technologies the companies use, including their tech stack, ahead of time. 
+
+Having an active GitHub profile, including unique portfolio projects and open-source projects that contain plenty of stars and forks, demonstrates your passion and proves that you have acquired real-world source control experience that includes working with others.
+
+When asked questions you cannot answer or the infamous "where do you see yourself five years from now" question, your goal is to calmly convey that you are eager and willing to continue your pursuit of learning and growing your skillset to the point where you are eligible for higher positions which require more responsibility.
+
+Although data structures and algorithms, unit testing, and whiteboard testing might not be expected for an entry-level position, knowing them and everything else Kyle taught us will give you a competitive advantage that can help you ace your technical interview!
 
 ---
 
