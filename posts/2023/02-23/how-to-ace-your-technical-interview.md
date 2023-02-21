@@ -16,7 +16,6 @@ date: "2023-02-20"
 ---
 
 ![TXG-76](img/02-20-23/TN-TXG-76.png)
-Opening
 
 ---
 
