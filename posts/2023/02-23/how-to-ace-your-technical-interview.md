@@ -196,13 +196,9 @@ When you are asked a question on an unfamiliar topic, be truthful about it and k
 ---
 
 ### Where do you see yourself in five years?
-Where do you see yourself in five years?
+Kyle reveals that the question “where do you see yourself in five years” is to assess your personal and career motivations.
 
-**Kyle reveals that this question is to assess your personal and career motivations.**
-
-What do you expect to learn in that time, and what will you do with that knowledge in five years?
-
-**To best way to reply is by conveying that in five years, you will learn and acquire the skills necessary to handle the responsibilities of a senior software engineer.**
+To best way to reply is by conveying that in five years, you will learn and acquire the skills necessary to handle the responsibilities of a higher position, such as a senior software engineer.
 
 By replying in this manner, you are expressing your will to learn and grow while at the same time not revealing if you plan on still being employed by them!
 
