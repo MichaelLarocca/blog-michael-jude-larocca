@@ -17,7 +17,6 @@ date: "2023-02-20"
 
 ![TXG-76](img/02-20-23/TN-TXG-76.png)
 Opening
-(WRITE ARTICLE SECTION)
 
 ---
 
@@ -57,8 +56,8 @@ For example, if you are great with front-end design, you could create several ap
 **It is best to give potential employers "something to look at." Kyle elaborates it is not about how many green contribution squares you have on GitHub but the quality of each contribution square! The ability to create and maintain open-source projects and your code quality demonstrate your competency and capabilities to employers.**
 
 *To learn more about creating a portfolio website, you may find my other related articles helpful:*
-🔗[Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)
-🔗[Tech Rally: Career Tips From an Amazon Dev](https://selftaughttxg.com/2022/01-22/TechRally/)
+* 🔗[Create a portfolio website that gets noticed by tech recruiters](https://selftaughttxg.com/2021/05-21/PortfolioWebsite/)
+* 🔗[Tech Rally: Career Tips From an Amazon Dev](https://selftaughttxg.com/2022/01-22/TechRally/)
 
 ---
 
@@ -167,7 +166,7 @@ A great way to portray yourself as a passionate developer is through your origin
 
 ---
 
-*While Kyle was learning TypeScript, he created this interactive [fish tank game](https://kyletryon.github.io/Splat-Labs-Aquarium/)! You can view the code on his [Splat Labs Aquarium GitHub repo](https://github.com/KyleTryon/Splat-Labs-Aquarium).*
+***While Kyle was learning TypeScript, he created this interactive [fish tank game](https://kyletryon.github.io/Splat-Labs-Aquarium/)! You can view the code on his [Splat Labs Aquarium GitHub repo](https://github.com/KyleTryon/Splat-Labs-Aquarium).***
 
 ---
 
@@ -240,4 +239,4 @@ Although data structures and algorithms, unit testing, and whiteboard testing mi
 
 ---
 
-###### *** Are you now confident in passing the technical interview? Have you already passed a technical interview? Please share the article and comment!***
+###### ***Are you now confident in passing the technical interview? Have you already passed a technical interview? Please share the article and comment!***
