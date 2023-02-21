@@ -30,6 +30,10 @@ Kyle is well-known in the Tech Twitter community and helps others to break into 
 
 ---
 
+![TechSquidTV](img/02-20-23/IMG_5415.JPG)
+
+---
+
 ### How to prepare for a technical  interview
 **Researching the company you're applying to will give you a competitive advantage!**
 
