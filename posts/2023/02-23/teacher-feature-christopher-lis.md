@@ -157,10 +157,28 @@ All of the effects in this game are impressively created with just code and math
 ### Christopher's links
 * 🔗 [Website](https://chriscourses.com/)
 * 🔗 [Twitter](https://mobile.twitter.com/christopher4lis)
-* 🔗 [Discord]()
+* 🔗 [Discord](https://discord.com/invite/hDgDtaCCUK)
 * 🔗 [Code Pen](https://codepen.io/chriscourses)
 * 🔗 [Udemy](https://www.udemy.com/user/christopher-lis-2/)
 * 🔗 [GitHub](https://github.com/christopher4lis)
 
 ---
+
+### Conclusion
+
+JavaScript is a high-in-demand language that can open up employment opportunities for those who learn it.
+
+Learning the JavaScript language takes time, and it can be challenging to master without proper guidance and enjoyable projects that keep you motivated.
+
+Christopher keeps us engaged by providing us with fun arcade games to build and teaches us the JavaScript code and the programming concepts behind the code in the projects.
+
+Christopher provides many [FREE](https://youtube.com/@ChrisCourses) hours of core coding concepts which are more than sufficient to get you up and running with JavaScript. If you want to take a deep dive into the language, and take the games your coding to the next level, be sure to check out his [Chris Courses website](https://chriscourses.com), where he teaches premium game development.
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### ***Please share the article and comment!***
 
