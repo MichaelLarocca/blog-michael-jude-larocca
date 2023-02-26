@@ -110,3 +110,30 @@ If you would like to learn more about Tailwind, you can read my article:
 🔗 [Shruti Balasa: Getting started with Tailwind CSS](https://selftaughttxg.com/2021/11-21/ShrutiBalasa-Tailwind/)
 
 ---
+
+### My additions 
+(WRITE ARTICLE SECTION)
+
+I couldn't resist the temptation to stray a bit from the tutorial and try to add laser shot visual and sound effects, as well as asteroid explosion sounds!
+
+#### Laser shot visual
+With much trial and error, I created a red-glowing laser effect for the projectiles as follows:
+
+[CODE BLOCK]
+
+Initially, everything unintentionally had the red glowing effect! I resolved the issue by adding the following code to the affected areas, which cancels out the added effect:
+
+[CODE BLOCK]
+
+#### Sound effects
+My first attempt at adding a laser shot sound effect when the user clicks resulted in the two-second wave file playing out entirely before it played again from the beginning. I resolved this issue with the following code:
+
+[CODE BLOCK]
+
+Similarly, I wrote the following code to add explosion effects each time a projectile hits an enemy:
+
+[CODE BLOCK]
+
+***Note:*** *Use discretion when adding sounds and music to your projects! Be proactive in researching if attribution is required.*
+
+---
