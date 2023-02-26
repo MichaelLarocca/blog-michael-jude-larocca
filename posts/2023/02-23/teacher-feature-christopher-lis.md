@@ -84,3 +84,29 @@ As a self-taught developer, I find this teaching style highly effective; with th
 (WRITE ARTICLE SECTION)
 
 ---
+
+### GSAP
+(WRITE ARTICLE SECTION)
+
+Notes:
+https://cdnjs.com/libraries/gsap
+
+---
+
+### Tailwind CSS
+(WRITE ARTICLE SECTION)
+
+What is Tailwind? [Tailwind](https://tailwindcss.com) is a utility-first CSS framework that provides predefined classes, providing us with a simple and concise way to style our projects.
+
+One way to utilize Tailwind in your project is by adding the following code to your HTML page:
+
+[CODE BLOCK]
+
+Now you can add valid Tailwind CSS classes to your HTML elements.
+
+**By following Chris's tutorial, I now see the allure of Tailwind. Since this project is heavily JavaScript and HTML canvas-based, utilizing Tailwind allows us to quickly and efficiently style the project, saving us a lot of time while helping us to stay focused on intricate coding parts. Very cool!**
+
+If you would like to learn more about Tailwind, you can read my article: 
+🔗 [Shruti Balasa: Getting started with Tailwind CSS](https://selftaughttxg.com/2021/11-21/ShrutiBalasa-Tailwind/)
+
+---
