@@ -137,3 +137,30 @@ Similarly, I wrote the following code to add explosion effects each time a proje
 ***Note:*** *Use discretion when adding sounds and music to your projects! Be proactive in researching if attribution is required.*
 
 ---
+
+### My completed JavaScript game
+
+I completed the YouTube [HTML5 Canvas and JavaScript Game Tutorial](https://youtu.be/eI9idPTT0c4) course and had a blast, figuratively and literally speaking! It was very gratifying creating a player and enemies and then coding the enemies to gravitate toward you while you frantically try to shoot them!
+
+All of the effects in this game are impressively created with just code and mathematical formulas, without the use of images or character sprites!
+
+**You can play my game and view my code by following the links below:**
+* 🔗 [Link to play the game](https://chris-courses-canvas-javascript-game.netlify.app/)
+* 🔗 [Link to my GitHub repo](https://github.com/MichaelLarocca/Chris-Courses-HTML5-Canvas-and-JavaScript-Game-Tutorial)
+
+---
+
+#### *If you enjoyed this article, you might also enjoy my related article: [Ania Kubow: Building Tetris with JavaScript](https://selftaughttxg.com/2022/03-22/Ania_Kubow-Tetris/)*
+
+---
+
+### Christopher's links
+* 🔗 [Website](https://chriscourses.com/)
+* 🔗 [Twitter](https://mobile.twitter.com/christopher4lis)
+* 🔗 [Discord]()
+* 🔗 [Code Pen](https://codepen.io/chriscourses)
+* 🔗 [Udemy](https://www.udemy.com/user/christopher-lis-2/)
+* 🔗 [GitHub](https://github.com/christopher4lis)
+
+---
+
