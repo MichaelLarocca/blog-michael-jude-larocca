@@ -57,3 +57,30 @@ Christopher then shows us how to shoot the enemies with projectiles and have the
 
 ---
 
+### Christopher's checklist
+
+Christopher provides an organized checklist of the covered topics for each coding project. 
+
+As you work through a project with him, the topics on the list get checked off as you complete them.
+
+As a self-taught developer, I find this teaching style highly effective; with the coding concepts separated into sections, it's easy to learn each topic and provides excellent "save points" to resume coding.
+
+![Checklist](HOLD)
+
+---
+
+### HTML5 Canvas Tutorials
+(WRITE ARTICLE SECTION)
+
+**Topics covered through this playlist include:**
+* Canvas basics
+* Gravity effects
+* Collision detection
+* Circular motion
+
+---
+
+### HTML5 Canvas and JavaScript Game Tutorial
+(WRITE ARTICLE SECTION)
+
+---
