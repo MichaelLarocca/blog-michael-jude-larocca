@@ -85,6 +85,12 @@ As a self-taught developer, I find this teaching style highly effective; with th
 
 ---
 
+<iframe width="1349" height="488" src="https://www.youtube.com/embed/eI9idPTT0c4" title="HTML5 Canvas and JavaScript Game Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+---
+
 ### GSAP
 (WRITE ARTICLE SECTION)
 
