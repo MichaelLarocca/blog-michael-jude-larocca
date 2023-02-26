@@ -88,6 +88,16 @@ As a self-taught developer, I find this teaching style highly effective; with th
 ### GSAP
 (WRITE ARTICLE SECTION)
 
+```html
+<script
+    src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.4/gsap.min.js"
+    integrity="sha512-f8mwTB+Bs8a5c46DEm7HQLcJuHMBaH/UFlcgyetMqqkvTcYg4g5VXsYR71b3qC82lZytjNYvBj2pf0VekA9/FQ=="
+    crossorigin="anonymous"
+    referrerpolicy="no-referrer"
+    defer
+></script>
+```
+
 Notes:
 https://cdnjs.com/libraries/gsap
 
@@ -100,14 +110,14 @@ What is Tailwind? [Tailwind](https://tailwindcss.com) is a utility-first CSS fra
 
 One way to utilize Tailwind in your project is by adding the following code to your HTML page:
 
-[CODE BLOCK]
-
+```html
+<link href="https://unpkg.com/tailwindcss@^1.0/dist/tailwind.min.css" rel="stylesheet"/>
+```
 Now you can add valid Tailwind CSS classes to your HTML elements.
 
 **By following Chris's tutorial, I now see the allure of Tailwind. Since this project is heavily JavaScript and HTML canvas-based, utilizing Tailwind allows us to quickly and efficiently style the project, saving us a lot of time while helping us to stay focused on intricate coding parts. Very cool!**
 
-If you would like to learn more about Tailwind, you can read my article: 
-🔗 [Shruti Balasa: Getting started with Tailwind CSS](https://selftaughttxg.com/2021/11-21/ShrutiBalasa-Tailwind/)
+*If you would like to learn more about Tailwind, you can read my article: [Shruti Balasa: Getting started with Tailwind CSS](https://selftaughttxg.com/2021/11-21/ShrutiBalasa-Tailwind/)*
 
 ---
 
@@ -117,22 +127,46 @@ If you would like to learn more about Tailwind, you can read my article:
 I couldn't resist the temptation to stray a bit from the tutorial and try to add laser shot visual and sound effects, as well as asteroid explosion sounds!
 
 #### Laser shot visual
-With much trial and error, I created a red-glowing laser effect for the projectiles as follows:
+With much trial and error, I created a red-glowing laser effect for the projectiles by adding the following code to the Projectile class:
 
-[CODE BLOCK]
+```javascript
+c.shadowColor = "red";
+c.shadowBlur = 15;
+c.shadowOffsetX = 3;
+c.shadowOffsetY = 3;
+```
 
 Initially, everything unintentionally had the red glowing effect! I resolved the issue by adding the following code to the affected areas, which cancels out the added effect:
 
-[CODE BLOCK]
+```javascript
+c.shadowColor = "";
+c.shadowBlur = 0;
+c.shadowOffsetX = 0;
+c.shadowOffsetY = 0;
+```
 
 #### Sound effects
+To add sound to this project, I use mp3 files with the [HTMLAudioElement](https://developer.mozilla.org/en-US/docs/Web/API/HTMLAudioElement).
+```javascript
+const asteroidHit = new Audio("audio/Asteroid-Hit.mp3");
+const soundLaser = new Audio("audio/dist_audio_lasrhit2.mp3");
+```
+
 My first attempt at adding a laser shot sound effect when the user clicks resulted in the two-second wave file playing out entirely before it played again from the beginning. I resolved this issue with the following code:
 
-[CODE BLOCK]
+```javascript
+soundLaser.pause();
+soundLaser.currentTime = 0;
+soundLaser.play();
+```
 
 Similarly, I wrote the following code to add explosion effects each time a projectile hits an enemy:
 
-[CODE BLOCK]
+```javascript
+asteroidHit.pause();
+asteroidHit.currentTime = 0;
+asteroidHit.play();
+```
 
 ***Note:*** *Use discretion when adding sounds and music to your projects! Be proactive in researching if attribution is required.*
 
