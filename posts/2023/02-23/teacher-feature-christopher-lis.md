@@ -21,11 +21,11 @@ date: "2023-02-27"
 ---
 
 ### About Christopher
-(WRITE ARTICLE SECTION)
-
 Christopher Lis is a professional full-stack developer that teaches premium game development with JavaScript. 
 
-His YouTube channel has over 120k subscribers, and he has over 9k students on his website, Chris Courses!
+He has over 9k students on his Chris Courses website, where he helps students "unleash their inner game developer" by teaching how to code games in the style of classics, Pokemon, fighting, and more!
+
+Christopher's YouTube channel has over 120k subscribers and over 7 million video views!
 
 ---
 
