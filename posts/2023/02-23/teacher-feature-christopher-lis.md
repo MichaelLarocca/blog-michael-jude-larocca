@@ -63,14 +63,20 @@ Christopher provides an organized checklist of the covered topics for each codin
 
 As you work through a project with him, the topics on the list get checked off as you complete them.
 
-As a self-taught developer, I find this teaching style highly effective; with the coding concepts separated into sections, it's easy to learn each topic and provides excellent "save points" to resume coding.
+*As a self-taught developer, I find this teaching style highly effective; with the coding concepts separated into sections, it's easy to learn each topic and provides excellent "save points" to resume coding.*
 
 ![Checklist](HOLD)
 
 ---
 
 ### HTML5 Canvas Tutorials
-(WRITE ARTICLE SECTION)
+Chris's JavaScript games rely heavily on HTML5 Canvas.
+
+**So, what is HTML5 Canvas? Wikipedia explains,** *"The canvas element is part of HTML5 and allows for dynamic, scriptable rendering of 2D shapes and bitmap images. It is a low-level, procedural model that updates a bitmap. HTML5 Canvas also helps in making 2D games."*
+ 
+**Although you can jump in and code along with his game tutorials, if you want to take a deep dive and learn Canvas as a pre-requisite, Chris also created this fantastic tutorial playlist to teach us!**
+
+🔗 [HTML5 Canvas Tutorials for Beginners](https://www.youtube.com/playlist?list=PLpPnRKq7eNW3We9VdCfx9fprhqXHwTPXL)
 
 **Topics covered through this playlist include:**
 * Canvas basics
