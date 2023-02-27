@@ -1,5 +1,5 @@
 ---
-title: "How to Ace Your Technical Interview"
+title: "Teacher Feature: Christopher Lis"
 tags:
   [
     "javascript",
