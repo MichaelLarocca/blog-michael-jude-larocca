@@ -185,7 +185,7 @@ asteroidHit.play();
 
 ### My completed JavaScript game
 
-![My Game](img/02-27-23/MyGame.png)
+![My Game](img/02-27-23/MyGameNew.png)
 
 I completed the YouTube [HTML5 Canvas and JavaScript Game Tutorial](https://youtu.be/eI9idPTT0c4) course and had a blast, figuratively and literally speaking! It was very gratifying creating a player and enemies and then coding the enemies to gravitate toward you while you frantically try to shoot them!
 
