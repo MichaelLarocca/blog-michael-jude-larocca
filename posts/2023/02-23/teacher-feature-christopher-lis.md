@@ -11,8 +11,7 @@ published: true
 date: "2023-02-27"
 ---
 
-#### hold
-(WRITE ARTICLE SECTION)
+#### Would you like to learn a high in demand programming language while having fun coding video games? Then let me introduce you to Christopher Lis, who teaches premium games in many styles with JavaScript!
 
 ---
 
