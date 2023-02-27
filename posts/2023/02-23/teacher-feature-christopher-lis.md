@@ -16,7 +16,7 @@ date: "2023-02-27"
 
 ---
 
-![HOLD](HOLD)
+![TN-TXG-7](img/02-27-23/TN-TXG-77.png)
 
 ---
 
