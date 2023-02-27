@@ -29,7 +29,6 @@ Christopher's YouTube channel has over 120k subscribers and over 7 million video
 ---
 
 ### Learning JavaScript
-
 **Have you ever been taught complicated formulas in a math class and asked yourself,** *"will I ever use these formulas in day-to-day life?"*
 
 When learning JavaScript, coding concepts can feel daunting when out of context and difficult to comprehend without practical application.
@@ -57,7 +56,6 @@ Christopher then shows us how to shoot the enemies with projectiles and have the
 ---
 
 ### Christopher's checklist
-
 Christopher provides an organized checklist of the covered topics for each coding project. 
 
 As you work through a project with him, the topics on the list get checked off as you complete them.
@@ -96,8 +94,12 @@ Chris's JavaScript games rely heavily on HTML5 Canvas.
 
 ---
 
-### GSAP
-(WRITE ARTICLE SECTION)
+### GSAP (GreenSock)
+When you hit an enemy (asteroid) in the game, we code it to reduce size. However, the size reduction effect is drastically noticeable as it happens immediately. 
+
+To gradually reduce the enemy's size, Chris introduces us to [GSAP](https://greensock.com/), a JavaScript animation library.
+
+Adding the following code to your HTML file allows you to add and utilize the library in your project easily.
 
 ```html
 <script
@@ -109,13 +111,17 @@ Chris's JavaScript games rely heavily on HTML5 Canvas.
 ></script>
 ```
 
-Notes:
-https://cdnjs.com/libraries/gsap
+Utilizing the GSAP library, we can now gradually reduce the enemy (asteroid) size by adding the following code:
+
+```javascript
+gsap.to(enemy, {
+						radius: enemy.radius - 10,
+					});
+```
 
 ---
 
 ### Tailwind CSS
-(WRITE ARTICLE SECTION)
 
 What is Tailwind? [Tailwind](https://tailwindcss.com) is a utility-first CSS framework that provides predefined classes, providing us with a simple and concise way to style our projects.
 
@@ -133,8 +139,6 @@ Now you can add valid Tailwind CSS classes to your HTML elements.
 ---
 
 ### My additions 
-(WRITE ARTICLE SECTION)
-
 I couldn't resist the temptation to stray a bit from the tutorial and try to add laser shot visual and sound effects, as well as asteroid explosion sounds!
 
 #### Laser shot visual
@@ -216,7 +220,6 @@ All of the effects in this game are impressively created with just code and math
 ---
 
 ### Conclusion
-
 JavaScript is a high-in-demand language that can open up employment opportunities for those who learn it.
 
 Learning the JavaScript language takes time, and it can be challenging to master without proper guidance and enjoyable projects that keep you motivated.
