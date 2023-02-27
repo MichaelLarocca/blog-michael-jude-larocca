@@ -65,7 +65,7 @@ As you work through a project with him, the topics on the list get checked off a
 
 *As a self-taught developer, I find this teaching style highly effective; with the coding concepts separated into sections, it's easy to learn each topic and provides excellent "save points" to resume coding.*
 
-![Checklist](HOLD)
+![Checklist](img/02-27-23/Todo.png)
 
 ---
 
