@@ -200,6 +200,10 @@ All of the effects in this game are impressively created with just code and math
 
 ---
 
+![chris courses](img/02-27-23/chriscourses.png)
+
+---
+
 ### Christopher's links
 * 🔗 [Website](https://chriscourses.com/)
 * 🔗 [Twitter](https://mobile.twitter.com/christopher4lis)
