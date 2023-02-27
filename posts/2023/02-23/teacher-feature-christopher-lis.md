@@ -114,9 +114,7 @@ Adding the following code to your HTML file allows you to add and utilize the li
 Utilizing the GSAP library, we can now gradually reduce the enemy (asteroid) size by adding the following code:
 
 ```javascript
-gsap.to(enemy, {
-						radius: enemy.radius - 10,
-					});
+gsap.to(enemy, { radius: enemy.radius - 10, });
 ```
 
 ---
