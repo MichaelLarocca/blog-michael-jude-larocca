@@ -94,7 +94,7 @@ We code the game in vanilla JavaScript ( plain JavaScript ) with HTML Canvas and
 
 ---
 
-<iframe width="1349" height="488" src="https://www.youtube.com/embed/eI9idPTT0c4" title="HTML5 Canvas and JavaScript Game Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe  width="956" height="538" src="https://www.youtube.com/embed/eI9idPTT0c4" title="HTML5 Canvas and JavaScript Game Tutorial" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 ---
 
@@ -117,7 +117,7 @@ Adding the following code to your HTML file allows you to add and utilize the li
 ></script>
 ```
 
-Utilizing the GSAP library, we can now gradually reduce the enemy (asteroid) size by adding the following code:
+**Utilizing the GSAP library, we can now gradually reduce the enemy (asteroid) size by adding the following code:**
 
 ```javascript
 gsap.to(enemy, { radius: enemy.radius - 10, });
