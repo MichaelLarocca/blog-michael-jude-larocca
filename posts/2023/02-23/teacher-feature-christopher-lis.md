@@ -238,4 +238,4 @@ Christopher provides many [FREE](https://youtube.com/@ChrisCourses) hours of cor
 
 ---
 
-###### ***Are you now interested in coding video games to learn JavaScript? Have you already coded with Chris's JavaScript tutorials and created games you want to share? Please share the article and comment!**
+###### ***Are you now interested in coding video games to learn JavaScript? Have you already coded with Chris's JavaScript tutorials and created games you want to share? Please share the article and comment!***
