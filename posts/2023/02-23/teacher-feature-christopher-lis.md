@@ -84,7 +84,13 @@ Chris's JavaScript games rely heavily on HTML5 Canvas.
 ---
 
 ### HTML5 Canvas and JavaScript Game Tutorial
-(WRITE ARTICLE SECTION)
+**To quote a line from one of my favorite movies,** *"this is where the fun begins!"*
+
+**Chris's HTML5 Canvas and JavaScript Game Tutorial is a fantastic entry-level FREE project. In 14 chapters, just under two hours, you will create an Asteroids-style game!**
+
+We code the game in vanilla JavaScript ( plain JavaScript ) with HTML Canvas and a bit of GSAP and Tailwind for quick and easy styling.
+
+*This tutorial is the first part of an entire course project, but it makes an excellent stand-alone game with plenty of coding concepts to learn!* 
 
 ---
 
@@ -224,7 +230,7 @@ Learning the JavaScript language takes time, and it can be challenging to master
 
 Christopher keeps us engaged by providing us with fun arcade games to build and teaches us the JavaScript code and the programming concepts behind the code in the projects.
 
-Christopher provides many [FREE](https://youtube.com/@ChrisCourses) hours of core coding concepts which are more than sufficient to get you up and running with JavaScript. If you want to take a deep dive into the language, and take the games your coding to the next level, be sure to check out his [Chris Courses website](https://chriscourses.com), where he teaches premium game development.
+Christopher provides many [FREE](https://youtube.com/@ChrisCourses) hours of core coding concepts which are more than sufficient to get you up and running with JavaScript. If you want to take a deep dive into the language, and take the games your coding to the next level, be sure to check out his [Chris Courses website](https://chriscourses.com), where he teaches premium game development!
 
 ---
 
@@ -232,5 +238,4 @@ Christopher provides many [FREE](https://youtube.com/@ChrisCourses) hours of cor
 
 ---
 
-###### ***Are you now interested in coding video games to learn JavaScript? Have you already coded with Chris's JavaScript tutorials and created games you want to share? Please share the article and comment!***
-
+###### ***Are you now interested in coding video games to learn JavaScript? Have you already coded with Chris's JavaScript tutorials and created games you want to share? Please share the article and comment!**
