@@ -33,7 +33,6 @@ Taylor brings to our attention that although we had access to guidance counselor
 
 With his show Guidance Counselor 2.0, he intends to fulfill this need, providing us with a FREE valuable resource by bringing in the best and brightest industry experts for Livestream events, which gives us a chance to learn from them and to have our questions answered!
 
----
 
 ![Guidance Counselor 2.0](img/03-06-23/GuidanceCounselor.png)
 
