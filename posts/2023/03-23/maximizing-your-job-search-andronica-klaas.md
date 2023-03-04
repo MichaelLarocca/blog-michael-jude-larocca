@@ -175,8 +175,20 @@ Asking questions can help you build relationships and expand your network. But i
 ---
 
 ### LinkedIn
-TS-22:00 
-(WRITE ARTICLE SECTION)
+Andronica emphasizes the importance of researching a company's culture and job roles when looking for employment. By finding and reading through a company's LinkedIn profile, we can learn a lot about its values, mission, and work environment. 
+
+Additionally, LinkedIn allows us to see who works at the company, which presents us with an opportunity to connect with them and gain insight into their experiences. Andronica uses this method to reach out to people in a company she is interested in and schedules time to discuss the job roles that interest her.
+
+**To ensure that she doesn't waste anyone's time, she has a template of questions prepared, which includes:**
+* Why I'm reaching out to you
+* What I want to learn from you 
+* If they are interested, she leaves her contact information
+
+In addition to networking with individuals on LinkedIn, Andronica also recommends using the platform as a source of valuable content to learn from. She explains that we can learn by searching keywords to reveal related articles on the network. Additionally, LinkedIn also offers courses that award you certificates upon completion!
+
+---
+
+***Tip:*** *Andronica advises us that in-person networking is great, but networking on social media platforms is also advantageous!*
 
 ---
 
