@@ -40,3 +40,33 @@ With his show Guidance Counselor 2.0, he intends to fulfill this need, providing
 
 ---
 
+### Alternatives to web developers
+Did you know that the tech industry offers a wide range of job roles beyond the commonly known position of Front-End Web Developer?
+
+Andronica suggests that we match our strengths and interests with the job role requirements to determine the career path we should take. For example, Andronica found her calling in Q&A.
+
+**Other alternatives to web developers include:**
+* Quality Assurance (QA)
+* Business Analysis (BA)
+* Project Management (PM)
+* Data Analysis
+* User Experience (UX) Design
+* Technical Writing 
+* Cybersecurity
+
+Identifying which job role aligns with our strengths and interests early on can greatly assist us in navigating our career and job search, ultimately helping us to land our first job in tech!
+
+---
+
+### Tailor your resume
+To increase your chances of landing the job, it's important to tailor your resume to the job description. Look closely at the requirements and customize your resume to show how you meet them.
+
+If you don't meet all the requirements, don't worry! This method is an excellent way to help you identify the skills you need to learn to become eligible for the job.
+
+Andronica also recommends seeking help from various sources to improve your resume, such as your school, online tools, paid services, and even recruiters like Taylor Desse! Don't be afraid to ask for feedback and suggestions to make your resume stand out.
+
+---
+
+***Tip:*** *Know your current market value! Andronica informs us that when we are employed by the same company, we will only receive standard percentage raises as time passes, even though we may be worth much more!*
+
+---
