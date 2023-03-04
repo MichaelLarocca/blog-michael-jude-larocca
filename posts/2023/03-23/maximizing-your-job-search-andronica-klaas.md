@@ -27,3 +27,16 @@ In this Livestream series, Taylor invites top industry experts to share their in
 In this Guidance Counselor 2.0 Livestream, Andronica Klaas, a meta engineer who has successfully navigated the job search process, shares tips and tricks on how we can enter the tech industry job force!
 
 ---
+
+### Guidance Counselor 2.0
+Taylor brings to our attention that although we had access to guidance counselors in school, as working adults, we no longer have this valuable resource available to us.
+
+With his show Guidance Counselor 2.0, he intends to fulfill this need, providing us with a FREE valuable resource by bringing in the best and brightest industry experts for Livestream events, which gives us a chance to learn from them and to have our questions answered!
+
+---
+
+### Andronica Klaas
+(WRITE ARTICLE SECTION)
+
+---
+
