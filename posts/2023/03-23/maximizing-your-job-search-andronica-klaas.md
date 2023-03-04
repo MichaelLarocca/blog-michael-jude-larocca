@@ -137,3 +137,56 @@ Networking can be intimidating, and it's important to accept that there may be s
 *You may find my following article helpful: 🔗 [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)*
 
 ---
+
+### Twitter
+TS-21:50
+TS-23:20
+(WRITE ARTICLE SECTION)
+
+---
+
+### LinkedIn
+TS-22:00 
+(WRITE ARTICLE SECTION)
+
+---
+
+### Always have recruiter relationships
+TS-27:00 
+(WRITE ARTICLE SECTION)
+
+---
+My other Taylor Desseyn articles
+(WRITE ARTICLE SECTION)
+
+🔗 [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)
+
+---
+
+### Andronica's links
+(WRITE ARTICLE SECTION)
+
+---
+Taylor's links
+(WRITE ARTICLE SECTION)
+
+* 🔗 [Website](https://www.taylordesseyn.com/)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/taylordesseyn)
+* 🔗 [Twitter](https://twitter.com/tdesseyn)
+* 🔗 [Instagram](http://instagram.com/guidancecounselor2.0)
+* 🔗 [YouTube](https://www.youtube.com/@TaylorDesseyn/)
+
+---
+
+### Conclusion
+(WRITE ARTICLE SECTION)
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### ***? ? Please share the article and comment!***
+
+*****
