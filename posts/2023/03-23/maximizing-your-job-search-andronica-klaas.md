@@ -117,6 +117,12 @@ A good method of building a personal brand is consistency, not only with content
 
 ---
 
+<iframe width="956" height="538" src="https://www.youtube.com/embed/lyD6mJbfBV8" title="Tips and Tricks of the Job Search from a Meta Engineer w/Andronica Klaas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+#### *Tips and Tricks of the Job Search from a Meta Engineer w/Andronica Klaas*
+
+---
+
 ### Conferences
 Before attending a conference, Andronica advises us to familiarize ourselves with all the speakers beforehand. With this tactic, if we get an opportunity to meet them personally, it portrays that you are genuinely interested in them. 
 
