@@ -197,7 +197,8 @@ TS-27:00
 (WRITE ARTICLE SECTION)
 
 ---
-My other Taylor Desseyn articles
+
+### My other Taylor Desseyn articles
 (WRITE ARTICLE SECTION)
 
 🔗 [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)
@@ -208,7 +209,8 @@ My other Taylor Desseyn articles
 (WRITE ARTICLE SECTION)
 
 ---
-Taylor's links
+
+### Taylor's links
 (WRITE ARTICLE SECTION)
 
 * 🔗 [Website](https://www.taylordesseyn.com/)
@@ -227,7 +229,5 @@ Taylor's links
 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
-
+(WRITE ARTICLE SECTION)
 ###### ***? ? Please share the article and comment!***
-
-*****
