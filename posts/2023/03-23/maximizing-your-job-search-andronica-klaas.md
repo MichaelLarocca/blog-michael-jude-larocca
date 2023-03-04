@@ -113,7 +113,7 @@ Creating a personal brand for yourself is important as it can provide others wit
 
 A good method of building a personal brand is consistency, not only with content creation methods. For example, when Andronica attends conferences, she dresses fashionably, making her recognizable!
 
-***You may find my following related article helpful: [The Importance of Learning in Public](https://selftaughttxg.com/2021/08-21/TheImportanceOfLearningInPublic/)***
+*You may find my following related article helpful: [The Importance of Learning in Public](https://selftaughttxg.com/2021/08-21/TheImportanceOfLearningInPublic/)*
 
 ---
 
@@ -137,7 +137,7 @@ Networking can be intimidating, and it's important to accept that there may be s
 * On LinkedIn
 * Other social networks
 
-*You may find my following article helpful: 🔗 [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)*
+*You may find my following article helpful: [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)*
 
 ---
 
