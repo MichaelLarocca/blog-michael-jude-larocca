@@ -82,3 +82,18 @@ Andronica explains to us that internships are a valuable opportunity to gain ins
 Taking on internship roles lets us preview the job and understand the skills required to succeed and advance in the field. Overall, internships are a great way for us to gain practical experience and set ourselves up for success in our future careers.
 
 ---
+
+### Networking
+When it comes to networking, Andronica explains that networking it's important to know your intentions before you start. 
+
+**Your intentions may include**
+* Seeking a sponsor
+* Seeking a mentor
+* Enlarging your community
+* Or other purposes
+ 
+***Knowing your intentions will help you develop a targeted strategy for initiating conversations with others and making the most of your networking opportunities.***
+
+Another important point that Andronica emphasizes is that networking is not all about you! It's important to understand what you can offer others, not just what they can offer you. Networking is a mutually two-way street, and building relationships requires giving as well as receiving. To maximize your networking opportunities, build genuine connections with others and find ways to add value to their lives and careers. 
+
+---
