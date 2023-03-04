@@ -70,3 +70,15 @@ Andronica also recommends seeking help from various sources to improve your resu
 ***Tip:*** *Know your current market value! Andronica informs us that when we are employed by the same company, we will only receive standard percentage raises as time passes, even though we may be worth much more!*
 
 ---
+
+### Internships
+Andronica explains to us that internships are a valuable opportunity to gain insight into a company's culture and determine if it's a good fit for us. 
+
+**They also provide a chance to develop skills not taught in schools or coding boot camps, such as:**
+* Soft skills
+* Working with management
+* Collaborating with coworkers
+
+Taking on internship roles lets us preview the job and understand the skills required to succeed and advance in the field. Overall, internships are a great way for us to gain practical experience and set ourselves up for success in our future careers.
+
+---
