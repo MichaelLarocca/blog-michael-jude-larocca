@@ -97,3 +97,43 @@ When it comes to networking, Andronica explains that networking it's important t
 Another important point that Andronica emphasizes is that networking is not all about you! It's important to understand what you can offer others, not just what they can offer you. Networking is a mutually two-way street, and building relationships requires giving as well as receiving. To maximize your networking opportunities, build genuine connections with others and find ways to add value to their lives and careers. 
 
 ---
+
+### Personal branding
+Personal branding is not exclusive to the famous!  Andronica implores the importance of personal branding for job seekers and how we can achieve it.
+
+Creating a personal brand for yourself is important as it can provide others with knowledge and proof of your skills and capabilities before they meet you. It can also make you recognizable, providing others with a  more comfortable way to initiate networking with you.
+
+**You can develop your personal brand by:**
+* Learning in public
+* Sharing your journey on social networks
+* Becoming a content creator 
+
+A good method of building a personal brand is consistency, not only with content creation methods. For example, when Andronica attends conferences, she dresses fashionably, making her recognizable!
+
+***You may find my following related article helpful: [The Importance of Learning in Public](https://selftaughttxg.com/2021/08-21/TheImportanceOfLearningInPublic/)***
+
+---
+
+### Conferences
+Before attending a conference, Andronica advises us to familiarize ourselves with all the speakers beforehand. With this tactic, if we get an opportunity to meet them personally, it portrays that you are genuinely interested in them. 
+
+Another great piece of advice Andronica provides is to have a list of predetermined questions, making it easier for us to start and maintain conversations.
+
+**List of questions may include**
+* Ask others how they got hired/role
+* If you were my age, what would you do differently
+* If you were my age, what advice what you give
+
+When conversing with others, be attentive! Listen to what others have to say with curiosity, and be flexible in allowing the conversation to lead itself. Through experience, Andronica has learned that people like to talk about themselves, so keep that in mind to help you to keep the  conversations going!
+
+Networking can be intimidating, and it's important to accept that there may be some successes and some setbacks along the way. However, Andronica emphasizes the importance of persevering and continuing to network while also reflecting on ways to improve. 
+
+**One of the best ways to improve is by reaching out to others frequently:**
+* In-person at events
+* On Twitter
+* On LinkedIn
+* Other social networks
+
+*You may find my following article helpful: 🔗 [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)*
+
+---
