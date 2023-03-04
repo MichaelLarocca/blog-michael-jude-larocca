@@ -35,6 +35,10 @@ With his show Guidance Counselor 2.0, he intends to fulfill this need, providing
 
 ---
 
+![Guidance Counselor 2.0](img/03-06-23/GuidanceCounselor.png)
+
+---
+
 ### Andronica Klaas
 (WRITE ARTICLE SECTION)
 
