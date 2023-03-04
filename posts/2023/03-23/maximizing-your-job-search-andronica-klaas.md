@@ -18,3 +18,12 @@ date: "2023-03-06"
 ![TXG-78](img/03-06-23/TN-TXG-78.png)
 
 ---
+
+### Introduction
+Are you searching for a job in the tech industry? Would you like guidance to help you navigate the complexities of the job search? Look no further than Taylor Desseyn's Guidance Counselor 2.0! 
+
+In this Livestream series, Taylor invites top industry experts to share their insights and answer your questions. Many attendees have found mentors, new jobs, and valuable connections through these events!
+
+In this Guidance Counselor 2.0 Livestream, Andronica Klaas, a meta engineer who has successfully navigated the job search process, shares tips and tricks on how we can enter the tech industry job force!
+
+---
