@@ -148,9 +148,29 @@ Networking can be intimidating, and it's important to accept that there may be s
 ---
 
 ### Twitter
-TS-21:50
-TS-23:20
-(WRITE ARTICLE SECTION)
+During the Livestream, Andronica shares how she used Twitter to network and find career-advancing opportunities; she learned about the Magnolia tech conference through Twitter and attended the event, which led to her being featured on Taylor Desseyn's Guidance Counselor 2.0 show. 
+
+Andronica's experience highlights the power of networking on Twitter and how it can lead to unexpected opportunities!
+
+**If you want to engage on Twitter and meet like-minded people, here are some tips she provides:**
+* Observing how people converse
+* Take part in the conversations you're observing 
+* Sharing what you learn as you learn it
+* Asking questions ( career, technical, or personal)
+
+#### Observing how people converse
+Observing how people converse on Twitter to get a sense of the community and the topics they discuss. 
+
+#### Take part in the conversations you're observing 
+Taking part in the conversations you're observing by sharing your thoughts, insights, and experiences can help you establish yourself as a thought leader and build your personal brand. 
+
+#### Sharing what you learn as you learn it
+Sharing what you learn can include articles, blog posts, or other resources that you find interesting or helpful. This can help you establish yourself as a valuable member of the community. 
+
+#### Asking questions ( career, technical, or personal)
+Asking questions can help you build relationships and expand your network. But it's important to remember that networking is a two-way street! Be sure to give and not just receive. 
+
+**Through engagement with others and by providing value, you can gain genuine connections that may potentially lead to career-advancing opportunities for you!**
 
 ---
 
