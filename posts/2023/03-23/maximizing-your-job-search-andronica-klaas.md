@@ -207,7 +207,6 @@ TS-27:00
 ---
 
 ### My other Taylor Desseyn articles
-(WRITE ARTICLE SECTION)
 
 🔗 [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)
 
@@ -219,8 +218,6 @@ TS-27:00
 ---
 
 ### Taylor's links
-(WRITE ARTICLE SECTION)
-
 * 🔗 [Website](https://www.taylordesseyn.com/)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/taylordesseyn)
 * 🔗 [Twitter](https://twitter.com/tdesseyn)
