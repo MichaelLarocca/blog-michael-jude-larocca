@@ -204,15 +204,14 @@ In addition to networking with individuals on LinkedIn, Andronica also recommend
 
 ---
 
-### Always have recruiter relationships
-TS-27:00 
-(WRITE ARTICLE SECTION)
+###  Build relationships with recruiters
+Andronica brings to our attention a very valuable point in building relationships with recruiters, even if you are currently employed. In doing so, you can periodically contact them to determine your position's current market value! As discussed earlier, when you reside in the same company, you will only receive standard percentage raises as the years go by, even if you are worth more! 
+
+Most importantly, by building relationships with recruiters, if you find yourself in a position when you need a job, you will already have created a valuable resource for yourself!
 
 ---
 
-### My other Taylor Desseyn articles
-
-🔗 [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)
+***To learn more about building relationships with recruiters, you may find my related article helpful: [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)***
 
 ---
 
