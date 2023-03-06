@@ -49,7 +49,7 @@ She also advocates for women in tech, helping them gain confidence and belonging
 
 ---
 
-### Alternatives to web developers
+### Alternatives to becoming a web developer
 Did you know that the tech industry offers a wide range of job roles beyond the commonly known position of Front-End Web Developer?
 
 Andronica suggests that we match our strengths and interests with the job role requirements to determine the career path we should take. For example, Andronica found her calling in Q&A.
@@ -217,8 +217,7 @@ Most importantly, by building relationships with recruiters, if you find yoursel
 
 ### Andronica's links
 * 🔗 [LinkedIn](https://www.linkedin.com/in/andronica-klaas-8521139a)
-* 🔗 [Twitter](twitter.com/andronica_klaas)
-* 🔗 [Website](andronicaklaas.com)
+* 🔗 [Twitter](twitter.com/andronica_klaas?s=11&t=HwArVAYC7TbEDw5HktGc_g)
 
 ---
 
