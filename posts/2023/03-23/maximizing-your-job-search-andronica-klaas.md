@@ -213,14 +213,16 @@ TS-27:00
 ---
 
 ### Andronica's links
-(WRITE ARTICLE SECTION)
+* 🔗 [LinkedIn](https://www.linkedin.com/in/andronica-klaas-8521139a)
+* 🔗 [Twitter](twitter.com/andronica_klaas?s=11&t=HwArVAYC7TbEDw5HktGc_g)
+* 🔗 [Website](andronicaklaas.com)
 
 ---
 
 ### Taylor's links
-* 🔗 [Website](https://www.taylordesseyn.com/)
 * 🔗 [LinkedIn](https://www.linkedin.com/in/taylordesseyn)
 * 🔗 [Twitter](https://twitter.com/tdesseyn)
+* 🔗 [Website](https://www.taylordesseyn.com/)
 * 🔗 [Instagram](http://instagram.com/guidancecounselor2.0)
 * 🔗 [YouTube](https://www.youtube.com/@TaylorDesseyn/)
 
