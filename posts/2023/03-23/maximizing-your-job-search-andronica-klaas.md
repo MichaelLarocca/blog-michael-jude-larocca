@@ -39,7 +39,11 @@ With his show Guidance Counselor 2.0, he intends to fulfill this need, providing
 ---
 
 ### Andronica Klaas
-(WRITE ARTICLE SECTION)
+Andronica Klass is a Lead Quality Assurance Engineer at Meta, who leads a team that supports compliance and privacy across the Meta family of apps. She graduated from Johnson C. Smith University with a Bachelor of Science Degree in Computer Science Information Systems.
+
+Born and raised in South Africa, Andronica attended The Oprah Winfrey Leadership Academy for Girls, which instills empowerment in women.
+
+She also advocates for women in tech, helping them gain confidence and belonging through conference talks as a keynote speaker. Andronica has also worked with Discover E, helping thousands of women worldwide through uplifting conversations that help them persevere and thrive in their careers.
 
 ---
 
