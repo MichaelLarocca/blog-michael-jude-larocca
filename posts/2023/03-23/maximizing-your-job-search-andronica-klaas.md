@@ -45,8 +45,6 @@ Born and raised in South Africa, Andronica attended The Oprah Winfrey Leadership
 
 She also advocates for women in tech, helping them gain confidence and belonging through conference talks as a keynote speaker. Andronica has also worked with Discover E, helping thousands of women worldwide through uplifting conversations that help them persevere and thrive in their careers.
 
----
-
 ![Andronica Klaas](img/03-06-23/Andronica_Klaas-01.png)
 
 ---
@@ -232,12 +230,20 @@ Most importantly, by building relationships with recruiters, if you find yoursel
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+To discover which profession best suits you, align your skills and interests with job roles. Also, knowing what you don't like is just as important as knowing what you do like is essential in this process.
+
+Learning if you are a good fit for a company is also essential, and internships are a great way to learn about a company's culture. You will have an opportunity to gain experience not attainable in schools or coding boot camps, such as working with peers and soft skills.
+
+Tailoring your resume for each job you apply for will give you a better chance of getting an interview and can reveal what additional skills you need to fulfill the job role.
+
+Networking with others is a great way to open up job opportunities for yourself! You can network in person at schools, conferences, and other events. Additionally, your can network online with services such as Twitter and LinkedIn.
+
+Finally, building relationships with recruiters is a great way to know your current market value and provide you with a valuable resource if you are in immediate need of a new job! 
 
 ---
 
 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
-(WRITE ARTICLE SECTION)
-###### ***? ? Please share the article and comment!***
+
+###### ***Are you now confident in maximizing your job search? Have you already landed a job and have additional tips to add? Please share the article and comment!***
