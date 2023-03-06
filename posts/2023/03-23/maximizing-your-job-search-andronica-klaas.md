@@ -69,6 +69,10 @@ Identifying which job role aligns with our strengths and interests early on can 
 
 ---
 
+***Tip:*** *Andronica: "knowing what you don't like is just as important as knowing what you do like." This will greatly assist in discovering your best career option.*
+
+---
+
 ### Tailor your resume
 To increase your chances of landing the job, it's important to tailor your resume to the job description. Look closely at the requirements and customize your resume to show how you meet them.
 
