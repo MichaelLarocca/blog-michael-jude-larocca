@@ -43,6 +43,10 @@ With his show Guidance Counselor 2.0, he intends to fulfill this need, providing
 
 ---
 
+![Andronica Klaas](img/03-06-23/Andronica_Klaas-01.png)
+
+---
+
 ### Alternatives to web developers
 Did you know that the tech industry offers a wide range of job roles beyond the commonly known position of Front-End Web Developer?
 
