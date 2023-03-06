@@ -214,7 +214,7 @@ TS-27:00
 
 ### Andronica's links
 * 🔗 [LinkedIn](https://www.linkedin.com/in/andronica-klaas-8521139a)
-* 🔗 [Twitter](twitter.com/andronica_klaas?s=11&t=HwArVAYC7TbEDw5HktGc_g)
+* 🔗 [Twitter](twitter.com/andronica_klaas)
 * 🔗 [Website](andronicaklaas.com)
 
 ---
