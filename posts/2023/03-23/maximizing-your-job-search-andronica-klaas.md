@@ -123,11 +123,13 @@ Creating a personal brand for yourself is important as it can provide others wit
 
 A good method of building a personal brand is consistency, not only with content creation methods. For example, when Andronica attends conferences, she dresses fashionably, making her recognizable!
 
-*You may find my following related article helpful: [The Importance of Learning in Public](https://selftaughttxg.com/2021/08-21/TheImportanceOfLearningInPublic/)*
+***You may find my following related article helpful: [The Importance of Learning in Public](https://selftaughttxg.com/2021/08-21/TheImportanceOfLearningInPublic/)***
 
 ---
 
 <iframe width="956" height="538" src="https://www.youtube.com/embed/lyD6mJbfBV8" title="Tips and Tricks of the Job Search from a Meta Engineer w/Andronica Klaas" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
 
 #### *Tips and Tricks of the Job Search from a Meta Engineer w/Andronica Klaas*
 
@@ -153,7 +155,7 @@ Networking can be intimidating, and it's important to accept that there may be s
 * On LinkedIn
 * Other social networks
 
-*You may find my following article helpful: [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)*
+***You may find my following article helpful: [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)***
 
 ---
 
@@ -180,7 +182,7 @@ Sharing what you learn can include articles, blog posts, or other resources that
 #### Asking questions ( career, technical, or personal)
 Asking questions can help you build relationships and expand your network. But it's important to remember that networking is a two-way street! Be sure to give and not just receive. 
 
-**Through engagement with others and by providing value, you can gain genuine connections that may potentially lead to career-advancing opportunities for you!**
+***Through engagement with others and by providing value, you can gain genuine connections that may potentially lead to career-advancing opportunities for you!***
 
 ---
 
