@@ -76,7 +76,7 @@ To increase your chances of landing the job, it's important to tailor your resum
 
 If you don't meet all the requirements, don't worry! This method is an excellent way to help you identify the skills you need to learn to become eligible for the job.
 
-Andronica also recommends seeking help from various sources to improve your resume, such as your school, online tools, paid services, and even recruiters like Taylor Desse! Don't be afraid to ask for feedback and suggestions to make your resume stand out.
+Andronica also recommends seeking help from various sources to improve your resume, such as your school, online tools, paid services, and even recruiters like Taylor Desseyn! Don't be afraid to ask for feedback and suggestions to make your resume stand out.
 
 ---
 
@@ -97,7 +97,7 @@ Taking on internship roles lets us preview the job and understand the skills req
 ---
 
 ### Networking
-When it comes to networking, Andronica explains that networking it's important to know your intentions before you start. 
+When it comes to networking, Andronica explains that it's important to know your intentions before you start. 
 
 **Your intentions may include**
 * Seeking a sponsor
