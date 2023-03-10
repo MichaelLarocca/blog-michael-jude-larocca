@@ -120,7 +120,7 @@ We will start by replacing the "Vite + React" text with "Hello World!"
 
 Now, locate the `<h1>` element ( you can use the find ctrl + f ), and replace the text to say "Hello World!"
 
-Once you have replaced the text, save the project ( ctrl + s ). You will now see your change in the browser!
+Once you have replaced the text, save the project ( ctrl + s ). You will now see your change in the browser! As you make changes in your code, each time you save your work, it will automatically update in the browser (similar to Live Server)
 
 ![VS-Code-vite-project-App-jsx](img/03-13-23/VS-Code-vite-project-App-jsx.png)
 
