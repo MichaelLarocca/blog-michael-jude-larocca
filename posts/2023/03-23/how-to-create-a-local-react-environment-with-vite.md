@@ -148,7 +148,3 @@ To edit the project and start your React coding practice, in your VS Code editor
 ---
 
 ###### ***? ? Please share the article and comment!***
-
-*****
-Notes: 
-You've worked hard to learn JavaScript. Are you now ready to start learning React? One effective approach to practicing React is by establishing a local environment to gain practical experience. This article explores how to create a local environment using Vite!
