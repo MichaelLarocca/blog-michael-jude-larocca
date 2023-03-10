@@ -108,7 +108,35 @@ To edit the project and start your React coding practice, in your VS Code editor
 ---
 
 ### Editing the project
-(WRITE ARTICLE SECTION)
+Once you open your project folder, you should see the following files:
+
+![VS-Code-vite-project](img/03-13-23/VS-Code-vite-project.png)
+
+We will start by replacing the "Vite + React" text with "Hello World!"
+
+**Navigate to the following file to update:**
+* scr
+* App.jsx
+
+Now, locate the `<h1>` element ( you can use the find ctrl + f ), and replace the text to say "Hello World!"
+
+Once you have replaced the text, save the project ( ctrl + s ). You will now see your change in the browser!
+
+![VS-Code-vite-project-App-jsx](img/03-13-23/VS-Code-vite-project-App-jsx.png)
+
+#### Vite terminal shortcuts
+Below is a list of Vite shortcuts you can use in the bash terminal. Once you quit the application, use **npm run dev** to start it up again.
+
+```
+  Shortcuts
+  press r to restart the server
+  press u to show server url   
+  press o to open in browser   
+  press c to clear console     
+  press q to quit
+```
+
+---
 
 ---
 
