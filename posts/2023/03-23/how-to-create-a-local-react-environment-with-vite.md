@@ -152,6 +152,15 @@ So, if you want to style a particular component, you can use App.css; if you wan
 
 ***Feel free to remark or delete the content in both the App.css and index.css files.***
 
+In the index.css, we will add the following formating code:
+```css
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+```
+
 #### App.jsx and main.jsx
 In the App.jsx file, we will delete some of the code in the App function. 
 
