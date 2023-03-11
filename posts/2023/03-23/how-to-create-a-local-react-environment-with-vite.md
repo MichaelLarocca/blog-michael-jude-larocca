@@ -153,7 +153,24 @@ So, if you want to style a particular component, you can use App.css; if you wan
 ***Feel free to remark or delete the content in both the App.css and index.css files.***
 
 #### App.jsx and main.jsx
-We will remark or delete the App.jsx file and just use the main.jsx for practicing purposes.
+In the App.jsx file, we will delete some of the code in the App function. 
+
+The App.jsx file should now look like this:
+```javascript
+import './App.css'
+
+function App() {
+
+  return (
+    <div className="App">
+
+    </div>
+  )
+}
+
+export default App
+
+```
 
 #### React components
 We are going to create a few simple React components. The React components we will make are JavaScript functions that return blocks of HTML code. 
