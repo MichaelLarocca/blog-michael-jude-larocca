@@ -180,7 +180,7 @@ We will then import the React components we make into the main.jsx file to rende
 ---
 
 ### Setting up our React environment 
-After removing the default boilerplate, we will create a components folder inside of the scr folder.
+After removing the default boilerplate, we will create a components folder inside of the src folder.
 
 ![Components-folder](img/03-13-23/Components-folder.png)
 
