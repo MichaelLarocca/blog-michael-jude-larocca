@@ -138,15 +138,34 @@ Below is a list of Vite shortcuts you can use in the bash terminal. Once you qui
 
 ---
 
----
-
 ### Removing the Default Boilerplate
-(WRITE ARTICLE SECTION)
+**Now that our local React environment is set up, let's look at the default boilerplate and see what we can remove.**
+
+#### App.css and index.css
+**What is the difference between App.css and index.css?**
+
+In React, App.css is a file where you can write styles for a specific app component, like a header or footer. 
+
+On the other hand, index.css is used for styles that will affect the whole app, like the background color or font size. 
+
+So, if you want to style a particular component, you can use App.css; if you want to style the entire app, you can use index.css.
+
+***Feel free to remark or delete the content in both the App.css and index.css files.***
+
+#### App.jsx and main.jsx
+We will remark or delete the App.jsx file and just use the main.jsx for practicing purposes.
+
+#### React components
+We are going to create a few simple React components. The React components we will make are JavaScript functions that return blocks of HTML code. 
+
+We will then import the React components we make into the main.jsx file to render.
 
 ---
 
 ### Setting up our React environment 
-(WRITE ARTICLE SECTION)
+After removing the default boilerplate, we will create a components folder inside of the scr folder.
+
+![Components-folder](img/03-13-23/Components-folder.png)
 
 ---
 
