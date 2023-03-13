@@ -339,9 +339,62 @@ You have now successfully created a local environment using Vite to practice Rea
 
 ---
 
+### Deploy the project using Netlify ( optional )
+On the Vite website, I used the "[deploying a static website guide](https://v2.vitejs.dev/guide/static-deploy.html#netlify)" instructions to deploy my practice React website using Netlify.
 
-### Deploy the project using Netlify
-(WRITE ARTICLE SECTION)
+
+ In just a few steps, you can deploy your practice website:
+
+**Netlify**
+1. Install the Netlify CLI.
+2. Create a new site using ntl init.
+3. Deploy using ntl deploy.
+
+**Note:** *To simplify, we will choose to create and deploy the site manually.*
+![create and deploy site manually](img/03-13-23/Netlify-site.png)
+
+```
+# Install the Netlify CLI
+$ npm install -g netlify-cli
+
+# Create a new site in Netlify
+$ ntl init
+```
+
+***Your command line should look similar to this:***
+
+![Deploy the Netlify site](img/03-13-23/Deploy-the-Netlify-site.png)
+
+Now we are told first to run our build command:
+```
+npm run build
+``` 
+
+We can now preview our site by running ntl deploy. 
+
+***Note:*** *Choose dist for the publish directory.*
+
+```
+# Deploy to a unique preview URL
+$ ntl deploy
+```
+
+Once your deploy is live, preview it using "ctrl + click" while hovering over the website draft URL.
+
+![Netlify Preview](img/03-13-23/Netlify-Preview.png)
+
+The Netlify CLI will share with you a preview URL to inspect. When you are ready to go into production, use the prod flag.
+
+***Note:*** *Choose dist for the publish directory.*
+
+```
+# Deploy the site into production
+$ ntl deploy --prod
+```
+
+Your site is now deployed! Your terminal should look similar to the screenshot below.  You can navigate to your website by using "ctrl + click" while hovering over the website URL.
+
+---
 
 ---
 
