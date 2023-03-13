@@ -288,6 +288,52 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 
 ---
 
+### Basic CSS styling
+Now let's add some basic CSS styling.
+
+We already added the following code to the index.css:
+```css
+ body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+```
+
+Now let's add the following basic CSS styling to the App CSS file:
+```css
+nav, nav ul {
+  border: 1px solid red;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 15px;
+}
+
+nav li {
+  list-style-type:none;
+  margin: 0 15px;
+}
+
+nav li:hover {
+  color: lightgreen;
+  cursor: pointer;
+}
+
+main {
+  border: 1px solid red;
+  padding: 0 15px;
+}
+```
+
+***After the CSS styling, the rendered webpage should look like the following:***
+
+![Webpage after css.png](img/03-13-23/Webpage-after-css.png)
+
+***Note:*** *The red border color is added for visual HTML element purposes. Feel free to remake or delete them.*
+
+---
+
 
 ### Deploy the project using Netlify
 (WRITE ARTICLE SECTION)
