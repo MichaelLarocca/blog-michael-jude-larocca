@@ -236,11 +236,55 @@ export default function Main() {
 }
 ```
 
+---
+
+### App.jsx
+In the App.jsx file, we will first import the React components we created by adding the following code to the file:
+```javascript
+import './App.css'
+import Navbar from './components/Navbar'
+import Main from './components/Main'
+```
+
+#### App function
+We will now write an App function that will return the Navbar and Main components. Take notice of the syntax. The components are written in the functions as custom-named HTML elements with capital letters. 
+```javascript
+function App() {
+
+  return (
+    <div className="App">
+      <Navbar />
+      <Main />
+    </div>
+  )
+}
+
+export default App
+```
+
+*Since App.jsx already includes the "export default App" at the bottom of the file, we can exclude it from the beginning of the function.*
 
 ---
 
-### HOLD
-(WRITE ARTICLE SECTION)
+### main.jsx
+The boilerplate code in the main jsx file already includes everything needed. It includes all of the necessary imports and then renders our created App function to the webpage.
+```javascript
+import React from 'react'
+import ReactDOM from 'react-dom/client'
+import App from './App'
+import './index.css'
+
+ReactDOM.createRoot(document.getElementById('root')).render(
+  <React.StrictMode>
+    <App />
+  </React.StrictMode>,
+)
+
+```
+
+***The rendered webpage should look like the following:***
+
+![Webpage before css](img/03-13-23/Webpage-before-css.png)
 
 ---
 
