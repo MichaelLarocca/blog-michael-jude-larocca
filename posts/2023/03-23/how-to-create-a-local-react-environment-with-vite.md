@@ -399,11 +399,12 @@ Your site is now deployed! Your terminal should look similar to the screenshot b
 ---
 
 ### Conclusion
+(WRITE ARTICLE SECTION)
 
 ---
 
 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
-
+(WRITE ARTICLE SECTION)
 ###### ***? ? Please share the article and comment!***
