@@ -196,7 +196,45 @@ After removing the default boilerplate, we will create a components folder insid
 ---
 
 ### Creating simple React components 
-(WRITE ARTICLE SECTION)
+Now we will make two simple React components, a navigation bar, and a main section.
+
+The syntax may seem a little odd at first( it did to me ), but the concept of the code is quite simple. We are breaking up the website page into parts and writing the HTML code in JavaScript. 
+
+#### Navbar
+We create a new jsx file titled "Navbar" in the components folder. Then we write a function named Navbar that retunes a block of HTML code. Finally, we include JavaScript code to report the function.
+```javascript
+export default function Navbar() {
+    return (
+            <nav>
+                <div>My React website</div>
+                <ul>
+                    <li>Page 1</li>
+                    <li>Page 2</li>
+                    <li>Page 3</li>
+                </ul>
+            </nav>
+    )
+}
+```
+
+#### Main
+In a similar manner to the Navbar function we wrote, we will:
+* We create a new jsx file titled "Main" in the components folder
+* Then we write a function named Main that retunes a block of HTML code
+*  Include JavaScript code to report the function
+```javascript
+export default function Main() {
+    return (
+            <main>
+                <h1>Let's practice some React!</h1>
+                <h3>Paragraph 1</h3>
+                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores pariatur officiis magnam, optio reprehenderit labore culpa repudiandae voluptates, quos et assumenda placeat maxime non nam.</p>
+                <h3>Paragraph 2</h3>
+                <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Asperiores, sed accusantium nobis vero ut laborum.</p>
+            </main>
+    )
+}
+```
 
 
 ---
