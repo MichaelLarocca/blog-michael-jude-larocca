@@ -410,7 +410,9 @@ Your site is now deployed! Your terminal should look similar to the screenshot b
 ---
 
 ### Conclusion
-(WRITE ARTICLE SECTION)
+Creating a local React environment using Vite is a practical way to get hands-on experience with React and improve your skills. By following the step-by-step instructions in this tutorial article, you can easily create a Vite project, remove the default boilerplate, create simple React components, and add basic CSS styling.
+
+This tutorial article also offers optional instructions on deploying your project using Netlify, enabling you to share your learning React progress with others!
 
 ---
 
