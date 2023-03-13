@@ -367,7 +367,7 @@ $ ntl init
 
 Now we are told first to run our build command:
 ```
-npm run build
+$ npm run build
 ``` 
 
 We can now preview our site by running ntl deploy. 
