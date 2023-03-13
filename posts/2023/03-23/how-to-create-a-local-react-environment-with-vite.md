@@ -419,5 +419,5 @@ This tutorial article also offers optional instructions on deploying your projec
 **Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
 
 ---
-(WRITE ARTICLE SECTION)
-###### ***? ? Please share the article and comment!***
+
+###### ***Can you now create a local React environment using Vite? Have you already created a local React environment using other methods? Please share the article and comment!***
