@@ -334,6 +334,11 @@ main {
 
 ---
 
+### Congratulations!
+You have now successfully created a local environment using Vite to practice React coding!
+
+---
+
 
 ### Deploy the project using Netlify
 (WRITE ARTICLE SECTION)
