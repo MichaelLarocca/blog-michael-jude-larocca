@@ -18,7 +18,18 @@ date: "2023-03-13"
 ---
 
 ### Introduction
-(WRITE ARTICLE SECTION)
+If you're looking to take your JavaScript skills to the next level, learning React is a great way to go. But where to start? Well, creating a local environment is a practical approach to getting hands-on experience in practicing React! 
+
+In this article, you will learn how to create a local environment using Vite, a build tool and development server that is designed to be fast and efficient. 
+
+**This article covers:**
+* Step-by-step instructions on how to create a Vite project 
+* Removing the default boilerplate
+* Creating simple React components
+* Adding basic CSS styling. 
+* Deploying the project with Netlify ( optional )
+
+By the end of this tutorial, you will have a solid understanding of creating a local React environment using Vite!
 
 ---
 
