@@ -395,7 +395,6 @@ $ ntl deploy --prod
 Your site is now deployed! Your terminal should look similar to the screenshot below.  You can navigate to your website by using "ctrl + click" while hovering over the website URL.
 
 ![Live Netlify website](img/03-13-23/Live-Netlify-website.png)
----
 
 ---
 
