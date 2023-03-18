@@ -104,6 +104,11 @@ That's it! With these simple commands, you can easily navigate around your file 
 mkdir yourfoldername
 ```
 
+After creating your new folder, use the change directory command (cd) to enter it. 
+```
+cd yourfoldername
+```
+
 ---
 
 ***TIP:*** *To clear the bash terminal, use CTRL+L. To cycle through your past commands/entries, use the UP ARROW and the DOWN ARROW.*
