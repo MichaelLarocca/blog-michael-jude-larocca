@@ -431,7 +431,9 @@ To ensure everything is being deployed correctly, we may need to uncomment code 
 
 #### Nano (WRITE ARTICLE SECTION)
 
-Open the netlify.toml file and unremarked lines 9 through 12 (the redirects section) as follows:
+***Note:*** *The # symbol is used for comments.*
+
+Open the netlify.toml file and uncomment lines 9 through 12 (the redirects section) as follows:
 ```md
   ## Uncomment to use this redirect for Single Page Applications like create-react-app.
   ## Not needed for static site generators.
