@@ -436,6 +436,8 @@ To ensure everything is being deployed correctly, we may need to uncomment code 
 
 #### Nano (WRITE ARTICLE SECTION)
 
+![Nano](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Nano.png?raw=true))
+
 ***Note:*** *The # symbol is used for comments.*
 
 Open the netlify.toml file and uncomment lines 9 through 12 (the redirects section) as follows:
