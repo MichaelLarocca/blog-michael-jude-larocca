@@ -212,7 +212,7 @@ Now we will make two simple React components, a navigation bar, and a main secti
 The syntax may seem a little odd at first( it did to me ), but the concept of the code is quite simple. We are breaking up the website page into parts and writing the HTML code in JavaScript. 
 
 #### Navbar
-We create a new jsx file titled "Navbar" in the components folder. Then we write a function named Navbar that retunes a block of HTML code. Finally, we include JavaScript code to report the function.
+We create a new jsx file titled "Navbar" in the components folder. Then we write a function named Navbar that retunes a block of HTML code. Finally, we include JavaScript code to export the function.
 ```javascript
 export default function Navbar() {
     return (
@@ -232,7 +232,7 @@ export default function Navbar() {
 In a similar manner to the Navbar function we wrote, we will:
 * We create a new jsx file titled "Main" in the components folder
 * Then we write a function named Main that retunes a block of HTML code
-*  Include JavaScript code to report the function
+*  Include JavaScript code to export the function
 ```javascript
 export default function Main() {
     return (
