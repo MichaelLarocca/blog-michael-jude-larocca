@@ -4,6 +4,7 @@ tags:
   [
     "tutorial",
     "javascript",
+    "react",
   ]
 published: true
 date: "2023-03-20"
@@ -225,6 +226,10 @@ As you see, we now have a **dist** folder. In React, the "dist" folder is create
 *Remember to run the build command before each deployment! If you forget to run the build command after making changes to your project, the deployed version of the site will not show the updates!*
 
 #### *If you would like step-by-step instructions to remove the default boilerplate, create simple React components, and add basic CSS styling, check out my article: [How to Create a Local React Environment with Vite](https://selftaughttxg.com/2023/03-23/how-to-create-a-local-react-environment-with-vite/)*
+
+---
+
+***Tip:*** *When typing in the bash terminal, use the **Tab** key to auto complete.*
 
 ---
 
