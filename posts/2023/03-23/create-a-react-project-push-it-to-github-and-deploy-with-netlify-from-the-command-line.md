@@ -228,7 +228,7 @@ As you see, we now have a **dist** folder. In React, the "dist" folder is create
 
 ---
 
-***Tip:*** *When typing in the bash terminal, use the **Tab** key to auto complete.*
+***Tip:*** *When typing in the bash terminal, use the Tab key to auto complete.*
 
 ---
 
