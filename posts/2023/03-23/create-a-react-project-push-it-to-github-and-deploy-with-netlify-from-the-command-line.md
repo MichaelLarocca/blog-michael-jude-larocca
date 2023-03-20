@@ -13,7 +13,7 @@ date: "2023-03-20"
 
 ---
 
-![TN-TXG-80](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/TN-TXG-80.png?raw=true)
+![TN-TXG-80](img/03-20-23/TN-TXG-80.png)
 
 ---
 
@@ -76,7 +76,7 @@ Next, click on view in the VS Code top menu and choose terminal ( shortcut: CTRL
 
 *If Bash is not your default, select the **down icon** located on the right side ( launch profile ), and choose Git Bash.*
 
-![Bash](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Bash.png?raw=true)
+![Bash](img/03-20-23/Bash.png)
 
 **Bash terminal commands we will use:**
 * ls - list files and directories
@@ -268,7 +268,7 @@ A new window will open. Paste in your one-time code, continue, and click "Author
 
 If successful, you will be prompted with "Congratulations, you're all set! Your device is now connected."
 
-![Congrats](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Congrats.png?raw=true)
+![Congrats](img/03-20-23/Congrats.png)
 
 ---
 
@@ -315,7 +315,7 @@ Leave the default as **origin**.
 
 Below is a screenshot of the entire process:
 
-![gh-repo-create](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/gh-repo-create.png?raw=true)
+![gh-repo-create](img/03-20-23/gh-repo-create.png)
 
 ---
 
@@ -381,13 +381,13 @@ Then you may be asked to configure Webhooks and Deploy Keys. Choose the default:
 ```
 You will now be redirected to the Netlify website to continue. You will be asked to sign in to Netlify CLI by choosing a Git provider. Choose GitHub.
 
-![Connect-Git-Provider](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Connect-Git-Provider.png?raw=true)
+![Connect-Git-Provider](img/03-20-23/Connect-Git-Provider.png)
 
 Finally, click the Authorize netlify button.
 
 You will now be asked to log in with your GitHub password. Once successful, you will see the notification in the screenshot below:
 
-![LoggedIn Netlify CL](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/LoggedIn-Netlify-CLI.png?raw=true)
+![LoggedIn Netlify CL](img/03-20-23/LoggedIn-Netlify-CLI.png)
 
 Next, you will be asked for your build command. Use vite build:
 ```
@@ -406,7 +406,7 @@ If you are prompted with "no netlify.toml detected," choose "Y" to proceed with 
 
 **Congratulations! The Netlify CI/CD is configured.**
 
-![Netlify init process](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Netlify-init-process.png?raw=true)
+![Netlify init process](img/03-20-23/Netlify-init-process.png)
 
 #### Commit all of the changes
 Now it is time to commit all of the changes:
@@ -433,7 +433,7 @@ Hover over the provided URL and "CTRL+LEFT-CLICK" to open the external website (
 
 **Congrats! Your site is now live!**
 
-![Vite-React-netlify-app](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Vite-React-netlify-app.png?raw=true)
+![Vite-React-netlify-app](img/03-20-23/Vite-React-netlify-app.png)
 
 ---
 
