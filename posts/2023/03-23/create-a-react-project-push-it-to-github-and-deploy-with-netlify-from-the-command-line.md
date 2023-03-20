@@ -18,7 +18,7 @@ date: "2023-03-20"
 ---
 
 ### Introduction
-In the last article, we covered how to create a local React environment with Vite to provide a practical approach to practicing React. In this article, I take it a step further by showing you how to create a GitHub repo, push it to GitHub, and deploy it with Netlify, all from the command line. 
+In the last article, we covered [how to create a local React environment with Vite](https://selftaughttxg.com/2023/03-23/how-to-create-a-local-react-environment-with-vite/) to provide a practical approach to practicing React. In this article, I take it a step further by showing you how to create a GitHub repo, push it to GitHub, and deploy it with Netlify, all from the command line. 
 
 Step by step in instructions for installing the Netlify CLI and the GitHub CLI is provided in this article. The GitHub CLI is an excellent method for getting your React projects up and running quickly and easily!
 
@@ -434,11 +434,12 @@ Hover over the provided URL and "CTRL+LEFT-CLICK" to open the external website (
 ---
 
 ### Conclusion
-This article is an excellent resource for anyone looking to create a React project, push it to GitHub, and deploy it with Netlify. Following the step-by-step instructions, you can get your projects up and running quickly and easily. 
+Using the command line to create a React project, push it to GitHub, and deploy it with Netlify may seem daunting initially, but it's a straightforward process that can save you time and effort in the long run. 
 
-Don't be intimidated by the technical jargon! With the help of the tools like Vite, GitHub CLI, and Netlify CLI, you can create professional-grade projects you can be proud of.
+The GitHub CLI and Netlify CLI make it easy to manage your repositories and deployments directly from the command line.
 
-So, go ahead and give it a try! The process may seem daunting initially, but after everything is installed, by using the command line, you will get your projects up and running by using the command line in no time!
+Don't be intimidated by the technical jargon! With the step-by-step instructions provided in this article, you can get your projects up and running quickly and easily.
+So don't be afraid to try it and see how it can improve your React development workflow!
 
 ---
 
