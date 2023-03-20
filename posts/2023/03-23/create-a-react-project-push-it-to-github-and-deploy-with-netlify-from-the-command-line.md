@@ -427,58 +427,9 @@ $ netlify open:site
 
 Hover over the provided URL and "CTRL+LEFT-CLICK" to open the external website ( if prompted, click open ).  
 
-*Your site is now live! You may need to update the Netlify toml file if there is a build error. The instructions to update the Netlify toml file are listed in the next section.*
-
----
-
-### Netlify.toml
-To ensure everything is being deployed correctly, we may need to uncomment code in the netlify.toml file.
-
-#### Nano (WRITE ARTICLE SECTION)
-
-![Nano](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Nano.png?raw=true))
-
-***Note:*** *The # symbol is used for comments.*
-
-Open the netlify.toml file and uncomment lines 9 through 12 (the redirects section) as follows:
-```md
-  ## Uncomment to use this redirect for Single Page Applications like create-react-app.
-  ## Not needed for static site generators.
-  [[redirects]]
-    from = "/*"
-    to = "/index.html"
-    status = 200
-```
-
-***Make sure to save the netlify.toml file!***
-
-#### Commit all of the changes
-Now it is time to commit all of the changes:
-```
-$ git add .
-```
-Then commit:
-```
-$ git commit -m "Added Netlify deploy files"
-``` 
-Finally, we push to repo up to GitHub:
-```
-$ git push origin master
-```
-
-We can now see the site by running the following command:
-```
-$ netlify open:site
-```
-Hover over the site URL and "CTRL+ LEFT-CLICK" the mouse to follow the link. 
-
 **Congrats! Your site is now live!**
 
 ![Vite-React-netlify-app](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/03-23/img/03-20-23/Vite-React-netlify-app.png?raw=true)
-
----
-
-#### *You may find my related article helpful: [How to Create a Local React Environment with Vite](https://selftaughttxg.com/2023/03-23/how-to-create-a-local-react-environment-with-vite/)*
 
 ---
 
