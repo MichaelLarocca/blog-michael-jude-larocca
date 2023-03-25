@@ -21,6 +21,6 @@ date: "2023-03-27"
 
 ---
 
-![Requirements]img/03-27-23/Requirements.png()
+![Requirements](img/03-27-23/Requirements.png)
 
 ---
