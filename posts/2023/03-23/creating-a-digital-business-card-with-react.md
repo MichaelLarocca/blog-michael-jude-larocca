@@ -17,3 +17,10 @@ date: "2023-03-27"
 ![TN-TXG-81](img/03-27-23/TN-TXG-81.png)
 
 ---
+
+
+---
+
+![Requirements]img/03-27-23/Requirements.png()
+
+---
