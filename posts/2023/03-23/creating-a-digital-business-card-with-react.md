@@ -4,6 +4,7 @@ tags:
   [
     "tutorial",
     "javascript",
+    "scrimba",
   ]
 published: true
 date: "2023-03-27"
