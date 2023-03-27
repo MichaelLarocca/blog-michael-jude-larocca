@@ -55,4 +55,4 @@ date: "2023-03-27"
 
 ---
 
-###### ***? ? Please share the article and comment!***
+###### ***Are you now confident in creating a React digital business card? Did you create already create a digital business card on Scrimba or deploy it to the web? Please share the article and comment!***
