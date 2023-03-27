@@ -230,10 +230,6 @@ export default function Interests() {
 }
 ```
 
----
-
-### Individual files 
-
 #### Photo
 ```javascript
 import soloPhoto from '../img/Han-Solo.png'
@@ -246,6 +242,10 @@ export default function Photo() {
     );
 }
 ```
+
+---
+
+### Individual files 
 
 #### Index CSS
 ```css
