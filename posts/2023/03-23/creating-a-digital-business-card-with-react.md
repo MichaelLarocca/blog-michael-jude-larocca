@@ -21,7 +21,7 @@ date: "2023-03-27"
 ### Introduction
 As part of Scrimba's Front-End Developer Career Path, we are asked to create solo projects for which they do not provide a solution. We are given a set of instructions and a Figma file that displays what the finished project should look like.
 
-I solved their Digital Business Card Solo Project as a [scrim](https://scrimba.com/scrim/cof23464e8aaeec49a932afa0), which you can view on their website.
+**I solved their Digital Business Card Solo Project as a [scrim](https://scrimba.com/scrim/cof23464e8aaeec49a932afa0), which you can view on their website.**
 
 To get more real-world experience, I solved their Digital Business Card Solo Project again, only this time, I created it as a React/Vite project, pushed it to GitHub, and deployed it using Netlity. However, this time, I literally made it a "Solo" business card!
 
@@ -94,7 +94,7 @@ export default App
 
 ```
 
-This function is exported so that it can be imported into the main.jsx file. In the main.jsx file, we then create an element with an id of root.
+**This function is exported so that it can be imported into the main.jsx file. In the main.jsx file, we then create an element with an id of root.**
 
 ```javascript
 import App from './App'
@@ -106,7 +106,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 )
 ```
 
-As you can see, the body section in the HTML file is now reduced to just one div with the id of root, which is used to display the App we created with React!
+**As you can see, the body section in the HTML file is now reduced to just one div with the id of root, which is used to display the App we created with React!**
 
 ```html
   <body>
@@ -143,7 +143,7 @@ For the file structure, I created a components folder that holds all of the comp
 
 ---
 
-As instructed by the Scrimba course, I created a function called App that is exported and then imported into the main.jsx file to render.
+**As instructed by the Scrimba course, I created a function called App that is exported and then imported into the main.jsx file to render.**
 ```javascript
 import React from 'react'
 import ReactDOM from 'react-dom/client'
@@ -165,6 +165,8 @@ Now that we covered the theory of React file structures, in the sections below, 
 I also included a section that covers an issue I ran into where the image file wasn't rendering!
 
 ### Individual components 
+
+---
 
 #### About
 ```javascript
@@ -228,6 +230,10 @@ export default function Interests() {
 }
 ```
 
+---
+
+### Individual files 
+
 #### Photo
 ```javascript
 import soloPhoto from '../img/Han-Solo.png'
@@ -241,7 +247,7 @@ export default function Photo() {
 }
 ```
 
-### Index CSS
+#### Index CSS
 ```css
 body {
   box-sizing: border-box;
@@ -252,7 +258,7 @@ body {
 }
 ```
 
-### App CSS
+#### App CSS
 ```css
 .ctn {
   border: 1px solid #333;
@@ -399,7 +405,7 @@ footer i:focus {
 
 ---
 
-### App.jsx
+#### App.jsx
 
 ```javascript
 import { useState } from 'react';
@@ -433,7 +439,7 @@ export default App
 
 ---
 
-### Main.jsx
+#### Main.jsx
 ```javascript
 import React from 'react'
 import ReactDOM from 'react-dom/client'
@@ -450,7 +456,7 @@ ReactDOM.createRoot(document.getElementById('root')).render(
 ---
 
 ###  A Problem I ran into
-I ran into a strange problem with the photo image of Han Solo. While working locally in the dev environment, the image displayed as expected. However, when I ran the build command and deployed it to Netlity, the online website did not display the image, only a broken link icon!
+I ran into a strange problem with the photo image of Han Solo. While working locally in the dev environment, the image displayed as expected. However, when I ran the build command and deployed it to Netlify, the online website did not display the image, only a broken link icon!
 
 I used an HTML image tag to display the image and set the source with the correct path leading to the image folder. I checked again, and it worked in the local environment but not the deployed website.
 
@@ -491,8 +497,6 @@ Creating a digital business card using React is a great way to sharpen your Reac
 Throughout the project, you may encounter and resolve interesting issues, such as the image rendering problem I ran into, which can help you further enhance your skills. 
 
 With the instructions and Figma file provided by Scrimba, creating your own digital business card project is easy, and you can deploy it online to impress potential employers with your growing skillset!
-
-Are you now confident in creating a React digital business card? Did you create already create a digital business card on Scrimba or deploy it to the web?
 
 ---
 
