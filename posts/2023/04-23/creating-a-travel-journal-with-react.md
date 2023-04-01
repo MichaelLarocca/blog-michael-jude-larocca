@@ -18,6 +18,7 @@ date: "2023-04-03"
 
 ---
 
+![scrimba solo project travel journal](img/04-03-23/scrimba-solo-project-travel-journal.png)
 
 
 ---
