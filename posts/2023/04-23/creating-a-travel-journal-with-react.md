@@ -189,7 +189,7 @@ import TatooineImage from "../src/img/Tatooine.jpeg";
 
 The strange thing is, if you use the image path directly as a key-value pair in the object, it will work in the dev environment. However, once you build and deploy your project, it will not work!
 
- ### Not sure where to create the img folder
+#### Not sure where to create the img folder
 After much research, the consensus is images that are associated with components belong in the src folder. images not associated with components, such as favicons, belong in the public folder.
 
 *Also, note you do not need to, nor are you supposed to, use import React from react on every page in your projects. I used it in my data page jsx file in addition to importing the image URLs, started using JSX syntax, and wondered why it wasn't working! Feel free to laugh at me again!*
