@@ -148,6 +148,16 @@ import Card from './components/Card'
 
 ---
 
+***Tip:*** *To make a commit message and push with one line of code in Git, you can use the following command:*
+
+```plaintext
+git commit -am "your commit message" && git push
+```
+
+The -a flag in the git commit command allows you to stage and commit all changes in the repository, while the -m flag allows you to add a commit message. The && operator allows you to chain multiple commands together so that they are executed in sequence. This command will commit your changes with the specified commit message and then push them to the remote repository.
+
+---
+
 ### Problems I had and how I resolved them
 
 **Problems**
@@ -182,16 +192,6 @@ The strange thing is, if you use the image path directly as a key-value pair in 
 After much research, the consensus is images that are associated with components belong in the src folder. images not associated with components, such as favicons, belong in the public folder.
 
 *Also, note you do not need to, nor are you supposed to, use import React from react on every page in your projects. I used it in my data page jsx file in addition to importing the image URLs, started using JSX syntax, and wondered why it wasn't working! Feel free to laugh at me again!*
-
----
-
-***Tip:*** *To make a commit message and push with one line of code in Git, you can use the following command:*
-
-```plaintext
-git commit -am "your commit message" && git push
-```
-
-The -a flag in the git commit command allows you to stage and commit all changes in the repository, while the -m flag allows you to add a commit message. The && operator allows you to chain multiple commands together so that they are executed in sequence. This command will commit your changes with the specified commit message and then push them to the remote repository.
 
 ---
 
