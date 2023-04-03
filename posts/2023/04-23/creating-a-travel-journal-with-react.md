@@ -224,4 +224,4 @@ Feel free to clone the project, and I highly recommend reading the **Problems** 
 
 ---
 
-###### ***?? Please share the article and comment!***
+###### ***Do you now know how to use props in React, work with data, and use JavaScript map to create components? Have you already completed this Scrimba project and would like to share what you learned? Please share the article and comment!***
