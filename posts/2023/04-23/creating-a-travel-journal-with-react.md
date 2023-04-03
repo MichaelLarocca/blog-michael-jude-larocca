@@ -29,6 +29,7 @@ In this article, I will cover how to incorporate the new React concepts introduc
 ---
 
 ### Creating a React Project
+**Once again, I decided to create this project locally, as opposed to creating it as a scrim on Scrimba's website.**
 
 **If you would like to learn how to set up a local React development environment, I wrote the following two beginner-friendly articles:** 
 * [Create a React Project, Push It to GitHub, and Deploy With Netlify, From the Command Line](https://selftaughttxg.com/2023/03-23/create-a-react-project-push-it-to-github-and-deploy-with-netlify-from-the-command-line/)
