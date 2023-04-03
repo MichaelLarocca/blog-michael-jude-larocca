@@ -22,7 +22,7 @@ date: "2023-04-03"
 ### Introduction
 In the last article, I solved Scrima's first React solo project. That project was a simple webpage that displays a digital business card. Instead of working on Scrimba's website, to get a more real-world React experience, I created a React/Vite project, pushed it up to GitHub, and deployed it with Netlify.
 
-The second Scrimba React solo project builds on the knowledge gained by the first. It then introduces working with **props**, using a data page containing an array of objects, and using the JavaScript map method to render components.
+The second Scrimba React solo project builds on the knowledge gained by the first. It then introduces working with **props**, using **a data page** containing an array of objects, and using the **JavaScript map method** to render components.
 
 In this article, I will cover how to incorporate the new React concepts introduced and then discuss problems I ran into along with solutions on how I solved them.
 
