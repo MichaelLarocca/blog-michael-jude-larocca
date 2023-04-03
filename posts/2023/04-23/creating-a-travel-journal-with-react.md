@@ -10,7 +10,7 @@ published: true
 date: "2023-04-03"
 ---
 
-#### HOLD
+#### In this article, I solve Scrimba's React travel journal project, explain the new topics introduced, props,  a data page, and JavaScript map, and I share problems I encountered and how to solve them! 
 
 ---
 
