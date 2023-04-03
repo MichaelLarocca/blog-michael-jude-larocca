@@ -41,6 +41,14 @@ In this article, I will cover how to incorporate the new React concepts introduc
 
 ---
 
+### Links to the finished Scrimba Travel Journal project
+
+🔗 [GitHub repo: scrimba-solo-project-travel-journal](https://github.com/MichaelLarocca/scrimba-solo-project-travel-journal)
+
+🔗 [Netlify deployed website: https://scrimba-solo-project-travel-journal.netlify.app/](https://scrimba-solo-project-travel-journal.netlify.app/)
+
+---
+
 ### React Props
 In React, "props" is short for "properties," and they are used to pass data from one component to another. Props are a way to make your components more dynamic and reusable.
 
