@@ -155,7 +155,7 @@ import Card from './components/Card'
 git commit -am "your commit message" && git push
 ```
 
-The -a flag in the git commit command allows you to stage and commit all changes in the repository, while the -m flag allows you to add a commit message. The && operator allows you to chain multiple commands together so that they are executed in sequence. This command will commit your changes with the specified commit message and then push them to the remote repository.
+*The -a flag in the git commit command allows you to stage and commit all changes in the repository, while the -m flag allows you to add a commit message. The && operator allows you to chain multiple commands together so that they are executed in sequence. This command will commit your changes with the specified commit message and then push them to the remote repository.*
 
 ---
 
