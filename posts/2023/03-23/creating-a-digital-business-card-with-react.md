@@ -5,6 +5,7 @@ tags:
     "tutorial",
     "javascript",
     "scrimba",
+    "react",
   ]
 published: true
 date: "2023-03-27"
