@@ -2,7 +2,7 @@
 title: "Kacie Ahmed: Web3 - How to Get Started as a Beginner"
 tags:
   [
-    "web3",
+    "webthree",
     "freelance",
     "recruitment",
     "twitter",
