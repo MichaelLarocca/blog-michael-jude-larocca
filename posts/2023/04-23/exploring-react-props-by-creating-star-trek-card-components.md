@@ -340,4 +340,4 @@ By practicing the creation of React components, you will gradually become more c
 
 ---
 
-###### ***? ? Please share the article and comment!***
+###### ***Are you now confident in creating React components using props? Are you already making more advanced React components using props? Please share the article and comment!***
