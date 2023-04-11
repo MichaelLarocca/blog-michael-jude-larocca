@@ -10,7 +10,7 @@ published: true
 date: "2023-04-10"
 ---
 
-#### After learning JavaScript, getting started with the React environment can feel like a strange new world. In this article, we learn about passing data by using props and making Star Trek card components!
+#### After learning JavaScript, getting started with the React environment can feel like a strange new world. This article explores passing data with React props by creating Star Trek card components!
 
 ---
 
