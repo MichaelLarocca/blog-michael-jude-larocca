@@ -10,7 +10,7 @@ published: true
 date: "2023-04-14"
 ---
 
-#### HOLD
+#### In this article, we learn how to create a true/false toggle using the React useState hook, and then we create a component that addresses the age-old controversy of whether Han Solo shot first or not!
 
 ---
 
