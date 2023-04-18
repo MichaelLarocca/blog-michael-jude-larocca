@@ -256,7 +256,7 @@ In this article, We've covered what React hooks are, how to use the useState hoo
 
 The useState React hook is one of the most commonly used hooks, and it is an excellent introductory hook for JavaScript developers just getting started with React.
 
-The useState hook is a powerful tool that can help you manage state in your React applications with ease. Whether you're a fan of Han Solo shooting first or not, you should now better understand how to use this hook to create a true/false toggle in your React components. Remember, just like the Force, the useState hook can be a powerful ally in your journey as a React developer. May the hooks be with you!"
+The useState hook is a powerful tool that can help you manage state in your React applications with ease. Whether you're a fan of Han Solo shooting first or not, you should now better understand how to use this hook to create a true/false toggle in your React components. Remember, just like the Force, the useState hook can be a powerful ally in your journey as a React developer. May the hooks be with you!
 
 ---
 
