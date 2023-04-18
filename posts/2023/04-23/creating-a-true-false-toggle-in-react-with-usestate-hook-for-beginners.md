@@ -19,8 +19,11 @@ date: "2023-04-14"
 ---
 
 ### Introduction
-(WRITE ARTICLE SECTION)
+In this article, you'll learn how to create a true/false toggle in React using the useState hook. React hooks are a way to add functionality to functional components in React, and the useState hook is one of the most commonly used hooks. By using the useState hook, you can manage state changes in a way that's easy to understand and debug. 
 
+The HanSolo component example not only demonstrates how to create a true/false toggle using the React useState hook but also addresses the age-old controversy of whether Han Solo shot first or not!
+
+So, if you're new to React or just getting started with hooks, this article is a great place to start!
 
 #### Finished project links
 * 🔗 [Link to the GitHub repo](https://github.com/MichaelLarocca/react-hooks-solo)
