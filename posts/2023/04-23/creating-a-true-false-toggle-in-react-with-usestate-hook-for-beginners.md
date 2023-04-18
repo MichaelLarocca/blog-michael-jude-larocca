@@ -25,6 +25,19 @@ The HanSolo component example not only demonstrates how to create a true/false t
 
 So, if you're new to React or just getting started with hooks, this article is a great place to start!
 
+---
+
+### The article outline
+* Discuss what React hooks are. 
+* Explain the useState hook 
+* Importing and calling the useState hook
+* Understanding the syntax 
+* Create a React useState true or false component
+
+***Note:*** *We will be focusing on learning React code, not CSS. However, feel free to clone the project or copy the CSS code.*
+
+---
+
 #### Finished project links
 * 🔗 [Link to the GitHub repo](https://github.com/MichaelLarocca/react-hooks-solo)
 * 🔗 [Link to the deployed Netlify project](https://react-hooks-solo.netlify.app/)
