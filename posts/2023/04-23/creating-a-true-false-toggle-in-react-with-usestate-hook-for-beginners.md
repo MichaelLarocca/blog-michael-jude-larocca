@@ -41,6 +41,7 @@ So, if you're new to React or just getting started with hooks, this article is a
 #### Finished project links
 * 🔗 [Link to the GitHub repo](https://github.com/MichaelLarocca/react-hooks-solo)
 * 🔗 [Link to the deployed Netlify project](https://react-hooks-solo.netlify.app/)
+
 ---
 
 ### What are React hooks?
