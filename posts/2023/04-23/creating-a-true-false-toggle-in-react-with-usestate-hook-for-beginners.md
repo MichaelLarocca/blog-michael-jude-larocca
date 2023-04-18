@@ -264,4 +264,4 @@ The useState hook is a powerful tool that can help you manage state in your Reac
 
 ---
 
-###### ***? ? Please share the article and comment!***
+###### ***Are you now confident in using the React useState hook? Do you believe that Han Solo shot first? Please share the article and comment!***
