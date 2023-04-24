@@ -17,3 +17,125 @@ date: "2023-04-24"
 ![TXG-84](img/04-24-23/TN-TXG-85-NEW.png)
 
 ---
+
+### The Player React component
+We will create a React component named **Player** that accepts **props** as an argument.
+ 
+In the **Player** React component, we are using the React useState hook to create an object variable called **player**  and a function called **setPlayer**; the **setPlayer** function provides us with a way to update the  **player** variable.
+
+Then we will create key-value pairs, setting the passed-in props as values. We can use the JavaScript **or** operator `||` to set default values if props are not passed in when the component is used. *(We will "hard-code" the Bow as a weapon since this is a simple comment that uses arrows 🏹.*) 
+
+```javascript
+import React, { useState } from "react";
+
+function Player(props) {
+    const [player, setPlayer] = useState({
+        name: props.name || "Player",
+        score: props.score || 0,
+        level: props.level || 1,
+        weapon: "Bow",
+        arrows: props.arrows || 20,
+      });
+```
+
+---
+
+### Adding the Player component
+Now we can import the React Player component and add them to our App. We can set the starting values or simply add `<Player />`, which will use the default values we created in the **player** object. 
+
+```javascript
+import { useState } from 'react'
+import './App.css'
+import Player from './components/Player'
+
+function App() {
+
+  return (
+    <>
+      <Player name="Legolas" score={10} level={20} arrows={50} />
+      <Player />
+    </>
+  )
+}
+
+export default App
+```
+
+---
+
+![Cards 2](img/04-24-23/Cards-02.png)
+
+---
+
+### Managing Object Props
+When working with React components that accept object props, it's important to ensure that all object properties are retained, even if you only want to update one or two of them.
+
+To update a specific property of the object, we can use the spread operator to create a copy of the object's previous state first and then update the specific property we want to change. With this method, all other properties of the object are retained.
+
+---
+
+### Shoot Arrows button
+We will now create a button to shoot the arrows. We will decrease the arrow count by 1 for each arrow shot and increase the score by 10.
+
+As mentioned earlier, we want to capture the **player** object's previous state first and then update the **arrow** and **score** values.
+
+Using the **setPlayer** function, we pass in the **player** object's previous state (**prevState **) as an argument. Then with an arrow function, to include the entire **player** object, we use a JavaScript spread operator `...` on the prevState. 
+
+With the previous state of the entire **player** object included, we can now update the **arrows** and **score** values as follows:
+
+```javascript
+      function handleClick() {
+        setPlayer(prevState => ({
+          ...prevState,
+          arrows: prevState.arrows - 1,
+          score: prevState.score + 10
+        }));
+      }
+```
+
+---
+
+### Return a player card
+Finally, we return a player card utilizing props and a button that runs the handleClick function that shoots the remaining arrows.
+
+We can disable the Shoot Arrow button by setting the disabled attribute to true when the arrow count reaches zero.
+
+```javascript
+      return (
+        <div className="player">
+          <h1>{player.name}</h1>
+          <div className="card-inner">
+          <p>Score: <strong>{player.score}</strong></p>
+          <p>Level: <strong>{player.level}</strong></p>
+          <p>Weapon: <strong>{player.weapon}</strong></p>
+          <p>Arrows: <strong>{player.arrows}</strong></p>
+          </div>
+          <button disabled={player.arrows === 0} onClick={handleClick}>Shoot Arrow</button>
+        </div>
+      );
+```
+
+---
+
+### The React environment
+
+**If you would like to learn how to set up a local React development environment, I wrote the following two beginner-friendly articles:**
+
+* [Create a React Project, Push It to GitHub, and Deploy With Netlify, From the Command Line](https://selftaughttxg.com/2023/03-23/create-a-react-project-push-it-to-github-and-deploy-with-netlify-from-the-command-line/)
+    
+* [How to Create a Local React Environment with Vite](https://selftaughttxg.com/2023/03-23/how-to-create-a-local-react-environment-with-vite/)
+    
+
+---
+
+### Conclusion
+(WRITE ARTICLE SECTION)
+
+---
+
+**Let's connect! I'm active on [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) and [Twitter](https://twitter.com/MikeJudeLarocca).**
+
+---
+
+###### ***? ? Please share the article and comment!***
+
