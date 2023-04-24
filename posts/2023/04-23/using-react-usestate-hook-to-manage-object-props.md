@@ -18,6 +18,15 @@ date: "2023-04-24"
 
 ---
 
+### Introduction
+This article explores how to use the React useState hook to manage object props in a React component. We will create a Player component that accepts props as an argument and use the useState hook to create an object variable called player and a function called setPlayer to update the player variable. 
+
+We will then discuss how to handle object props by accessing and updating specific properties, as well as passing them to child components. Additionally, we'll create a Shoot Arrow button that decreases the arrow count and increases the score and disable the button when the arrow count reaches zero. 
+
+By the end of this article, you'll have a better understanding of how to manage object props in your React components using the useState hook.
+
+---
+
 ### The Player React component
 We will create a React component named **Player** that accepts **props** as an argument.
  
@@ -113,6 +122,67 @@ We can disable the Shoot Arrow button by setting the disabled attribute to true 
           <button disabled={player.arrows === 0} onClick={handleClick}>Shoot Arrow</button>
         </div>
       );
+```
+
+---
+### Return a player card
+Finally, we return a player card utilizing props and a button that runs the handleClick function that shoots the remaining arrows.
+
+We can disable the Shoot Arrow button by setting the disabled attribute to true when the arrow count reaches zero.
+
+```javascript
+      return (
+        <div className="player">
+          <h1>{player.name}</h1>
+          <div className="card-inner">
+          <p>Score: <strong>{player.score}</strong></p>
+          <p>Level: <strong>{player.level}</strong></p>
+          <p>Weapon: <strong>{player.weapon}</strong></p>
+          <p>Arrows: <strong>{player.arrows}</strong></p>
+          </div>
+          <button disabled={player.arrows === 0} onClick={handleClick}>Shoot Arrow</button>
+        </div>
+      );
+```
+
+---
+
+### The completed Player component
+```javascript
+import React, { useState } from "react";
+
+function Player(props) {
+    const [player, setPlayer] = useState({
+        name: props.name || "Player",
+        score: props.score || 0,
+        level: props.level || 1,
+        weapon: "Bow",
+        arrows: props.arrows || 20,
+      });
+    
+      function handleClick() {
+        setPlayer(prevState => ({
+          ...prevState,
+          arrows: prevState.arrows - 1,
+          score: prevState.score + 10
+        }));
+      }
+    
+      return (
+        <div className="player">
+          <h1>{player.name}</h1>
+          <div className="card-inner">
+          <p>Score: <strong>{player.score}</strong></p>
+          <p>Level: <strong>{player.level}</strong></p>
+          <p>Weapon: <strong>{player.weapon}</strong></p>
+          <p>Arrows: <strong>{player.arrows}</strong></p>
+          </div>
+          <button disabled={player.arrows === 0} onClick={handleClick}>Shoot Arrow</button>
+        </div>
+      );
+}
+
+export default Player;
 ```
 
 ---
