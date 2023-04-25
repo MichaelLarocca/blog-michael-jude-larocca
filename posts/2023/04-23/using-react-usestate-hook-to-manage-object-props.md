@@ -199,11 +199,13 @@ export default Player;
 ---
 
 ### Conclusion
-In this article, we've learned how to use the React useState hook to manage object props in a React component. We've seen how to create a state variable for an object, update specific properties using the spread operator, and pass object props to child components. 
+Throughout this article, we've covered how to use the React useState hook to manage object props, update specific properties using the spread operator, and pass object props to child components. 
 
-When working with objects that are passed as props in React, it is important to understand that you need to include the previous state of the whole object when updating properties in that object in order to ensure that all its properties are retained. 
+Additionally, we've created a Shoot Arrows button using the useState hook to decrease the arrow count, increase the score, and disable the button when the arrow count reaches zero.
 
-We've also used the React useState hook to create a Shoot Arrows button that decreases the arrow count and increases the score and then disables the button when the arrow count reaches zero. 
+When working with object props in React, it's crucial to include the previous state of the whole object when updating its properties to ensure all properties are retained!
+
+Congratulations on completing your journey into the realm of the React useState hook! Keep exploring, learning, and building with React using the knowledge you've gained!
 
 ---
 
