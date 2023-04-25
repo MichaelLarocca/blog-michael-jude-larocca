@@ -10,7 +10,7 @@ published: true
 date: "2023-04-24"
 ---
 
-#### HOLD
+#### This week's article explores the powerful realm of the React useState hook! We create a player component, update specific object properties, and explain how to pass object props to child components!
 
 ---
 
