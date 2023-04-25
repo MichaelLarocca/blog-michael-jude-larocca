@@ -25,6 +25,8 @@ We will then discuss how to handle object props by accessing and updating specif
 
 By the end of this article, you'll have a better understanding of how to manage object props in your React components using the useState hook.
 
+***Note:*** *We will be focusing on learning React code, not CSS. However, feel free to clone the project or copy the CSS code.*
+
 ---
 
 ### The Player React component
@@ -184,6 +186,13 @@ function Player(props) {
 
 export default Player;
 ```
+
+---
+
+### The finished project
+**Here are the links to the finished project:**
+* 🔗 [GitHub](https://github.com/MichaelLarocca/react-hooks-usestate-player-object)
+* 🔗 [Netlify](https://react-hooks-usestate-player-object.netlify.app/)
 
 ---
 
