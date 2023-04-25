@@ -127,27 +127,6 @@ We can disable the Shoot Arrow button by setting the disabled attribute to true 
 ```
 
 ---
-### Return a player card
-Finally, we return a player card utilizing props and a button that runs the handleClick function that shoots the remaining arrows.
-
-We can disable the Shoot Arrow button by setting the disabled attribute to true when the arrow count reaches zero.
-
-```javascript
-      return (
-        <div className="player">
-          <h1>{player.name}</h1>
-          <div className="card-inner">
-          <p>Score: <strong>{player.score}</strong></p>
-          <p>Level: <strong>{player.level}</strong></p>
-          <p>Weapon: <strong>{player.weapon}</strong></p>
-          <p>Arrows: <strong>{player.arrows}</strong></p>
-          </div>
-          <button disabled={player.arrows === 0} onClick={handleClick}>Shoot Arrow</button>
-        </div>
-      );
-```
-
----
 
 ### The completed Player component
 ```javascript
