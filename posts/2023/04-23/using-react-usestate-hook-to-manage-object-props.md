@@ -213,5 +213,5 @@ Congratulations on completing your journey into the realm of the React useState 
 
 ---
 
-###### ***? ? Please share the article and comment!***
+###### ***Do you now understand how to update individual values in object props? Do you know other ways to update individual values in object props? Please share the article and comment!***
 
