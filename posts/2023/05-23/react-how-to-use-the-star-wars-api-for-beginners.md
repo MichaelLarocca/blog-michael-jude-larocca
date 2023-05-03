@@ -530,6 +530,8 @@ function App() {
 
 ![Your First Step](img/05-04-2023/YourFirstStep.jpg)
 
+###### © Lucasfilm Ltd. All Rights Reserved.
+
 ---
 
 ### Conclusion
