@@ -528,7 +528,7 @@ function App() {
 
 ### Your first step into a larger world
 
-!\[HOLD\](HOLD)
+![Your First Step](img/05-04-2023/YourFirstStep.jpg)
 
 ---
 
