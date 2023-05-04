@@ -134,7 +134,7 @@ Adding to the Planets function, we create an if statement that checks if the **i
 ```javascript
 	if (isLoading) {
 		return (
-			<>
+			<div>
 				<div>
 					<h1 className="txt-shadow-gold">Planets</h1>
 					<button
@@ -148,19 +148,10 @@ Adding to the Planets function, we create an if statement that checks if the **i
 						Next Page⏩
 					</button>
 				</div>
-				<div
-					style={{
-						display: "flex",
-						flexDirection: "column",
-						alignItems: "center",
-						justifyContent: "center",
-						height: "100vh",
-						width: "100vw",
-					}}
-				>
-					Loading... {console.log("loading state")}
+				<div className="overlay">
+					Loading...
 				</div>
-			</>
+			</div>
 		);
 	}
 ```
@@ -261,7 +252,7 @@ function Planets() {
 
 	if (isLoading) {
 		return (
-			<>
+			<div>
 				<div>
 					<h1 className="txt-shadow-gold">Planets</h1>
 					<button
@@ -275,19 +266,10 @@ function Planets() {
 						Next Page⏩
 					</button>
 				</div>
-				<div
-					style={{
-						display: "flex",
-						flexDirection: "column",
-						alignItems: "center",
-						justifyContent: "center",
-						height: "100vh",
-						width: "100vw",
-					}}
-				>
-					Loading... {console.log("loading state")}
+				<div className="overlay">
+					Loading...
 				</div>
-			</>
+			</div>
 		);
 	}
 
