@@ -78,7 +78,8 @@ AI is never perfect, as James points out, so we must be actively involved in the
     
 ---
 
-#### **Hashnode Bootcamp 2023**
+#### *Be sure to check out the entire 3-day Bootcamp for FREE!*
+**Hashnode Bootcamp 2023**
 * [**Hashnode Bootcamp Day 1**]([https://www.youtube.com/watch?v=obj-wJB6lGs&t=1075s](https://www.youtube.com/watch?v=obj-wJB6lGs&t=1075s))
 * [**Hashnode Bootcamp Day 2**]([https://www.youtube.com/watch?v=ysLCBi3L8JI&t=1s](https://www.youtube.com/watch?v=ysLCBi3L8JI&t=1s))  
 * [**Hashnode Bootcamp Day 3**]([https://www.youtube.com/watch?v=PNBs3F9biDU&t=1168s](https://www.youtube.com/watch?v=PNBs3F9biDU&t=1168s))
@@ -100,4 +101,4 @@ By applying these insights taught by industry experts, you'll be well on your wa
 
 ---
 
-###### ***? ? Please share the article and comment!***
+###### ***Are you now confident in succeeding in technical writing and blogging with the expert guidance provided? Do you have any unique strategies for enhancing writing skills you would like to share? Please share the article and comment!***
