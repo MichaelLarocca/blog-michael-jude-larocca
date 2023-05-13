@@ -76,3 +76,19 @@ As a developer, you may be tempted only to add a sentence to your resume stating
 Taylor provides resume templates as well as helpful guides on his website: [https://resources.vaco.com/taylor-desseyn-free-guides](https://resources.vaco.com/taylor-desseyn-free-guides)
 
 ---
+
+### Utilize LinkedIn
+
+#### Optimize your LinkedIn profile
+Taylor informs us that recruiters and hiring managers use **keywords** when searching for candidates, so it is essential to include them in your LinkedIn profile. Examples of keywords include React, JavaScript, and Developer.
+
+***Check out Taylor's videos on LinkedIn profile optimization:***
+
+* [How Social Media Can Land You Your Dream Job](https://egghead.io/lessons/egghead-how-social-media-can-land-you-your-dream-job)
+    
+* [HOW TO USE LINKEDIN AS A DEVELOPER to get a job in tech! How to network!](https://www.youtube.com/watch?v=SG5Sb5WTV_g&t=1s)
+    
+
+#### *You may find my following article helpful: [LinkedIn Profile Optimization With Austin Henline](https://selftaughttxg.com/2022/10-22/LinkedIn-AustinHenline/)*
+
+---
