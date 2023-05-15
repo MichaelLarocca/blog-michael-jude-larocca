@@ -91,22 +91,15 @@ Taylor informs us that recruiters and hiring managers use **keywords** when sear
 ---
 
 ### Utilize job boards
-
-(WRITE ARTICLE SECTION)
-
-TS-12:30
-
-TS-28:30
-
-Taylor advises uploading your resume to job site profiles.
+Taylor advises uploading your resume to job site profiles to increase your chances and reach when seeking employment.
 
 **Job board websites include:**
-* Dice.com 
-* Indeed  
-* Career Builder 
+* Dice.com
+* Indeed
+* Career Builder
 * Monster
-
-For web developers, Taylor recommends [dice.com](https://www.dice.com/) for posting resumes. Dice is a platform that specializes in tech jobs, as opposed to other generalized job sites.
+    
+Taylor recommends [dice.com](https://www.dice.com/) for posting resumes for web developers. Dice is a platform specializing in tech jobs, unlike other generalized job sites.
 
 ---
 
