@@ -78,7 +78,6 @@ Taylor provides resume templates as well as helpful guides on his website: [http
 ---
 
 ### Utilize LinkedIn
-
 #### Optimize your LinkedIn profile
 Taylor informs us that recruiters and hiring managers use **keywords** when searching for candidates, so it is essential to include them in your LinkedIn profile. Examples of keywords include React, JavaScript, and Developer.
 
@@ -129,7 +128,6 @@ Document the interview questions you missed! Over time, doing so will help build
 ---
 
 ### Network your job search
-
 #### Network with recruiters
 Taylor advises us to keep in contact with a group of our favorite recruiters and reach out to them monthly. A tip he provides is to BCC (blind carbon copy) them in a group email to get in touch with them, reminding them who you are, your skill set, and that you are still seeking employment.
 
@@ -152,7 +150,6 @@ During Taylor's Livestream events, he invites viewers to ask questions, provide 
 ---
 
 ### My other Taylor Desseyn articles
-
 * [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)    
 * [Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://selftaughttxg.com/2023/03-23/maximizing-your-job-search-andronica-klaas/)
     
@@ -180,4 +177,4 @@ By staying organized and maintaining a positive mindset, you can successfully na
 
 ---
 
-###### ***?? Please share the article and comment!***
+###### ***Are you now confident in creating a contingency plan for job loss and recovery? Do you have any additional tips for navigating the challenges of layoffs and job searching? Please share the article and leave a comment!***
