@@ -148,3 +148,33 @@ During Taylor's Livestream events, he invites viewers to ask questions, provide 
 * Don't sacrifice sleep, good meals, and exercise basics.
 * If you have the financial means, take some time off before you begin your job search.
 * Knowing is half the battle! Asking your colleagues to honestly tell you about your strengths and weaknesses can significantly help your future endeavors!
+
+---
+
+### My other Taylor Desseyn articles
+
+* [Taylor Desseyn on leveraging recruiters to land a job in tech](https://selftaughttxg.com/2021/09-21/TaylorDesseyn-LeveragingRecruiters/)    
+* [Maximizing Your Job Search: Insights from Andronica Klaas, Meta Engineer](https://selftaughttxg.com/2023/03-23/maximizing-your-job-search-andronica-klaas/)
+    
+---
+
+### Taylor's links
+* 🔗 [LinkedIn](https://www.linkedin.com/in/taylordesseyn) 
+* 🔗 [Twitter](https://twitter.com/tdesseyn) 
+* 🔗 [Website](https://www.vaco.com/taylor/) 
+* 🔗 [Instagram](http://instagram.com/guidancecounselor2.0) 
+* 🔗 [YouTube](https://www.youtube.com/@TaylorDesseyn/)
+    
+---
+
+### Conclusion
+
+(WRITE ARTICLE SECTION)
+
+---
+
+**Let's connect! I'm active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca)**.**
+
+---
+
+###### ***?? Please share the article and comment!***
