@@ -10,7 +10,7 @@ published: true
 date: "2023-15-08"
 ---
 
-#### HOLD
+#### In today's market, having a contingency plan is essential in case of a layoff. Industry expert Taylor Desseyn provides valuable insights to help us navigate these challenging times, should they arise!
 
 ---
 
