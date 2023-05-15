@@ -55,7 +55,11 @@ Taylor advises you to follow your passion! If given a new start, seek employment
 
 ---
 
-<iframe width="956" height="538" src="https://www.youtube.com/embed/0_D_ydKS03Y"></iframe>
+<iframe width="956" height="538" src="https://www.youtube.com/embed/0_D_ydKS03Y" title="Guidance Counselor 2.0 + Break The Glass (Solo Show)" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+---
+
+#### *Guidance Counselor 2.0 + Break The Glass (Solo Show)*
 
 ---
 
@@ -81,7 +85,7 @@ Taylor provides resume templates as well as helpful guides on his website: [http
 #### Optimize your LinkedIn profile
 Taylor informs us that recruiters and hiring managers use **keywords** when searching for candidates, so it is essential to include them in your LinkedIn profile. Examples of keywords include React, JavaScript, and Developer.
 
-***Check out Taylor's videos on LinkedIn profile optimization:***
+**Check out Taylor's videos on LinkedIn profile optimization:**
 * [How Social Media Can Land You Your Dream Job](https://egghead.io/lessons/egghead-how-social-media-can-land-you-your-dream-job)
 * [HOW TO USE LINKEDIN AS A DEVELOPER to get a job in tech! How to network!](https://www.youtube.com/watch?v=SG5Sb5WTV_g&t=1s)
     
