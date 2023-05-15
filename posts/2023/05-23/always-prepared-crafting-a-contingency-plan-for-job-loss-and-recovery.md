@@ -83,12 +83,67 @@ Taylor provides resume templates as well as helpful guides on his website: [http
 Taylor informs us that recruiters and hiring managers use **keywords** when searching for candidates, so it is essential to include them in your LinkedIn profile. Examples of keywords include React, JavaScript, and Developer.
 
 ***Check out Taylor's videos on LinkedIn profile optimization:***
-
 * [How Social Media Can Land You Your Dream Job](https://egghead.io/lessons/egghead-how-social-media-can-land-you-your-dream-job)
-    
 * [HOW TO USE LINKEDIN AS A DEVELOPER to get a job in tech! How to network!](https://www.youtube.com/watch?v=SG5Sb5WTV_g&t=1s)
     
-
 #### *You may find my following article helpful: [LinkedIn Profile Optimization With Austin Henline](https://selftaughttxg.com/2022/10-22/LinkedIn-AustinHenline/)*
+
+---
+
+### Utilize job boards
+
+(WRITE ARTICLE SECTION)
+
+TS-12:30
+
+TS-28:30
+
+Taylor advises uploading your resume to job site profiles.
+
+**Job board websites include:**
+* Dice.com 
+* Indeed  
+* Career Builder 
+* Monster
+
+For web developers, Taylor recommends [dice.com](https://www.dice.com/) for posting resumes. Dice is a platform that specializes in tech jobs, as opposed to other generalized job sites.
+
+---
+
+### Document your job search
+Documenting your job search not only provides an organized approach but also presents growth opportunities!
+
+**Taylor suggests the following strategies:**
+* Create a job search email
+* Track your job search
+* Crowdsource answers to your questions  
+* Journal interview questions  
+
+#### Create a job search email
+Consider creating a separate email specifically for your job search to help you stay organized. Doing so can prevent unintentional non-job-related and personal emails from being sent to the wrong recipients.
+
+#### Track your job search
+Taylor recommends Trello for tracking your job search. With Trello or a similar service, you can create a tracking system such as setting up columns for **Submitted, First Round**, **Second Round, Third Round, and Offer.**
+
+Using this organizational method makes it easier for you to keep track of multiple job leads and makes it easier to follow up with them.
+
+#### Crowdsource answers to your questions
+If you got a technical question wrong during an interview, post that specific question on social media, asking if anyone else received and passed it. Perhaps others will share their success and solutions.
+
+#### Keep a journal of interview questions
+Document the interview questions you missed! Over time, doing so will help build and improve your interviewing skills.
+
+---
+
+### Network your job search
+
+#### Network with recruiters
+Taylor advises us to keep in contact with a group of our favorite recruiters and reach out to them monthly. A tip he provides is to BCC (blind carbon copy) them in a group email to get in touch with them, reminding them who you are, your skill set, and that you are still seeking employment.
+
+#### Use your network to connect with hiring managers
+When applying for a job at a particular company, first check if your connections know hiring managers within that organization. If so, contact them first, inform them of your interest, and see if they can streamline an introduction to the hiring managers.
+
+#### Network with your interviewers
+Taylor explains that interviews are forced networking. After an interview, be sure to send your interviewer a LinkedIn connection request along with a thank you message. With this tip provided by Taylor, you can expand your network while actively searching for employment.
 
 ---
