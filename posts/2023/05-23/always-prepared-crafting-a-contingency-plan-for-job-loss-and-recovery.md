@@ -41,11 +41,11 @@ Taking the next day off is essential to process what happened and to regain your
 
 ---
 
-### Prose, cons, & what you want
+### Pros, cons, & what you want
 *Taylor informs you that most job seekers have yet to learn what they want in their next venture!*
 
-#### Prose & cons
-Before you begin your search, take inventory of your current or previous job's prose and cons and consider what you want in your next role. Reflecting on your past experiences, work environment, and company culture will provide valuable insight.
+#### Pros & cons
+Before you begin your search, take inventory of your current or previous job's pros and cons and consider what you want in your next role. Reflecting on your past experiences, work environment, and company culture will provide valuable insight.
 
 #### What you want
 Take time to contemplate your career goals, personal values, and the kind of work-life balance you desire. By doing so, you will be better equipped to find a position that aligns with your wants and needs.
