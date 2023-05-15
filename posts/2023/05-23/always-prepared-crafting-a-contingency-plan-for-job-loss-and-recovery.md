@@ -140,3 +140,11 @@ When applying for a job at a particular company, first check if your connections
 Taylor explains that interviews are forced networking. After an interview, be sure to send your interviewer a LinkedIn connection request along with a thank you message. With this tip provided by Taylor, you can expand your network while actively searching for employment.
 
 ---
+
+### Tips from the community
+During Taylor's Livestream events, he invites viewers to ask questions, provide additional insight, and encourages us to network with each other! 
+
+**Here is some additional job-seeking advice offered by the Livestream viewers:**
+* Don't sacrifice sleep, good meals, and exercise basics.
+* If you have the financial means, take some time off before you begin your job search.
+* Knowing is half the battle! Asking your colleagues to honestly tell you about your strengths and weaknesses can significantly help your future endeavors!
