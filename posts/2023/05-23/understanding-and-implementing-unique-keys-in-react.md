@@ -52,7 +52,7 @@ First, let's see the React syntax for adding a key:
 
 For each list item, assign a variable to the "key" attribute. In this example from the React documentation, an object array containing five people is iterated over, with each person having a unique numerical ID ranging from 0 to 5.
 
-*In a recent project that I created, I retrieved data from the Star Wars API and rendered planet, starship, and vehicle card components. Surprisingly, the data does not include an "ID" key. So I decided to use the "name" value as the unique “key” prop, and it works fine.*
+*In a recent project that I created, I retrieved data from the [Star Wars API](https://selftaughttxg.com/2023/05-23/react-how-to-use-the-star-wars-api-for-beginners/) and rendered planet, starship, and vehicle card components. Surprisingly, the data does not include an "ID" key. So I decided to use the "name" value as the unique “key” prop, and it works fine.*
 
 ---
 
