@@ -22,13 +22,13 @@ date: "2023-06-05"
 
 In this Livestream event hosted by Calendly, four industry professionals teach us about the importance of personal branding and provide valuable tips on how to create one:
 
-**Serena McMahon** - hosts the LinkedIn Live event and works for [Calendly](https://calendly.com/) as a digital and social media manager.
+**[Serena McMahon](https://www.linkedin.com/in/serenamcmahon)** - hosts the LinkedIn Live event and works for [Calendly](https://calendly.com/) as a digital and social media manager.
 
-**Taylor Desseyn** - from [Vaco](https://www.vaco.com/), is a recruiter with over 12 years of experience and has a passion for creating content.
+**[Taylor Desseyn](https://www.linkedin.com/in/taylordesseyn)** - from [Vaco](https://www.vaco.com/), is a recruiter with over 12 years of experience and has a passion for creating content.
 
-**Laureen Langstaff-Roberts** - is known as the curly-headed recruiter. She's an advocate for women in sales and a principal consultant at [Stott and May](https://www.stottandmay.com/). Laureen has over six years of experience in recruitment.
+**[Laureen Langstaff-Roberts](https://www.linkedin.com/in/curlyheadedrecruiter)** - is known as the curly-headed recruiter. She's an advocate for women in sales and a principal consultant at [Stott and May](https://www.stottandmay.com/). Laureen has over six years of experience in recruitment.
 
-**Katee Vallad** - is a senior recruiter for [Calendly](https://calendly.com/) with over ten years of experience.
+**[Katee Vallad](https://www.linkedin.com/in/kateemvallad)** - is a senior recruiter for [Calendly](https://calendly.com/) with over ten years of experience.
 
 ---
 
