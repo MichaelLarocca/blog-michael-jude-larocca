@@ -320,4 +320,4 @@ With over 200 functions available, the library offers a versatile solution not o
 
 ---
 
-###### *??!*
+###### *Are you now confident in creating a countdown app with React and date-fns? Have you discovered other interesting applications of the date-fns library in your projects? Please share the article and comment!*
