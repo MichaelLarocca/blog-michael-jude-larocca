@@ -22,15 +22,15 @@ date: "2023-06-12"
 
 In this article, we will explore how to create a countdown app using React and the date-fns library. This step-by-step tutorial will guide you through the process of building a user-friendly countdown timer that allows users to set an end date and watch as the timer counts down to zero. 
 
-We will discuss the essential functions of the date-fns library, the benefits of using it for date manipulation, and how to incorporate it into your React application. By the end of this tutorial, you will have a functional countdown app that demonstrates the power and convenience of the React date-fns library.
+We will discuss the essential functions of the date-fns library, the benefits of using it for date manipulation, and how to incorporate it into your React application. By the end of this tutorial, you will have a functional countdown app that demonstrates the power and convenience of the date-fns library.
 
 ---
 
-### The React date-fns library
+### The date-fns library
 
-So, what is the React date-fns library? The React date-fns library is a collection of functions that makes it easy to work with dates and times in a React application. It helps you format, parse, compare, and manipulate dates in a user-friendly way.
+So, what is the date-fns library? The date-fns library is a collection of functions that makes it easy to work with dates and times in a React application. It helps you format, parse, compare, and manipulate dates in a user-friendly way.
 
-**JavaScript is notorious for its poor date support when it comes to writing date-related functions. The React date-fns library alleviates the burden of managing dates, allowing you to focus on other aspects of your projects.**
+**JavaScript is notorious for its poor date support when it comes to writing date-related functions. The date-fns library alleviates the burden of managing dates, allowing you to focus on other aspects of your projects.**
 
 An additional benefit of this library is that it enables you to import only the functions required for your project, resulting in a smaller app that loads faster. Unlike other libraries, there's no need to import everything, making date-fns a fast and convenient solution for working with dates!
 
@@ -38,7 +38,7 @@ An additional benefit of this library is that it enables you to import only the 
 
 ### Selected library functions
 
-**For the countdown clock app, we will use the following six functions from the React date-fns library:**
+**For the countdown clock app, we will use the following six functions from the date-fns library:**
 
 * **format:** Formats a date according to the given format string.
     
@@ -174,7 +174,7 @@ The user's chosen date is saved in local storage and to the **endDate** variable
   }, [endDate]);
 ```
 
-Here is where all the magic happens! Inside a JavaScript **setInterval** function, you will see the ease of handling dates with the functions provided by the React date-fns library.
+Here is where all the magic happens! Inside a JavaScript **setInterval** function, you will see the ease of handling dates with the functions provided by the date-fns library.
 
 We create a new variable named **now,** and we use the date-fns function **intervalToDuration** to compare it to the **endDate** variable\*\*.\*\* While the countdown is active, each second, the remaining time is saved and rendered by using the date-fns **formatDuration** function.
 
