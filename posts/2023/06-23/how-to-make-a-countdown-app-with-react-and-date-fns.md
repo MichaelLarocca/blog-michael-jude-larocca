@@ -308,6 +308,12 @@ export default App;
 
 ### Conclusion
 
+times in your applications. With its user-friendly functions and modular design, it allows you, as a developer, to focus on other aspects of your projects while efficiently handling date-related tasks.
+
+An additional benefit is the ability to import only the functions needed, which results in a smaller app size and faster loading times. This occurs because you avoid importing unnecessary functions, reducing the overall bundle size of your application and improving its performance.
+
+With over 200 functions available, the library offers a versatile solution not only for creating a countdown app like this one but also for various other projects requiring date manipulation and formatting!
+
 ---
 
 **Let's connect! I'm active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca)**.**
