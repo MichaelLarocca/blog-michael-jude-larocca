@@ -18,14 +18,6 @@ date: "2023-06-12"
 
 ---
 
-#### HOLD
-
----
-
-!\[TN-TXG-92\](HOLD)
-
----
-
 ### Introduction
 
 In this article, we will explore how to create a countdown app using React and the date-fns library. This step-by-step tutorial will guide you through the process of building a user-friendly countdown timer that allows users to set an end date and watch as the timer counts down to zero. 
