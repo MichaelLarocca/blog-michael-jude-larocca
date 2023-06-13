@@ -135,9 +135,6 @@ For this app to work as expected, we need to utilize local storage. For the app'
 
 ---
 
-
----
-
 ### Function to handle date changes
 
 **Define the handleDateChange function:**
