@@ -242,7 +242,7 @@ As you can see, we easily format the date using the **format** date-fns function
 
 Similar to the confetti React element, we only render the appropriate elements when the countdown is completed.
 
-***Note:*** *To render the expected date, if the* ***initialEndDate*** *variable* *is* ***NULL****, we add 1 day to the* ***endDate****.*
+***Note:*** *To render the expected date, if the initialEndDate variable is NULL, we add 1 day to the endDate.*
 
 ---
 
