@@ -81,7 +81,7 @@ useState
 
 ```javascript
 import { useState, useEffect } from 'react';
-import { format, formatDuration, intervalToDuration, isBefore, addDays, add } from 'date-fns';
+import { format, formatDuration, intervalToDuration, isBefore, addDays, add, endOfDay, differenceInMilliseconds } from 'date-fns';
 import Confetti from 'react-confetti';
 import './App.css'
 ```
