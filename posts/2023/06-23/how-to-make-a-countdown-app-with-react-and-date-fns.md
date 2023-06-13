@@ -68,7 +68,7 @@ An additional benefit of this library is that it enables you to import only the 
 
 **At the top of a JSX file, we will import the necessary hooks, functions, and components:**
 
-useState
+* useState
 
 * useEffect
     
