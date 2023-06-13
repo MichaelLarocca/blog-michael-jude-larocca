@@ -226,12 +226,13 @@ With the if statement, we use the date-fns function **isBefore** to check when t
       <div className='timer'>
         <h2>Countdown Clock</h2>
         <input type="date" min={format(new Date(), "yyyy-MM-dd")} onChange={handleDateChange} />
-        <h3>{format(endDate, "MMMM do, yyyy")}</h3>
-        {!countdownEnded && <h4>{countdown}</h4>}
+        {initialEndDate && <h3>{format(endDate, "MMMM do, yyyy")}</h3>}
         {countdownEnded && <h4>Countdown Ended!</h4>}
+        {!initialEndDate && <h3>{format(addDays(endDate, 1), "MMMM do, yyyy")}</h3>}
+        {!countdownEnded && <h4>{countdown}</h4>}
       </div>
     </div>
-  );
+  );    
 ```
 
 **React-confetti** is a fun React library for easily creating confetti animations in your apps. Without any additional steps than the initial import at the top of the JSX file, all you need to do is add the `<Confetti / >` React element. In our case, we only want to render it at the end of the countdown, which we accomplish by checking if the **countdownEnded** variable is true. If it is, the Confetti element is displayed. If not, nothing is displayed.
@@ -242,7 +243,9 @@ For the users, I added an input element with a type of date and an event handler
 
 As you can see, we easily format the date using the **format** date-fns function.
 
-Similar to the confetti React element, we only render the countdown **h4** elements when the countdown is completed.
+Similar to the confetti React element, we only render the appropriate elements when the countdown is completed.
+
+***Note:*** *To render the expected date, if the* ***initialEndDate*** *variable* *is* ***NULL****, we add 1 day to the* ***endDate****.*
 
 ---
 
