@@ -333,7 +333,6 @@ export default App;
     
 * [Creating a True/False Toggle in React with useState Hook for Beginners](https://selftaughttxg.com/2023/04-23/creating-a-true-false-toggle-in-react-with-usestate-hook-for-beginners/)
     
-
 ---
 
 ### Conclusion
