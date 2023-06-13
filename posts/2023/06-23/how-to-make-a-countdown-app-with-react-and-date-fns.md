@@ -24,6 +24,8 @@ In this article, we will explore how to create a countdown app using React and t
 
 We will discuss the essential functions of the date-fns library, the benefits of using it for date manipulation, and how to incorporate it into your React application. By the end of this tutorial, you will have a functional countdown app that demonstrates the power and convenience of the date-fns library.
 
+***Note:*** *We will be focusing on learning React code, not CSS. However, feel free to clone the project or copy the CSS code.*
+
 ---
 
 ### The date-fns library
@@ -52,6 +54,10 @@ An additional benefit of this library is that it enables you to import only the 
     
 * **add:** Adds a specified amount of time to a given date.
     
+
+---
+
+***Note:*** *Since our focus is on learning about the date-fns library, we will keep this project beginner-friendly and not create separate components.*
 
 ---
 
@@ -292,6 +298,10 @@ export default App;
     
 * [Netlify deployed project](https://react-countdown-clock.netlify.app/)
     
+
+---
+
+![Countdown Clock](img/06-12-2023/Countdown_Clock.png)
 
 ---
 
