@@ -53,7 +53,10 @@ An additional benefit of this library is that it enables you to import only the 
 * **addDays:** Adds a specified number of days to a given date.
     
 * **add:** Adds a specified amount of time to a given date.
-    
+
+* **endOfDay:** Returns the end of the day for the given date.
+
+* **differenceInMilliseconds:**  Calculates the difference between two dates in milliseconds.    
 
 ---
 
