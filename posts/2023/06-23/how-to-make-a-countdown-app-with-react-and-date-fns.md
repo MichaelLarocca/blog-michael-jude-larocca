@@ -102,25 +102,39 @@ function App() {
 
 #### Inside the App function, we initially set up state variables.
 
-**Initialize state variables:**
+**Variables initialized:**
 
-* **countdown:** A string representing the countdown timer.
+* **now:** The current date and time.
     
-* **countdownEnded:** A boolean indicating if the countdown has ended.
+* **endOfToday:** The end of the current day.
     
-* **endDate:** The end date of the countdown, either retrieved from localStorage or set to one day from the current date.
+* **initialEndDate:** Retrieved from localStorage or set to NULL.
+    
+
+**State variables initialized:**
+
+* **countdown:** A string that represents the countdown timer.
+    
+* **countdownEnded:** A boolean that indicates if the countdown has ended.
+    
+* **endDate:** The countdown's end date, either retrieved from localStorage or set to one day from the current date.
     
 
 ```javascript
-const [countdown, setCountdown] = useState('');
+  const now = new Date();
+  const endOfToday = endOfDay(now);
+  const initialEndDate = localStorage.getItem("endDate");
+  const [countdown, setCountdown] = useState('');
   const [countdownEnded, setCountdownEnded] = useState(false);
   const [endDate, setEndDate] = useState(() => {
-    const initialEndDate = localStorage.getItem("endDate");
-    return initialEndDate ? new Date(Date.parse(initialEndDate)) : addDays(new Date(), 1);
+    return initialEndDate ? new Date(initialEndDate) : new Date(Date.now() + differenceInMilliseconds(endOfToday, now));
   });
 ```
 
 For this app to work as expected, we need to utilize local storage. For the app's first use, the current date plus one day is set as the default value. When a user chooses a date with the date-picker, that date becomes the new end date value, and it is stored in local storage. This way, when a user comes back to the app after closing it, the countdown reflects their chosen end date.
+
+---
+
 
 ---
 
