@@ -40,7 +40,7 @@ An additional benefit of this library is that it enables you to import only the 
 
 ### Selected library functions
 
-**For the countdown clock app, we will use the following six functions from the date-fns library:**
+**For the countdown clock app, we will use the following eight functions from the date-fns library:**
 
 * **format:** Formats a date according to the given format string.
     
