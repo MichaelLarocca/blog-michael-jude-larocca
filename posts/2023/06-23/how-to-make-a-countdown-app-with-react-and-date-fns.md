@@ -20,7 +20,7 @@ date: "2023-06-12"
 
 ### Introduction
 
-In this article, we will explore how to create a countdown app using React and the date-fns library. This step-by-step tutorial will guide you through the process of building a user-friendly countdown timer that allows users to set an end date and watch as the timer counts down to zero. 
+In this article, we will explore how to create a countdown app using React and the date-fns library. This step-by-step tutorial will guide you through the process of building a user-friendly countdown timer that allows users to set an end date and watch as the timer counts down to zero.
 
 We will discuss the essential functions of the date-fns library, the benefits of using it for date manipulation, and how to incorporate it into your React application. By the end of this tutorial, you will have a functional countdown app that demonstrates the power and convenience of the date-fns library.
 
@@ -53,10 +53,11 @@ An additional benefit of this library is that it enables you to import only the 
 * **addDays:** Adds a specified number of days to a given date.
     
 * **add:** Adds a specified amount of time to a given date.
-
+    
 * **endOfDay:** Returns the end of the day for the given date.
-
-* **differenceInMilliseconds:**  Calculates the difference between two dates in milliseconds.    
+    
+* **differenceInMilliseconds:** Calculates the difference between two dates in milliseconds.
+    
 
 ---
 
@@ -69,7 +70,7 @@ An additional benefit of this library is that it enables you to import only the 
 **At the top of a JSX file, we will import the necessary hooks, functions, and components:**
 
 * useState
-
+    
 * useEffect
     
 * date-fns
@@ -110,6 +111,10 @@ function App() {
     
 * **initialEndDate:** Retrieved from localStorage or set to NULL.
     
+* **remainingHours:** The number of hours left until the end of the current day.
+    
+* **nextDayAndExtraTime:** A new date object representing the next day (with additional hours and seconds added).
+    
 
 **State variables initialized:**
 
@@ -124,6 +129,8 @@ function App() {
   const now = new Date();
   const endOfToday = endOfDay(now);
   const initialEndDate = localStorage.getItem("endDate");
+  const remainingHours = endOfToday.getHours() - now.getHours();
+  const nextDayAndExtraTime = add(now, { hours: remainingHours + 4, seconds: 1 });
   const [countdown, setCountdown] = useState('');
   const [countdownEnded, setCountdownEnded] = useState(false);
   const [endDate, setEndDate] = useState(() => {
@@ -216,6 +223,7 @@ With the if statement, we use the date-fns function **isBefore** to check when t
     
 
 ```javascript
+
   return (
     <div className='countdown-timer-container'>
       {countdownEnded && <Confetti />}
@@ -223,12 +231,13 @@ With the if statement, we use the date-fns function **isBefore** to check when t
       <div className='timer'>
         <h2>Countdown Clock</h2>
         <input type="date" min={format(new Date(), "yyyy-MM-dd")} onChange={handleDateChange} />
-        <h3>{format(endDate, "MMMM do, yyyy")}</h3>
-        {countdownEnded && <h4>Countdown Ended!</h4>}
+        {!initialEndDate && <h3>{format(nextDayAndExtraTime, "MMMM do, yyyy")}</h3>}
+        {initialEndDate && <h3>{format(endDate, "MMMM do, yyyy")}</h3>}
         {!countdownEnded && <h4>{countdown}</h4>}
+        {countdownEnded && <h4>Countdown Ended!</h4>}
       </div>
     </div>
-  );     
+  );    
 ```
 
 **React-confetti** is a fun React library for easily creating confetti animations in your apps. Without any additional steps than the initial import at the top of the JSX file, all you need to do is add the `<Confetti / >` React element. In our case, we only want to render it at the end of the countdown, which we accomplish by checking if the **countdownEnded** variable is true. If it is, the Confetti element is displayed. If not, nothing is displayed.
@@ -257,6 +266,8 @@ function App() {
   const now = new Date();
   const endOfToday = endOfDay(now);
   const initialEndDate = localStorage.getItem("endDate");
+  const remainingHours = endOfToday.getHours() - now.getHours();
+  const nextDayAndExtraTime = add(now, { hours: remainingHours + 4, seconds: 1 });
   const [countdown, setCountdown] = useState('');
   const [countdownEnded, setCountdownEnded] = useState(false);
   const [endDate, setEndDate] = useState(() => {
@@ -295,12 +306,13 @@ function App() {
       <div className='timer'>
         <h2>Countdown Clock</h2>
         <input type="date" min={format(new Date(), "yyyy-MM-dd")} onChange={handleDateChange} />
-        <h3>{format(endDate, "MMMM do, yyyy")}</h3>
-        {countdownEnded && <h4>Countdown Ended!</h4>}
+        {!initialEndDate && <h3>{format(nextDayAndExtraTime, "MMMM do, yyyy")}</h3>}
+        {initialEndDate && <h3>{format(endDate, "MMMM do, yyyy")}</h3>}
         {!countdownEnded && <h4>{countdown}</h4>}
+        {countdownEnded && <h4>Countdown Ended!</h4>}
       </div>
     </div>
-  );      
+  );       
 }
 
 export default App;
@@ -331,6 +343,7 @@ export default App;
     
 * [Creating a True/False Toggle in React with useState Hook for Beginners](https://selftaughttxg.com/2023/04-23/creating-a-true-false-toggle-in-react-with-usestate-hook-for-beginners/)
     
+
 ---
 
 ### Conclusion
