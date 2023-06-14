@@ -196,7 +196,7 @@ The user's chosen date is saved in local storage and to the **endDate** variable
 
 Here is where all the magic happens! Inside a JavaScript **setInterval** function, you will see the ease of handling dates with the functions provided by the date-fns library.
 
-We create a new variable named **now,** and we use the date-fns function **intervalToDuration** to compare it to the **endDate** variable\*\*.\*\* While the countdown is active, each second, the remaining time is saved and rendered by using the date-fns **formatDuration** function.
+We create a new variable named **now,** and we use the date-fns function **intervalToDuration** to compare it to the **endDate** variable. While the countdown is active, each second, the remaining time is saved and rendered by using the date-fns **formatDuration** function.
 
 With the if statement, we use the date-fns function **isBefore** to check when the **endDate** variable's value is before the current date. If it is, the countdown has ended! We then set the **setCountdownEnded** boolean variable to true and stop the countdown interval.
 
@@ -223,13 +223,12 @@ With the if statement, we use the date-fns function **isBefore** to check when t
       <div className='timer'>
         <h2>Countdown Clock</h2>
         <input type="date" min={format(new Date(), "yyyy-MM-dd")} onChange={handleDateChange} />
-        {initialEndDate && <h3>{format(endDate, "MMMM do, yyyy")}</h3>}
+        <h3>{format(endDate, "MMMM do, yyyy")}</h3>
         {countdownEnded && <h4>Countdown Ended!</h4>}
-        {!initialEndDate && <h3>{format(addDays(endDate, 1), "MMMM do, yyyy")}</h3>}
         {!countdownEnded && <h4>{countdown}</h4>}
       </div>
     </div>
-  );    
+  );     
 ```
 
 **React-confetti** is a fun React library for easily creating confetti animations in your apps. Without any additional steps than the initial import at the top of the JSX file, all you need to do is add the `<Confetti / >` React element. In our case, we only want to render it at the end of the countdown, which we accomplish by checking if the **countdownEnded** variable is true. If it is, the Confetti element is displayed. If not, nothing is displayed.
@@ -296,13 +295,12 @@ function App() {
       <div className='timer'>
         <h2>Countdown Clock</h2>
         <input type="date" min={format(new Date(), "yyyy-MM-dd")} onChange={handleDateChange} />
-        {initialEndDate && <h3>{format(endDate, "MMMM do, yyyy")}</h3>}
+        <h3>{format(endDate, "MMMM do, yyyy")}</h3>
         {countdownEnded && <h4>Countdown Ended!</h4>}
-        {!initialEndDate && <h3>{format(addDays(endDate, 1), "MMMM do, yyyy")}</h3>}
         {!countdownEnded && <h4>{countdown}</h4>}
       </div>
     </div>
-  );    
+  );      
 }
 
 export default App;
