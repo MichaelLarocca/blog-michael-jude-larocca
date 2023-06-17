@@ -14,7 +14,7 @@ date: "2023-06-19"
 
 ---
 
-![TXG-93](HOLD align="left")
+![TXG-93](img/06-19-2023/TN-TXG-93.png)
 
 ---
 
@@ -373,7 +373,7 @@ export default Timer;
 
 ---
 
-![HOLD](HOLD align="left")
+![HOLD](img/06-19-2023/React-Stopwatch.png)
 
 ---
 
