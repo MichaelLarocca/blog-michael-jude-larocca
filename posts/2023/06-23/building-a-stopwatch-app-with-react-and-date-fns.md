@@ -24,7 +24,7 @@ In this project, we will be building a Stopwatch application using React, a popu
 
 **So, why code a Stopwatch? You will gain hands-on practice with the useState and useEffect React hooks, the date-fns library, and saving and retrieving variables from local storage.**
 
-Learning these concepts provides you with a set transferable skills that you can use in a wide range of your own original projects!
+Learning these concepts provides you with a set of transferable skills that you can use in a wide range of your own original projects!
 
 ***Note:*** *We will be focusing on learning React code, not CSS. However, feel free to clone the project or copy the CSS code.*
 
@@ -32,11 +32,9 @@ Learning these concepts provides you with a set transferable skills that you can
 
 ### Setting up the environment
 
-
 First, we need to set up our coding environment.
 
 #### The React environment
-
 For this project, I used the VS Code editor to create a React app with Vite. Afterward, I converted it into a GitHub repository and deployed it on Netlify.
 
 **If you would like to learn how to set up a local React development environment, I wrote the following two beginner-friendly articles:**
@@ -49,7 +47,7 @@ For this project, I used the VS Code editor to create a React app with Vite. Aft
 
 To install the date-fns library using Node Package Manager (npm), open your terminal and run the following command:
 
-```bash
+```
 npm install date-fns
 ```
 
