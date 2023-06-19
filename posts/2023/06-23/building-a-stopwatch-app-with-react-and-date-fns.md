@@ -10,7 +10,7 @@ published: true
 date: "2023-06-19"
 ---
 
-#### HOLD
+#### In this article, we build a React stopwatch app. You will learn how to work with the date-fns library, React hooks, and local storage, equipping you with transferable skills for your original projects!
 
 ---
 
@@ -20,16 +20,11 @@ date: "2023-06-19"
 
 ### Introduction
 
-(WRITE ARTICLE SECTION)
+In this project, we will be building a Stopwatch application using React, a popular JavaScript library for building user interfaces, and date-fns, a modern and lightweight library for handling and formatting dates and times.
 
-*(Yes, date-fns makes it easier to handle and format dates and times, resulting in more succinct and readable code.)*
+**So, why code a Stopwatch? You will gain hands-on practice with the useState and useEffect React hooks, the date-fns library, and saving and retrieving variables from local storage.**
 
-1. Introduction
-    
-    * Briefly introduce the project and its purpose
-        
-    * Mention the technologies used (React, date-fns)
-        
+Learning these concepts provides you with a set transferable skills that you can use in a wide range of your own original projects!
 
 ***Note:*** *We will be focusing on learning React code, not CSS. However, feel free to clone the project or copy the CSS code.*
 
@@ -205,6 +200,8 @@ The **formattedTime** function extracts the minutes, seconds, and milliseconds f
     return `${minutes}:${seconds}:${milliseconds}`;
   };
 ```
+
+*As you can see, the date-fns makes it easier to handle and format dates and times, resulting in more succinct and readable code!*
 
 ---
 
@@ -392,7 +389,9 @@ export default Timer;
 
 ### Conclusion
 
-(WRITE ARTICLE SECTION)
+Building a stopwatch app using React and date-fns is an excellent way to gain hands-on experience with the useState and useEffect hooks, learn date and time handling with the date-fns library, and practice using local storage.
+
+By following the steps in this article, you have not only developed a functional stopwatch app but also gained skills and concepts that can be easily applied to your own original projects!
 
 ---
 
@@ -400,6 +399,6 @@ export default Timer;
 
 ---
 
-###### *? ? Please share the article and comment!*
+###### *Have you become proficient in building a stopwatch app using React and date-fns? Are you confident in applying the concepts learned in this article to create your own unique projects? Please share the article and comment!*
 
 ---
