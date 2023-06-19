@@ -30,22 +30,12 @@ Learning these concepts provides you with a set transferable skills that you can
 
 ---
 
-### HOLD
-
-(WRITE ARTICLE SECTION)
-
----
-
 ### Setting up the environment
 
-(WRITE ARTICLE SECTION)
 
-* Explain how to set up a new React project (using create-react-app or other preferred method)
-    
-* Install date-fns library
-    
+First, we need to set up our coding environment.
 
-### The React environment
+#### The React environment
 
 For this project, I used the VS Code editor to create a React app with Vite. Afterward, I converted it into a GitHub repository and deployed it on Netlify.
 
@@ -55,12 +45,15 @@ For this project, I used the VS Code editor to create a React app with Vite. Aft
     
 * [How to Create a Local React Environment with Vite](https://selftaughttxg.com/2023/03-23/how-to-create-a-local-react-environment-with-vite/)
     
+#### Install the date-fns library
 
----
+To install the date-fns library using Node Package Manager (npm), open your terminal and run the following command:
 
-### HOLD
+```bash
+npm install date-fns
+```
 
-(WRITE ARTICLE SECTION)
+**The date-fns library is a lightweight JavaScript tool for managing dates and times. It offers functions for parsing, formatting, manipulating, and comparing dates, allowing tasks like date string formatting and time unit calculations. Its modular design ensures efficient and easy-to-maintain code.**
 
 ---
 
@@ -70,11 +63,7 @@ For this project, I used the VS Code editor to create a React app with Vite. Aft
 
 ### Building the Timer component
 
-(WRITE ARTICLE SECTION)
-
-### Import
-
-**At the top of a JSX file, we will import the necessary hooks and library:**
+**At the top of the App JSX file, we will import the necessary hooks and library:**
 
 * useState
     
@@ -132,9 +121,9 @@ The **savedTime** variable is used to retrieve the user's saved time in local st
 
 ### Function to start the timer
 
-The **startTimer** function first retrieves the saved time from local storage and assigns it to the **savedTime** variable. If savedTime exists, it calculates the new start time by subtracting **savedTime** from the current time and updates the startTime state.
+The **startTimer** function first retrieves the saved time from local storage and assigns it to the **savedTime** variable. If **savedTime** exists, it calculates the new start time by subtracting **savedTime** from the current time and updates the **startTime** state.
 
-If savedTime does not exist, it sets the current time as the new start time, updates the startTime state, and saves it in local storage. Finally, it sets the running state to true, indicating the timer is running.
+If **savedTime** does not exist, it sets the current time as the new start time, updates the **startTime** state, and saves it in local storage. Finally, it sets the **running** state to true, indicating the timer is **running**.
 
 ```javascript
   function startTimer() {
@@ -156,7 +145,7 @@ If savedTime does not exist, it sets the current time as the new start time, upd
 
 ### Function to pause and resume the time
 
-The **pauseTimer** function checks if the timer is running. If it is, the function sets the running state to false, pausing the timer, and stores the current time value in local storage under the key '**pausedTime**'.
+The **pauseTimer** function checks if the timer is running. If it is, the function sets the **running** state to false, pausing the timer, and stores the current time value in local storage under the key '**pausedTime**'.
 
 ```javascript
   function pauseTimer() {
@@ -211,7 +200,7 @@ The useEffect hook runs a callback function when any of its dependencies (**runn
 
 If the **timer** is running, it sets up an interval to update the time state every **10** milliseconds by calculating the difference between the current time and the **startTime**. It also saves the current time in local storage under the key "**savedTime**".
 
-When the running state changes to false or any dependency changes, the useEffect hook cleans up the interval by calling **clearInterval**.
+When the **running** state changes to false or any dependency changes, the useEffect hook cleans up the interval by calling **clearInterval**.
 
 ```javascript
   useEffect(() => {
@@ -236,7 +225,7 @@ This code represents the JSX (JavaScript XML) return statement for the **Timer**
 
 The **Start button** has an **onClick** handler that calls the **startTimer** function and is disabled if the timer is running.
 
-The **Pause** and **Resume** buttons are conditionally rendered based on the running state; if the timer is running, the Pause button is displayed, otherwise the Resume button is shown. Both buttons call the same **startTimer** function when clicked.
+The **Pause** and **Resume** buttons are conditionally rendered based on the **running** state; if the timer is running, the Pause button is displayed, otherwise the Resume button is shown. Both buttons call the same **startTimer** function when clicked.
 
 The **Reset** button has an onClick handler that calls the **resetTimer** function.
 
@@ -265,12 +254,6 @@ The second h1 element displays the formatted time by calling the **formattedTime
 ```javascript
 export default Timer;
 ```
-
----
-
-### HOLD
-
-(WRITE ARTICLE SECTION)
 
 ---
 
@@ -370,7 +353,7 @@ export default Timer;
 
 ---
 
-![HOLD](img/06-19-2023/React-Stopwatch.png)
+![React Stopwatc](img/06-19-2023/React-Stopwatch.png)
 
 ---
 
