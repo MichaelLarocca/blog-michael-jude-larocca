@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "How to Make a Best Time React Component"
 tags:
   [
     "tutorial",
