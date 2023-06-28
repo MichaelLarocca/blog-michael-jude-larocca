@@ -26,6 +26,26 @@ date: "2023-07-03"
 ### HOLD
 (WRITE ARTICLE SECTION)
 
+---
+
+### Setting up the environment
+
+First, we need to set up our coding environment.
+
+#### The React environment
+For this project, I used the VS Code editor to create a React app with Vite. Afterward, I converted it into a GitHub repository and deployed it on Netlify.
+
+**If you would like to learn how to set up a local React development environment, I wrote the following two beginner-friendly articles:**
+
+* [Create a React Project, Push It to GitHub, and Deploy With Netlify, From the Command Line](https://selftaughttxg.com/2023/03-23/create-a-react-project-push-it-to-github-and-deploy-with-netlify-from-the-command-line/)
+    
+* [How to Create a Local React Environment with Vite](https://selftaughttxg.com/2023/03-23/how-to-create-a-local-react-environment-with-vite/)
+
+---
+
+### HOLD
+(WRITE ARTICLE SECTION)
+
 
 ---
 
