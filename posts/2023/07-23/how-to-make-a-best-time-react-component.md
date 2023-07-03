@@ -461,9 +461,9 @@ export default function BestTime() {
 
 **Here are the links to the finished project:**
 
-* [GitHub repo](HOLD)
+* [GitHub repo](https://github.com/MichaelLarocca/react-best-time-component)
     
-* [Netlify deployed project](HOLD)
+* [Netlify deployed project](https://react-best-time-component.netlify.app/)
     
 
 ---
@@ -473,6 +473,8 @@ export default function BestTime() {
 ---
 
 ### **My other related articles**
+
+* [Understanding and Implementing Unique Keys in React](https://selftaughttxg.com/2023/05-23/understanding-and-implementing-unique-keys-in-react/)
 
 * [Building a Stopwatch App with React and date-fns](https://selftaughttxg.com/2023/06-23/building-a-stopwatch-app-with-react-and-date-fns/)
     
