@@ -252,6 +252,43 @@ This useEffect Hook listens for changes in the **gameStarted** and **gameEnded**
 
 ---
 
+### Render the Component
+
+This rendered element displays the **currentDiceRoll** and **gameBestDiceRoll** values in a section, and three buttons (Start, Roll Dice, and End) to control the game flow.
+
+When the game starts, the **currentDiceRoll** is reset to **0**. The Roll Dice button increments the **currentDiceRoll** count, and the *End* button compares and updates the **gameBestDiceRoll** if the current game's dice roll count is lower. The *Start* and *Roll* Dice buttons are disabled when the game is not active, and the *End* button is disabled when the game is active or not yet started.
+
+```javascript
+    return (
+      <>
+      <section className="best-low-dice-roll">
+        <div className="best-low-dice-roll-inner-border">
+          <div>Dice Rolls: {currentDiceRoll}</div> 
+        </div>
+        <div className="best-low-dice-roll-inner-border">
+          <div>Best Rolls: {gameBestDiceRoll === Infinity ? '---' : gameBestDiceRoll}</div>
+        </div>
+      </section>
+
+      <button onClick={startGame} disabled={gameStarted}>
+        Start
+      </button>
+      <button onClick={rollDiceCounter} disabled={!gameStarted || gameEnded}>
+        Roll Dice
+      </button>
+      <button onClick={endGame} disabled={!gameStarted || gameEnded}>
+        End
+      </button>
+    </>
+    )
+  }
+```
+
+---
+
+
+---
+
 ### HOLD
 
 (WRITE ARTICLE SECTION)
