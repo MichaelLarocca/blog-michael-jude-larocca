@@ -165,6 +165,18 @@ The **getBestDiceRoll** function retrieves the best dice roll (lowest number of 
 
 ---
 
+### The save best dice roll function
+
+The **saveBestDiceRoll** function saves the best dice roll (lowest number of rolls to complete the game) to local storage for the specified game.
+
+```javascript
+    function saveBestDiceRoll(bestDiceRoll) {
+      localStorage.setItem(`${yourAwesomeGameName}-BestDiceRoll`, bestDiceRoll);
+    }
+```
+
+---
+
 ### HOLD
 
 (WRITE ARTICLE SECTION)
