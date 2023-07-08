@@ -101,7 +101,7 @@ import { useState, useEffect } from "react";
 *The ***gameStarted***, ***gameEnded***, ***setGameStarted***, ***setGameEnded***, are props that are passed in from the main App.jsx file.*
 
 ```javascript
-export default function BestLowDiceRoll({ gameStarted, gameEnded, setGameStarted, setGameEnded }) {
+  function BestLowDiceRoll({ gameStarted, gameEnded, setGameStarted, setGameEnded }) {
   
   });
 ```
