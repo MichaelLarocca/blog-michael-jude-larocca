@@ -227,6 +227,28 @@ The **endGame** function sets the **gameEnded** state to true and **gameStarted*
 
 ---
 
+### The useEffect Hooks
+
+This useEffect Hook retrieves the best dice roll from local storage when the component mounts and sets the **gameBestDiceRoll** state with that value. The empty dependency array ensures this effect runs only once.
+
+```javascript
+    useEffect(() => {
+      const bestDiceRoll = getBestDiceRoll();
+      setGameBestDiceRoll(bestDiceRoll);
+    }, []);
+```
+
+This useEffect Hook listens for changes in the **gameStarted** and **gameEnded** state variables. If **gameStarted** becomes true, it calls the **resetDice** function to reset the **currentDiceRoll** to **0**. If **gameEnded** becomes true, it calls the **updateBestDiceRoll** function to compare and update the best dice roll if the current game's dice roll count is lower.
+
+```javascript
+    useEffect(() => {
+      if (gameStarted) {
+        resetDice();
+      } else if (gameEnded) {
+        updateBestDiceRoll();
+      }
+    }, [gameStarted, gameEnded]);
+```
 
 ---
 
