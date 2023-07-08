@@ -15,7 +15,7 @@ date: "2023-07-10"
 
 ---
 
-![TXG-95](HOLD)
+![TXG-95](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-10-2023/TN-TXG-95.jpg?raw=true)
 
 ---
 
