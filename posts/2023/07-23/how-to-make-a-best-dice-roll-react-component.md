@@ -422,9 +422,9 @@ export default App
 
 **Here are the links to the finished project:**
 
-* [GitHub repo](HOLD)
+* [GitHub repo](https://github.com/MichaelLarocca/react-best-low-dice-roll-component)
     
-* [Netlify deployed project](HOLD)
+* [Netlify deployed project](https://react-best-low-dice-roll-component.netlify.app/)
     
 ---
 
