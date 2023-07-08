@@ -192,6 +192,19 @@ The **updateBestDiceRoll** function compares the **gameEndDiceRoll** with the cu
 
 ---
 
+### The start game function
+
+The **startGame** function sets the **gameStarted** state to true and the **gameEnded** state to false, indicating that a new game has begun.
+
+```javascript
+    function startGame() {
+      setGameStarted(true);
+      setGameEnded(false);
+    }
+```
+
+---
+
 ### HOLD
 
 (WRITE ARTICLE SECTION)
