@@ -128,6 +128,18 @@ export default function BestLowDiceRoll({ gameStarted, gameEnded, setGameStarted
 
 ---
 
+### The reset dice function
+
+The resetDice function sets the **currentDiceRoll** variable back to **0**, which means it resets the number of dice rolls in the current game.
+
+```javascript
+   function resetDice() {
+        setCurrentDiceRoll(0);
+    }
+```
+
+---
+
 
 ---
 
