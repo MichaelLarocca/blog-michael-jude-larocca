@@ -94,6 +94,43 @@ import { useState, useEffect } from "react";
 
 ---
 
+### Best Low Dice Roll function
+
+#### We will be writing our code inside of a function called BestLowDiceRoll, which is located in the components folder ( which is inside of the src folder).
+
+*The ***gameStarted***, ***gameEnded***, ***setGameStarted***, ***setGameEnded***, are props that are passed in from the main App.jsx file.*
+
+```javascript
+export default function BestLowDiceRoll({ gameStarted, gameEnded, setGameStarted, setGameEnded }) {
+  
+  });
+```
+
+#### **Inside the App function, we initially set up the variables.**
+
+**Variables initialized:**
+
+* **currentDiceRoll:** The number of dice rolls in the current game
+    
+* **gameEndDiceRoll:** The number of dice rolls when the game ends
+    
+* **gameBestDiceRoll:** The lowest number of dice rolls to complete the game
+    
+* **yourAwesomeGameName:** The name of the game to differentiate best dice rolls in local storage
+    
+
+```javascript
+    const [currentDiceRoll, setCurrentDiceRoll] = useState(0);
+    const [gameEndDiceRoll, setGameEndDiceRoll] = useState(0)
+    const [gameBestDiceRoll, setGameBestDiceRoll] = useState(0);
+    const yourAwesomeGameName = "yourAwesomeGameName";
+```
+
+---
+
+
+---
+
 ### HOLD
 
 (WRITE ARTICLE SECTION)
