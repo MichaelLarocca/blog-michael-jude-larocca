@@ -177,6 +177,21 @@ The **saveBestDiceRoll** function saves the best dice roll (lowest number of rol
 
 ---
 
+### The update best dice roll function
+
+The **updateBestDiceRoll** function compares the **gameEndDiceRoll** with the current **gameBestDiceRoll**. If the **gameEndDiceRoll** is less than the **gameBestDiceRoll** and not equal to **0**, it updates the **gameBestDiceRoll** state and saves it to local storage using the **saveBestDiceRoll** function.
+
+```javascript
+    function updateBestDiceRoll() {
+      if (gameEndDiceRoll < gameBestDiceRoll && gameEndDiceRoll !== 0) {
+        setGameBestDiceRoll(gameEndDiceRoll);
+        saveBestDiceRoll(gameEndDiceRoll);
+      }
+    }
+```
+
+---
+
 ### HOLD
 
 (WRITE ARTICLE SECTION)
