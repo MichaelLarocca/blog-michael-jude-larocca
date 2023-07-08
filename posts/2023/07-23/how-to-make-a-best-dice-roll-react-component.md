@@ -286,12 +286,13 @@ When the game starts, the **currentDiceRoll** is reset to **0**. The Roll Dice b
 
 ---
 
+### Export the best dice roll React component
 
----
+Finally, we export the best dice roll React component so that we can import it into the App.jsx file.
 
-### HOLD
-
-(WRITE ARTICLE SECTION)
+```javascript
+export default BestLowDiceRoll;
+```
 
 ---
 
