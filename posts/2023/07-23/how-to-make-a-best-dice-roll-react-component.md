@@ -152,7 +152,16 @@ The **rollDiceCounter** function increases the **currentDiceRoll** by 1 each tim
 
 ---
 
+### The get best dice roll function
 
+The **getBestDiceRoll** function retrieves the best dice roll (lowest number of rolls to complete the game) from local storage for the specified game and returns it as an integer. If no best dice roll is stored, it returns Infinity.
+
+```javascript
+    function getBestDiceRoll() {
+      const storedBestDiceRoll = localStorage.getItem(`${yourAwesomeGameName}-BestDiceRoll`);
+      return storedBestDiceRoll ? parseInt(storedBestDiceRoll, 10) : Infinity;
+    }
+```
 
 ---
 
