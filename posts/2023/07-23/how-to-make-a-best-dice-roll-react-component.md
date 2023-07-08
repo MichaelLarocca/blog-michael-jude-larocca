@@ -140,6 +140,19 @@ The resetDice function sets the **currentDiceRoll** variable back to **0**, whic
 
 ---
 
+### The roll dice counter function
+
+The **rollDiceCounter** function increases the **currentDiceRoll** by 1 each time it's called, updating the number of dice rolls in the current game.
+
+```javascript
+    function rollDiceCounter() {
+        setCurrentDiceRoll(prev => prev + 1);
+    }
+```
+
+---
+
+
 
 ---
 
