@@ -81,7 +81,16 @@ For this project, I used the VS Code editor to create a React app with Vite. Aft
 
 ### Building the Best Low Dice Roll component
 
-(WRITE ARTICLE SECTION)
+At the top of the App JSX file, we will import the necessary hooks:
+
+* useState
+    
+* useEffect
+    
+
+```javascript
+import { useState, useEffect } from "react";
+```
 
 ---
 
