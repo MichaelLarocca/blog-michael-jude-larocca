@@ -56,9 +56,9 @@ Farkle-BestDiceRoll
 
 ---
 
-### HOLD
+### Start, Roll Dice, and End buttons
 
-(WRITE ARTICLE SECTION)
+We use the **Start**, **Roll Dice**, and **End** buttons to simulate the actions within the game you are using the component for. When this component is integrated into your React game app, these buttons are not to be rendered. These actions will be controlled in the main JSX app and passed to the component using props.
 
 ---
 
