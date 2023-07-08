@@ -205,6 +205,31 @@ The **startGame** function sets the **gameStarted** state to true and the **game
 
 ---
 
+### The end game function
+
+The **endGame** function sets the **gameEnded** state to true and **gameStarted** state to false, indicating that the game has ended. It then updates the **gameEndDiceRoll** state with the **currentDiceRoll** value. The function checks if the **currentDiceRoll** is less than the **bestDiceRoll**, and if so, saves the **currentDiceRoll** as the new **bestDiceRoll** in local storage and updates the **gameBestDiceRoll** state.
+
+```javascript
+    function endGame() {
+      if (!gameEnded) {
+        setGameEnded(true);
+        setGameStarted(false);
+        setGameEndDiceRoll(currentDiceRoll);
+        const bestDiceRoll = getBestDiceRoll();
+
+        if (currentDiceRoll < bestDiceRoll) {
+          saveBestDiceRoll(currentDiceRoll);
+          setGameBestDiceRoll(currentDiceRoll);
+        }
+      }
+    }
+```
+
+---
+
+
+---
+
 ### HOLD
 
 (WRITE ARTICLE SECTION)
