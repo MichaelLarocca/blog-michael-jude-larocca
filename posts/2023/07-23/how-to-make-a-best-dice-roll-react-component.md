@@ -14,7 +14,7 @@ date: "2023-07-10"
 
 ---
 
-![TXG-95](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-10-2023/TN-TXG-95.jpg?raw=true)
+![TXG-95](img/07-10-2023/TN-TXG-95.jpg)
 
 ---
 
@@ -427,7 +427,7 @@ export default App
     
 ---
 
-![Best Low Dice Roll component](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-10-2023/IMG_6249.jpg?raw=true)
+![Best Low Dice Roll component](img/07-10-2023/IMG_6249.jpg)
 
 ---
 
