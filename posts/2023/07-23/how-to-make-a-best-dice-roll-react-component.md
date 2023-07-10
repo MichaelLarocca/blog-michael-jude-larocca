@@ -451,6 +451,13 @@ export default App
 
 ### Conclusion
 
+In this article, we learned how to create a "best low-roll" dice React component that you can use in your projects. By importing this React component from the components folder into your main App file, you are able to control it by passing game start and end props.
+
+By using local storage, you can save the user's best dice roll for multiple React game projects by utilizing the "yourAwesomeGameName" variable, which distinguishes each one saved in local storage.
+
+We also created various functions and learned how to use the useState and useEffect React hooks, as well as how to render the component. All of these are essential skills needed for React development!
+
+Now it's time to roll the dice! Enjoy enhancing your React projects by incorporating this component and creating your own unique components using the newly acquired React skills you've gained!
 
 ---
 
