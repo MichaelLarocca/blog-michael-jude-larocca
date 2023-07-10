@@ -298,6 +298,12 @@ I added the [catch() method](https://developer.mozilla.org/en-US/docs/Web/JavaSc
 
 ---
 
+#### 🔗 *Are you also interested in learning React? Be sure to check out my article covering the React version of this project!*
+
+[React: How to Use the Star Wars API for Beginners](https://selftaughttxg.com/2023/05-23/react-how-to-use-the-star-wars-api-for-beginners/)
+
+---
+
 ### Your first step into a larger world
 
 ![Your First Step](img/YourFirstStep.jpg)
