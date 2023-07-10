@@ -448,7 +448,7 @@ function App() {
     
 ---
 
-![Star Wars API](img/SW-API-01.jpg)
+![StarWars API React](img/05-04-2023/StarWars-API-React.jpg)
 
 ---
 
