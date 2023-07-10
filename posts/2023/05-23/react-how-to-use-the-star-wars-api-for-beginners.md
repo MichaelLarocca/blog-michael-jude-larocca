@@ -448,6 +448,10 @@ function App() {
     
 ---
 
+![Star Wars API](img/SW-API-01.jpg)
+
+---
+
 ### My other API articles
 * [JavaScript: How to Use the Star Wars API for Beginners](https://selftaughttxg.com/2022/04-22/StarWarsAPI-01/) 
 * [JavaScript: How to Use the Chuck Norris API for Beginners](https://selftaughttxg.com/2023/02-23/javascript-how-to-use-the-chuck-norris-api-for-beginners/)
