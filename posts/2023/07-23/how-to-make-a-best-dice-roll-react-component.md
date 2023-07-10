@@ -11,7 +11,7 @@ date: "2023-07-10"
 ---
 
 
-#### HOLD
+#### In this article, we build a React best dice roll game component. From your main App file, you will learn how to pass game start and end props to control it and gain skills for your original projects!
 
 ---
 
