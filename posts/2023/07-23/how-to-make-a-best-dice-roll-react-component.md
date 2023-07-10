@@ -10,7 +10,6 @@ published: true
 date: "2023-07-10"
 ---
 
-
 #### In this article, we build a React best dice roll game component. From your main App file, you will learn how to pass game start and end props to control it and gain skills for your original projects!
 
 ---
@@ -465,6 +464,6 @@ Now it's time to roll the dice! Enjoy enhancing your React projects by incorpora
 
 ---
 
-###### *? ? Please share the article and comment!*
+###### *Are you now skilled in creating a "best low-roll" dice React component for your projects? Have you created similar components using useState and useEffect hooks in your React development? Please share the article and comment!*
 
 ---
