@@ -26,7 +26,7 @@ I intend to use this component in an upcoming React Tenzi game, along with a [be
 
 ---
 
-***Notes:*** *For the best dice roll React component, I created a variable named **yourAwesomeGameName**. The purpose of this variable is to differentiate the best dice rolls that are stored in local storage. For example, you will set the value of the variable **yourAwesomeGameName** to the name **Tenzi** for a Tenzi game, **Yahtzee** for a Yahtzee game, and **Farkle** for a Farkle game.*
+**Notes:** For the best dice roll React component, I created a variable named **yourAwesomeGameName**. The purpose of this variable is to differentiate the best dice rolls that are stored in local storage. For example, you will set the value of the variable **yourAwesomeGameName** to the name **Tenzi** for a Tenzi game, **Yahtzee** for a Yahtzee game, and **Farkle** for a Farkle game.
 
 ```javascript
 const yourAwesomeGameName = "yourAwesomeGameName";
