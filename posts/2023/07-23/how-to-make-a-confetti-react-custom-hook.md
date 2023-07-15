@@ -10,7 +10,7 @@ published: true
 date: "2023-07-17"
 ---
 
-### hold
+### In this article, we build a confetti React custom hook! Learn state management, hooks, local storage, and the js-confetti library, equipping you with transferable skills for your original projects!
 
 ---
 
