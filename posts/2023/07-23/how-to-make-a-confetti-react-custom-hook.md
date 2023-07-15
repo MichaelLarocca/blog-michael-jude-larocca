@@ -251,6 +251,10 @@ The useEffect hook sets up a *side effect* in the component, which runs after th
 
 *These functions can be used by the component that calls this custom hook to trigger confetti animations and update the best time and best dice roll values.*
 
+```javascript
+return { confetti, newBestTime, newBestDiceRoll, newBestGame };
+```
+
 ---
 
 ### Export the custom hook
