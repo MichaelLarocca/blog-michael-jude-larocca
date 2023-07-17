@@ -14,7 +14,7 @@ date: "2023-07-17"
 
 ---
 
-![TXG-96](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-17-2023/TN-TXG-96.jpg?raw=true)
+![TXG-96](img/07-17-2023/TN-TXG-96.jpg)
 
 ---
 
@@ -505,7 +505,7 @@ export default App;
 
 ---
 
-![HOLD](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-17-2023/ConfettiCustomHook.jpg?raw=true)
+![Confetti Custom Hook](img/07-17-2023/ConfettiCustomHook.jpg)
 
 ---
 
