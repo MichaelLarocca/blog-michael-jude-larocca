@@ -530,7 +530,11 @@ export default App;
 
 ### Conclusion
 
-(WRITE ARTICLE SECTION)
+In this tutorial article, you learned how to create a custom confetti React hook to incorporate into your own projects. You also acquired valuable transferable skills, such as state management, hooks, and working with a preexisting library, the js-confetti library.
+
+You also learned how to manage the custom hook from the main App component by passing properties, which helps you organize your code and maintain a clear separation of concerns, making your React app easier to understand and maintain.
+
+In an upcoming article, I will demonstrate how to integrate this custom confetti React hook with the custom best time component and best dice roll component I previously created. Until then, it's time to apply these newly acquired skills to your original projects and create captivating user experiences!
 
 ---
 
