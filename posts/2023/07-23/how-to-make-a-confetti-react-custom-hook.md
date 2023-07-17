@@ -10,7 +10,7 @@ published: true
 date: "2023-07-17"
 ---
 
-### In this article, we build a confetti React custom hook! Learn state management, hooks, local storage, and the js-confetti library, equipping you with transferable skills for your original projects!
+### In this week's article, we build a confetti React custom hook! You will learn state management, hooks, and the js-confetti library, equipping you with transferable skills for your original projects!
 
 ---
 
@@ -20,7 +20,7 @@ date: "2023-07-17"
 
 ### Introduction
 
-In this tutorial, you will learn how to create a confetti React custom hook that adds engaging animations to your projects while learning state management, hooks, local storage, and the js-confetti library.
+In this tutorial, you will learn how to create a confetti React custom hook that adds engaging animations to your projects while learning state management, hooks, and the js-confetti library.
 
 In addition to implementing this hook in your own projects, it is designed to be compatible with my previous two custom components: the Best Time React component and the Best Dice Roll React component.
 
