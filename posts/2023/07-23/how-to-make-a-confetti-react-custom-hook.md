@@ -14,13 +14,15 @@ date: "2023-07-17"
 
 ---
 
-![TXG-95](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-17-2023/TN-TXG-96.jpg?raw=true)
+![TXG-96](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2023/07-23/img/07-17-2023/TN-TXG-96.jpg?raw=true)
 
 ---
 
 ### Introduction
 
-(WRITE ARTICLE SECTION)
+In this tutorial, you will learn how to create a confetti React custom hook that adds engaging animations to your projects while learning state management, hooks, local storage, and the js-confetti library.
+
+In addition to implementing this hook in your own projects, it is designed to be compatible with my previous two custom components: the Best Time React component and the Best Dice Roll React component.
 
 ---
 
