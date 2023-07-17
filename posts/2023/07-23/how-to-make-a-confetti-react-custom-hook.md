@@ -542,7 +542,7 @@ In an upcoming article, I will demonstrate how to integrate this custom confetti
 
 ---
 
-###### *Are you now confident in using the confetti React custom hook and its integration with state management, hooks, and local storage? Are you ready to create engaging animations in your projects using the js-confetti library? Please share the article and comment*
+###### *Are you now confident in using the confetti React custom hook and its integration with state management, hooks, and local storage? Are you ready to create engaging animations in your projects using the js-confetti library? Please share the article and comment!*
 
 ---
 
