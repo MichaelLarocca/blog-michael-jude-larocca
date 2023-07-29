@@ -12,8 +12,10 @@ date: "2023-07-31"
 #### HOLD
 ---
 
-![TN-TXG-97](HOLD)
+![TN-TXG-97](img/07-31-2023/TN-TXG-97.jpg)
 
 ---
 
 ### Introduction
+
+---
