@@ -5,6 +5,7 @@ tags:
     "tutorial",
     "course",
     "scrimba",
+    "coupon",
   ]
 published: true
 date: "2021-02-01"
@@ -522,6 +523,14 @@ Thank you, Scrimba, for showcasing our work!
 
 #### *"That&#39;s one of the best Scrimba reviews I&#39;ve ever read, <a href="https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw">@MikeJudeLarocca</a>. Thank you! 🙏 "*
 ###### &mdash; Per Harald Borgen, CEO of Scrimba <a href="https://twitter.com/perborgen/status/1338462544143540227?ref_src=twsrc%5Etfw">December 14, 2020</a></blockquote>
+
+---
+
+### 10% Scrimba Discount!
+
+#### If you're interested in taking a paid course from Scrimba, be sure to use the discount code provided: https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join
+
+###### *Valid for 10% off semester and annual plans. Expires on July 31st, 2024*
 
 ---
 
