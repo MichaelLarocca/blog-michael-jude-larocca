@@ -6,6 +6,7 @@ tags:
     "scrimba",
     "discord",
     "twitter",
+    "coupon",
   ]
 published: true
 date: "2020-12-13"
@@ -136,6 +137,14 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 |12/01/2020|                                                 |
 |12/02/2020|                                                 |
 |12/03/2020|                                                 | -->
+
+---
+
+### 10% Scrimba Discount!
+
+#### If you're interested in taking a paid course from Scrimba, be sure to use the discount code provided: https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join
+
+###### *Valid for 10% off semester and annual plans. Expires on July 31st, 2024*
 
 ---
 
