@@ -66,7 +66,7 @@ It truly is surprising how difficult it is to teach programming concepts to othe
 
 ### Building an online presence
 
-I've realized that starting this blog has helped me create an invaluable online presence. Not only am I easily "Google searchable" for hiring managers to learn more about me, but when I participate in online events such as YouTube, Linkedin, Discord, Twitter spaces, and more, I am often recognized by fellow participants!
+I've realized that starting this blog has helped me create an invaluable online presence. Not only am I easily "Google searchable" for hiring managers to learn more about me, but when I participate in online events such as YouTube, LinkedIn, Discord, Twitter spaces, and more, I am often recognized by fellow participants!
 
 ---
 
@@ -99,7 +99,7 @@ But what I am most excited about is my recent opportunity to become a freeCodeCa
 
 For the freeCodeCamp application, they ask you to submit the three articles you are most proud of. So, for my best chance of being accepted, I strategically chose [an article I published on Scrimba](https://scrimba.com/articles/linkedin-for-developers/) (*to show I'm already published on another reputable website*), an [in-depth instructional article teaching how to create Scrimba screencasts](https://selftaughttxg.com/2021/02-21/CreateAScrimbaScreencast/) (*to display my technical writing capabilities*), and finally, an [article that was featured on Hashnode](https://michaeljudelarocca.hashnode.dev/how-to-create-a-local-react-environment-with-vite) teaching how to create a local React environment with Vite (*to showcase a badge of recognition I have earned*).
 
-***I have also increased my chances of being accepted as a freeCodeCamp contributor by previously writing about freeCodeCamp coverage issues on my blog, 'Self-Taught: The X Generation.' This captured the attention of Quincy Larson, the founder of freeCodeCamp, so he had already heard of me when I applied!***
+***I have also increased my chances of being accepted as a freeCodeCamp contributor by previously writing about freeCodeCamp on my blog, 'Self-Taught: The X Generation.' This captured the attention of Quincy Larson, the founder of freeCodeCamp, so he had already heard of me when I applied!***
 
 ---
 
@@ -134,7 +134,7 @@ As I am now an author on multiple websites, although I continue to write article
 
 Blogging has helped me reinforce my learning, become a better developer, create an online presence, and grow my professional network. As a result, I continually receive job offers and already earn side income as a freelance writer and code reviewer.
 
-I believe if you start blogging now, you will also achieve similar results! So, I encourage YOU to consider starting to blog today as a means to elevate your career!
+I believe if you start blogging now, you will also achieve similar results! So, I encourage YOU to consider starting to blog today to elevate your career!
 
 I am currently working on an exclusive article for freeCodeCamp that delves deeply into the reasons and methods behind starting a blog, as well as offering valuable resources. This article will serve as a complementary piece to my LinkedIn profile optimization to help YOU by sharing everything that has contributed to my success! So be sure to check out my [freeCodeCamp author page](https://www.freecodecamp.org/news/author/michael-larocca/) for the release!
 
