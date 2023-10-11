@@ -5,7 +5,7 @@ tags:
     "networking",
     "linkedin",
     "freecodecamp",
-    "scrimba";
+    "scrimba",
   ]
 published: true
 date: "2023-10-09"
