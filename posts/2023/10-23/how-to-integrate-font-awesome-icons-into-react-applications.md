@@ -24,11 +24,11 @@ So, what are Font Awesome icons? Font Awesome icons are a popular icon library t
 
 ---
 
-### The React Icons Library
+### The React Icons library
 
-You may have already used Font Awesome icons in vanilla JavaScript projects. However, the React Icons Library was designed to make working with icons even easier, offering additional benefits specifically for React projects and it's not limited to Font Awesome icons!
+You may have already used Font Awesome icons in vanilla JavaScript projects. However, the React Icons library was designed to make working with icons even easier, offering additional benefits specifically for React projects and it's not limited to Font Awesome icons!
 
-**The React Icons Library offers icons from various icon libraries, such as:**
+**The React Icons library offers icons from various icon libraries, such as:**
 
 * Font Awesome 6
     
@@ -62,7 +62,7 @@ For this project, I used the VS Code editor to create a React app with Vite. Aft
 
 ---
 
-### Install the React Icons Library
+### Install the React Icons library
 
 After you have set up your React environment, run the following node package manager command.
 
@@ -90,7 +90,7 @@ import { FaLinkedin, FaSquareXTwitter, FaGithub, FaCodepen, FaFreeCodeCamp } fro
 import { SiStartrek } from "react-icons/si";
 ```
 
-Please note that you must import the icons from the assorted libraries. For example, the LinkedIn Font Awesome icon is imported from the "react-icons/fa6" library (Font Awesome 6). Then, on a separate line of code, the Star Trek icon is imported from the "react-icons/si" library (Simple Icons).
+Please note that you must import the icons from the associated libraries. For example, the LinkedIn Font Awesome icon is imported from the "react-icons/fa6" library (Font Awesome 6). Then, on a separate line of code, the Star Trek icon is imported from the "react-icons/si" library (Simple Icons).
 
 #### The Footer component
 
