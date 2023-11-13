@@ -348,6 +348,6 @@ Now it's your turn! Take your React projects to the next level by creating and i
 
 ---
 
-###### ***Have you successfully created a versatile Avatar component in React? Are you excited to explore more ways to enhance your React applications with dynamic components? Please share the article and comment!***
+###### ***Have you successfully created a versatile Avatar component in React? Are you excited to explore more ways to enhance your React applications with dynamic components? Please share the article and comment***
 
 ---
