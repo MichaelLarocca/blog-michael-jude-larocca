@@ -2,6 +2,7 @@
 title: "React Avatars: Creating a Versatile Component with Conditional Rendering and Custom Functions"
 tags:
   [
+    "scrimba"
     "tutorial",
     "javascript",
     "react",
