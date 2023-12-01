@@ -60,13 +60,13 @@ Thea solved the day 1 challenge Countdown to Christmas challenge in style! She i
 
 ---
 
-#### **HOLD**
+#### **Wakasso (@SaniWakasso)**
 
-!\[\]()
+![Wakasso](img/12-04-2023/Wakasso.png)
 
-(WRITE ARTICLE SECTION)
+Wakasso created a beautifully illustrated Christmas card with a live countdown to Christmas, including hours, minutes, and seconds! If you are an aspiring developer who wants to "stand out from the crowd," definitely take a look at ALL of his code and see how he accomplished this remarkable feat! Keep up the outstanding work, Wakasso! 
 
-[***🔗 Link to the scrim***](HOLD)
+[***🔗 Link to the scrim***](https://scrimba.com/scrim/co277450faf42c7530062dd24)
 
 ---
 
