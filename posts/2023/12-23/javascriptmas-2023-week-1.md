@@ -52,7 +52,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 #### **Thea (@highflyer910)**
 
-![]()
+![Thea](img/12-04-2023/Thea.png)
 
 Thea solved the day 1 challenge Countdown to Christmas challenge in style! She included a festive font and an animated snowing background! With the included Christmas tree emoji, the overall effect reminds me of the famous Charlie Brown Christmas special! Well done, Thea!
 
