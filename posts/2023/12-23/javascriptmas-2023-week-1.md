@@ -134,13 +134,69 @@ renderCountdown()
 
 ---
 
-### **Day 2 Challenge**
+### **Day 2: Style a Colorful Button**
 
-(WRITE ARTICLE SECTION)
+**Task:**
 
-!\[\]()
+* Add a gradient border
 
-***🔗*** [***My solution for day 2***](HOLD)
+* Hover state flips the gradient color/button size grows
+
+* The text changes from gray to white
+
+
+![DAY-02](img/12-04-2023/DAY-02.png)
+
+***🔗*** [***My solution for day 2***](https://scrimba.com/learn/javascriptmas/day-2-style-a-colorful-button-cW2dVzuL)
+
+**I took some creative liberty with this challenge and created a Christmas gradient color border that flips on hover/focus, and I also included a "candy cane" style gradient for the text!**
+
+**Steps:**
+
+1. Create the `.button-border` class to style the button border with a 3px solid border and a linear gradient from red to green.
+    
+2. Define the `.button` class to set the button's height, width, text color, font size, and font weight.
+    
+3. Add the `:hover` and `:focus` pseudo-classes for the `.button` class to remove the default outline when the button is hovered or focused.
+    
+4. Apply the `:hover` and `:focus` pseudo-classes for the `.button-border` class to scale the button border by 1.1 and change the border-image gradient from green to red when the button is hovered or focused.
+    
+5. Define the `.text-candy-cane` class to create a candy cane-like background image gradient for the text, set the text color to transparent, and apply the background-clip property to clip the background to the text. Set the background-size to 1em for proper scaling.
+
+```css
+.button-border {
+    border: 3px solid;
+    border-image: linear-gradient(to right, red, green) 1;
+}
+
+.button {
+    height: 50px;
+    width: 150px;
+    color: var(--btn-color);
+    font-size: 20px;
+    font-weight: bolder;
+}
+
+.button:hover,
+.button:focus {
+    outline: none; 
+}
+
+.button-border:hover,
+.button-border:focus {
+    transform: scale(1.1);
+    border-image: linear-gradient(to right, green, red) 1;
+}
+
+
+.text-candy-cane {
+    background-image: linear-gradient(-45deg, red 12.5%, white 12.5%, white 25%, red 25%, red 37.5%, white 37.5%, white 50%, red 50%, red 62.5%, white 62.5%, white 75%, red 75%, red 87.5%, white 87.5%);
+    color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text;
+    background-size: 1em;
+}
+```
 
 ---
 
