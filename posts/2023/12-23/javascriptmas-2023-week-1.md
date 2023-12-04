@@ -238,7 +238,7 @@ calcTotalCandies(6, 25) // expected output: 24
 
 ### **10% Scrimba Discount!**
 
-#### **If you're interested in taking a paid course from Scrimba, be sure to use the discount code provided:** [**https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join**](https://selftaughttxg.com/2021/06-21/06-07-21/)
+#### **If you're interested in taking a paid course from Scrimba, be sure to use the discount code provided:** [**https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join**](https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join)
 
 ###### ***Valid for an additional 10% off semester and annual plans. Expires on July 31st, 2024***
 
