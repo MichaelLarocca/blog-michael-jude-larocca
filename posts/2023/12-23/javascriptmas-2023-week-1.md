@@ -70,13 +70,13 @@ Wakasso created a beautifully illustrated Christmas card with a live countdown t
 
 ---
 
-#### **HOLD**
+#### **Mehmet Temizkan (MehmetTemi86729)**
 
-!\[\]()
+![Mehmet](img/12-04-2023/Mehmet.png)
 
-(WRITE ARTICLE SECTION)
+Mehmet creatively combined the first and second challenges! He first created a count to Chrismas, including the stretch goals of adding the days, hours, minutes, and seconds. He then solved the second challenge of creating a button with a gradient border with color flipping sides when the button is clicked. He concludes by adding an animated confetti snow with a beautiful Christmas background! Well done, Mehmet!
 
-[***🔗 Link to the scrim***](HOLD)
+[***🔗 Link to the GitHub repo***](https://github.com/mehmettemizkan/JavaScriptmas-2023)
 
 ---
 
