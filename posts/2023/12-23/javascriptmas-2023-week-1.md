@@ -202,11 +202,23 @@ renderCountdown()
 
 ### **Day 3 Challenge**
 
-(WRITE ARTICLE SECTION)
+**Task:**
 
-!\[\]()
+Some children have got some pieces of candy. They want to eat as much candy as they can but each child must eat exactly the same amount. Determine how many pieces of candy can be eaten altogether. A piece of candy can not be split.
 
-***🔗*** [***My solution for day 3***](HOLD)
+***🔗*** [***My solution for day 3***](https://scrimba.com/learn/javascriptmas/-day-3-divide-candy-coc584e25984a0d83541b9ea0)
+
+**This challenge is solved with a simple math equation. Dividing the amount of candy by the number of children using Math.floor provides us with an even amount of candy distribution. We then multiply the calculated candy distribution number by the number of children to solve the challenge.**
+
+```javascript
+function calcTotalCandies(children, candy) {
+ return Math.floor(candy / children) * children;
+}
+
+calcTotalCandies(3, 10) // expected output: 9
+calcTotalCandies(4, 20) // expected output: 20
+calcTotalCandies(6, 25) // expected output: 24
+```
 
 ---
 
