@@ -50,7 +50,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### **Thea (@highflyer910)**
+#### **Thea ([@highflyer910](https://twitter.com/highflyer910?lang=en))**
 
 ![Thea](img/12-04-2023/Thea.png)
 
@@ -60,7 +60,7 @@ Thea solved the day 1 challenge Countdown to Christmas challenge in style! She i
 
 ---
 
-#### **Wakasso (@SaniWakasso)**
+#### **Wakasso ([@SaniWakasso](https://twitter.com/saniwakasso))**
 
 ![Wakasso](img/12-04-2023/Wakasso.png)
 
@@ -70,7 +70,7 @@ Wakasso created a beautifully illustrated Christmas card with a live countdown t
 
 ---
 
-#### **Mehmet Temizkan (@MehmetTemi86729)**
+#### **Mehmet Temizkan ([@MehmetTemi86729](https://twitter.com/MehmetTemi86729))**
 
 ![Mehmet](img/12-04-2023/Mehmet.png)
 
