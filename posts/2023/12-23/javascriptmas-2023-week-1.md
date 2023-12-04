@@ -70,7 +70,7 @@ Wakasso created a beautifully illustrated Christmas card with a live countdown t
 
 ---
 
-#### **Mehmet Temizkan (MehmetTemi86729)**
+#### **Mehmet Temizkan (@MehmetTemi86729)**
 
 ![Mehmet](img/12-04-2023/Mehmet.png)
 
