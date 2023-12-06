@@ -116,13 +116,65 @@ WRITE ARTICLE SECTION
 
 ---
 
-### **Day 6:**
+### **Day 6: Secret Santa**
 
 **Task:**
 
-![HOLD](HOLD)
+Write a function to randomly assign each person in an array a "Secret Santa," who is someone else in the array. No one should be assigned to themselves as their own Secret Santa.
 
-***🔗*** [***My solution for day 6***](HOLD)
+```javascript
+{Alice: "Dan", Bob: "Carly", Carly: "Ginny", Dan: "Ed", Ed: "Alice", Ferdinand: "Ginny", Ginny: "Ferdinand"}
+```
+
+***🔗*** [***My solution for day 6***](https://scrimba.com/learn/javascriptmas/-day-6-secret-santa-c8p2w3CD)
+
+This function, `generateSecretSantaPairs`, is designed to create pairs for a Secret Santa gift exchange. It accepts an array of people's names as its argument.
+
+1. We start by creating an empty object, `pairs`, to store our final pairs, and a copy of our original array of names.
+    
+2. We then loop through each name in the original array. For each name, we do the following:
+    
+    * If there's only one name left in our copied array, we assign the current name from the original array and the last name from the copied array to each other in our `pairs` object. This ensures that the last person in the list also gets assigned a pair.
+        
+    * If there's more than one name left in our copied array, we generate a random index and check if the name at that index in the copied array is the same as the current name from the original array. If it is, we generate a new random index, until we find a different name.
+        
+    * We then assign the randomly selected name from the copied array to the current name in the original array in our `pairs` object, and remove the selected name from the copied array.
+        
+3. Once we've looped through all the names in the original array, we have our final pairs. We print these pairs to the console and return them from the function.
+    
+
+**This function ensures that everyone gets a pair and that no one is paired with themselves, making it perfect for organizing a Secret Santa gift exchange!**
+
+
+```javascript
+const people = ["Alice", "Bob", "Carly", "Dan", "Ed", "Ferdinand", "Ginny"]
+
+function generateSecretSantaPairs(arr) {
+    let pairs = {};
+    let copy = [...arr]; 
+
+    for(let i = 0; i < arr.length; i++) {
+        let person = arr[i];
+        let index;
+        if(copy.length === 1) {
+            pairs[person] = copy[0];
+            pairs[copy[0]] = person;
+            break;
+        }
+
+        do {
+            index = Math.floor(Math.random() * copy.length);
+        } while(copy[index] === person && copy.length > 1)
+
+        pairs[person] = copy[index];
+        copy.splice(index, 1);
+    }
+    console.log(pairs)
+    return pairs;
+}
+
+generateSecretSantaPairs(people);
+```
 
 ---
 ### **Day 7:**
