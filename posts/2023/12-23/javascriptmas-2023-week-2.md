@@ -123,60 +123,56 @@ WRITE ARTICLE SECTION
 Write a function to randomly assign each person in an array a "Secret Santa," who is someone else in the array. No one should be assigned to themselves as their own Secret Santa.
 
 ```javascript
-{Alice: "Dan", Bob: "Carly", Carly: "Ginny", Dan: "Ed", Ed: "Alice", Ferdinand: "Ginny", Ginny: "Ferdinand"}
+{Bob: "Carly", Carly: "Alice", Alice: "Dan", Dan: "Ed", Ed: "Ferdinand", Ferdinand: "Ginny", Ginny: "Bob"}
 ```
 
 ***🔗*** [***My solution for day 6***](https://scrimba.com/learn/javascriptmas/-day-6-secret-santa-c8p2w3CD)
 
-This function, `generateSecretSantaPairs`, is designed to create pairs for a Secret Santa gift exchange. It accepts an array of people's names as its argument.
+This function, `generateSecretSantaPairs`, is designed to organize a Secret Santa gift exchange. It accepts an array of people's names.
 
-1. We start by creating an empty object, `pairs`, to store our final pairs, and a copy of our original array of names.
+1. First, it shuffles the array of names. This is done by swapping each name with another randomly selected name from the array. This ensures that the assignment of Secret Santas is random.
     
-2. We then loop through each name in the original array. For each name, we do the following:
+2. Then, it creates an empty object, `pairs`, where we will store the final pairs of people and their Secret Santas.
     
-    * If there's only one name left in our copied array, we assign the current name from the original array and the last name from the copied array to each other in our `pairs` object. This ensures that the last person in the list also gets assigned a pair.
-        
-    * If there's more than one name left in our copied array, we generate a random index and check if the name at that index in the copied array is the same as the current name from the original array. If it is, we generate a new random index, until we find a different name.
-        
-    * We then assign the randomly selected name from the copied array to the current name in the original array in our `pairs` object, and remove the selected name from the copied array.
-        
-3. Once we've looped through all the names in the original array, we have our final pairs. We print these pairs to the console and return them from the function.
+3. Next, it loops through the shuffled array of names. For each name, it assigns the next name in the array as their Secret Santa and stores this pair in the `pairs` object. For example, the first person gets the second person as their Secret Santa, the second person gets the third, and so on.
+    
+4. When it reaches the last person in the array, it assigns them the first person as their Secret Santa. This is what we call "circular assignment".
+    
+5. Finally, it outputs the `pairs` object which contains the pairs of people and their Secret Santas.
     
 
-**This function ensures that everyone gets a pair and that no one is paired with themselves, making it perfect for organizing a Secret Santa gift exchange!**
-
+**This function ensures that everyone gets a unique Secret Santa and no one is left without a gift. It's a fun and fair way to organize a Secret Santa gift exchange!**
 
 ```javascript
 const people = ["Alice", "Bob", "Carly", "Dan", "Ed", "Ferdinand", "Ginny"]
 
 function generateSecretSantaPairs(arr) {
-    let pairs = {};
-    let copy = [...arr]; 
-
-    for(let i = 0; i < arr.length; i++) {
-        let person = arr[i];
-        let index;
-        if(copy.length === 1) {
-            pairs[person] = copy[0];
-            pairs[copy[0]] = person;
-            break;
-        }
-
-        do {
-            index = Math.floor(Math.random() * copy.length);
-        } while(copy[index] === person && copy.length > 1)
-
-        pairs[person] = copy[index];
-        copy.splice(index, 1);
+    // Shuffle array
+    for (let i = arr.length - 1; i > 0; i--) {
+        let j = Math.floor(Math.random() * (i + 1));
+        [arr[i], arr[j]] = [arr[j], arr[i]];
     }
-    console.log(pairs)
-    return pairs;
-}
 
-generateSecretSantaPairs(people);
+    let pairs = {};
+
+    // Circular assignment
+    for(let i = 0; i < arr.length; i++) {
+        if(i === arr.length - 1) {
+            pairs[arr[i]] = arr[0];
+        } else {
+            pairs[arr[i]] = arr[i + 1];
+        }
+    }
+
+    console.log(pairs);
+    return pairs;
+}    
+
+generateSecretSantaPairs(people)
 ```
 
 ---
+
 ### **Day 7:**
 
 **Task:**
