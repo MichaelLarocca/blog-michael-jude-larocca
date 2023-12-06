@@ -106,13 +106,94 @@ WRITE ARTICLE SECTION
 
 ---
 
-### **Day 5:**
+### **Day 5: Jeopardy Card Flip**
 
 **Task:**
-    
-![HOLD](HOLD)
 
-***🔗*** [***My solution for day 5***](HOLD)
+* The card has two sides and flips front to back on hover
+    
+* Match styles as closely as possible
+    
+* CSS only
+    
+
+![DAY-05](img/12-11-2023/DAY-05.png)
+
+***🔗*** [***My solution for day 5***](https://scrimba.com/learn/javascriptmas/-day-5-jeopardy-card-flip-cdGz2mHv)
+
+This CSS code is used to create a flipping card effect on a webpage. It uses several CSS properties to achieve this effect.
+
+The `body` and `html` styles are used to center the card on the page, set the background color, and specify the font color and type.
+
+The `:root` selector is used to define CSS variables which can be used throughout the document. In this case, it sets the colors for the card and font.
+
+The `.card` class sets the size and position of the card. The `perspective` property gives the card a 3D effect when it flips.
+
+The `.card-front` and `.card-back` classes are used to style the front and back of the card. The `backface-visibility` property hides the back of the card when it's not flipped. The `transform-style` property is used to preserve the 3D position of the card when it flips. The `transition` property creates the flipping animation.
+
+The `transform` property in `.card-back` class initially rotates the back of the card by 180 degrees, hiding it from view.
+
+When the card is hovered over, the `.card:hover .card-front` and `.card:hover .card-back` styles rotate the card to show the back of the card and hide the front, creating the flipping card effect.
+
+```css
+body, html { 
+  margin: 0;
+  padding: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: var(--jeopardy-blue);
+  color: var(--font-color-main);
+  font-family: Arial, sans-serif;
+}
+
+:root {
+  --jeopardy-blue: #060CE9;
+  --font-color-main: #fff;
+}
+
+.card {
+  position: relative;
+  width: 300px;
+  height: 200px;
+  perspective: 1000px;
+}
+
+.card-front, .card-back {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  backface-visibility: hidden;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 20px;
+  box-sizing: border-box;
+  border: 1px solid var(--font-color-main);
+  border-radius: 10px;
+  transition: transform 0.8s;
+  transform-style: preserve-3d;
+}
+
+.card-front {
+  background-color: var(--jeopardy-blue);
+}
+
+.card-back {
+  background-color: var(--font-color-main);
+  color: var(--jeopardy-blue);
+  transform: rotateY(180deg);
+}
+
+.card:hover .card-front {
+  transform: rotateY(180deg);
+}
+
+.card:hover .card-back {
+  transform: rotateY(360deg);
+}
+```
 
 ---
 
