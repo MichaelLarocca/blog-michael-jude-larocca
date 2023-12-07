@@ -62,13 +62,13 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### (HOLD )
+#### Alina (@disc0night)
 
-![HOLD ](HOLD )
+![Alina](img/12-11-2023/Alina.png)
 
-WRITE ARTICLE SECTION
+Alina tackled the Jeopardy Card Flip challenge with flair, designing it to resemble the actual Jeopardy game board! This creative touch greatly enhanced the flipping card effect, making the project feel like you're watching or even participating in a real game of Jeopardy! Excellent work, Alina!
 
-[***🔗 Link to the scrim***](HOLD )
+[***🔗 Link to the scrim***](https://scrimba.com/scrim/co2b74458938a9b02534b9d8b)
 
 ---
 
