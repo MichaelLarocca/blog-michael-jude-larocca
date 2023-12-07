@@ -116,7 +116,6 @@ WRITE ARTICLE SECTION
     
 * CSS only
     
-
 ![DAY-05](img/12-11-2023/DAY-05.png)
 
 ***🔗*** [***My solution for day 5***](https://scrimba.com/learn/javascriptmas/-day-5-jeopardy-card-flip-cdGz2mHv)
@@ -254,13 +253,112 @@ generateSecretSantaPairs(people)
 
 ---
 
-### **Day 7:**
+### **Day 7: Christmas Present Wishlist**
 
 **Task:**
 
-![HOLD](HOLD)
+* Iterate over the wishlist array.
+    
+* Dynamically render your wishlist from the array.
+    
+* Style the wishlist with CSS.
+
+![DAY-07](img/12-11-2023/DAY-07.png)
 
 ***🔗*** [***My solution for day 7***](HOLD)
+
+This JavaScript code is used to dynamically generate a wishlist on a webpage. It consists of an array of wishlist items and a JavaScript function that creates and appends these items to the webpage.
+
+The `wishlist` array contains five items that you wish for. These items are strings and represent the names of the gifts you want.
+
+The `wishlistItems` constant is a collection of all HTML elements with the class name "wishlist".
+
+The `wishlist.forEach` loop goes through each item in the wishlist array. For each item, it does the following:
+
+1. Creates a new `li` element using `document.createElement("li")`.
+    
+2. Sets the text content of this `li` element to the current item in the array.
+    
+3. Adds the class "wishlist-item" to the `li` element.
+    
+4. Appends this `li` element to the first element in the `wishlistItems` collection.
+    
+
+**By the end of the loop, each item in the wishlist array is transformed into an li element and added to the webpage.**
+
+```javascript
+const wishlist = [
+  "ATARI 2600+ Console",
+  "Stack of Atari 2600 games",
+  "Classic Atari T-Shirt",
+  "Walkman with Retro Mixtapes",
+  "Board Game Twilight Imperium",
+];
+
+const wishlistItems = document.getElementsByClassName("wishlist");
+
+wishlist.forEach((item)=>{
+  const listItem = document.createElement("li");
+  listItem.textContent = item;
+  listItem.classList = "wishlist-item";
+  wishlistItems[0].appendChild(listItem);
+})
+```
+
+**The following CSS code block styles a webpage with a wishlist.**
+
+The `body` selector styles the entire webpage. It sets the body to fill the entire height of the viewport (`100vh`). The `display: flex`, `justify-content: center`, and `align-items: center` properties center the content both vertically and horizontally. The `background` property sets a background image that covers the entire body.
+
+The `.wishlist` selector styles a block element. It sets the width to `300px`, adds a dotted border, and a box shadow for a 3D effect.
+
+The `.wishlist-item` selector styles each item in the wishlist. It sets the color to white, centers the text, and makes the text bold. It also uses flexbox to center the content within each list item.
+
+The `.wishlist-item:nth-child(odd)` and `.wishlist-item:nth-child(even)` selectors add a red and green background color to odd and even-numbered list items, respectively.
+
+```css
+body {
+    margin: 0;
+    padding: 0;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mountains of Christmas', serif;
+    font-size: 20px;
+    text-shadow: 2px 2px 2px red, -2px -2px 1px black;
+    color: blanchedalmond;
+    background: url("https://cdn.pixabay.com/photo/2021/11/09/15/32/christmas-6781762_1280.jpg") no-repeat center center;
+    background-size: cover;
+}
+
+.wishlist {
+    width: 300px;
+    border: 10px dotted blanchedalmond;
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.2);
+}   
+
+.wishlist-item {
+    color: white;
+    text-align: center;
+    text-shadow: 1px 1px 1px black;
+    font-weight: bolder;
+    font-size: 22px;
+    list-style-type: square;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.wishlist-item:nth-child(odd) {
+    background-color: red
+}
+
+.wishlist-item:nth-child(even) {
+    background-color: green;
+}
+```
 
 ---
 
