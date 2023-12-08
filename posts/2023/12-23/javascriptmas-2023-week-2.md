@@ -362,13 +362,102 @@ body {
 
 ---
 
-### **Day 8:**
+### **Day 8: Animated Progress Bar**
 
 **Task:**
+
+* Build a CSS animation of a progress bar filling to 100%. The animation should run continuously, with a small pause when the bar is filled 100%.
     
-![HOLD](HOLD)
+* The progress begins red, turns blue, at 50%, and green when complete.
+    
+* CSS only!
+    
+![DAY-08](img/12-11-2023/DAY-08.png)    
 
 ***🔗*** [***My solution for day 8***](HOLD)
+
+This code creates an animated progress bar that changes color from red to blue to green as it fills up with a candy cane background!
+
+The `:root` section defines color variables for the progress bar. The `body` section styles the webpage, including setting a Christmas-themed background image and aligning content in the center.
+
+The `h1` section styles the title with a large font size, white color, and a shadow effect. The `.container` section styles the container of the progress bar.
+
+The `.progress-bar` section styles the progress bar itself, giving it a width, height, and a striped background. The `.progress-status` section is where the animation is applied to create a filling effect.
+
+The `@keyframes progress` section defines the animation, dictating that the progress bar should start at a width of 0% (empty), then increase to a width of 50% (half full), and finally reach a width of 100% (fully filled). The bar's color changes at each stage, going from red to blue to green.
+
+```css
+:root {
+    --progressbar-bg: lightgrey;
+    --start: red;
+    --middle: blue;
+    --finish: green;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url("https://cdn.pixabay.com/photo/2018/12/19/22/00/christmas-3884891_1280.jpg");
+    background-size: cover;
+    background-position: center;
+    font-family: 'Mountains of Christmas'; 
+}
+
+h1 {
+    font-size: 50px;
+    color: white;
+    text-shadow: 2px 2px 2px black, -2px -2px 2px red;
+}
+
+.container {
+    border: 5px solid black;
+    border-radius: 25px;
+    box-shadow: 3px 3px 3px rgba(0,0,0,0.5);
+    width: 300px;
+    margin: 50px auto;
+}
+
+.progress-bar {
+    width: 100%;
+    height: 30px;
+    background: repeating-linear-gradient(
+        45deg,
+        white,
+        white 10px,
+        red 10px,
+        red 20px
+    );
+    border-radius: 15px;
+    overflow: hidden;
+}
+
+.progress-status {
+    height: 100%;
+    width: 0;
+    background: var(--start);
+    animation: progress 3s infinite;
+}
+
+@keyframes progress {
+    0% {
+        width: 0;
+        background: var(--start);
+    }
+    50% {
+        width: 50%;
+        background: var(--middle);
+    }
+    100% {
+        width: 100%;
+        background: var(--finish);
+    }
+}
+```
 
 ---
 
