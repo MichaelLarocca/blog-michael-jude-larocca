@@ -96,13 +96,64 @@ WRITE ARTICLE SECTION
 
 ---
 
-### **Day 4:**
+### **Day 4:** AI Christmas E-card Generator
 
 **Task:**
 
-![HOLD](HOLD)
+* Use AI to generate a Christmas joke.
+    
+* Display the joke in the DOM.
+    
+![DAY-04](img/12-11-2023/DAY-04.png)
 
 ***🔗*** [***My solution for day 4***](HOLD)
+
+This code uses the Hugging Face Inference API to generate a Christmas joke and display it in the document.
+
+The `HfInference` class from the `@huggingface/inference` package is imported at the beginning. An instance of `HfInference` is created with the API key stored in the environment variable `process.env.HUGGING_FACE_API_KEY`.
+
+A reference to the HTML element with the class name 'joke-display' is stored in the `displayEl` variable.
+
+An event listener is added to the HTML element with the id 'window-container'. When this element is clicked, the following actions are performed:
+
+1. The text content of the 'joke-display' element is set to 'Loading...'.
+    
+2. The styles of the 'left-door' and 'right-door' elements are updated to trigger CSS animations that open the doors.
+    
+3. The style of the 'joke-display' element is updated to trigger a CSS animation that displays the joke.
+    
+4. The `textGeneration` method of the `HfInference` instance is called. This method generates a text based on the provided model and inputs. The inputs are set to a string that prompts the model to generate a Christmas joke. The `temperature` option is set to `0.7`, which controls the randomness of the output. A lower temperature results in more focused and consistent output, while a higher temperature results in more diverse and surprising output.
+    
+5. The `use_cache` option is set to `false` to ensure that the generated text is not cached and is different each time the function is called.
+    
+6. The generated text is set as the text content of the 'joke-display' element.
+    
+
+**This script provides a fun and interactive way to generate Christmas jokes using AI. (However, I don't quite get the joke! "**The Christmas tree is a very good tree**" 😂)**
+
+```javascript
+import { HfInference } from '@huggingface/inference';
+const hf = new HfInference(process.env.HUGGING_FACE_API_KEY);
+const displayEl = document.querySelector('.joke-display');
+
+document.getElementById('window-container').addEventListener('click', async function () {
+    displayEl.innerText = 'Loading...';
+
+    document.querySelector('.left-door').style = "animation: left-open 0.3s forwards";
+    document.querySelector('.right-door').style = "animation: right-open 0.3s forwards";
+    document.querySelector('.joke-display').style = "animation: display-joke 0.3s forwards";
+
+    const response = await hf.textGeneration({
+        model: 'google/flan-t5-xxl',
+        inputs: `Q: Give me a Christmas joke.`,
+        temperature: 0.7,
+    }, {
+        use_cache: false
+    });
+
+    displayEl.innerText = response.generated_text;
+});
+```
 
 ---
 
