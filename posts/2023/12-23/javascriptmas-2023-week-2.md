@@ -461,13 +461,77 @@ h1 {
 
 ---
 
-### **Day 9:**
+### **Day 9:** AI Christmas E-card Generator
 
 **Task:**
 
-![HOLD](HOLD)
+* Use AI to generate an image for a Christmas e-card
+    
+* Render the image to the DOM
 
+![DAY-09](img/12-11-2023/DAY-09.png)
+    
 ***🔗*** [***My solution for day 9***](HOLD)
+
+**I thought it would be entertaining to modify the provided code, transforming it into a Star Wars-themed card! I used the Hugging Face API, and I utilized Scrimba's method of storing environment variables.**
+
+**My prompt:**  
+*"Create a festive image that captures the spirit of the Star Wars universe's "Hope Day". The scene should be set on the lush, forested home planet of Chewbacca, Kashyyyk. Specifically, it should depict Chewbacca and his family, including his wife Malla, his son Lumpy, and his father Itchy, celebrating Hope Day together. They should be on a balcony of their towering treehouse, as seen in the Star Wars Christmas Special and the movie Revenge of the Sith. The family should be joyously engaged in typical holiday activities, such as exchanging gifts or sharing a meal. The background should feature the dense, towering Wroshyr trees of Kashyyyk, bathed in the warm, golden light of sunset. To add a festive touch, the treehouse and surrounding trees could be decorated with glowing lanterns or strands of lights. The card should embody the warmth, joy, and hope that characterizes both the holiday season and the spirit of Star Wars' "Hope Day"."*
+
+**This script utilizes the Hugging Face Inference API to generate an image based on user input.**
+
+First, it imports the `HfInference` class from the `@huggingface/inference` package. This class provides methods to interact with the Hugging Face Inference API.
+
+Then, it gets references to several HTML elements: a dialog modal, an image container, an input form, and a user input field.
+
+The `generateImage` function is an asynchronous function that creates an instance of `HfInference` with a provided API key. It then calls the `textToImage` method on this instance, passing in an object that specifies the model to use, the inputs to provide to the model, and any additional parameters. This method returns a Blob representing the generated image. The function then converts this Blob to a data URL and returns it.
+
+`blobToDataURL` is a helper function that converts a Blob to a data URL. It creates a new `FileReader`, sets up event listeners to resolve or reject the Promise when the read operation is complete, and starts reading the Blob as a data URL.
+
+The event listener for the 'submit' event on the input form prevents the default form submission behavior, closes the dialog modal, and sets the inner HTML of the image container to a loading spinner. It then calls `generateImage`, waits for it to complete, and sets the `src` attribute of an `img` element in the image container to the returned data URL. Finally, it clears the user input field.
+
+The `show` method is called on the dialog modal to display it when the script runs.
+
+```javascript
+import { HfInference } from '@huggingface/inference'
+
+const dialogModal = document.getElementById('dialog-modal')
+const imageContainer = document.getElementById('image-container')
+const inputForm = document.getElementById('input-form');
+const userInput = document.getElementById('user-input');
+
+async function generateImage() {
+    const inference = new HfInference(process.env.HUGGING_FACE_API_KEY);
+    const blob = await inference.textToImage({
+        model: "stabilityai/stable-diffusion-2",
+        inputs: userInput.value,
+        parameters: {
+            negative_prompt: "blurry",
+        }
+    });
+
+    return await blobToDataURL(blob);
+}
+
+function blobToDataURL(blob) {
+    return new Promise((resolve, reject) => {
+        const reader = new FileReader();
+        reader.onloadend = () => resolve(reader.result);
+        reader.onerror = reject;
+        reader.readAsDataURL(blob);
+    });
+}
+
+inputForm.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    dialogModal.close();
+    imageContainer.innerHTML = '<div class="spinner"></div>';
+    imageContainer.innerHTML = `<img src="${await generateImage()}" alt="${userInput.value}">`; 
+    userInput.value = '';
+});
+
+dialogModal.show();
+```
 
 ---
 
