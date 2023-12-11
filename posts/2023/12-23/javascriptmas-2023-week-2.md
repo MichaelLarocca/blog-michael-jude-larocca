@@ -106,7 +106,7 @@ WRITE ARTICLE SECTION
     
 ![DAY-04](img/12-11-2023/DAY-04.png)
 
-***🔗*** [***My solution for day 4***](HOLD)
+***🔗*** [***My solution for day 4***](https://scrimba.com/scrim/co35c4cf1816e0f50380029e1)
 
 This code uses the Hugging Face Inference API to generate a Christmas joke and display it in the document.
 
@@ -169,7 +169,7 @@ document.getElementById('window-container').addEventListener('click', async func
     
 ![DAY-05](img/12-11-2023/DAY-05.png)
 
-***🔗*** [***My solution for day 5***](https://scrimba.com/learn/javascriptmas/-day-5-jeopardy-card-flip-cdGz2mHv)
+***🔗*** [***My solution for day 5***](https://scrimba.com/scrim/co7f04288a92ab1c880cb9a97)
 
 This CSS code is used to create a flipping card effect on a webpage. It uses several CSS properties to achieve this effect.
 
@@ -257,7 +257,7 @@ Write a function to randomly assign each person in an array a "Secret Santa," wh
 {Bob: "Carly", Carly: "Alice", Alice: "Dan", Dan: "Ed", Ed: "Ferdinand", Ferdinand: "Ginny", Ginny: "Bob"}
 ```
 
-***🔗*** [***My solution for day 6***](https://scrimba.com/learn/javascriptmas/-day-6-secret-santa-c8p2w3CD)
+***🔗*** [***My solution for day 6***](https://scrimba.com/scrim/co78740dba6c48d8bca525027)
 
 This function, `generateSecretSantaPairs`, is designed to organize a Secret Santa gift exchange. It accepts an array of people's names.
 
@@ -316,7 +316,7 @@ generateSecretSantaPairs(people)
 
 ![DAY-07](img/12-11-2023/DAY-07.png)
 
-***🔗*** [***My solution for day 7***](HOLD)
+***🔗*** [***My solution for day 7***](https://scrimba.com/scrim/coeb8439398690ca6ab2362a8)
 
 This JavaScript code is used to dynamically generate a wishlist on a webpage. It consists of an array of wishlist items and a JavaScript function that creates and appends these items to the webpage.
 
@@ -425,7 +425,7 @@ body {
     
 ![DAY-08](img/12-11-2023/DAY-08.png)    
 
-***🔗*** [***My solution for day 8***](HOLD)
+***🔗*** [***My solution for day 8***](https://scrimba.com/scrim/co8bc4cc199bc9a4febe1dc8e)
 
 This code creates an animated progress bar that changes color from red to blue to green as it fills up with a candy cane background!
 
@@ -522,7 +522,7 @@ h1 {
 
 ![DAY-09](img/12-11-2023/DAY-09.png)
     
-***🔗*** [***My solution for day 9***](HOLD)
+***🔗*** [***My solution for day 9***](https://scrimba.com/scrim/co19843139fc60c047c09cc9c)
 
 **I thought it would be entertaining to modify the provided code, transforming it into a Star Wars-themed card! I used the Hugging Face API, and I utilized Scrimba's method of storing environment variables.**
 
