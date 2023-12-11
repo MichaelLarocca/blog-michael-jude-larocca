@@ -62,7 +62,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### Alina ([@disc0night](x.com/disc0night?s=11&t=IiN9VSn_6rQr-ho3nTekHA))
+#### Alina ([@disc0night](x.com/disc0night))
 
 ![Alina](img/12-11-2023/Alina.png)
 
@@ -72,7 +72,7 @@ Alina tackled the Jeopardy Card Flip challenge with flair, designing it to resem
 
 ---
 
-#### Wojciech Kasprzak ([@kawojtek94](x.com/kawojtek94?s=11&t=IiN9VSn_6rQr-ho3nTekHA))
+#### Wojciech Kasprzak ([@kawojtek94](x.com/kawojtek94))
 
 ![Wojciech](img/12-11-2023/Wojciech.png)
 
