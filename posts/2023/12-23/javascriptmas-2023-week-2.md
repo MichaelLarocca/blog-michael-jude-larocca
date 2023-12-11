@@ -72,13 +72,13 @@ Alina tackled the Jeopardy Card Flip challenge with flair, designing it to resem
 
 ---
 
-#### (HOLD )
+#### Wojciech Kasprzak (@kawojtek94)
 
-![HOLD ](HOLD )
+![Wojciech](img/12-11-2023/Wojciech.png)
 
-WRITE ARTICLE SECTION
+Wojciech took creative liberty for the Rockin' Around jukebox challenge and created a working vinyl record player instead! Choose the vinyl record you want to listen to and click on the tonearm. The tonearm moves onto the record using CSS animation, and the vinyl record selected plays! Click on the tonearm again to stop the music, and watch it animate off the record to its resting position. You can then continue to select and play the other vinyl records. Great job, Wojciech!
 
-[***🔗 Link to the scrim***](HOLD )
+[***🔗 Link to the scrim***](https://scrimba.com/scrim/crkDmKSP)
 
 ---
 
