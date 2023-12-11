@@ -82,13 +82,13 @@ Wojciech took creative liberty for the Rockin' Around jukebox challenge and crea
 
 ---
 
-#### (HOLD )
+#### Austin Edmondson
 
-![HOLD ](HOLD )
+![Austin](img/12-11-2023/Austin.PNG)
 
-WRITE ARTICLE SECTION
+While searching for JavaScriptmas participant posts on social media, I came across Austin's posted solution on LinkedIn. What caught my attention was his unique method of sharing his coding solutions. Instead of posting a link to the finished coding solution as others do, Austin is creating Scrimba screencasts, in which he records himself discussing his entire thought process as he tackles each challenge. This approach results in valuable resources for those seeking step-by-step guidance from a coding instructor. What an excellent way to share coding solutions! Fantastic work, Austin!
 
-[***🔗 Link to the scrim***](HOLD )
+[***🔗 Link to the scrim***](https://www.linkedin.com/posts/austin-edmondson-90a426159_scrimba-javascriptmas-activity-7137173519783628800-m2IZ?utm_source=share&utm_medium=member_ios)
 
 ---
 
