@@ -62,7 +62,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### Alina (@disc0night)
+#### Alina ([@disc0night](x.com/disc0night?s=11&t=IiN9VSn_6rQr-ho3nTekHA))
 
 ![Alina](img/12-11-2023/Alina.png)
 
@@ -72,7 +72,7 @@ Alina tackled the Jeopardy Card Flip challenge with flair, designing it to resem
 
 ---
 
-#### Wojciech Kasprzak (@kawojtek94)
+#### Wojciech Kasprzak ([@kawojtek94](x.com/kawojtek94?s=11&t=IiN9VSn_6rQr-ho3nTekHA))
 
 ![Wojciech](img/12-11-2023/Wojciech.png)
 
@@ -82,7 +82,7 @@ Wojciech took creative liberty for the Rockin' Around jukebox challenge and crea
 
 ---
 
-#### Austin Edmondson
+#### [Austin Edmondson](https://www.linkedin.com/in/austin-edmondson-90a426159?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ![Austin](img/12-11-2023/Austin.PNG)
 
