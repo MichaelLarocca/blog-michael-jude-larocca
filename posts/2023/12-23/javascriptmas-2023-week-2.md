@@ -586,13 +586,33 @@ dialogModal.show();
 
 ---
 
-### **Day 10:**
+### **Day 10: Rockin' Around**
 
 **Task:**
 
-![HOLD](HOLD)
+Add code inside of the playSong(id) function to make the YouTube Player play the YouTube song.
+
+![DAY-10](img/12-11-2023/DAY-10.png)
 
 ***🔗*** [***My solution for day 10***](HOLD)
+
+I'd like to take a moment to explain why it's beneficial for developers to create a blog. This solved this exact JavaScriptmas challenge last year, and to solve it this year, I read the solution I wrote in my JavaScriptmas 2022 article!
+
+In this challenge, all of the heavy lifting is already completed. All that's needed to solve it is to write a **playSong** function that returns the YouTube ID for the chosen song. This is accomplished by using string concatenation which updates the value of the **player.src.**
+
+Initially, the player's source is set to "[https://www.youtube.com/embed/PoAjmmD89Vw?autoplay=1](https://www.youtube.com/embed/PoAjmmD89Vw?autoplay=1)", which plays the version of White Christmas as seen in the holiday classic, Home Alone. The YouTube ID for this song is [PoAjmmD89Vw](https://www.youtube.com/embed/PoAjmmD89Vw?autoplay=1), which is part of the provided URL.
+
+So, the challenge is solved by updating the **player.src** value using the passed-in ID value of the song that is chosen by the user when they click on the corresponding buttons.
+
+```javascript
+const player = document.getElementById("player")
+
+function playSong(id) {
+  // Challenge: Add code here to make the youtube player play the new YouTube song
+  player.src = `https://www.youtube.com/embed/${id}?autoplay=1`
+    console.log(player.src);
+}
+```
 
 ---
 
