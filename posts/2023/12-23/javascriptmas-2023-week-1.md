@@ -97,7 +97,7 @@ Mehmet creatively combined the first and second challenges! He first created a c
 
 ![DAY-01](img/12-04-2023/DAY-01.png)
 
-***🔗*** [***My solution for day 1***](https://scrimba.com/scrim/co80c4e67af8077afdabe0297)
+***🔗*** [***My solution for day 1***](https://scrimba.com/scrim/co4f3415294358402a867b1e2)
 
 **The** `renderCountdown` **function I wrote calculates the number of days left until Christmas and displays the result in an HTML element with the ID "countdown-display."**
 
@@ -147,7 +147,7 @@ renderCountdown()
 
 ![DAY-02](img/12-04-2023/DAY-02.png)
 
-***🔗*** [***My solution for day 2***](https://scrimba.com/learn/javascriptmas/day-2-style-a-colorful-button-cW2dVzuL)
+***🔗*** [***My solution for day 2***](https://scrimba.com/scrim/co7714d9d9a8d9f9953b6d5df)
 
 **I took some creative liberty with this challenge and created a Christmas gradient color border that flips on hover/focus, and I also included a "candy cane" style gradient for the text!**
 
@@ -206,7 +206,7 @@ renderCountdown()
 
 Some children have got some pieces of candy. They want to eat as much candy as they can but each child must eat exactly the same amount. Determine how many pieces of candy can be eaten altogether. A piece of candy can not be split.
 
-***🔗*** [***My solution for day 3***](https://scrimba.com/learn/javascriptmas/-day-3-divide-candy-coc584e25984a0d83541b9ea0)
+***🔗*** [***My solution for day 3***](https://scrimba.com/scrim/co1a24ada97190f280b81c332)
 
 **This challenge is solved with a simple math equation. Dividing the amount of candy by the number of children using Math.floor provides us with an even amount of candy distribution. We then multiply the calculated candy distribution number by the number of children to solve the challenge.**
 
