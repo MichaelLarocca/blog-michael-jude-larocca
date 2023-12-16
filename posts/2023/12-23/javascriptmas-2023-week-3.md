@@ -63,7 +63,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 #### Oyelola (yourgirlria)
 
-![12-18-2023](img/12-18-2023/Oyelola.png)
+![Oyelola](img/12-18-2023/Oyelola.png)
 
 Oyelola not only solved the Lonely Elf challenge but also completed all of the stretch goals! Upon loading the project, you're greeted with a beautiful winter landscape featuring falling snow. Use the "Duplicate Elf" button to add elf friends and the "Remove Elf" button to remove them. However, please don't remove all of the elf friends, as the original elf will become lonely again, and this message will appear: "The Elf is lonely again😔🥺"
 
@@ -75,13 +75,17 @@ What a wonderful project! Outstanding work, Oyelola!
 
 ---
 
-#### (HOLD )
+#### Justin (dream_geto)
 
-![HOLD ](HOLD align="left")
+![Justin](img/12-18-2023/Justin.png)
 
-WRITE ARTICLE SECTION
+When tackling the "Build an Archery Target" challenge, Justin hit the bullseye! Choosing a more challenging CSS target design, Justin crafted a dartboard complete with multiple scoring numbers for each circular ring!
 
-[***🔗 Link to the scrim***](HOLD)
+Upon examining the code to see how Justin achieved this remarkable result, I noticed he successfully utilized CSS calc functions (I struggled with using calc functions and chose a simpler solution 😅).
+
+The final product is a visually stunning representation of a target board, ready for action! Congratulations Justin, you've hit the mark with your coding skills and creativity, truly making your code as impressive as a perfect bullseye!
+
+[***🔗 Link to the scrim***](https://scrimba.com/scrim/co0fb4b01a352d7d63742d208)
 
 ---
 
