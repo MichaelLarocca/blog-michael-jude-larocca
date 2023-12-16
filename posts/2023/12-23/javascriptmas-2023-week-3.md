@@ -89,13 +89,17 @@ The final product is a visually stunning representation of a target board, ready
 
 ---
 
-#### (HOLD )
+#### Govind Kulkarni (Govind02338279 )
 
-![HOLD ](HOLD align="left")
+![Govind](img/12-18-2023/Govind.png)
 
-WRITE ARTICLE SECTION
+Govind solved the Naughty List, Nice List challenge with flair, even accomplishing a stretch goal! In addition to displaying the provided naughty and nice list names, Govind created an impressive animated menu that slides into view when you click on the "Add" button. You can then toggle whether the names you add are for the nice list.
 
-[***🔗 Link to the scrim***](HOLD)
+As you add each name, they are properly sorted: the nice names appear on the right side with the cute snowman, while the naughty names are on the left side with the spooky snowman!
+
+I hope I make it onto the nice list! Excellent work, Govind!
+
+[***🔗 Link to the scrim***](https://scrimba.com/scrim/co36f4fdaaeac49c423097184)
 
 ---
 
