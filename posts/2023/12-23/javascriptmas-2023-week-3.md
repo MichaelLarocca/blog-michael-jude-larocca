@@ -61,13 +61,17 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### (HOLD )
+#### Oyelola (yourgirlria)
 
-![HOLD ](HOLD align="left")
+![12-18-2023](img/12-18-2023/Oyelola.png)
 
-WRITE ARTICLE SECTION
+Oyelola not only solved the Lonely Elf challenge but also completed all of the stretch goals! Upon loading the project, you're greeted with a beautiful winter landscape featuring falling snow. Use the "Duplicate Elf" button to add elf friends and the "Remove Elf" button to remove them. However, please don't remove all of the elf friends, as the original elf will become lonely again, and this message will appear: "The Elf is lonely again😔🥺"
 
-[***🔗 Link to the scrim***](HOLD)
+If an elf would like a nice hot refreshment to warm up, you can add a cup of tea! When they are finished with their delicious drink, you can remove it.
+
+What a wonderful project! Outstanding work, Oyelola!
+
+[***🔗 Link to the scrim***](https://scrimba.com/learn/javascriptmas/-day-14-lonely-elf-victorias-solution-co42440f1ae614560683d9701)
 
 ---
 
