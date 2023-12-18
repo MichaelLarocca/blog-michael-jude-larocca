@@ -115,7 +115,7 @@ Create the Switzerland flag in CSS.
 
 ![DAY-11](img/12-18-2023/DAY-11.png)
 
-***🔗*** [***My solution for day 11***](HOLD)
+***🔗*** [***My solution for day 11***](https://scrimba.com/scrim/coc734ebd8b2913fbac7d8031)
 
 I created a grid of 25 divs for this challenge on my first attempt. Each div was 25px, and I added red and white color classes accordingly. Then, when I took a closer look at the hint diagram, I realized that each square was not exactly equal. So, even though it looked correct, it wasn't.
 
@@ -193,7 +193,7 @@ Ascending order: ,["bear 🧸", "games console 🎮 ", "guitar 🎸", "jewellery
 Descending order: ,["skates ⛸️", "magnet 🧲", "laptop 💻", "kite 🪁", "jewellery 💍", "guitar 🎸", "games console 🎮 ", "bear 🧸"]
 ```
 
-***🔗*** [***My solution for day 12***](HOLD)
+***🔗*** [***My solution for day 12***](https://scrimba.com/scrim/co5664dee8bda22c841c73d58)
 
 In this challenge, I had an array of strings, each containing a word and an emoji. My first approach was to simply use the `sort()` function on the array. However, this didn't provide the correct order because the emojis were interfering with the sort operation.
 
@@ -244,7 +244,7 @@ const sortedZA = xmasGifts.sort((a,b)=>{
 
 ![DAY-13](img/12-18-2023/DAY-13.png)
 
-***🔗*** [***My solution for day 13***](HOLD)
+***🔗*** [***My solution for day 13***](https://scrimba.com/scrim/coc5247ce85291b7c455e9065)
 
 First, I added the min and max attributes to the number input field in the HTML to ensure the user input was valid. This way, I prevented the users from entering negative values or unrealistically high values for the number of guests ( 12 guests max).
 
@@ -312,7 +312,7 @@ And there you have it! Through a bit of trial and error, I successfully coded a 
 
 ![DAY-14](img/12-18-2023/DAY-14.png)
 
-***🔗*** [***My solution for day 14***](HOLD)
+***🔗*** [***My solution for day 14***](https://scrimba.com/scrim/co1ec49b8be855048f5e3c82b)
 
 To restrict the number of elves to six per row, I am styling elements with the 'elf' class in my CSS. I set the font size of the text within these elements to 25 pixels with `font-size: 25px;`. Then, I use `flex: 0 0 calc(100% / 6);` to determine the size and flexibility of the 'elf' elements within a flex container. By setting `flex-grow` and `flex-shrink` to 0, I ensure that these elements neither grow nor shrink beyond their original size. For `flex-basis`, I use `calc(100% / 6)`, which makes the base size of these elements about 16.67% of the total width of the flex container. This way, I can fit six items in one row if the container's `flex-wrap` property is set to wrap.
 
@@ -369,7 +369,7 @@ function duplicateElf(){
 
 ![DAY-15](img/12-18-2023/DAY-15.png)
 
-***🔗*** [***My solution for day 15***](HOLD)
+***🔗*** [***My solution for day 15***](https://scrimba.com/scrim/co84c450fa893e66fe113837d)
 
 I initially attempted to center the nested divs using the CSS calc() function in the beginning stages of the Archery Target challenge. This powerful function allows you to perform calculations right within your CSS, which seemed like the perfect solution. However, I soon encountered an unexpected issue. The center bulls-eye, the innermost div, was rendered minuscule in size, which was not the outcome I was aiming for.
 
