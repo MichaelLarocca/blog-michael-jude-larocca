@@ -523,7 +523,7 @@ btn.addEventListener("click", ()=>{
 
 ---
 
-### **Day 17:** AI alt text generator
+### **Day 18:** AI alt text generator
 
 **Task:**
 
@@ -542,7 +542,7 @@ btn.addEventListener("click", ()=>{
 
 Like my Christmas Card AI challenge, I also opted to create a Star Wars card!
 
-**The prompt I provided retrieved this image and alt text:** "*Create a festive image that captures the spirit of the Star Wars universe's "Hope Day". The scene should be set on the lush, forested home planet of Chewbacca, Kashyyyk. Specifically, it should depict Chewbacca and his family, including his wife Malla, his son Lumpy, and his father Itchy, celebrating Hope Day together. They should be on a balcony of their towering treehouse, as seen in the Star Wars Christmas Special and the movie Revenge of the Sith. The family should be joyously engaged in typical holiday activities, such as exchanging gifts or sharing a meal. The background should feature the dense, towering Wroshyr trees of Kashyyyk, bathed in the warm, golden light of sunset. To add a festive touch, the treehouse and surrounding trees could be decorated with glowing lanterns or strands of lights. The card should embody the warmth, joy, and hope that characterizes both the holiday season and the spirit of Star Wars' "Life Day".*
+**The prompt I provided retrieved this image and alt text:** "*Create a festive image that captures the spirit of the Star Wars universe's "Life Day". The scene should be set on the lush, forested home planet of Chewbacca, Kashyyyk. Specifically, it should depict Chewbacca and his family, including his wife Malla, his son Lumpy, and his father Itchy, celebrating Life Day together. They should be on a balcony of their towering treehouse, as seen in the Star Wars Christmas Special and the movie Revenge of the Sith. The family should be joyously engaged in typical holiday activities, such as exchanging gifts or sharing a meal. The background should feature the dense, towering Wroshyr trees of Kashyyyk, bathed in the warm, golden light of sunset. To add a festive touch, the treehouse and surrounding trees could be decorated with glowing lanterns or strands of lights. The card should embody the warmth, joy, and hope that characterizes both the holiday season and the spirit of Star Wars' "Life Day".*
 
 As soon as the program starts, the provided HuggingFace inference gets a reference to the dialog modal. When the modal is shown, it waits for the user to submit a description for the image they want to generate. Once they submit their description, the prevent default prevents form submission behavior, extracts the user's input, closes the modal, and starts the image generation process.
 
