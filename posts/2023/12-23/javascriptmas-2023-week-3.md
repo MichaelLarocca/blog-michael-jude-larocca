@@ -369,7 +369,7 @@ function duplicateElf(){
 
 ![DAY-15](img/12-18-2023/DAY-15.png)
 
-***🔗*** [***My solution for day 15***](https://scrimba.com/scrim/co84c450fa893e66fe113837d)
+***🔗*** [***My solution for day 15***](HOLD)
 
 I initially attempted to center the nested divs using the CSS calc() function in the beginning stages of the Archery Target challenge. This powerful function allows you to perform calculations right within your CSS, which seemed like the perfect solution. However, I soon encountered an unexpected issue. The center bulls-eye, the innermost div, was rendered minuscule in size, which was not the outcome I was aiming for.
 
