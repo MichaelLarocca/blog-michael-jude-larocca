@@ -523,13 +523,80 @@ btn.addEventListener("click", ()=>{
 
 ---
 
-### **Day 17:**
+### **Day 17:** AI alt text generator
 
 **Task:**
 
-![HOLD](HOLD align="left")
+* Use AI to generate alt text for the image provided by generateImage().
+    
+* Pass the alt text to renderImage() as a parameter.
+    
+
+```bash
+{generated_text: "a woman in a star wars costume hugging a chew chew chew chew chew chew chew chew chew chew"}
+```
+
+![DAY-18-02](img/12-18-2023/DAY-18-02.png)
 
 ***🔗*** [***My solution for day 17***](HOLD)
+
+Like my Christmas Card AI challenge, I also opted to create a Star Wars card!
+
+**The prompt I provided retrieved this image and alt text:** "*Create a festive image that captures the spirit of the Star Wars universe's "Hope Day". The scene should be set on the lush, forested home planet of Chewbacca, Kashyyyk. Specifically, it should depict Chewbacca and his family, including his wife Malla, his son Lumpy, and his father Itchy, celebrating Hope Day together. They should be on a balcony of their towering treehouse, as seen in the Star Wars Christmas Special and the movie Revenge of the Sith. The family should be joyously engaged in typical holiday activities, such as exchanging gifts or sharing a meal. The background should feature the dense, towering Wroshyr trees of Kashyyyk, bathed in the warm, golden light of sunset. To add a festive touch, the treehouse and surrounding trees could be decorated with glowing lanterns or strands of lights. The card should embody the warmth, joy, and hope that characterizes both the holiday season and the spirit of Star Wars' "Life Day".*
+
+As soon as the program starts, the provided HuggingFace inference gets a reference to the dialog modal. When the modal is shown, it waits for the user to submit a description for the image they want to generate. Once they submit their description, the prevent default prevents form submission behavior, extracts the user's input, closes the modal, and starts the image generation process.
+
+To generate an image, I use the HuggingFace API and pass in the user's description as input. I use the 'stabilityai/stable-diffusion-2' model which is trained to generate images from text. The API returns an image which I convert to a URL format that can be used in an HTML image tag.
+
+But I don't just display the image right away. To solve this challenge, I want the image to have an alt text, which is a brief description of the image. So, I generated this alt text using the HuggingFace API again, but this time I used a different model: 'Salesforce/blip-image-captioning-base'. This model is trained to generate a text description of an image. I pass in the generated image to the API and it returns the alt text.
+
+Finally, I display the image. The provided code clears the image container to ensure it's empty. Then, it creates a new image tag, sets its source to the image URL, and sets its alt attribute to the generated alt text. It then appends this image tag to the image container, and that's it! The image is displayed on the screen with a proper alt text.
+
+```javascript
+/** HuggingFace setup **/
+import { HfInference } from '@huggingface/inference'
+const hf = new HfInference(process.env.HUGGINGFACE_TOKEN)
+import { blobToBase64 } from '/utils'
+
+const dialogModal = document.getElementById('dialog-modal')
+dialogModal.show()
+
+document.addEventListener('submit', function(e) {
+    e.preventDefault()
+    const imageDescription = document.getElementById('user-input').value
+    dialogModal.close()
+    generateImage(imageDescription)
+})
+
+async function generateImage(imageToGenerate) {
+    /** HuggingFace **/
+    const response = await hf.textToImage({
+        inputs: imageToGenerate,
+        model: "stabilityai/stable-diffusion-2",
+    })
+    const imageUrl = await blobToBase64(response)
+    generateAltText(imageUrl)
+}
+
+async function generateAltText(imageUrl) {
+    const altText = await hf.imageToText({
+        data: await (await fetch(imageUrl)).blob(),
+        model: "Salesforce/blip-image-captioning-base",
+    });
+
+    renderImage(imageUrl, altText);
+}
+
+function renderImage(imageUrl, altText) {
+    console.log(altText)
+    const imageContainer = document.getElementById('image-container')
+    imageContainer.innerHTML = ''
+    const image = document.createElement('img')
+    image.src = imageUrl
+    image.alt = altText
+    imageContainer.appendChild(image)
+}
+```
 
 ---
 
