@@ -369,7 +369,7 @@ function duplicateElf(){
 
 ![DAY-15](img/12-18-2023/DAY-15.png)
 
-***🔗*** [***My solution for day 15***](HOLD)
+***🔗*** [***My solution for day 15***](https://scrimba.com/scrim/codd14d23989c98b92bb55218)
 
 I initially attempted to center the nested divs using the CSS calc() function in the beginning stages of the Archery Target challenge. This powerful function allows you to perform calculations right within your CSS, which seemed like the perfect solution. However, I soon encountered an unexpected issue. The center bulls-eye, the innermost div, was rendered minuscule in size, which was not the outcome I was aiming for.
 
@@ -469,7 +469,7 @@ body {
 
 ![DAY-16](img/12-18-2023/DAY-16.png)
 
-***🔗*** [***My solution for day 16***](HOLD)
+***🔗*** [***My solution for day 16***](https://scrimba.com/scrim/co84c450fa893e66fe113837d)
 
 In this challenge, my first step was to use the `filter` method on the array of children. This allowed me to separate the children into two groups: those who had been good and those who hadn't. However, I quickly realized that I couldn't directly place this filtered list into my HTML. I needed to convert each child into an HTML list item first.
 
@@ -538,7 +538,9 @@ btn.addEventListener("click", ()=>{
 
 ![DAY-18-02](img/12-18-2023/DAY-18-02.png)
 
-***🔗*** [***My solution for day 17***](HOLD)
+***🔗*** [***My solution for day 18***](https://scrimba.com/scrim/coe3f477f99a7a105d13f6004)
+
+(***Note:*** *I accidentally skipped Challenge 17 World Carousel! I will cover it in the next article*. 📝)
 
 Like my Christmas Card AI challenge, I also opted to create a Star Wars card!
 
