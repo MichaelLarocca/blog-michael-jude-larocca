@@ -596,7 +596,7 @@ setTimeout(() => setInterval(toggleBlueLights, 800), 400);
 
 ---
 
-![Christmas](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2022/12-22/img/12-26-2022/Christmas-Computer-2.png?raw=true align="left")
+![Christmas](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2022/12-22/img/12-26-2022/Christmas-Computer-2.png?raw=true)
 
 ###### ***Pixabay: Illustration by Mohamed Hassan***
 
