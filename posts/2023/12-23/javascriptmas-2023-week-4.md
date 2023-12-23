@@ -476,7 +476,7 @@ Utilizing local storage ensured a consistent state for the 'people' array across
 * No JavaScript!
     
 
-![DAY-23](img/12-25-23/DAY-23.png)
+![DAY-23](img/12-25-23/DAY-24.png)
 
 ***🔗*** [***My solution for day 23***](HOLD)
 
@@ -557,7 +557,7 @@ html, body {
 
 Make my Christmas tree lights flash on and off every 800 milliseconds on a permanent loop.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1703349377223/8351d7b4-5f24-4fac-806d-9f8dda21e275.png align="center")
+![DAY-24](img/12-25-23/DAY-23.png)
 
 ***🔗*** [***My solution for day 24***](HOLD)
 
