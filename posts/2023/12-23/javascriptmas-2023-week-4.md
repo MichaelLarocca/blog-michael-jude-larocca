@@ -62,7 +62,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### Palak Goyal ([Palaktwts](x.com/Palaktwts))
+#### Palak Goyal ([@Palaktwts](https://twitter.com/Palaktwts))
 
 ![Palak](img/12-25-23/Palak.png)
 
@@ -78,7 +78,7 @@ The Matrix has you, but with Palak's program, you have the Matrix! Congratulatio
 
 ---
 
-#### Naitik Yadav ([n4itik](x.com/n4itik))
+#### Naitik Yadav ([@n4itik](https://twitter.com/n4itik))
 
 ![Naitik](img/12-25-23/Naitik.png)
 
@@ -90,7 +90,7 @@ But wait, there's more! Naitik didn't stop there! He tackled the additional stre
 
 ---
 
-#### Amelia Dutta ([AmeliaDutta](x.com/AmeliaDutta))
+#### Amelia Dutta ([@AmeliaDutta](https://twitter.com/AmeliaDutta))
 
 ![Amelia](img/12-25-23/Amelia.png)
 
@@ -111,15 +111,15 @@ The precision and detail in Amelia's work are truly commendable. The effort and 
 | 1 | [Thea - @highflyer910](https://twitter.com/highflyer910) | [Countdown to Christmas](https://scrimba.com/scrim/co19f4b00bef2185ecae47e7e) |
 | 2 | [Wakasso - @SaniWakasso](https://twitter.com/saniwakasso) | [Countdown to Christmas](https://scrimba.com/scrim/co277450faf42c7530062dd24) |
 | 3 | [Mehmet Temizkan - @MehmetTemi86729](https://twitter.com/MehmetTemi86729) | [Countdown to Christmas & Style a Button](https://github.com/mehmettemizkan/JavaScriptmas-2023) |
-| 4 | [Alina - @disc0night](x.com/disc0night) | [Jeopardy Card Flip](https://scrimba.com/scrim/co2b74458938a9b02534b9d8b) |
-| 5 | [Wojciech Kasprzak - @kawojtek94](x.com/kawojtek94) | [Rockin' Around](https://scrimba.com/scrim/crkDmKSP) |
+| 4 | [Alina - @disc0night](https://twitter.com/disc0night) | [Jeopardy Card Flip](https://scrimba.com/scrim/co2b74458938a9b02534b9d8b) |
+| 5 | [Wojciech Kasprzak - @kawojtek94](https://twitter.com/kawojtek94) | [Rockin' Around](https://scrimba.com/scrim/crkDmKSP) |
 | 6 | [Austin Edmondson](https://www.linkedin.com/in/austin-edmondson-90a426159) | [Divide Candy](https://www.linkedin.com/posts/austin-edmondson-90a426159_scrimba-javascriptmas-activity-7137173519783628800-m2IZ?utm_source=share&utm_medium=member_ios) |
-| 7 | [Oyelola - @yourgirlria](x.com/yourgirlria) | [Lonely Elf](https://scrimba.com/learn/javascriptmas/-day-14-lonely-elf-victorias-solution-co42440f1ae614560683d9701) |
-| 8 | [Justin - @dream\_geto](x.com/dream_geto) | [Archery Target](https://scrimba.com/scrim/co0fb4b01a352d7d63742d208) |
-| 9 | [Govind Kulkarni - @Govind02338279](x.com/Govind02338279) | [Naughty List, Nice List](https://scrimba.com/scrim/co36f4fdaaeac49c423097184) |
-| 10 | [Palak Goyal - @Palaktwts](x.com/Palaktwts) | [Save Santa](https://scrimba.com/scrim/cof7a4b059a6ed3592f83157b) |
-| 11 | [Naitik Yadav](x.com/n4itik) | [Gift App](https://giftly.netlify.app/) |
-| 12 | [Amelia Dutta](x.com/AmeliaDutta) | [Toggle Switch](https://scrimba.com/scrim/co31d491cb8caebdc40831879) |
+| 7 | [Oyelola - @yourgirlria](https://twitter.com/yourgirlria) | [Lonely Elf](https://scrimba.com/learn/javascriptmas/-day-14-lonely-elf-victorias-solution-co42440f1ae614560683d9701) |
+| 8 | [Justin - @dream\_geto](https://twitter.com/dream_geto) | [Archery Target](https://scrimba.com/scrim/co0fb4b01a352d7d63742d208) |
+| 9 | [Govind Kulkarni - @Govind02338279](https://twitter.com/Govind02338279) | [Naughty List, Nice List](https://scrimba.com/scrim/co36f4fdaaeac49c423097184) |
+| 10 | [Palak Goyal - @Palaktwts](https://twitter.com/Palaktwts) | [Save Santa](https://scrimba.com/scrim/cof7a4b059a6ed3592f83157b) |
+| 11 | [Naitik Yadav](https://twitter.com/n4itik) | [Gift App](https://giftly.netlify.app/) |
+| 12 | [Amelia Dutta](https://twitter.com/AmeliaDutta) | [Toggle Switch](https://scrimba.com/scrim/co31d491cb8caebdc40831879) |
 
 ---
 
