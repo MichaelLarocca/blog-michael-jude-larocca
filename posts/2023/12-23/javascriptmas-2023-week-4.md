@@ -62,7 +62,7 @@ Throughout the JavaScriptmas event, I will participate in all 24 coding challeng
 
 ---
 
-#### Palak Goyal (Palaktwts )
+#### Palak Goyal ([Palaktwts](x.com/Palaktwts))
 
 ![Palak](img/12-25-23/Palak.png)
 
@@ -78,7 +78,7 @@ The Matrix has you, but with Palak's program, you have the Matrix! Congratulatio
 
 ---
 
-#### Naitik Yadav (n4itik)
+#### Naitik Yadav ([n4itik](x.com/n4itik))
 
 ![Naitik](img/12-25-23/Naitik.png)
 
@@ -90,7 +90,7 @@ But wait, there's more! Naitik didn't stop there! He tackled the additional stre
 
 ---
 
-#### Amelia Dutta (AmeliaDutta)
+#### Amelia Dutta ([AmeliaDutta](x.com/AmeliaDutta))
 
 ![Amelia](img/12-25-23/Amelia.png)
 
