@@ -142,7 +142,7 @@ The precision and detail in Amelia's work are truly commendable. The effort and 
 
 ![DAY-17](img/12-25-23/DAY-17.png)
 
-***🔗*** [***My solution for day 17***](HOLD)
+***🔗*** [***My solution for day 17***](https://scrimba.com/scrim/co60e4b5e879ddba9424b458a)
 
 (***Note:*** *I completed the Day 18 challenge AI alt text generator in the* [*last article*](https://selftaughttxg.com/2023/12-23/javascriptmas-2023-week-3/) 📝)
 
@@ -205,7 +205,7 @@ html, body {
 
 ![DAY-19](img/12-25-23/DAY-19.png)
 
-***🔗*** [***My solution for day 19***](HOLD)
+***🔗*** [***My solution for day 19***](https://scrimba.com/scrim/co46d442a8519729e63625ddf)
 
 During my journey through this coding challenge, I encountered a perplexing error: "!TypeError: Cannot read properties of null (reading 'id')". This error suggested that I was trying to access an HTML element before it was fully loaded on the page.
 
@@ -236,7 +236,7 @@ Overall, this challenge was a great learning experience. It tested my problem-so
 
 ![DAY-20](img/12-25-23/DAY-20.png)
 
-***🔗*** [***My solution for day 20***](HOLD)
+***🔗*** [***My solution for day 20***](https://scrimba.com/scrim/coaf2466987feb7a0d414f3ca)
 
 During the last JavaScriptmas, fellow participant [Daniel Nagaoka](https://www.linkedin.com/in/daninagaoka/) impressively solved a similar nested array challenge by creating a recursive function! Not only did I feature him in the [Community Highlights section](https://selftaughttxg.com/2022/12-22/JavaScriptmas-2022-Issue_3/), I also invited him to collaborate on my "[How to Write a Recursive Function in JavaScript for Beginners](https://selftaughttxg.com/2023/01-23/how-to-write-a-recursive-function-in-javascript-for-beginners/)" article!
 
@@ -335,7 +335,7 @@ nefariousCreatures: 👺,🦁,👹,🐻,👽,🐯,😈
 
 ![DAY-21](img/12-25-23/DAY-21.png)
 
-***🔗*** [***My solution for day 21***](HOLD)
+***🔗*** [***My solution for day 21***](https://scrimba.com/scrim/co4dc42b4a74eda73b32c1fff)
 
 To solve this challenge, we are styling a search bar and its container in the CSS code. Let's break it down:
 
@@ -413,7 +413,7 @@ The text "Search" inside the `label` tag is the text that will be read by screen
 
 ![DAY-22](img/12-25-23/DAY-22.png)
 
-***🔗*** [***My solution for day 22***](HOLD)
+***🔗*** [***My solution for day 22***](https://scrimba.com/scrim/cof994098aaf58bc4d6127e58)
 
 We were asked to modify an existing, functional project to utilize local storage for the Gift App challenge. To solve it, I first fetched any existing data from local storage when the page loaded and populated the 'people' array with this data:
 
@@ -478,7 +478,7 @@ Utilizing local storage ensured a consistent state for the 'people' array across
 
 ![DAY-23](img/12-25-23/DAY-24.png)
 
-***🔗*** [***My solution for day 23***](HOLD)
+***🔗*** [***My solution for day 23***](https://scrimba.com/scrim/co1dd4e7c80044e1bf0a1a015)
 
 For this challenge, all of the HTML is provided. So, the challenge is solved by coding CSS ( not JavaScript )!
 
@@ -559,7 +559,7 @@ Make my Christmas tree lights flash on and off every 800 milliseconds on a perma
 
 ![DAY-24](img/12-25-23/DAY-23.png)
 
-***🔗*** [***My solution for day 24***](HOLD)
+***🔗*** [***My solution for day 24***](https://scrimba.com/scrim/coa6448bab45e7f962efe3296)
 
 The task for this challenge is to make the Christmas tree lights flash on and off every 800 milliseconds in a continuous loop. Additionally, I decided to take on a stretch goal: to make the red and blue lights toggle on and off alternately.
 
@@ -615,21 +615,21 @@ setTimeout(() => setInterval(toggleBlueLights, 800), 400);
 | 12/07/2023 | [Christmas Present Wishlist](https://scrimba.com/scrim/coeb8439398690ca6ab2362a8) |
 | 12/08/2023 | [Animated Progress Bar](https://scrimba.com/scrim/co8bc4cc199bc9a4febe1dc8e) |
 | 12/09/2023 | [AI Christmas E-card Generator](https://scrimba.com/scrim/co19843139fc60c047c09cc9c) |
-| 12/10/2023 | [Rockin' Around](HOLD) |
+| 12/10/2023 | [Rockin' Around](https://scrimba.com/scrim/co58e424a87b295ac39175598) |
 | 12/11/2023 | [Flag Challenge](https://scrimba.com/scrim/coc734ebd8b2913fbac7d8031) |
 | 12/12/2023 | [Santa's Gift Sorter](https://scrimba.com/scrim/co5664dee8bda22c841c73d58) |
 | 12/13/2023 | [Christmas Dinner Picker](https://scrimba.com/scrim/coc5247ce85291b7c455e9065) |
 | 12/14/2023 | [Lonely Elf](https://scrimba.com/scrim/co1ec49b8be855048f5e3c82b) |
 | 12/15/2023 | [Build an Archery Target](https://scrimba.com/scrim/codd14d23989c98b92bb55218) |
 | 12/16/2023 | [Naughty List, Nice List](https://scrimba.com/scrim/co84c450fa893e66fe113837d) |
-| 12/17/2023 | [HOLD](HOLD) |
+| 12/17/2023 | [Day 17: Word Carousel](https://scrimba.com/scrim/co60e4b5e879ddba9424b458a) |
 | 12/18/2023 | [AI alt text generator](https://scrimba.com/scrim/coe3f477f99a7a105d13f6004) |
-| 12/19/2023 | [HOLD](HOLD) |
-| 12/20/2023 | [HOLD](HOLD) |
-| 12/21/2023 | [HOLD](HOLD) |
-| 12/22/2023 | [HOLD](HOLD) |
-| 12/23/2023 | [HOLD](HOLD) |
-| 12/24/2023 | [HOLD](HOLD) |
+| 12/19/2023 | [Day 19: Debug Jingle Words](https://scrimba.com/scrim/co46d442a8519729e63625ddf) |
+| 12/20/2023 | [Day 20: Save Santa](https://scrimba.com/scrim/coaf2466987feb7a0d414f3ca) |
+| 12/21/2023 | [Day 21: Expanding Search Bar](https://scrimba.com/scrim/co4dc42b4a74eda73b32c1fff) |
+| 12/22/2023 | [Day 22: Gift App](https://scrimba.com/scrim/cof994098aaf58bc4d6127e58) |
+| 12/23/2023 | [Day 23: Toggle Switch](https://scrimba.com/scrim/co1dd4e7c80044e1bf0a1a015) |
+| 12/24/2023 | [Day 24: Christmas Tree Lights](https://scrimba.com/scrim/coa6448bab45e7f962efe3296) |
 
 ---
 
