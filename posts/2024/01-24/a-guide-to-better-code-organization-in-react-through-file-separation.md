@@ -13,7 +13,7 @@ date: "2024-01-22"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705773205946/b272cf2c-e67e-4dc0-925e-481a8e0655cd.png align="center")
+![TN-TXG-109](img/1-22-2024/TN-TXG-109.png)
 
 ---
 
@@ -173,7 +173,7 @@ function SmallCardContent({name, image, isSelected, onClick}) {
 export default SmallCardContent;
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705693734567/01ed128a-51db-4ea9-a852-51b780bbf72b.png align="center")
+![SmallCard](img/1-22-2024/SmallCard.png)
 
 ---
 
@@ -219,7 +219,7 @@ function LargeCardContent({name, image, about, isSelected }) {
 export default LargeCardContent;
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705693342095/1a4aad50-ebc0-4827-a925-af30b1d22557.png align="center")
+![LargeCard](img/1-22-2024/LargeCard.png)
 
 ---
 
@@ -227,7 +227,7 @@ export default LargeCardContent;
 
 **Taking some creative liberty, I made my own version of a Lightsaber component similar to the one seen on the Star Wars website. This is used as an accent, serving as a unique and thematic visual element that enhances the Star Wars aesthetic of the cards.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705611727938/6a95a594-66f8-4250-b137-6422ee569982.png align="center")
+![Lightsaber](img/1-22-2024/Lightsaber.png)
 
 The `Lightsaber` function is a React component that takes one prop, `isActive`. It returns a `div` element with the class "lightsaber", which contains two other `div` elements representing the lightsaber's blade ("lightsaber-saber") and hilt ("lightsaber-saber-hilt").
 
@@ -355,7 +355,7 @@ The `Component` is rendered with several props:
 
 **The result of this function is an array of** `Component` **elements, each rendered with specific props based on the item it represents.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705619306214/8b200c9c-876d-4353-abb9-e623e7feb6ff.png align="center")
+![Array Of Component Elements](img/1-22-2024/ArrayOfComponentElements.png)
 
 ```javascript
 export function mapItems(items, Component, setSelectedItem, selectedItem, contentType) {
@@ -504,7 +504,7 @@ Also, it encourages the reuse of components and functions, as they are isolated 
 * [Netlify deployed project](https://react-dynamic-elements-starwars-cards.netlify.app/)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1705697793163/f6e89f01-9c0d-4c5e-9aa3-b5930e871559.png align="center")
+![Star Wars website](img/1-22-2024/SW-website.png)
 
 ---
 
@@ -543,6 +543,6 @@ Remember, the best way to learn how to code is by coding! Try to refactor your p
 
 ---
 
-###### ***Are you now confident in implementing the "file separation" concept in React? Have you started refactoring your own projects to improve code organization, readability, and maintainability? Please share the article and comment!***
+###### ***Are you now confident in implementing the "file separation" concept in React? Have you started refactoring your own projects to improve code organization, readability, and maintainability? Please share the article and comment***
 
 ---
