@@ -543,6 +543,6 @@ Remember, the best way to learn how to code is by coding! Try to refactor your p
 
 ---
 
-###### ***Are you now confident in implementing the "file separation" concept in React? Have you started refactoring your own projects to improve code organization, readability, and maintainability? Please share the article and comment***
+###### ***Are you now confident in implementing the "file separation" concept in React? Have you started refactoring your own projects to improve code organization, readability, and maintainability? Please share the article and comment!***
 
 ---
