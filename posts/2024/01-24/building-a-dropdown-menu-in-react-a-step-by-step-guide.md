@@ -326,6 +326,17 @@ This conditional rendering occurs within the JSX code of the Navbar component, s
 **Here's the CSS code that pertains to the dropdown menu discussed in the article:**
 
 ```css
+nav {
+  background-color: black;
+  color: white;
+  height: 100px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  font-size: 25px;
+  font-weight: bolder;
+}
+
 button {
   margin: 3px;
   padding: 0;
@@ -376,57 +387,6 @@ button:focus {
 ```
 
 *This code block covers the styling of the dropdown button and the dropdown menu itself. It includes styles for the button's normal state as well as its hover and focus states. The dropdown menu's position, dimension, color, and other layout properties are also defined here.*
-
-### CSS Navbar component
-
-#### Here's the CSS code that pertains to the Navbar component discussed in the article:
-
-```css
-nav {
-  background-color: black;
-  color: white;
-  height: 100px;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  font-size: 25px;
-  font-weight: bolder;
-}
-
-button {
-  margin: 3px;
-  padding: 0;
-  width: 100%;
-  background-color: black;
-  color: white;
-  font-weight: bold;
-}
-
-button:hover,
-button:focus {
-  background-color: white;
-  color: black;
-}
-
-.navbar-buttons {
-  border: 1px solid lightgray;
-  position: relative;
-  padding: 5px;
-  font-size: 12px;
-  font-weight: bold;
-  color: lightgray;
-  margin: 0 5px;
-}
-
-.navbar-buttons:hover,
-.navbar-buttons:focus {
-  border: 1px solid white;
-  color: black;
-  background: white;
-  cursor: pointer;
-  box-shadow: 0 0 10px goldenrod, 0 0 5px goldenrod, 0 0 3px goldenrod, 0 0 1px goldenrod;
-}
-```
 
 ---
 
