@@ -9,6 +9,7 @@ tags:
 published: true
 date: "2024-01-29"
 ---
+
 #### Join me as I continue building a React website with the help of my AI assistant! This installment focuses on a dropdown menu, following best practices like component segregation and mapping functions.
 
 ---
@@ -413,7 +414,19 @@ button:focus {
 
 ### **Conclusion**
 
-(WRITE ARTICLE SECTION)
+In this installment of a series covering the creation of a Star Wars Ahsoka React website with the assistance of an AI assistant, I successfully developed a dropdown menu, an important coding skill relevant to the development of websites.
+
+However, creating a dropdown menu presented numerous challenges. To comply with best coding practices, I created Menu and Navbar components, which added complexity to the process. 
+
+Initially, my attempt to move the necessary category buttons for the dropdown menu into a separate component failed. However, after understanding and correctly implementing the use of props to pass the necessary state variables and functions and where the required useEffect hook belonged, I managed to create a functional separate Menu component.
+
+But the journey didn't stop there. I took it a step further by creating a Navbar component that houses the Menu component, ultimately creating the desired dropdown menu feature while keeping the code clean! This process also involved understanding and implementing conditional rendering based on state variables and a better understanding of how mapping functions work. 
+
+With the help of my AI assistant, Rix, I was able to refactor the code through the project and create a single variable for all categories, which simplified the process of passing props to the Menu component, leading to a cleaner and more streamlined codebase.
+
+This experience has taught me that while building complex features may seem daunting at first, any coding challenge can be overcome with persistence, the right strategies, and a willingness to refactor and improve. Most importantly, understanding how the code works and the coding principles behind it is paramount!
+
+As I continue my journey in learning and implementing best coding practices, I invite you to join me. Remember, the best way to learn is by doing. So, don't be afraid to experiment, refactor, and even break the code in your projects. It is all part of the learning process!
 
 ---
 
