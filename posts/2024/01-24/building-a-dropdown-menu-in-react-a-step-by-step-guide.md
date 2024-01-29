@@ -1,5 +1,5 @@
 ---
-title: "A Guide to Better Code Organization in React through File Separation"
+title: "Building a Dropdown Menu in React: A Step-by-Step Guide"
 tags:
   [
     "react",
