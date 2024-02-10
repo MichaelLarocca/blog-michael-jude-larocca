@@ -414,7 +414,7 @@ These styles define the appearance of the lightsabers in both inactive and activ
 
 * [GitHub repo](https://github.com/MichaelLarocca/react-dynamic-elements-starwars-cards)
     
-* [Ne](https://github.com/MichaelLarocca/react-dynamic-elements-starwars-cards)[tlify dep](https://react-dynamic-elements-starwars-cards.netlify.app/)[loyed proje](https://github.com/MichaelLarocca/react-dynamic-elements-starwars-cards)[ct](https://react-dynamic-elements-starwars-cards.netlify.app/)
+* [Netlify deployed project](https://react-dynamic-elements-starwars-cards.netlify.app/)
     
 
 ![Project-so-far](img/02-12-2024/Project-so-far.png)
