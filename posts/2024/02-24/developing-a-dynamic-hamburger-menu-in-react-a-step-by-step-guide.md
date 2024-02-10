@@ -14,7 +14,7 @@ date: "2024-02-12"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707518225521/09a9d28d-7010-4280-87c0-f4d293286715.png align="center")
+![TN-TXG-111](img/02-12-2024/TN-TXG-111.png)
 
 ---
 
@@ -24,9 +24,9 @@ In this article, I will continue to cover React concepts I am learning by pair p
 
 **This article will focus on creating a "Hamburger menu." This menu will consist of two Lightsaber components that light up and form an X when activated! To create the Hamburger menu, we will utilize components and a mapping function that were created and explained in previous articles of this series.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707425367467/a7707dc4-44c4-4ad5-83ef-3d7f4e204273.png align="center")
+![HB-Lightsaber](img/02-12-2024/HB-Lightsaber.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707425369737/ab63c609-c4b7-403d-84f2-660f3458dd28.png align="center")
+![HB-Lightsaber-active](img/02-12-2024/HB-Lightsaber-active.png)
 
 ---
 
@@ -64,17 +64,17 @@ So, the main idea of a hamburger menu, in general, is to reorganize menu buttons
 
 **The actual Star Wars website's hamburger menu is designed using two lightsabers with a regular line in the middle.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707500075533/f99e9586-f553-4b07-b532-143c5f7605c3.png align="center")
+![SW-HamburgerMenu](img/02-12-2024/SW-HamburgerMenu.png)
 
 **When this hamburger menu is active, the two lightsabers form an X, and the middle line just disappears.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707500286390/1c9520eb-68bf-4411-b565-c9526d70071c.png align="center")
+![SW-HamburgerMenu-ACTIVE](img/02-12-2024/SW-HamburgerMenu-ACTIVE.png)
 
 ***So, taking creative liberty and simplifying my version of the Hamburger menu, I opted for just two lines representing lightsabers that light up and form the X when active.***
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707501044986/8567b31b-33b1-4afe-9177-4c69d2c6634b.png align="center")
+![My-HamburgerMenu](img/02-12-2024/My-HamburgerMenu.png)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707500636721/f877c208-06c7-429a-a7d1-5753af2a93b8.png align="center")
+![My-HamburgerMenu-ACTIV](img/02-12-2024/My-HamburgerMenu-ACTIVE.png)
 
 #### The code for my hamburger menu
 
@@ -417,7 +417,7 @@ These styles define the appearance of the lightsabers in both inactive and activ
 * [Ne](https://github.com/MichaelLarocca/react-dynamic-elements-starwars-cards)[tlify dep](https://react-dynamic-elements-starwars-cards.netlify.app/)[loyed proje](https://github.com/MichaelLarocca/react-dynamic-elements-starwars-cards)[ct](https://react-dynamic-elements-starwars-cards.netlify.app/)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1707431496609/afe65359-00b1-432f-8943-0db8072ef83d.png align="center")
+![Project-so-far](img/02-12-2024/Project-so-far.png)
 
 ---
 
