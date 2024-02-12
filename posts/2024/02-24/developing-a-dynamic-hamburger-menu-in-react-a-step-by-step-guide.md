@@ -448,6 +448,6 @@ The most effective way to learn programming is to dive in and get your hands dir
 
 ---
 
-###### ***Are you now adept at creating a dynamic Hamburger menu in React? Have you tried making your own version of a themed Hamburger menu? Please share the article and comment***
+###### ***Are you now adept at creating a dynamic Hamburger menu in React? Have you tried making your own version of a themed Hamburger menu? Please share the article and comment!***
 
 ---
