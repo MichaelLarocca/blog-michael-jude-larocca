@@ -157,7 +157,7 @@ const youtube = [
 export { characters, creatures, droids, locations, organizations, vehicles, weapons_and_tech, youtube };
 ```
 
-💡 **Tip:** *To get the YouTube "****video thumbnails****," I copied the name of each YouTube video and used a Google image search. I then saved the YouTube thumbnail images to my images folder and imported them into my data file.*
+💡 **Tip:** *To get the YouTube "video thumbnails," I copied the name of each YouTube video and used a Google image search. I then saved the YouTube thumbnail images to my images folder and imported them into my data file.*
 
 ---
 
