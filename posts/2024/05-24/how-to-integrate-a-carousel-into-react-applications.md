@@ -14,6 +14,10 @@ date: "2024-05-13"
 
 ---
 
+![TN-TXG-113](img/05-13-24/TN-TXG-113.png)
+
+---
+
 ### **Introduction**
 
 In this article, I will continue covering React concepts I am learning through pair programming with AI to create a Star Wars Ahsoka website.
@@ -21,10 +25,6 @@ In this article, I will continue covering React concepts I am learning through p
 **This article will focus on adding an image carousel to a React project.**
 
 I will also discuss how I implemented the React image carousel in my project, how I conditionally rendered it, and some challenges I faced while integrating it.
-
----
-
-![TN-TXG-113](img/05-13-24/TN-TXG-113.png)
 
 ---
 
