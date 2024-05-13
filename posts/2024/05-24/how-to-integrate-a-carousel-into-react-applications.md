@@ -34,22 +34,19 @@ To add a Carousel component to your React project using the React Responsive Car
 
 1. **Install the React Responsive Carousel library by running:**
     
-
 ```bash
 npm install react-responsive-carousel
 ```
 
 2. **Import the Carousel component and its styles in your React file:**
     
-
 ```javascript
 import { Carousel } from 'react-responsive-carousel';
 import 'react-responsive-carousel/lib/styles/carousel.min.css'; // requires a loader
 ```
 
 3. **Add the Carousel component to your project and pass in the desired props:**
-    
-
+  
 ```javascript
 <Carousel>
     <div>
@@ -84,22 +81,20 @@ Building on the series of articles about creating a "Star Wars Ahsoka React webs
 **The prerequisites for creating the carousel include:**
 
 1. Familiarity with the custom **Menu** and **Navbar** components.
-    
+
 2. Familiarity with the **Hamburger** menu component.
-    
 
 #### **Article series:**
 
 * [How to Integrate YouTube Videos into React Applications](https://selftaughttxg.com/2024/03-24/how-to-integrate-youtube-videos-into-react-applications/)
-    
+
 * [Developing a Dynamic Hamburger Menu in React: A Step-by-Step Guide](https://selftaughttxg.com/2024/02-24/developing-a-dynamic-hamburger-menu-in-react-a-step-by-step-guide/)
-    
+
 * [Building a Dropdown Menu in React: A Step-by-Step Guide](https://selftaughttxg.com/2024/01-24/learn-to-use-component-identifiers-as-props-for-rendering-various-html-elements-dynamically/)
-    
+
 * [A Guide to Better Code Organiz](https://selftaughttxg.com/2024/01-24/learn-to-use-component-identifiers-as-props-for-rendering-various-html-elements-dynamically/)[ation in React through File Separation](https://selftaughttxg.com/2024/01-24/a-guide-to-better-code-organization-in-react-through-file-separation/)
-    
+
 * [Learn to Use Component Identifiers as Props for Rendering Vari](https://selftaughttxg.com/2024/01-24/a-guide-to-better-code-organization-in-react-through-file-separation/)[ous HTML Elements Dynamically](https://selftaughttxg.com/2024/01-24/learn-to-use-component-identifiers-as-props-for-rendering-various-html-elements-dynamically/)
-    
 
 ---
 
@@ -112,29 +107,28 @@ The React Responsive Carousel Library offers numerous customizable options that 
 **The Carousel component in the React Responsive Carousel library allows you to customize the carousel with various properties. These properties include:**
 
 * **showArrows**: Whether to display navigation arrows. Values: true or false.
-    
+  
 * **showStatus**: Show the current status of the slides. Values: true or false.
-    
+
 * **showIndicators**: Whether to display navigation indicators. Values: true or false.
-    
+
 * **infiniteLoop**: Enable infinite looping of slides. Values: true or false.
-    
+
 * **useKeyboardArrows**: Use keyboard arrows to navigate between slides. Values: true or false.
-    
+
 * **autoPlay**: Automatically cycle through slides. Values: true or false.
-    
+
 * **stopOnHover**: Stop cycling slides when the mouse hovers over the carousel. Values: true or false.
-    
+
 * **interval**: The interval at which the slides should switch in milliseconds.
-    
+
 * **transitionTime**: The duration of the transition between slides in milliseconds.
-    
+
 * **swipeable**: Allow swiping gestures to navigate slides on touch-enabled devices. Values: true or false.
-    
+
 * **dynamicHeight**: Adjust the carousel's height to the current slide's height. Values: true or false.
-    
+
 * **emulateTouch**: Enable swipe on non-touch devices. Values: true or false.
-    
 
 **Note:** The creator no longer maintains this library. Be sure to read the documentation to learn more about the [react-responsive-carousel](https://www.npmjs.com/package/react-responsive-carousel).
 
@@ -211,9 +205,8 @@ Inside the component, a `categoriesMap` object is created. This object maps stri
 The `handleCategoryChange` function is crucial for interactivity. When a user clicks on one of the buttons in the menu, this function is triggered. It takes the `category` as an argument, which corresponds to the button clicked by the user. The function then does two things:
 
 * It calls `setSelectedCategory` with the data associated with the selected category, updating the state in the parent component to reflect the new category of images to display.
-    
+
 * It sets `setShowCarousel` to `true`, ensuring that the Carousel is visible whenever a category is selected.
-    
 
 #### Rendering the Menu
 
@@ -268,11 +261,10 @@ export default Navbar;
 ### Key Points:
 
 * **Dynamic Visibility:** The `isGalleryVisible` state controls the visibility of the carousel menu. It is toggled by mouse events (`onMouseEnter`, `onMouseLeave`) on the "GALLERY" button. This approach provides a user-friendly way to display the carousel only when needed, reducing clutter and enhancing UI responsiveness.
-    
+
 * **Carousel Menu Integration:** When the "GALLERY" section is active (i.e., `isGalleryVisible` is true), the `CarouselMenu` component is rendered. This component is crucial for handling the selection of different image categories to be displayed in the carousel.
-    
+
 * **Interaction Handlers:** The `CarouselMenu` is passed `setSelectedCategory` and `setShowCarousel` functions as props. These functions are used within `CarouselMenu` to update the application's state based on user interactions, such as selecting a specific category from the carousel menu.
-    
 
 This setup ensures that the Navbar component effectively integrates with the carousel functionality, providing a seamless and interactive user experience.
 
@@ -287,9 +279,8 @@ This section will explore, in a similar consolidated manner, how the Carousel is
 The Hamburger Menu uses several state variables to control the visibility of its contents:
 
 * `isActive`: Determines if the hamburger menu is active.
-    
+
 * `isCarouselVisible`: Controls the visibility of the Carousel options within the menu.
-    
 
 ```javascript
 const [isActive, setIsActive] = useState(false);
@@ -372,15 +363,14 @@ function Menu({ setSelectedCategory, setShowCarousel, categories }) {
 ### Key Functionality:
 
 * **Filtering Categories**: The Menu filters out specific categories (e.g., 'youtube') to tailor the buttons displayed. This ensures that only relevant categories are included for user interaction.
-    
+
 * **Button Dynamics**: Each button is dynamically created based on the categories available, excluding those filtered out. The button text is capitalized for better readability and aesthetic appeal.
-    
+
 * **State Management**: When a button is clicked, two critical functions are invoked:
-    
+
     * `setSelectedCategory(categories[category])`: This function updates the state to reflect the selected category, which determines the data or images displayed in the carousel or other components.
-        
+
     * `setShowCarousel(false)`: This function controls the visibility of the carousel, allowing the application to hide the carousel when it is not needed or when categories unrelated to images are selected.
-        
 
 *This setup enhances the application's interactivity and ensures that the user interface remains clean, focused, and responsive to user inputs.*
 
@@ -510,13 +500,12 @@ The final issue I ran into was my dropdown menus breaking due to expanding on to
 1. [Learn to Use Component Identifiers as Props for Rendering Various HTML Elements Dynamically](https://selftaughttxg.com/2024/01-24/learn-to-use-component-identifiers-as-props-for-rendering-various-html-elements-dynamically/)
     
 2. [A Guide to Better Code Organization in React through File Separation](https://selftaughttxg.com/2024/01-24/a-guide-to-better-code-organization-in-react-through-file-separation/)
-    
+
 3. [Building a Dropdown Menuin React: A Step-by-Step Guide](https://selftaughttxg.com/2024/01-24/building-a-dropdown-menu-in-react-a-step-by-step-guide/)
-    
+
 4. [Developing a Dynamic Hamburger Menu in React: A Step-by-Step Guide](https://selftaughttxg.com/2024/02-24/developing-a-dynamic-hamburger-menu-in-react-a-step-by-step-guide/)
-    
+
 5. [How to Integrate YouTube Videos into React Applications](https://selftaughttxg.com/2024/03-24/how-to-integrate-youtube-videos-into-react-applications/)
-    
 
 ---
 
