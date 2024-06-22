@@ -495,3 +495,7 @@ One of the key struggles was creating a component that could dynamically render 
 I leveraged the React Developer Tools Chrome extension to overcome these challenges, which proved invaluable in debugging and understanding the component hierarchy and props. This tool enabled me to see the selected React component, the details of the props, and more, guiding me in the right direction to use the selected key value to display the appropriate news article story. I highly recommend using the React Developer Tools Chrome extension for your projects.
 
 In conclusion, building dynamic and flexible React components requires a solid understanding of React's core concepts and a willingness to tackle complex problems. By breaking down the UI into smaller, manageable parts and using tools like React Developer Tools, you can create adaptable and maintainable components that enhance the user experience. I encourage you to try building your own dynamic components and see the benefits firsthand. Happy coding!
+
+---
+
+###### *Are you now confident in building flexible React components for dynamic HTML layouts? Have you tried creating your own dynamic components? Please share the article and comment*
