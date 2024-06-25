@@ -500,14 +500,16 @@ By managing the `selectedStory` state and using effect hooks, the `App` componen
 
 ### Conclusion
 
-Building flexible React components for dynamic HTML layouts can be challenging but rewarding. This project involved managing different HTML structures and ensuring the correct news story was displayed based on user interactions. These tasks required a strong grasp of React's state management and conditional rendering.
+In your React coding journey, you'll eventually encounter a situation where a hard-coded HTML return structure won't meet your project's needs. I realized this when I tried to build a React component to render news articles. The component needed to be flexible enough to handle varying HTML structures for the body section while keeping the header and footer sections hard-coded.
 
-One of the main challenges was making a component that could show different HTML elements based on the given data. This needed careful planning and using React's useState and useEffect hooks to manage state and side effects well. Also, adding the dynamic News component to the existing app was tricky, especially making sure the right story was chosen and shown.
+The solution was to write a sub-program inside the main component responsible for rendering the news article. This scenario introduced me to the React coding concept of composing components, which is the practice of building complex UIs by combining simpler, reusable components. I resolved the varying HTML structure conundrum by writing an Article component that dynamically renders paragraphs and images based on the data provided, ensuring flexibility and adaptability in the layout.
 
-I used the React Developer Tools Chrome extension to debug and understand the component hierarchy and props. This tool helped me see the selected React component and its props, guiding me to display the correct news story. I highly recommend using this extension for your projects!
+Although I have gained a better understanding of creating complex React components, integrating the completed News component into my project presented its own challenges. The combination of using AI to pair program and spending too much time away from my project left me revisiting the code repeatedly, trying to understand how all the code works. Regaining an understanding of the code, I was able to incorporate the News component to work as expected. However, I still need to learn how to properly structure file separation, as I currently have two helper function JavaScript files when I believe I should have only one.
 
-Building dynamic React components requires understanding React's core concepts and tackling complex problems. By breaking down the UI and using tools like React Developer Tools, you can create adaptable components that enhance the user experience. Try building your own dynamic components to see the benefits. Happy coding!
+To help troubleshoot, I used the React Developer Tools Chrome extension to debug and understand the component hierarchy and props. This tool helped me see the selected React component and its props, guiding me in displaying the correct news story. I highly recommend using this extension for your projects!
+
+Building projects on your own will reveal new React concepts that push the boundaries of your current knowledge, ultimately helping you grow and become a better developer. As I am learning by building a Star Wars React website, I encourage you to push past your current level of coding by creating projects that interest and inspire you!
 
 ---
 
-###### *Are you now confident in building flexible React components for dynamic HTML layouts? Have you tried creating your own dynamic components? Please share the article and comment*
+###### *Are you now confident in building flexible React components for dynamic HTML layouts? Have you tried creating your own dynamic components? Please share the article and comment!*
