@@ -16,7 +16,7 @@ date: "2024-07-22"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721417592168/d058a3d4-993a-49f3-ac94-83ce929ab5df.png align="center")
+![TN-TXG-115](img/07-22-24/TN-TXG-115.png)
 
 ---
 
@@ -123,7 +123,7 @@ yarn add react-router-dom
 
 You will see the Twitter/X and LinkedIn icons from the React Share library at the bottom right side of the image below.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721241725573/0e1ecbc8-adf8-470a-8e15-5052439d0f21.png align="center")
+![SW-Article](img/07-22-24/SW-Article.png)
 
 When you click on a social share icon from the React Share library, it typically opens a new window or tab that directs you to the selected social media platform's sharing interface. This interface is pre-filled with the URL and other relevant information (like the title or description) of the content you want to share. You can then customize the post further if needed and proceed to share it on your social media profile.
 
@@ -255,7 +255,7 @@ In my React application, the `"/news"` path displays a list of news articles. Wh
 
 [https://react-dynamic-elements-starwars-cards.netlify.app/news](https://react-dynamic-elements-starwars-cards.netlify.app/news)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721332930887/ae59e37b-1ce4-4d52-b65d-eb01160d6186.png align="center")
+![NewsList](img/07-22-24/NewsList.png)
 
 ---
 
@@ -410,7 +410,7 @@ This setup allows for seamless navigation between the list of news articles and 
 
 [**https://react-dynamic-elements-starwars-cards.netlify.app/article/0**](https://react-dynamic-elements-starwars-cards.netlify.app/article/0)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721335029380/6daf3770-5033-403c-835b-5361d6af37a1.png align="center")
+![/Article-0](img/07-22-24/Article-0.png)
 
 ### The Finished NewsArticle Component
 
@@ -574,7 +574,7 @@ This setup ensures that users are directed to a custom 404 page, improving the u
 
 **The 404 page renders when trying to go to an article number that does not exist:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721335302234/01335a62-5292-4a22-9fed-2594d7228f51.png align="center")
+![404-page](img/07-22-24/404-page.png)
 
 ---
 
@@ -702,7 +702,7 @@ export default App;
 * [Netlify deployed project](https://react-dynamic-elements-starwars-cards.netlify.app/)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721341427419/62e11ae8-c572-449d-bdba-0d9614e506fb.png align="center")
+![NewsList](img/07-22-24/NewsList.png)
 
 ---
 
@@ -739,6 +739,6 @@ Consider integrating React Router to improve your React projects with dynamic ro
 
 ---
 
-###### *Do you now feel confident in using React Router in your projects? Have you already implemented dynamic routing in your React applications? Please share the article and comment!*
+###### *Do you now feel confident in using React Router in your projects? Have you already implemented dynamic routing in your React applications? Please share the article and comment*
 
 ---
