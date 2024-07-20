@@ -570,8 +570,6 @@ In the `App` component, I define a route with the path `"*"` which acts as a wil
 <Route path="*" element={<NotFound />} />
 ```
 
-This setup ensures that users are directed to a custom 404 page, improving the user experience by providing clear feedback when they attempt to access an invalid URL.
-
 **The 404 page renders when trying to go to an article number that does not exist:**
 
 ![404-page](img/07-22-24/404-page.png)
