@@ -710,11 +710,9 @@ export default App;
     
 2. **Essential Hooks and Components**: Understanding and utilizing key React Router hooks and components such as `useParams`, `useNavigate`, `Link`, `useLocation`, `BrowserRouter`, `Route`, and `Routes` is crucial for effective routing in your applications.
     
-3. **Practical Implementation**: The practical example provided demonstrates how to set up routes for different sections of a portfolio website, including Home, About, Projects, and Contact. This example serves as a template for integrating React Router into your projects.
+3. **Integration with Other Libraries**: The integration of React Router with the React Share library showcases how dynamic routing can be used to create unique URLs for sharing content on social media platforms, solving the issue of static URLs in single-page applications.
     
-4. **Integration with Other Libraries**: The integration of React Router with the React Share library showcases how dynamic routing can be used to create unique URLs for sharing content on social media platforms, solving the issue of static URLs in single-page applications.
-    
-5. **Handling 404 Pages**: Implementing a catch-all route to handle 404 pages ensures that users are presented with a friendly error page when they navigate to a non-existent route, improving the overall user experience.
+4. **Handling 404 Pages**: Implementing a catch-all route to handle 404 pages ensures that users are presented with a friendly error page when they navigate to a non-existent route, improving the overall user experience.
     
 
 *By incorporating these key takeaways, you can leverage React Router to enhance the navigation and functionality of your React projects. Experiment with different routing setups and explore how dynamic routing can benefit your specific use cases.*
