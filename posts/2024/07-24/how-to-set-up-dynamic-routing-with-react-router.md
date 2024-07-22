@@ -732,6 +732,6 @@ Consider integrating React Router to improve your React projects with dynamic ro
 
 ---
 
-###### *Do you now feel confident in using React Router in your projects? Have you already implemented dynamic routing in your React applications? Please share the article and comment*
+###### *Do you now feel confident in using React Router in your projects? Have you already implemented dynamic routing in your React applications? Please share the article and comment!*
 
 ---
