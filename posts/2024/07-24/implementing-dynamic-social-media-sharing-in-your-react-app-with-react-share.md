@@ -16,7 +16,7 @@ date: "2024-07-29"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721927981092/41b345fc-7201-4f1d-be8f-92b407ea181a.png align="center")
+![TN-TXG-116](img/07-29-24/TN-TXG-116.png)
 
 ---
 
@@ -193,7 +193,7 @@ To ensure the React Share library can properly share each individual article, I 
 
 **Star Wars article utilizing the React Share Twitter/X and LinkedIn components:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721764680327/b93b9aa3-64d4-404f-9159-0706c3481118.png align="center")
+![SW-Article](img/07-29-24/SW-Article-0.png)
 
 I created the custom News Article component that dynamically renders `<p>` and `<img>` tags based on the data provided. The creation of this component was detailed in previous articles in the series.
 
@@ -762,7 +762,7 @@ export default NewsArticle;
 * [Netlify deployed project](https://react-dynamic-elements-starwars-cards.netlify.app/)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1721772115478/18dcdf3f-8c92-4048-a594-e8cbf1428ce3.png align="center")
+![The project s far](img/07-29-24/Project-So-Far.png)
 
 ---
 
