@@ -114,7 +114,7 @@ const ShareButtons = () => {
 export default ShareButtons;
 ```
 
-3. **Use the**`ShareButtons` component in your application:
+3. **Use the** `ShareButtons` component in your application:
     
 
 ```javascript
