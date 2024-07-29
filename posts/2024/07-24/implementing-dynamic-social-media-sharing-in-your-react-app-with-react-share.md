@@ -792,6 +792,6 @@ Consider integrating the React Share library to enhance your React projects with
 
 ---
 
-###### *Do you now feel confident in integrating the React Share library into your project? Have you already enhanced your React applications with social media sharing functionality? Please share the article and comment*
+###### *Do you now feel confident in integrating the React Share library into your project? Have you already enhanced your React applications with social media sharing functionality? Please share the article and comment!*
 
 ---
