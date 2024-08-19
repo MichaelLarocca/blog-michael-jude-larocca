@@ -234,4 +234,4 @@ When using AI to aid your development journey, always verify its suggestions and
 
 ---
 
-###### *Are you now confident in building a website with AI assistance? Do you have any other tips or experiences with AI pair programming? Please share the article and comment*
+###### *Are you now confident in building a website with AI assistance? Do you have any other tips or experiences with AI pair programming? Please share the article and comment!*
