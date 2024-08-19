@@ -14,7 +14,7 @@ date: "2024-08-19"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1723911902703/b9fd39ff-1bdb-4083-8e64-abc86da47a99.png align="center")
+![TN-TXG-117](img/08-19-24/TN-TXG-117.png)
 
 ---
 
@@ -52,7 +52,7 @@ Over several months, I have successfully created a React website and written a n
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724104540363/b29d8cab-063e-4363-8685-82388b5c174f.png align="center")
+![Ahsoka](img/08-19-24/Ahsoka.png)
 
 ---
 
@@ -98,7 +98,7 @@ Instead of searching for YouTube tutorial videos, I chose to pair program with A
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1723913887850/3c26d8ef-3836-43e9-b806-8d2712693054.png align="center")
+![Gallery](img/08-19-24/Gallery.png)
 
 ---
 
@@ -112,7 +112,7 @@ This was a significant step in my React learning journey, as I learned how to cr
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1723913585763/109d9a63-e8dd-4b0c-b40d-e8b8a019ea2c.png align="center")
+![News_Article](img/08-19-24/News_Article.png)
 
 ---
 
@@ -220,7 +220,7 @@ At least in the current version of the Hashnode AI assistant, you have to explai
 * [Netlify deployed project](https://react-dynamic-elements-starwars-cards.netlify.app/)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1723912778073/8ed52437-be25-4019-a00b-cc9a8676eac0.png align="center")
+![Thrawn](img/08-19-24/Thrawn.png)
 
 ---
 
@@ -234,4 +234,4 @@ When using AI to aid your development journey, always verify its suggestions and
 
 ---
 
-###### *Are you now confident in building a website with AI assistance? Do you have any other tips or experiences with AI pair programming? Please share the article and comment!*
+###### *Are you now confident in building a website with AI assistance? Do you have any other tips or experiences with AI pair programming? Please share the article and comment*
