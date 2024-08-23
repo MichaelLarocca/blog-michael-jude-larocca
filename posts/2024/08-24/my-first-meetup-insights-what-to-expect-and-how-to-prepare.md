@@ -72,7 +72,7 @@ Fortunately, I quickly rebounded from the embarrassing sign-in problem. Two peop
 
 ![IMG_9055](img/08-26-24/IMG_9055.JPG)
 
-###### *Richard Choi (left), Steven Troy Gittens (middle), and myself (right).*
+###### *[Richard Choi](https://twitter.com/choir241) (left), [Steven Troy Gittens](https://twitter.com/troygittens) (middle), and [myself](https://twitter.com/mikejudelarocca) (right).*
 
 ---
 
