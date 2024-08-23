@@ -125,7 +125,7 @@ After saying my goodbyes to the people in my group circle, I went to look for Co
 
 **So, I strongly advise you to familiarize yourself with the venues you attend so you know how to navigate and exit the meetups to avoid any potential embarrassment, as I did.**
 
-*(Steven was glad to instruct me on how to exit and most likely unaware of my embarrassment, I hope!* 😅*)*
+*(Steven was glad to instruct me on how to exit and most likely unaware of my embarrassment, I hope! 😅)*
 
 ---
 
