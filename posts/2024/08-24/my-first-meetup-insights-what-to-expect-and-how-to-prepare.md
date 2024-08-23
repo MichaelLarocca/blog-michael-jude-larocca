@@ -193,7 +193,7 @@ Attending your first Meetup is a milestone step for your tech career. Meetups of
 
 The Code & Coffee Meetup is a great entry-level event because it doesn't focus on a specific technology. Instead, it covers tech in general, and they have a warm and welcoming staff.
 
-You can make your first meetup a more comfortable experience by just meeting others you know on your social network and not worrying about seeking employment opportunities. Think of it as a test run to see firsthand what it's all about.
+You can make your first in-person event more comfortable by just meeting others you know on your social network and not worrying about seeking employment opportunities. Think of it as a test run to see firsthand what it's all about.
 
 To make the most of your first Meetup, prepare a concise seven-second elevator pitch that includes your name, tech goals, and interests. Instead of asking for help, consider offering what you can teach others to attract more connections. Try to connect with attendees through your socials first, such as Twitter, LinkedIn, and Discord, as the official Meetup app has limitations for connections.
 
