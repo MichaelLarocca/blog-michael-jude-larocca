@@ -107,7 +107,7 @@ Meetups are more than networking for job opportunities; they are also an opportu
 
 ![IMG_9054](img/08-26-24/IMG_9054.jpg)
 
-###### *From left to right: Steven Troy Gittens, Sam, Richard Choi, myself, and James Q. Quick.*
+###### *From left to right: [Steven Troy Gittens](https://twitter.com/troygittens), [Sam](https://twitter.com/metruzanca), [Richard Choi](https://twitter.com/choir241), [myself](https://twitter.com/mikejudelarocca), and [James Q. Quick](https://twitter.com/jamesqquick).*
 
 ---
 
