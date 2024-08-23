@@ -15,7 +15,7 @@ date: "2024-08-26"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724280496934/90f791c4-dfa5-4de4-a9c2-af7535d3d576.png align="center")
+![TN-TXG-118](img/08-26-24/TN-TXG-118.png)
 
 ---
 
@@ -48,7 +48,7 @@ At Code & Coffee events, attendees engage in discussions, work on projects, seek
 
 *Currently, Code & Coffee hosts events in 35 cities and is growing!*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724268734809/9263bcdf-1f58-42ca-b883-a1524408fe88.png align="center")
+![code-and-coffee](img/08-26-24/code-and-coffe.png)
 
 ---
 
@@ -70,7 +70,7 @@ Fortunately, I quickly rebounded from the embarrassing sign-in problem. Two peop
 
 *As Kent Dodds, a well-respected figure in the developer community, stated in his THAT Conference Keynote presentation, "It's not what you know or who you know. It's who knows you and what they know about you!"*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724266675420/42c8beaa-7788-4a79-90ef-066870a1d6ed.jpeg align="center")
+![IMG_9055](img/08-26-24/IMG_9055.JPG)
 
 ###### *Richard Choi (left), Steven Troy Gittens (middle), and myself (right).*
 
@@ -95,7 +95,7 @@ We went to the third floor, formed a circle, and each gave a seven-second elevat
 5. **Listen to Others**: Pay attention to other pitches to identify common interests and form groups easily.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724267335568/79882a40-60e0-4573-abce-b0d6f8fc8a1f.jpeg align="center")
+![IMG_9070](img/08-26-24/IMG_9070.jpg)
 
 ###### *Each attendee gave a seven-second introduction about themselves.*
 
@@ -105,7 +105,7 @@ We went to the third floor, formed a circle, and each gave a seven-second elevat
 
 Meetups are more than networking for job opportunities; they are also an opportunity to meet tech industry celebrities! At this Meetup, I finally met [James Q. Quick](https://www.youtube.com/@JamesQQuick) in person after corresponding with him on social media for years. James is a renowned JavaScript Developer, Speaker, and Teacher passionate about empowering developers. He has worked with companies like Microsoft and Auth0 and has a YouTube channel with over 200k subscribers, where he shares his expertise in modern web development. I kept mentioning his status as a YouTube celebrity to others who joined our conversation circle. 😉
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724267236871/6885e7b0-3646-44d1-8e40-86308422e365.jpeg align="center")
+![IMG_9054](img/08-26-24/IMG_9054.jpg)
 
 ###### *From left to right: Steven Troy Gittens, Sam, Richard Choi, myself, and James Q. Quick.*
 
@@ -129,7 +129,7 @@ After saying my goodbyes to the people in my group circle, I went to look for Co
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1724272605997/e05cb9a0-b89c-49cb-bd91-fa0a4c41ccc0.png align="center")
+![Meetup-logo](img/08-26-24/Meetup-logo.png)
 
 ---
 
