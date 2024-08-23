@@ -46,7 +46,7 @@ Code & Coffee is a community-driven meetup group designed for developers and tho
 
 At Code & Coffee events, attendees engage in discussions, work on projects, seek mentorship, and build lasting friendships. The community emphasizes belonging, safety, and trust and aims to create an inclusive environment where members can learn, network, and support each other.
 
-*Currently, Code & Coffee hosts events in 35 cities and is growing!*
+*Currently,* [*Code & Coffee*](https://codeandcoffee.org/) *hosts events in 35 cities and is growing!*
 
 ![code-and-coffee](img/08-26-24/code-and-coffe.png)
 
@@ -54,7 +54,7 @@ At Code & Coffee events, attendees engage in discussions, work on projects, seek
 
 ### Meetup Events
 
-**To attend an official Meetup event, you need a Meetup account and must RSVP for each event you plan to join. When you arrive, you must sign in using a QR code from the Meetup App.**
+**To attend an official** [**Meetup**](https://www.meetup.com/) **event, you need a Meetup account and must RSVP for each event you plan to join. When you arrive, you must sign in using a QR code from the Meetup App.**
 
 Upon arriving at the Code & Coffee Meetup at "The Yard" in Brooklyn, New York, I encountered a problem. My Meetup App on my iPhone 11 glitched, preventing me from displaying my QR code to sign in. Oh, calamity! I was already off to a nerve-racking start. Fortunately, there was an alternative method: I signed into the Meetup manually, filling out a form on the same provided laptop that others were scanning into with QR codes.
 
