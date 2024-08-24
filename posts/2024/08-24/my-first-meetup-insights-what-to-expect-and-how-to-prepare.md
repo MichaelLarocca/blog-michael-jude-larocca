@@ -84,9 +84,9 @@ Fortunately, I quickly rebounded from the embarrassing sign-in problem. Two peop
 
 Everyone was already enjoying lively conversations when a loudspeaker announcement instructed us to move up to the third floor for introductions. The event hadn't officially started yet, as others were still arriving, but this was a good sign because everyone was already having a good time!
 
-We went to the third floor, formed a circle, and each gave a seven-second elevator pitch describing ourselves, our interests, and our tech goals. This activity aimed to help people form groups with common interests. I was surprisingly nervous and slurred my speech, as I was unprepared with a pitch.
+We went to the third floor, formed a circle, and each gave a seven-second elevator pitch describing ourselves, our tech goals, and our interests. This activity aimed to help people form groups with common interests. I was surprisingly nervous and slurred my speech as I tried to explain that I am a self-taught developer learning React and a guitarist—because they asked us to mention a non-tech interest or hobby. My statement did not adequately convey what I was there to accomplish. Did I want help with React, or did I want to talk about music?
 
-**Tips for Perfecting Your Elevator Pitch:**
+**To help you perfect your elevator pitch, here are some tips:**
 
 1. **Prepare Your Pitch**: Write and practice a concise seven-second pitch that includes your name, interests, and tech goals.
     
