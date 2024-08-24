@@ -139,7 +139,7 @@ After saying my goodbyes to the people in my group circle, I went to look for Co
 
 ### Making Connections Through the Meetup App
 
-After the event, you have limited time to connect with other attendees on the Meetup App. However, I didn't realize there was a 24-hour limit for the connection requests you can send. So, once I maxed out, they gave me an option to pay for the "Meetup+" subscription. Also, to make a connection, the other person has to choose you too!
+After the event, you have 24 hours to connect with other attendees on the Meetup App. I didn't realize there was also a limit to the connection requests you can send. So, once I maxed out, they gave me an option to pay for the "Meetup+" subscription. Also, to make a connection, the other person has to choose you too!
 
 **To make the most of your Meetup App connection limit, first:**
 
