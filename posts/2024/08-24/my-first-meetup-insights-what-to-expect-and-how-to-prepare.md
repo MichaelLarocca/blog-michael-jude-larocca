@@ -68,7 +68,7 @@ Upon arriving at the Code & Coffee Meetup at "The Yard" in Brooklyn, New York, I
 
 ### A Warm Greeting
 
-Fortunately, I quickly rebounded from the embarrassing sign-in problem. Two people from my online social network recognized me and greeted me warmly: Code & Coffee host Steven Troy Gittens and Richard Choi. I recently gave both of them and Code & Coffee a shoutout in an article covering the highlights of "[THAT Conference](https://www.htmlallthethings.com/blog-posts/highlights-from-that-conference-wi-2024)," held in Wisconsin.
+Fortunately, I quickly rebounded from the embarrassing sign-in problem. Two people from my online social network recognized me and greeted me warmly: Code & Coffee host Steven Troy Gittens and Richard Choi. I recently gave both of them and Code & Coffee a shoutout in an article covering the highlights of "[THAT Conference](https://www.htmlallthethings.com/blog-posts/highlights-from-that-conference-wi-2024)," held in Wisconsin in 2024.
 
 **Based on my experience, to make your first in-person event more comfortable, plan on meeting people you know from social networks and consider becoming a content creator for even more potential recognizability.**
 
