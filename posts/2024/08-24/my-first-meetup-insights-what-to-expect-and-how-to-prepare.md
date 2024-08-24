@@ -192,6 +192,17 @@ Finally, I plan to attend meetups regularly because the more you do something, t
     
 * **Familiarize with the Venue**: Know how to navigate and exit the venue to avoid any potential embarrassment.
     
+---
+
+#### My Other Related Articles
+
+* [THAT Conference: THAT's Where the Best Networking Is At!](https://www.htmlallthethings.com/blog-posts/that-conference-thats-where-the-best-networking-is-at)
+
+* [Highlights From THAT Conference WI 2024](https://www.htmlallthethings.com/blog-posts/highlights-from-that-conference-wi-2024)
+
+* [AI and Developer Experience: Insights from James Quick at That Conference](https://selftaughttxg.com/2023/07-23/ai-and-developer-experience-insights-from-james-quick-at-that-conference/)
+
+* [Amazing Conferences for Developers in 2023](https://selftaughttxg.com/2023/01-23/amazing-conferences-for-developers-in-2023/)
 
 ---
 
