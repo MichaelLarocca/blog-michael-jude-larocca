@@ -9,7 +9,6 @@ tags:
 published: true
 date: "2024-08-26"
 ---
----
 
 #### Attending meetups can help advance your tech career. But what should you expect, and how should you prepare for your first one? I share my insights in this article to help you make the most of yours!
 
