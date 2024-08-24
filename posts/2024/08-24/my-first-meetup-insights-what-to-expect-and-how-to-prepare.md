@@ -40,6 +40,10 @@ Meetups also offer the chance to improve your public speaking skills through cas
 
 ---
 
+<iframe width="928" height="522" src="https://www.youtube.com/embed/Ln89-bTeh4E" title="Code &amp; Coffee Stories: Creating Space with Steve Chen" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+
+---
+
 ## What is Code & Coffee
 
 Code & Coffee, founded by [Steve Chen](https://www.linkedin.com/in/stevechendc), is a community-driven meetup group designed for developers and those who work with them, such as project managers, UX professionals, and data scientists. The group welcomes individuals at any experience level, from aspiring developers to seasoned professionals.
