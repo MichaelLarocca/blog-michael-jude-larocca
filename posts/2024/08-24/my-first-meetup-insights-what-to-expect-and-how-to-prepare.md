@@ -184,7 +184,7 @@ Finally, I plan to attend meetups regularly because the more you do something, t
     
 * **Connections**: Connect with attendees on other social platforms and exchange contact information (Twitter, LinkedIn, Discord, etc.)
     
-* **Meetup App Connection Limit**: Be aware of the 24-hour limit for connection requests on the Meetup App and plan accordingly. Remember, to make a connection, the other person has to choose you too!
+* **Meetup App Connection Limit**: Be aware of the 24-hour limit for connection requests on the Meetup App and plan accordingly. Remember, the free version allows only a limited number of connection requests, and to make a connection, the other person has to choose you, too!
     
 * **Familiarize with the Venue**: Know how to navigate and exit the venue to avoid any potential embarrassment.
     
