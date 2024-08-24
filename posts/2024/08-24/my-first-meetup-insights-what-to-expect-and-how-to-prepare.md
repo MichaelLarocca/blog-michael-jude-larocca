@@ -74,6 +74,10 @@ Fortunately, I quickly rebounded from the embarrassing sign-in problem. Two peop
 
 *As Kent Dodds, a well-respected figure in the developer community, stated in his THAT Conference Keynote presentation, "It's not what you know or who you know. It's who knows you and what they know about you!"*
 
+---
+
+###### **Photo taken by: [Andrew Aliaj](https://twitter.com/andrew_aliaj)**
+
 ![IMG_9055](img/08-26-24/IMG_9055.JPG)
 
 ###### *[Richard Choi](https://twitter.com/choir241) (left), [Steven Troy Gittens](https://twitter.com/troygittens) (middle), and [myself](https://twitter.com/mikejudelarocca) (right).*
