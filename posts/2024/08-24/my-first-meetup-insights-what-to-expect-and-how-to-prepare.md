@@ -35,7 +35,8 @@ Meetups also offer the chance to improve your public speaking skills through cas
 * **Career Advancement:** Discover job opportunities and get career advice from industry experts.
     
 * **Community Building:** Build lasting friendships and participate in an inclusive environment emphasizing belonging, safety, and trust.
-    
+
+*Now that you understand the benefits let's dive into what you can expect at a meetup event.*    
 
 ---
 
