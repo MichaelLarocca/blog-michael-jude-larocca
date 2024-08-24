@@ -162,7 +162,7 @@ After the event, you have 24 hours to connect with other attendees on the Meetup
 
 Now that I have attended my first in-person meetup event, I have a few plans to make the next one an even better experience.
 
-First, I need to write and practice my 7-second elevator pitch. It should clearly tell other attendees what I do and what I want to learn. A new approach I thought of is offering what I can teach others instead of asking for help. I can let others know that I am earning side income as a technical writer and offer to teach them what has been working for me if they are interested in blogging. With this approach, others will come to me, which I believe is more comfortable than going to them.
+First, I need to write and practice my 7-second elevator pitch. It should clearly convey what I do and what I want to learn. I'll also try a new approach: offering what I can teach others instead of asking for help. I will let others know I am earning side income as a technical writer and offer to teach them what has been working for me if they are also interested in writing. With this approach, others will come to me, which is more comfortable than approaching them.
 
 Next, I also plan to bring a computer to showcase my projects. Since my friends and family aren't programmers, I'm really looking forward to having my code reviewed by more experienced developers.
 
