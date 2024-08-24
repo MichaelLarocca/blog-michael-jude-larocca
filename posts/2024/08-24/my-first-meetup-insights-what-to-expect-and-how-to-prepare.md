@@ -88,7 +88,7 @@ We went to the third floor, formed a circle, and each gave a seven-second elevat
 
 **To help you perfect your elevator pitch, here are some tips:**
 
-1. **Prepare Your Pitch**: Write and practice a concise seven-second pitch that includes your name, interests, and tech goals.
+1. **Prepare Your Pitch**: Write and practice a concise seven-second pitch that includes your name, tech goals, and interests.
     
 2. **Practice Public Speaking**: Rehearse in front of a mirror or with friends to build confidence and reduce nervousness.
     
