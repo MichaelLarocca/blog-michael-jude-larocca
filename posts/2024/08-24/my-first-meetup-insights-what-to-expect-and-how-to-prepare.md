@@ -52,7 +52,7 @@ At Code & Coffee events, attendees engage in discussions, work on projects, seek
 
 *Currently,* [*Code & Coffee*](https://codeandcoffee.org/) *hosts events in 35 cities and is growing!*
 
-![code-and-coffee](img/08-26-24/code-and-coffee-logo.png)
+![code-and-coffee](img/08-26-24/code-and-coffe.png)
 
 ---
 
