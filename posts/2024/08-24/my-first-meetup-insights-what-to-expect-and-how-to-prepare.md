@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "My First Meetup Insights: What to Expect and How to Prepare"
 tags:
   [
     "networking",
