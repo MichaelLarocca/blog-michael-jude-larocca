@@ -222,4 +222,4 @@ So, take the plunge, attend your first Meetup, and start building your tech comm
 
 ---
 
-###### *Are you now confident in making the most of your first Meetup event? Do you have any additional tips or experiences to share? Please share the article and comment*
+###### *Are you now confident in making the most of your first Meetup event? Do you have any additional tips or experiences to share? Please share the article and comment!*
