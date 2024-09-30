@@ -128,7 +128,7 @@ The overall concept in achieving this is to create a new GitHub repository and t
 
 Before you push the starting project to your new GitHub repository, you need to download and unzip the file. If the project is not already a Git repository, you must first turn it into one. Once the project is unzipped and initiated as a Git repository, you must set the upstream to link your local project to the remote GitHub repository.
 
-This task may seem complicated at first, but it will become second nature after following the procedure several times. Being comfortable with GitHub is essential, as it is a vital tool for version control, collaboration, and project management. Learning how to use GitHub, both through this process and in general, will ultimately help you become a better developer
+This task may seem complicated at first, but it will become second nature after following the procedure several times. Being comfortable with GitHub is essential, as it is a vital tool for version control, collaboration, and project management. Learning how to use GitHub, both through this process and in general, will ultimately help you become a better developer!
 
 ---
 
