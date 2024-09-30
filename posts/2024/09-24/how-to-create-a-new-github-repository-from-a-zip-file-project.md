@@ -88,6 +88,8 @@ Once you have unzipped and prepped the provided practice project, it’s time to
 
 First, you need to set the “upstream.” In Git, an upstream is the remote repository where your local repository sends its changes. Setting the upstream links your local project to a remote GitHub repository, allowing you to push your changes online.
 
+#### Set the Upstream and Push from VS Code
+
 **In your VS Code terminal, add the remote repository URL:**
 
 ```bash
@@ -117,6 +119,8 @@ git commit -m "Initial commit"
 ```bash
 git push -u origin master
 ```
+
+*This command pushes your local commits to the remote repository and sets the upstream branch. The -u flag sets the upstream tracking, meaning future git push and git pull commands will default to this remote repository and branch.*
 
 ---
 
