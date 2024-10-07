@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "How Learning in Public and Networking Can Advance Your Career"
 tags:
   [
     "networking",
@@ -138,4 +138,4 @@ Start your journey today by sharing your learning experiences and connecting wit
 
 ---
 
-###### *Are you now ready to embrace learning in public and networking to advance your tech career? Have you already started seeing the benefits of these practices? Please share the article and comment*
+###### *Are you now ready to embrace learning in public and networking to advance your tech career? Have you already started seeing the benefits of these practices? Please share the article and comment!*
