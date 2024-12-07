@@ -100,7 +100,7 @@ While solving the challenge, Zoran introduces you to [coolors.co](https://coolor
 
 Zoran also teaches you how to use [Font Awesome](https://fontawesome.com/), a popular icon library that provides scalable vector icons for web projects, enhancing the user interface's visual appeal and functionality.
 
-![Google Fonts](img/12-09-24/GoogleFonts.jpg")
+![Google Fonts](img/12-09-24/GoogleFonts.jpg)
 
 Another valuable tool Zoran teaches you how to use is [Google Fonts](https://fonts.google.com/), a comprehensive library of open-source fonts that can be easily imported and used in your web projects. Google Fonts allows you to customize typography to align with your project's style, making your web pages more visually engaging and professional.
 
