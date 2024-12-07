@@ -14,7 +14,7 @@ date: "2024-12-09"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733442582936/25fe24ba-5451-451a-a0b4-c648cf7534c6.jpeg align="center")
+![TN-TXG-122](img/12-09-24/TN-TXG-122.jpg)
 
 ---
 
@@ -92,15 +92,15 @@ In this YouTube video, you'll learn how to set up a color palette, check color c
 
 *Additional topics include adding colors to UI, tweaking CSS Grid sizing and HSL colors, refining UI, using Font Awesome, making mobile responsive UI, and adding interactivity to Card UI.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733431252482/1435c0e7-cb26-4440-898c-a63c89d67ced.jpeg align="center")
+![coolors](img/12-09-24/coolors.jpg)
 
 While solving the challenge, Zoran introduces you to [coolors.co](https://coolors.co/), a versatile online tool that helps designers generate, save, and share beautiful color palettes for their creative projects. This is especially handy for developers who are not familiar with color schemes. Using pre-made color palettes ensures your designs are visually appealing and cohesive, saving time and effort in the creative process.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733431377007/8d53965b-359e-4a74-9bb0-5c4684fb77ca.jpeg align="center")
+![Font Awesome](img/12-09-24/FontAwesome.jpg)
 
 Zoran also teaches you how to use [Font Awesome](https://fontawesome.com/), a popular icon library that provides scalable vector icons for web projects, enhancing the user interface's visual appeal and functionality.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733431456594/40ca7cae-c0a8-43bd-aee3-38ff38f99fe7.jpeg align="center")
+![Google Fonts](img/12-09-24/GoogleFonts.jpg")
 
 Another valuable tool Zoran teaches you how to use is [Google Fonts](https://fonts.google.com/), a comprehensive library of open-source fonts that can be easily imported and used in your web projects. Google Fonts allows you to customize typography to align with your project's style, making your web pages more visually engaging and professional.
 
@@ -114,13 +114,13 @@ Another valuable tool Zoran teaches you how to use is [Google Fonts](https://fon
 
 #### Carl Storms [(@theBIMsider)](twitter.com/thebimsider)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733583202017/db238cbc-aaab-4a70-97a8-cdf5208111d4.jpeg align="center")
+![Carl](img/12-09-24/Carl.jpg)
 
 [Carl Storms](https://github.com/TheBIMsider) went above and beyond when solving the Day 4 challenge, “**Christmas Movie Emoji Quiz**,“ by adding a common movie name variation functionality to accommodate close guesses and deploying it from GitHub! This coding challenge asks participants to create an app that tests players' ability to identify Christmas movies from emoji clues. Players are given three guesses per movie, with feedback provided after each attempt.
 
 **Carl first completed the required challenge by developing a dynamic game that randomly selects emoji sets from a predefined list, ensuring each film is used only once. Then, he imaginatively wrote code for smart title comparison functionality that accounts for common variations and uses a similarity algorithm to accept close matches, enhancing the game's flexibility. Well done, Carl!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733587746563/2e0d8dbe-0e82-4792-9007-efd7dd82f178.jpeg align="center")
+![Carl-Day-4](img/12-09-24/Carl-Day-4.jpg)
 
 *Carl Storms, also known as the BIMsider, has over 25 years of experience in the AECO industry and is on a journey to learn new coding tricks, including JavaScript, CSS, HTML, C#, and Python. As the Head of Community, Advocacy, and Technology at Newforma, he champions BIM, explores coding, and delves into AI.*
 
@@ -137,7 +137,7 @@ Carl shares his insights through articles on [The BIMsider](https://thebimsider.
 
 #### Kirsty [(@km\_fsdev)](twitter.com/km_fsdev)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733439375835/780bd9cf-c440-4b1e-9fb4-7aa48ec4d491.jpeg align="center")
+![Kristy](img/12-09-24/Kristy.jpg)
 
 For the day five challenge, "**Find The Anagrams**," Kirsty improved her coding skills by broadening her current understanding of Regex; after all, that's what coding challenges are all about!
 
@@ -202,7 +202,7 @@ console.log(isAnAnagram);
 
 #### Drew Buchanan [(@ChironTheMage)](twitter.com/ChironTheMage)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733506635443/a7931d1f-e943-4539-b771-8e5c9ff6f2a7.jpeg align="center")
+![Drew](img/12-09-24/Drew.jpeg)
 
 [Drew Buchanan](https://github.com/DrewBuchanan) has been hard at work, not only taking on Scrimba’s JavaScriptmas challenges but also tackling **Advent of Code** and **LeetCode** challenges! What a feat!
 
@@ -210,7 +210,7 @@ Drew is a software developer based in the Twin Cities of Minnesota. He has over 
 
 **What specifically caught my eye was Drew’s ASCII Christmas tree! I’ve always been fond of ASCII games and art, and this creation captures that charm. With its colorful characters, the ASCII Christmas tree stands out brilliantly. It illuminates the coding challenge landscape shared on social media, showcasing Drew as a star coder, much like the star atop his ASCII tree!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733508144094/1b4dcc54-3d50-4300-8b15-484673c824b5.png align="center")
+![ascii_tree](img/12-09-24/ascii_tree.PNG)
 
 **Links to Drew Buchanan's solutions:**
 
@@ -227,7 +227,7 @@ You can also follow Drew Buchanan on Bluesky Social: [chironthemage.bsky.social]
 
 #### Digbijaya Lenka [@DigbijayaL](https://x.com/digbijayal)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733589100152/d282d12a-9af9-4a8c-824f-cf8390628a46.jpeg align="center")
+![Digbijaya Lenka](img/12-09-24/Dig.jpg)
 
 Digbijaya Lenka took a different approach to solving Day Seven's “**SaaS Landing Page**” challenge. In this UI/UX Design challenge, coders are asked to write HTML and CSS code to complete it. However, Digbijaya opted out of CSS and tackled the challenge using Tailwind instead!
 
@@ -239,7 +239,7 @@ Digbijaya Lenka took a different approach to solving Day Seven's “**SaaS Landi
 <script src="https://cdn.tailwindcss.com"></script>
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733589116595/9d919526-029f-4da2-8f07-b82b0673ac05.jpeg align="center")
+![Digbijaya Day 7](img/12-09-24/Dig-Day-7.jpg)
 
 *The code block below shows that the “On-chain Record” div uses Tailwind CSS to style a card component with a clean and modern design.*
 
@@ -301,7 +301,7 @@ Digbijaya Lenka took a different approach to solving Day Seven's “**SaaS Landi
 
 #### **Scrimba has once again impressed and inspired me! You can read my full** [**Scrimba review**](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) **on my 12/13/2020 post.**
 
-![Per Harald Borgen Quote](https://selftaughttxg.com/static/98b62403b09a4ed98dfc3b072da19205/5fd3e/PerHaraldBorgen-Quote.png align="left")
+![Per Harald Borgen Quote](https://selftaughttxg.com/static/98b62403b09a4ed98dfc3b072da19205/5fd3e/PerHaraldBorgen-Quote.png)
 
 #### ***"That's one of the best Scrimba reviews I've ever read,*** [***@MikeJudeLarocca***](https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw)***. Thank you! 🙏 "***
 
@@ -309,7 +309,7 @@ Digbijaya Lenka took a different approach to solving Day Seven's “**SaaS Landi
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733340383225/9e421457-920b-479a-935f-5a0047c9d208.png align="center")
+![HATT](img/12-09-24/HATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
