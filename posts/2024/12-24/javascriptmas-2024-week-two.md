@@ -53,9 +53,11 @@ As I do every year, I will participate in JavaScriptmas and share my solutions o
 
 ---
 
-#### Bree Hall [(@bytesofbree)](twitter.com/bytesofbree)
+#### Bree Hall [(@bytesofbree)](https://x.com/bytesofbree)
 
 <iframe width="928" height="522" src="https://www.youtube.com/embed/9curATl9img"></iframe>
+
+---
 
 Bree Hall recorded a step-by-step YouTube video covering how she solved the Day 1 challenge, “**Lists Without Duplicates**,” to help teach YOU how to code!
 
@@ -80,11 +82,13 @@ Be sure to check out Bree Hall’s website, “[bytesofbree](https://www.bytesof
 
 ---
 
-#### Zoran Jambor [(@cssweekly)](twitter.com/cssweekly)
+#### Zoran Jambor [(@cssweekly)](https://x.com/cssweekly)
 
 <iframe width="928" height="522" src="https://www.youtube.com/embed/pHOUAoAX1MQ"></iframe>
 
-The talented Zoran Jambor also created a valuable YouTube video. His video articulately covers solving the Day 2 challenge, “**Ugly Advent Calendar**,” while turning it into a mini UI/UX design course!
+---
+
+Zoran Jambor also created a valuable YouTube video. His video articulately covers solving the Day 2 challenge, “**Ugly Advent Calendar**,” while turning it into a mini UI/UX design course!
 
 **His comprehensive guide teaches YOU how to improve poor user interfaces using fundamental UI design principles, including valuable tips to elevate your UI skills!**
 
@@ -112,9 +116,11 @@ Another valuable tool Zoran teaches you how to use is [Google Fonts](https://fon
 
 ---
 
-#### Anthony Sistilli [(@SistilliAnthony )](twitter.com/)
+#### Anthony Sistilli [(@SistilliAnthony )](https://x.com/SistilliAnthony)
 
 <iframe width="928" height="522" src="https://www.youtube.com/embed/hgCglc17feo"></iframe>
+
+---
 
 Anthony Sistilli skillfully solved the Day 3 challenge, “**Santa's Emoji Hac**,” in a YouTube video showing us how to solve the base challenge and the stretch goal in detail!
 
@@ -160,13 +166,13 @@ console.log(isEmoji("Just read your article 😠"));
 
 *Anthony Sistilli has over 100k subscribers on YouTube, where he created a place for tech & startup enthusiasts to hang out, learn, and build cool things together!*
 
-You can find all of Anthony's links at [links.sistilli.dev](links.sistilli.dev)
+You can find all of Anthony's links at [links.sistilli.dev](https://links.sistilli.dev/)
 
 [***🔗 Link to the YouTube video***](https://www.youtube.com/watch?v=hgCglc17feo&t)
 
 ---
 
-#### Carl Storms [(@theBIMsider)](twitter.com/thebimsider)
+#### Carl Storms [(@theBIMsider)](https://x.com/thebimsider)
 
 ![Carl](img/12-09-24/Carl.jpg)
 
@@ -189,7 +195,7 @@ Carl shares his insights through articles on [The BIMsider](https://thebimsider.
 
 ---
 
-#### Kirsty [(@km\_fsdev)](twitter.com/km_fsdev)
+#### Kirsty [(@km\_fsdev)](https://x.com/km_fsdev)
 
 ![Kristy](img/12-09-24/Kristy.jpg)
 
@@ -254,7 +260,7 @@ console.log(isAnAnagram);
 
 ---
 
-#### Drew Buchanan [(@ChironTheMage)](twitter.com/ChironTheMage)
+#### Drew Buchanan [(@ChironTheMage)](https://x.com/ChironTheMage)
 
 ![Drew](img/12-09-24/Drew.jpeg)
 
