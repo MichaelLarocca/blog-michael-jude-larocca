@@ -336,7 +336,7 @@ Digbijaya Lenka took a different approach to solving the Day 7 “**SaaS Landing
 
 **Digbijaya used Tailwind exclusively for the entire project, and you can see in his code that he commented out the entire CSS file! He demonstrates once again that there are many ways to tackle programming challenges. Great work, Digbijaya!**
 
-[***🔗 Link to the scrim***](https://scrimba.com/javascriptmas-c0javascriptmas/~0xro/s0pmc8l9hv/s0j4a7nnk6/head)
+[***🔗 Link to the scrim***](https://scrimba.com/exercise-s0pmc8l9hv)
 
 ---
 
