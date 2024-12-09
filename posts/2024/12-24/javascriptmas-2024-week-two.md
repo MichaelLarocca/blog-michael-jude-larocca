@@ -57,7 +57,7 @@ As I do every year, I will participate in JavaScriptmas and share my solutions o
 
 <iframe width="928" height="522" src="https://www.youtube.com/embed/9curATl9img"></iframe>
 
-The beautiful Bree Hall recorded a step-by-step YouTube video covering how she solved the day one challenge, “**Lists Without Duplicates**,” to help teach YOU how to code!
+Bree Hall recorded a step-by-step YouTube video covering how she solved the Day 1 challenge, “**Lists Without Duplicates**,” to help teach YOU how to code!
 
 ***The challenge:*** *Grandpa has a Christmas wish list to manage the gifts he plans to request. However, he often accidentally adds the same item more than once, and the list becomes cluttered with duplicates.*
 
@@ -84,7 +84,7 @@ Be sure to check out Bree Hall’s website, “[bytesofbree](https://www.bytesof
 
 <iframe width="928" height="522" src="https://www.youtube.com/embed/pHOUAoAX1MQ"></iframe>
 
-The talented Zoran Jambor also created a valuable YouTube video. His video articulately covers solving the day two challenge, “**Ugly Advent Calendar**,” while turning it into a mini UI/UX design course!
+The talented Zoran Jambor also created a valuable YouTube video. His video articulately covers solving the Day 2 challenge, “**Ugly Advent Calendar**,” while turning it into a mini UI/UX design course!
 
 **His comprehensive guide teaches YOU how to improve poor user interfaces using fundamental UI design principles, including valuable tips to elevate your UI skills!**
 
@@ -109,6 +109,60 @@ Another valuable tool Zoran teaches you how to use is [Google Fonts](https://fon
 **You can learn much more about Zoran Jambor on his** [**website**](https://zoranjambor.com/)**!**
 
 [***🔗 Link to the YouTube video***](https://www.youtube.com/watch?v=pHOUAoAX1MQ)
+
+---
+
+#### Anthony Sistilli [(@SistilliAnthony )](twitter.com/)
+
+<iframe width="928" height="522" src="https://www.youtube.com/embed/hgCglc17feo"></iframe>
+
+Anthony Sistilli skillfully solved the Day 3 challenge, “**Santa's Emoji Hac**,” in a YouTube video showing us how to solve the base challenge and the stretch goal in detail!
+
+*The challenge involves creating functions to replace the provided negative emoji shortcodes with positive emojis within a sentence. For the stretch goal, replace any negative emojis directly added to the text with positive ones.*
+
+```javascript
+const hackedEmojis = {
+    "angry":            "🎁",   // 😠
+    "thumbsdown":       "👏",   // 👎  
+    "man_facepalming":  "🎅",   // 🤦‍♂️
+    "cry":              "‍😄",   // 😭
+    "puke":             "🤩"    // 🤮
+}
+```
+
+For example, `:angry:`, which represents a negative emoji, should be replaced with the provided corresponding emoji "🎁" ( I hope no one gets angry reading this article! ).
+
+```javascript
+console.log(emojifyPhrase("Just read your article :angry:"));
+    Just read your article 🎁
+```
+
+For the stretch goal of replacing emojis directly —*😠 should be directly replaced with 🎁*— Anthony searched Stack Overflow for a Regex expression to detect emojis: If an emoji is detected, it returns `true`.
+
+```javascript
+const hackedEmojis = {
+    "😠": "🎁",   
+    "👎": "👏",      
+    "🤦‍♂️": "🎅",       
+    "😭": "‍😄",   
+    "🤮": "🤩"        
+}
+
+function isEmoji(char) {
+  const emojiRegex = /[\p{Emoji_Presentation}|\p{Emoji}]/gu;
+  return emojiRegex .test(char);	
+}
+console.log(isEmoji("Just read your article 😠"));
+    true
+```
+
+**Watch the entire YouTube video to see how Anthony uses these coding concepts to solve the base and stretch goal challenges!**
+
+*Anthony Sistilli has over 100k subscribers on YouTube, where he created a place for tech & startup enthusiasts to hang out, learn, and build cool things together!*
+
+You can find all of Anthony's links at [links.sistilli.dev](links.sistilli.dev)
+
+[***🔗 Link to the YouTube video***](https://www.youtube.com/watch?v=hgCglc17feo&t)
 
 ---
 
@@ -229,7 +283,7 @@ You can also follow Drew Buchanan on Bluesky Social: [chironthemage.bsky.social]
 
 ![Digbijaya Lenka](img/12-09-24/Dig.jpg)
 
-Digbijaya Lenka took a different approach to solving Day Seven's “**SaaS Landing Page**” challenge. In this UI/UX Design challenge, coders are asked to write HTML and CSS code to complete it. However, Digbijaya opted out of CSS and tackled the challenge using Tailwind instead!
+Digbijaya Lenka took a different approach to solving the Day 7 “**SaaS Landing Page**” challenge. In this UI/UX Design challenge, coders are asked to write HTML and CSS code to complete it. However, Digbijaya opted out of CSS and tackled the challenge using Tailwind instead!
 
 [*Tailwind CSS*](https://tailwindcss.com/) *is a utility-first CSS framework that allows developers to build custom designs without leaving their HTML. Unlike traditional CSS, which requires writing custom styles, Tailwind provides a set of utility classes that can be directly applied to HTML elements. This approach enables rapid prototyping and design consistency, as developers can compose complex designs by combining these utility classes. Tailwind's flexibility and efficiency make it a popular choice for developers looking to streamline their styling process and maintain a clean, maintainable codebase.*
 
