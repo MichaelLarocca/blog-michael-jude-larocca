@@ -334,18 +334,15 @@ Digbijaya Lenka took a different approach to solving the Day 7 “**SaaS Landing
 
 ---
 
-!\[HOLD\](HOLD)
+![Day 1 and 2](img/day-1and2.png)
 
 ### ❄ My JavaScriptmas submissions ❄
 
 | **Date** | **Scrim** |
 | --- | --- |
+| 12/01/2024 | [Grandpa's Gift List](https://scrimba.com/javascriptmas-c0javascriptmas/~07tn/s0b1lfvfka/head) |
+| 12/02/2024 | [Ugly Advent Calendar](https://scrimba.com/s06j6m7/s0uukfplts/head) |
 | 12/03/2024 | [Santa's Emoji Hack](https://scrimba.com/javascriptmas-c0javascriptmas/~02zu) |
-| 12/04/2024 | [HOLD](HOLD) |
-| 12/05/2024 | [HOLD](HOLD) |
-| 12/06/2024 | [HOLD](HOLD) |
-| 12/07/2024 | [HOLD](HOLD) |
-| 12/08/2024 | [HOLD](HOLD) |
 
 ---
 
