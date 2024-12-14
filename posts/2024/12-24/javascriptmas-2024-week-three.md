@@ -14,7 +14,7 @@ date: "2024-12-16"
 
 ---
 
-![]()
+![TN-TXG-121](img/12-16-24/TN-TXG-123.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ As I do every year, I will participate in JavaScriptmas and share my solutions o
 
 #### Carl Storms [(@theBIMsider)](https://x.com/thebimsider)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733939270039/dfc3cbaa-62f2-457e-9874-e8828da6ce16.jpeg align="center")
+![X-Car](img/12-16-24/X-Carl.jpg)
 
 Carl Storms lives up to his name by wowing us with his winter wonderland snow “storm” globe! The Day 6 challenge, “**Snow Globe Animation**,” involves making snowflakes fall inside a snow globe. Each snowflake must have a random starting position, animation duration, and size.
 
@@ -63,7 +63,7 @@ With Carl’s addition of **gentle shake** and **hard shake** buttons, you c
 
 **Carl completed additional stretch goals by adding buttons to start and resume the snowfall and change the snowflakes, allowing users to choose from Christmas candies, snowmen, or gift emojis. Well done, Carl!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733939278581/183d7070-c68e-4f5f-a8fb-7832e42d6a52.jpeg align="center")
+![SnowGlobe](img/12-16-24/Carl-SnowGlobe.jpg)
 
 *Carl Storms, also known as the BIMsider, has over 25 years of experience in the AECO industry and is on a journey to learn new coding tricks, including JavaScript, CSS, HTML, C#, and Python. As the Head of Community, Advocacy, and Technology at Newforma, he champions BIM, explores coding, and delves into AI.*
 
@@ -80,7 +80,7 @@ Carl shares his insights through articles on [The BIMsider](https://thebimsider.
 
 #### **Lynjai Jimenez (**[**@imdesignsllc**](https://x.com/imdesignsllc)**)**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733875270015/9e850a3a-88d0-48cc-96c2-c3381406c9a8.jpeg align="center")
+![Lynjai_Jimenez](img/12-16-24/Lynjai_Jimenez.jpg)
 
 Lynjai Jimenez has once again impressed the JavaScriptmas community, this time by adding video animation to the Day 9 challenge, “**Which recipe should Grandma make**?”
 
@@ -88,7 +88,7 @@ Has TikTok runied Christmas? This challenge involves helping Grandma update her 
 
 **Lynjai solved the JavaScript portion of the coding challenge, but what caught everyone's eye was her addition of the delightful dancing gingerbread girl video displayed as the background of her project!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733870520155/7627e05e-cb66-4cc9-9214-5018cf078e16.jpeg align="center")
+![video](img/12-16-24/video.jpg)
 
 To set a video as a background, Lynjai first added the video to the images folder. She then used the `<video>` element with `autoplay`, `muted`, and `loop` attributes for seamless playback and applied the class `video-background` for styling. The `<source>` tag specifies the path and type of the video file, ensuring proper display.
 
@@ -118,7 +118,7 @@ Before tackling the JavaScriptmas challenge, Urvashi provides a quick pre-requis
 clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
 ```
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733865784431/c8d554a6-8a9c-4dce-97f7-7c77fd1b9f85.jpeg align="center")
+![clip-path](img/12-16-24/clip-path.jpg)
 
 Urvashi also demonstrates how to combine simple shapes to create more complex shapes, which is crucial for solving the Day 10 JavaScriptmas challenge. She illustrates how to make a heart shape, first with pen and graph paper and then with code, combining three divs within a container.
 
@@ -230,7 +230,7 @@ HOLD
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733784976888/b81f0a7b-1489-45af-93e9-3f502ed6fdda.png align="center")
+![day-1and2](img/day-1and2.png)
 
 ### ❄ My JavaScriptmas submissions ❄
 
