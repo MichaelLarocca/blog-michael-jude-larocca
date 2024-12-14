@@ -226,7 +226,80 @@ function handleCardClick(ev) {
 
 ---
 
-HOLD
+#### **Tricellulin (**[**@Tricellulin**](https://https://discord.com/)**)**
+
+![Grinch](img/12-16-24/Grinch.jpg)
+
+#### How the Grinch Hacked Christmas!
+
+Tricellulin stole the spotlight on Discord by solving the Day 12 challenge, 
+"Hack Santa's Merch Store," with a Dr. Seuss Grinch theme!
+
+Santa is trying to monetize Christmas by setting up a merch store. But is the merch store secure? It is up to an ethical hacker to perform a penetration test!
+
+*Tricellulin not only tackled the challenge but also developed a "HOT-FIX" code to repair the website, preventing any future Grinch-like attempts to ruin Christmas!*
+
+**How did he hack in and then fix the site? He broke it in just two quick steps, and on the third, he set it back right!**
+1. First, he rendered a button that logs 'You have been hacked 🏴‍☠️' to the console when hovered over to prove there are vulnerabilities.
+2. Second, he changed the product title h2 to "Do not buy this."
+3. Third, he fixed the code, so it's unhackable!
+
+**Below is the console log:**
+```
+You have been hacked 🏴‍☠️ ... in case you haven't noticed
+›
+Product added to basket.
+›
+diverting payment to my account 💰
+›
+accessing financial details...
+›
+name: Santa Claus | First Bank of Lapland 25-12-00 | cc: 8463859365949 PIN: 2512 | password: J1ngleB3ll$
+›
+name: Sugarplum Mary | Sweet Treat Savings 15-12-25 | cc: 1234567890123 PIN: 1512 | password: SugarAndSp1ce
+›
+name: Wunorse Openslae | SleighMaster Credit Union 02-12-80 | cc: 2345678901234 PIN: 138 | password: F1xItF4st!
+›
+name: Bushy Evergreen | ToyMakers Bank 19-12-00 | cc: 3456789012345 PIN: 1912 | password: Mach1neW1zard
+›
+name: Alabaster Snowball | List Keepers Bank 24-12-77 | cc: 4567890123456 PIN: 2412 | password: NaughtyOrNice
+›
+name: Pepper Minstix | Secret Village Bank 31-12-01 | cc: 5678901234567 PIN: 3112 | password: SecretK33p3r
+›
+name: Elf Grumbles | Quality Control Bank 14-12-15 | cc: 6789012345678 PIN: 1412 | password: ToyT3st3r
+›
+name: Elf Bernard | Workshop Council Bank 01-01-99 | cc: 7890123456789 PIN: 65 | password: HeadHonch0
+›
+name: Mary Claus | Lapland Family Bank 14-02-02 | cc: 8473629104827 PIN: 1402 | password: MrsCl4us123
+›
+Seriously, I hacked your store 🏴‍☠️ 100K Bitcoins and we can settle this!! It's cheap, I know, but I'm feeling generous in the spirit of Christmas and all.
+```
+
+*Tricelluin explains that the most complex task for him was passing his script to the page, which took the better part of two hours to figure out. Ironically, he reveals that the solution was achieved with a rather unassuming "import('./mySolution.js');" statement, which gave him full control to tweak the page as he wanted.*
+
+```javascript
+├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+▻  HOT-FIX
+├┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈
+*/
+const microSanitize = (str) => {
+    // return str // uncomment for hack test
+    const escapedInput = str.replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#039;')
+    return escapedInput
+        .replace(/eval/ig, '')
+        .replace(/javascript:/ig, '')
+        .replace(/script:/ig, '')
+}
+/*┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈┈*/
+```
+
+And so, with a giggle and a cheer, Tricellulin saved JavaScriptmas, spreading joy far and near! With a website now safe and a heart full of glee, he secured Santa’s merch store, so merry it could be! 🎄✨
+
+[***🔗 Link to scrim***](https://scrimba.com/javascriptmas-c0javascriptmas/~06y/s09el1h8se/head)
 
 ---
 
