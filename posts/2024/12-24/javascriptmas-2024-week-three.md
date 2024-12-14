@@ -248,7 +248,7 @@ HOLD
 
 #### **Scrimba has once again impressed and inspired me! You can read my full** [**Scrimba review**](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) **on my 12/13/2020 post.**
 
-![Per Harald Borgen Quote](https://selftaughttxg.com/static/98b62403b09a4ed98dfc3b072da19205/5fd3e/PerHaraldBorgen-Quote.png align="left")
+![Per Harald Borgen Quote](https://selftaughttxg.com/static/98b62403b09a4ed98dfc3b072da19205/5fd3e/PerHaraldBorgen-Quote.png)
 
 #### ***"That's one of the best Scrimba reviews I've ever read,*** [***@MikeJudeLarocca***](https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw)***. Thank you! 🙏 "***
 
@@ -256,7 +256,7 @@ HOLD
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733340383225/9e421457-920b-479a-935f-5a0047c9d208.png align="center")
+![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733340383225/9e421457-920b-479a-935f-5a0047c9d208.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
