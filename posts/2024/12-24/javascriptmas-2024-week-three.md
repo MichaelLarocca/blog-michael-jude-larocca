@@ -244,6 +244,15 @@ Santa is trying to monetize Christmas by setting up a merch store. But is the me
 2. Second, he changed the product title h2 to "Do not buy this."
 3. Third, he fixed the code, so it's unhackable!
 
+**Paste the following code into the "Leave a review" input field to initiate the hack.**
+###### *Note: Unremark line 38 in the index.js file ( // return str // uncomment for hack test)*
+```javascript
+//PASTE BUTTON CODE ON REVIEW FIELD TO HIJACK PAGE. Works on mouseover.
+const hackingCode = `
+<button id="grinchThis" onmouseover="import('./mySolution.js');">YOU WIN! Exclusive pay 2 get 1 promotion Click here for a BIG RIPOFF!</button>
+`
+```
+
 **Below is the console log:**
 ```
 You have been hacked 🏴‍☠️ ... in case you haven't noticed
