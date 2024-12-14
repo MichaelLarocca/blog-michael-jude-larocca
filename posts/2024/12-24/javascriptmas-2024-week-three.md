@@ -237,7 +237,7 @@ Tricellulin stole the spotlight on Discord by solving the Day 12 challenge,
 
 Santa is trying to monetize Christmas by setting up a merch store. But is the merch store secure? It is up to an ethical hacker to perform a penetration test!
 
-*Tricellulin not only tackled the challenge but also developed a "HOT-FIX" code to repair the website, preventing any future Grinch-like attempts to ruin Christmas!*
+*Tricellulin not only solved the challenge but also developed a "HOT-FIX" code to repair the website, preventing any future Grinch-like attempts to ruin Christmas!*
 
 **How did he hack in and then fix the site? He broke it in just two quick steps, and on the third, he set it back right!**
 1. First, he rendered a button that logs 'You have been hacked 🏴‍☠️' to the console when hovered over to prove there are vulnerabilities.
