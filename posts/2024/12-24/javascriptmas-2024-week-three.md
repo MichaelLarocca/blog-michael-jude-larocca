@@ -357,6 +357,17 @@ And so, with a giggle and a cheer, Tricellulin saved JavaScriptmas, spreading jo
 
 ---
 
+**Get a 20% Discount with This Affiliate Link!**
+
+Use this [affiliate link](https://scrimba.com/?via=MichaelLarocca) for a special 20% discount! (If a higher discount is currently available, that will be applied instead.)
+- **Important:** This discount is for new accounts only.
+- Click the link to explore the new Scrimba 2.0!
+- Create an account, and you can upgrade to pro content, where you should see the 20% discount listed.
+
+**Disclosure**: This article contains affiliate links. I may earn a commission on any purchases made through these links at no extra cost. Your support helps me continue producing valuable content. Thank you!
+
+---
+
 ### **Conclusion**
 
 Scrimba's annual JavaScriptmas event is a fun, festive way to commit to coding daily. Whether you are a new coder or a seasoned one, you can share your work with the community, make new friends, and even win prizes!
@@ -371,4 +382,4 @@ Don't miss out on this exciting coding event! Participate in Scrimba's JavaScrip
 
 ---
 
-###### ***Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!***
+###### ***Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment***
