@@ -382,4 +382,4 @@ Don't miss out on this exciting coding event! Participate in Scrimba's JavaScrip
 
 ---
 
-###### ***Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment***
+###### ***Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!***
