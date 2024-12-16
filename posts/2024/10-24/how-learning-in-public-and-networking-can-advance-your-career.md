@@ -126,6 +126,17 @@ My work opportunities, gained through learning in public and networking, also le
 
 ---
 
+**Get a 20% Discount with This Affiliate Link!**
+
+Use this [affiliate link](https://scrimba.com/?via=MichaelLarocca) for a special 20% discount! (If a higher discount is currently available, that will be applied instead.)
+- **Important:** This discount is for new accounts only.
+- Click the link to explore the new Scrimba 2.0!
+- Create an account, and you can upgrade to pro content, where you should see the 20% discount listed.
+
+**Disclosure**: This article contains affiliate links. I may earn a commission on any purchases made through these links at no extra cost to you. Your support helps me continue producing valuable content. Thank you!
+
+---
+
 ### Conclusion
 
 Learning in public and actively networking are continually providing career-advancing opportunities for me, and I believe that if you follow the same technique, you will achieve similar success!
