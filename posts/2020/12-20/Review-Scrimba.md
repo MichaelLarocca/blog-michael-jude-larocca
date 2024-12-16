@@ -140,11 +140,14 @@ Level up your JavaScript skills with a daily coding challenge from December 1st 
 
 ---
 
-### 10% Scrimba Discount!
+**Get a 20% Discount with This Affiliate Link!**
 
-#### If you're interested in taking a paid course from Scrimba, be sure to use the discount code provided: https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join
+Use this [affiliate link](https://scrimba.com/?via=MichaelLarocca) for a special 20% discount! (If a higher discount is currently available, that will be applied instead.)
+- **Important:** This discount is for new accounts only.
+- Click the link to explore the new Scrimba 2.0!
+- Create an account, and you can upgrade to pro content, where you should see the 20% discount listed.
 
-###### *Valid for 10% off semester and annual plans. Expires on July 31st, 2024*
+**Disclosure**: This article contains affiliate links. I may earn a commission on any purchases made through these links at no extra cost to you. Your support helps me continue producing valuable content. Thank you!
 
 ---
 
