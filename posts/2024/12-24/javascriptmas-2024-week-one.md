@@ -164,6 +164,17 @@ Lynjai also turned the calendar into a countdown! Each date box clicked brings y
 
 ---
 
+**Get a 20% Discount with This Affiliate Link!**
+
+Use this [affiliate link](https://scrimba.com/?via=MichaelLarocca) for a special 20% discount! (If a higher discount is currently available, that will be applied instead.)
+- **Important:** This discount is for new accounts only.
+- Click the link to explore the new Scrimba 2.0!
+- Create an account, and you can upgrade to pro content, where you should see the 20% discount listed.
+
+**Disclosure**: This article contains affiliate links. I may earn a commission on any purchases made through these links at no extra cost to you. Your support helps me continue producing valuable content. Thank you!
+
+---
+
 ### **Conclusion**
 
 Scrimba's annual JavaScriptmas event is a fun, festive way to commit to coding daily. Whether you are a new coder or a seasoned one, you can share your work with the community, make new friends, and even win prizes!
