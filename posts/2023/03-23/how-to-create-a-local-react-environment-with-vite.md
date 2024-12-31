@@ -410,6 +410,21 @@ Your site is now deployed! Your terminal should look similar to the screenshot b
 
 ---
 
+### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
+
+Become a hireable developer with Scrimba Pro! Discover a world of coding knowledge with full access to all courses, hands-on projects, and a vibrant community. You can [read my article](https://selftaughttxg.com/2021/06-21/06-07-21/) to learn more about my exceptional experiences with Scrimba and how it helps many become confident, well-prepared web developers!
+
+###### ***Important:*** *This discount is for new accounts only. If a higher discount is currently available, it will be applied automatically.*
+
+**How to Claim Your Discount:**
+1. Click [the link](https://scrimba.com/?via=MichaelLarocca) to explore the new Scrimba 2.0.
+2. Create a new account.
+3. Upgrade to Pro; the 20% discount will automatically apply.
+
+##### ***Disclosure:*** *This article contains affiliate links. I will earn a commission from any purchases made through these links at no extra cost to you. Your support helps me continue creating valuable content. Thank you!*
+
+---
+
 ### Conclusion
 Creating a local React environment using Vite is a practical way to get hands-on experience with React and improve your skills. By following the step-by-step instructions in this tutorial article, you can easily create a Vite project, remove the default boilerplate, create simple React components, and add basic CSS styling.
 
