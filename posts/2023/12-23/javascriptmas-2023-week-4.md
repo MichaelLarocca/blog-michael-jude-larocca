@@ -655,11 +655,18 @@ setTimeout(() => setInterval(toggleBlueLights, 800), 400);
 
 ---
 
-### **10% Scrimba Discount!**
+### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
-#### **If you're interested in taking a paid course from Scrimba, be sure to use the discount code provided:** [**https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join**](https://scrimba.com/pricing?coupon=Michael-Larocca-Discount-2023#join)
+Become a hireable developer with Scrimba Pro! Discover a world of coding knowledge with full access to all courses, hands-on projects, and a vibrant community. You can [read my article](https://selftaughttxg.com/2021/06-21/06-07-21/) to learn more about my exceptional experiences with Scrimba and how it helps many become confident, well-prepared web developers!
 
-###### ***Valid for an additional 10% off semester and annual plans. Expires on July 31st, 2024***
+###### ***Important:*** *This discount is for new accounts only. If a higher discount is currently available, it will be applied automatically.*
+
+**How to Claim Your Discount:**
+1. Click [the link](https://scrimba.com/?via=MichaelLarocca) to explore the new Scrimba 2.0.
+2. Create a new account.
+3. Upgrade to Pro; the 20% discount will automatically apply.
+
+##### ***Disclosure:*** *This article contains affiliate links. I will earn a commission from any purchases made through these links at no extra cost to you. Your support helps me continue creating valuable content. Thank you!*
 
 ---
 
