@@ -195,6 +195,21 @@ Never miss out on an upcoming Twitter Space again! Chris invites us to signup fo
 
 ---
 
+### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
+
+Become a hireable developer with Scrimba Pro! Discover a world of coding knowledge with full access to all courses, hands-on projects, and a vibrant community. You can [read my article](https://selftaughttxg.com/2021/06-21/06-07-21/) to learn more about my exceptional experiences with Scrimba and how it helps many become confident, well-prepared web developers!
+
+###### ***Important:*** *This discount is for new accounts only. If a higher discount is currently available, it will be applied automatically.*
+
+**How to Claim Your Discount:**
+1. Click [the link](https://scrimba.com/?via=MichaelLarocca) to explore the new Scrimba 2.0.
+2. Create a new account.
+3. Upgrade to Pro; the 20% discount will automatically apply.
+
+##### ***Disclosure:*** *This article contains affiliate links. I will earn a commission from any purchases made through these links at no extra cost to you. Your support helps me continue creating valuable content. Thank you!*
+
+---
+
 ### Conclusion
 
 Chris Miller's new Twitter Space show "Tech Talks" is already proving to be a MUST LISTEN to show. Tech Talks premise is to "get to know the person behind the tech," but with tech industry intervention from professionals such as Danny Thompson, it's proving to be much more! 
