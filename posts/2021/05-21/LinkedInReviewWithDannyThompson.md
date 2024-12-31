@@ -265,6 +265,21 @@ Danny also revealed an upcoming YouTube series where he will have four guests co
 
 ---
 
+### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
+
+Become a hireable developer with Scrimba Pro! Discover a world of coding knowledge with full access to all courses, hands-on projects, and a vibrant community. You can [read my article](https://selftaughttxg.com/2021/06-21/06-07-21/) to learn more about my exceptional experiences with Scrimba and how it helps many become confident, well-prepared web developers!
+
+###### ***Important:*** *This discount is for new accounts only. If a higher discount is currently available, it will be applied automatically.*
+
+**How to Claim Your Discount:**
+1. Click [the link](https://scrimba.com/?via=MichaelLarocca) to explore the new Scrimba 2.0.
+2. Create a new account.
+3. Upgrade to Pro; the 20% discount will automatically apply.
+
+##### ***Disclosure:*** *This article contains affiliate links. I will earn a commission from any purchases made through these links at no extra cost to you. Your support helps me continue creating valuable content. Thank you!*
+
+---
+
 ### Conclusion
 
 We now know that we only have six to ten seconds to hook the person reviewing our LinkedIn profile. We need to make our about section short and concise, and we need to include keywords to the jobs we want to attain correctly.
