@@ -314,6 +314,21 @@ We are hosting a live stream on **January 27th at 4pm GMT** [over on Youtube.](h
 
 ---
 
+### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
+
+Become a hireable developer with Scrimba Pro! Discover a world of coding knowledge with full access to all courses, hands-on projects, and a vibrant community. You can [read my article](https://selftaughttxg.com/2021/06-21/06-07-21/) to learn more about my exceptional experiences with Scrimba and how it helps many become confident, well-prepared web developers!
+
+###### ***Important:*** *This discount is for new accounts only. If a higher discount is currently available, it will be applied automatically.*
+
+**How to Claim Your Discount:**
+1. Click [the link](https://scrimba.com/?via=MichaelLarocca) to explore the new Scrimba 2.0.
+2. Create a new account.
+3. Upgrade to Pro; the 20% discount will automatically apply.
+
+##### ***Disclosure:*** *This article contains affiliate links. I will earn a commission from any purchases made through these links at no extra cost to you. Your support helps me continue creating valuable content. Thank you!*
+
+---
+
 ### Conclusion
 
 When learning to code, there will be times when you need to reference other programmers' work to get your code working. Research is part of the learning process. When you do reference others' code, please make sure to give them the credit they deserve.
