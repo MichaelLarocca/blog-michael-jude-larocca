@@ -94,7 +94,7 @@ In his Podcast special, Tom covered insights into effective learning strategies,
 
 ![Winners](img/12-30-25/Winners.JPG)
 
-Congratulations to the Grand Prize winners, [Ebube](https://x.com/EbubeAkukwe) and [Krishna](https://x.com/CodeKae)! Both winners received a 13” MacBook Air M3, merch from both MDN and Scrimba and lifetime access to Scrimba Pro! As JavaScriptmas is raffle-based, the two winners were drawn randomly, not based on their current coding skills.
+Congratulations to the Grand Prize winners, [Ebube](https://x.com/EbubeAkukwe) and [Krishna](https://x.com/CodesKae)! Both winners received a 13” MacBook Air M3, merch from both MDN and Scrimba and lifetime access to Scrimba Pro! As JavaScriptmas is raffle-based, the two winners were drawn randomly, not based on their current coding skills.
 
 I believe lifetime access to Scrimba Pro is the best prize, as it continually offers FREE education! With their new computers, MDN and Scrimba gear, and Scrimba Pro membership, I am sure Ebube and Krishna will continue to learn web development in style!
 
