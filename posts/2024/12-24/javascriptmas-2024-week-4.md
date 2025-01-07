@@ -14,7 +14,7 @@ date: "2024-12-30"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736199142916/a556e0c8-fc9d-487c-9a48-c52eb354b524.jpeg align="center")
+![TN-TXG-12](img/12-30-25/TN-TXG-124.jpg)
 
 ---
 
@@ -55,7 +55,7 @@ As I do every year, I will participate in JavaScriptmas and share my solutions o
 
 #### Alina [(@disc0night)](https://x.com/disc0night)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736196812151/3fd553b9-d92a-4ce5-893a-6a5cda68278c.jpeg align="center")
+![Alina-Post](img/12-30-25/Alina-Post.jpg)
 
 Alina completed all 24 JavaScriptmas challenges two years in a row, which is not an easy feat! As participants know, these challenges involve not only JavaScript but also various front-end web development concepts. From UI/UX Design, layouts, working with AI, and more, participants are often forced to stretch their current knowledge to solve them correctly.
 
@@ -65,7 +65,7 @@ Completing 24 JavaScriptmas challenges two years in a row requires hard work, de
 
 #### Emran Khan [(@emrankhan\_dev)](https://x.com/emrankhan_dev)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736200994734/050a1b8e-df31-487e-a9c0-ddcaa904af63.jpeg align="center")
+![Khan-Tweet](img/12-30-25/Khan-Tweet.jpg)
 
 Not only did Emran solve the JavaScriptmas accessibility challenge, but he also took and completed the entire “Learn Accessible Web Design“ Scrimba course and earned a certificate!
 
@@ -73,13 +73,14 @@ Fredrik Ridderfalk, a molecular biologist, science teacher, and front-end engine
 
 Emran is helping himself to grow his online presence by participating in and sharing his JavaScriptmas coding solutions. He is also solidifying himself as a web designer capable of programming with an accessibility-first approach. This visibility and skill help attract hiring managers and pave the way for a successful career. We can all learn from Emran’s dedication!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736201004506/af6ae293-d774-4274-a15c-bf05f10b6f2a.jpeg align="center")
+![Khan-1](img/12-30-25/Khan-1.JPG)
 
 ---
 
 #### Thomas Chant [(@Tpchant)](https://x.com/Tpchant)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736198417600/e74b0db4-5cfd-4d57-a485-e1a4cbd9f61b.jpeg align="left")
+![img/12-30-25
+/HATT-ThomasChant.jpeg](img/12-30-25/HATT-ThomasChant.jpeg)
 
 During the JavaScriptmas event, esteemed Scrimba teacher Thomas Chant invited me to their weekly Discord Town Hall event to share my expertise with the students. I was privileged with the opportunity to invite Thomas to the HTML All The Things Podcast so that he could, in return, share his expertise with the podcast audience.
 
@@ -91,7 +92,7 @@ In his Podcast special, Tom covered insights into effective learning strategies,
 
 #### JavaScriptmas Grand Prize Winners
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736202239325/766a1b71-5f48-488f-b940-17d1a1db7b7a.jpeg align="center")
+![Winners](img/12-30-25/Winners.JPG)
 
 Congratulations to the Grand Prize winners, [Ebube](https://x.com/EbubeAkukwe) and [Krishna](https://x.com/CodeKae)! Both winners received a 13” MacBook Air M3, merch from both MDN and Scrimba and lifetime access to Scrimba Pro! As JavaScriptmas is raffle-based, the two winners were drawn randomly, not based on their current coding skills.
 
@@ -99,9 +100,7 @@ I believe lifetime access to Scrimba Pro is the best prize, as it continually of
 
 ---
 
-![day-1and2](img/day-1and2.png align="left")
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736275951356/9d9ad2e3-e245-4bfa-af4f-49f2d3517f61.png align="center")
+![day-1and2](img/12-30-25/day-1and2.png)
 
 ### ❄ My JavaScriptmas submissions ❄
 
@@ -119,7 +118,7 @@ I believe lifetime access to Scrimba Pro is the best prize, as it continually of
 
 #### **Scrimba has once again impressed and inspired me! You can read my full** [**Scrimba review**](https://selftaughttxg.com/2020/12-20/Review-Scrimba/) **on my 12/13/2020 post.**
 
-![Per Harald Borgen Quote](https://selftaughttxg.com/static/98b62403b09a4ed98dfc3b072da19205/5fd3e/PerHaraldBorgen-Quote.png align="left")
+![Per Harald Borgen Quote](https://selftaughttxg.com/static/98b62403b09a4ed98dfc3b072da19205/5fd3e/PerHaraldBorgen-Quote.png)
 
 #### ***"That's one of the best Scrimba reviews I've ever read,*** [***@MikeJudeLarocca***](https://twitter.com/MikeJudeLarocca?ref_src=twsrc%5Etfw)***. Thank you! 🙏 "***
 
@@ -127,7 +126,7 @@ I believe lifetime access to Scrimba Pro is the best prize, as it continually of
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1733340383225/9e421457-920b-479a-935f-5a0047c9d208.png align="left")
+![HATT_Podcats](img/12-30-25/HATT_Podcast.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -175,4 +174,4 @@ Keep an eye out for JavaScriptmas 2025 in December, where you can once again sha
 
 ---
 
-###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!*
+###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment*
