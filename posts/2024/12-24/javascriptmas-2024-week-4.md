@@ -174,4 +174,4 @@ Keep an eye out for JavaScriptmas 2025 in December, where you can once again sha
 
 ---
 
-###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment*
+###### *Are you now interested in participating in this year's Scrimba's JavaScriptmas? Have you already participated in last year's Scrimba's JavaScriptmas? Please share the article and comment!*
