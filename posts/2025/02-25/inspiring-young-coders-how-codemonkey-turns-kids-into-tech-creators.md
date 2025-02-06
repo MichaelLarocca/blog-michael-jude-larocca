@@ -520,7 +520,7 @@ CodeMonkey also offers a **Teacher account**, through which educators can crea
 
 ---
 
-![YouTube cover](img/02-10-25/YouTube cover +.png)
+![YouTube cover](img/02-10-25/HATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
