@@ -12,7 +12,7 @@ date: "2025-02-10"
 
 ---
 
-![TXG-125](/img/02-10-25/TXG-125-NEW.jpg)
+![TXG-125](img/02-10-25/TXG-125-NEW.jpg)
 
 ---
 
@@ -38,7 +38,7 @@ Allow me to introduce you to CodeMonkey, an online code-learning platform design
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736962595198/fa8ba4db-6824-4a25-a6cb-90523656cb90.jpeg align="left")
+![CodeMonkey-CodingForKids](img/02-10-25/CodeMonkey-CodingForKids.jpeg)
 
 ---
 
@@ -50,7 +50,7 @@ Founded in 2014, CodeMonkey has quickly become a leader in educational technolog
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738774273987/6118835c-6d78-41f2-923c-565c477a611f.jpeg align="center")
+![CodeMonkey_Awards](img/02-10-25/CodeMonkey_Awards.jpg)
 
 ---
 
@@ -85,7 +85,7 @@ CodeMonkey offers an organized learning path, making it easy for learners to jum
 * **Coding Chatbots:** For ninth and tenth graders, this level focuses on creating chatbots, teaching them about natural language processing and user interaction.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737049122977/a7e9a90a-f39c-49f5-a023-141ec591f6b2.png align="center")
+![Snakey-Mobile-Pathway](img/02-10-25/Snakey-Mobile-Pathway.png)
 
 ---
 
@@ -117,11 +117,11 @@ I aced all the challenges until I reached the ninth, when I was prompted with th
 
 *While playing through the course, children are prompted with relevant “DID YOU KNOW“ facts, an excellent additional feature that helps them learn more about topics while keeping them entertained. Did you know that July was named after the famous Roman leader Julius Caesar? Well, whoever completes this course will now know, including me!*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736370894057/94abc48a-4ad5-4fd4-95fd-c201943b61bf.jpeg align="center")
+![Lemur-NewYear-Challenge](img/02-10-25/CM-Lemur-NewYear-Challenge.jpg)
 
 **Upon completing the course, each child is awarded a well-deserved certificate of completion, which they can proudly display. These certificates not only serve as a recognition of their achievement but also add an exciting element to the experience for young coders. This celebratory token acknowledges their hard work, encourages a sense of accomplishment, and motivates them to continue exploring the world of coding!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736376734023/51db6b46-5ab6-450f-9b9b-8ce6e96ff78d.jpeg align="center")
+![certificate](img/02-10-25/certificate.jpg)
 
 ---
 
@@ -173,7 +173,7 @@ In the code editor, you select individual sprites to program; each sprite added 
 * Objects
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738775620191/2346ddc6-0816-4cf3-8c59-3baf6e719d61.jpeg align="center")
+![CodeMonkey-Sprite](img/02-10-25/CodeMonkey-Sprite.jpg)
 
 *You also have the option to create your sprite by uploading sprite sheets or by using an available Code Monky drawing editor!*
 
@@ -193,7 +193,7 @@ This is where the teaching begins! Coding projects provide step-by-step instruct
 
 *The exercises include well-placed fun facts for children, such as “Did you know apples are packed with benefits for your body? They contain about 4 grams of fiber, which helps with digestion and keeps you feeling full. Plus, apples are made up of about 85% water, so they're a hydrating snack, too. Eating an apple isn't just tasty—it's a great way to stay healthy and energized!” I appreciate the extra effort taken to encourage our children to eat healthy!*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736455681942/09d40a4b-ce1c-4d44-8575-bd392b34222e.jpeg align="center")
+![SnakeGame](img/02-10-25/SnakeGame.jpg)
 
 **The image above displays the finished *“Eat an apple a day“* project. In it, the player controls a caterpillar sprite to eat an apple sprite. In the *Sprites* tab, you will see the selected sprite highlighted with a green border, and the sprite’s name is displayed above its code in the editor.**
 
@@ -210,7 +210,7 @@ Once the project is completed, students are encouraged to add new features indep
 
 *Each child also receives a certificate of completion to display proudly. This certificate recognizes their achievement and adds excitement to their coding journey. It acknowledges their hard work and motivates them to keep exploring coding!*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736455692185/a8d83457-dcc6-4eb5-b2dc-c5a6297a67b6.jpeg align="center")
+![SnakeGameCertificate](img/02-10-25/SnakeGameCertificate.jpg)
 
 ---
 
@@ -245,7 +245,7 @@ I “leaped” at the opportunity to learn CodeMonkey’s text-based CoffeeScrip
 * And more!
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736801335450/17b5287e-db94-4b29-9898-29b22382aca5.jpeg align="center")
+![Frogger](img/02-10-25/Frogger.jpg)
 
 **The image above displays the finished *“Frogger“* project, a famous game that needs no introduction! In the *Sprites* tab, the currently selected sprite is the “frog.“ You can see the frog sprites CoffeeScript** **code in the editor.**
 
@@ -269,9 +269,8 @@ I “leaped” at the opportunity to learn CodeMonkey’s text-based CoffeeScrip
 3. **Say cheese:** Solve exercise 12 by setting the camera target on the frog
     
 4. **Bonus Time:** Solve exercise 27 by adding bonus points
-    
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736801584232/cf1ae488-6e78-4868-8f5d-421e327b4750.jpeg align="center")
+![Frogger-Achievements](img/02-10-25/Frogger-Achievements.jpg)
 
 #### Share Your Projects
 
@@ -281,11 +280,11 @@ Once your project is complete, you can share it with fellow coders on CodeMonkey
 
 #### 🔗 Here is a link to the completed Froger game I coded: [Playable Frogger Game](https://app.codemonkey.com/games/7DvOPK9n) 🕹
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737066496118/91d31603-e6c9-4248-905e-5fbee32e6bd3.jpeg align="center")
+![Frogger-SharedGame-Community](img/02-10-25/Frogger-SharedGame-Community.jpg)
 
 **Similar to the previous CodeMonkey courses I completed, this one also provides a certificate of completion, which helps to inspire and encourage young coders!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736794968575/e9b3970b-f280-46e6-82e2-e2f865c7a289.jpeg align="center")
+![certificate-frogger](img/02-10-25/certificate-frogger.jpg)
 
 ---
 
@@ -308,7 +307,7 @@ What is Data Science? Data Science is a field in which we use different methods 
 
 As seen in the image below, the learning section consists of nineteen slides; the twelfth slide is currently selected. This slide articulately describes the “Data Analysis Process.” As students progress through the learning section, as previously mentioned, they will be prompted with questions to answer in various ways, such as multiple-choice questions, text entries, and surveys.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737218700835/fea05add-c952-4a46-8f65-81356b9ddc0a.jpeg align="center")
+![Slide-DataAnalysis](img/02-10-25/Slide-DataAnalysis.jpg)
 
 #### Play
 
@@ -316,17 +315,17 @@ Once you’ve worked through the learning section, it’s time for fun and games
 
 The objective of this game is to distinguish between data and non-data by sorting. If the word displayed on the air balloon is related to data, click on the elephant on the right side of the screen. This action causes the elephant to use its trunk to blow a gust of wind, moving the air balloon to the left side, representing data. Currently, the word on the air balloon is “Love,” which does not qualify as data. Therefore, the correct choice is to click on the tan elephant on the left, directing a gust of wind that shifts the air balloon to the non-data side on the right.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737218715157/e5352e7b-9e42-45aa-897e-62e0bb24e64b.jpeg align="center")
+![Slide-Data-GAME](img/02-10-25/Slide-Data-GAME.jpg)
 
 The final game in the "Introduction To Data Science" course is a matching game set in a forest with a flowing rapid river. In the game, as seen in the image below, words describing topics throughout the Data Science course are displayed on the left side of the river, and their definitions are displayed on the right. When the student correctly matches a topic with its definition, an animation of a cute spider jumps across the stream while casting a web connecting them!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737218722936/7b126bb9-8153-4bd6-8df0-1f25f47ba7ec.jpeg align="center")
+![Slide-Data-GAME-2](img/02-10-25/Slide-Data-GAME-2.jpg)
 
 #### Review
 
 After the course lessons and games, it’s time for a review! The review is a five-question multiple-choice quiz. And I must say, this course review, as well as the other course reviews on CodeMonkey, is not an easy walk through the park! Although it’s a bit embarrassing to admit, I averaged four correct answers out of five on the course reviews! I see this as a positive indicator because these challenging questions truly encourage children to think critically.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737218867093/e2068dbc-6f7f-4a25-873b-333eb847dbe3.jpeg align="center")
+![Slide-Data-Review](img/02-10-25/Slide-Data-Review.jpg)
 
 ---
 
@@ -338,7 +337,7 @@ The Python **Trivia Chatbot** mini course comprises sixteen exercises and, I pre
 
 *I would like to take this time to get a little more technical as I discuss what I built in detail.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1737674256066/fb327891-c957-42d5-86ec-2314a9bb6cec.jpeg align="center")
+![Python-Trivia-Chatbot](img/02-10-25/Python-Trivia-Chatbot.jpg)
 
 **The complicated code is already completed by two premade functions, presumably created in the main Python course:**
 
@@ -434,9 +433,8 @@ Artificial intelligence (AI) is a word we hear daily and is now integrated into 
 * Neural Networks
     
 * How Generative AI Works
-    
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738780797394/39457730-d695-4b43-a36e-bb0962ca5609.jpeg align="center")
+![CodeMonkey-AI](img/02-10-25/CodeMonkey-AI.jpg)
 
 **You will also learn how AI models are trained:**
 
@@ -464,7 +462,7 @@ Once I created the **Thumb Up**, **Thumb Left**, and **Thumb Right** classes, I 
 
 **In the image below, you will see that I am controlling the monkey sprite with my thumb: thumb up to jump, thumb left to move left, and thumb right to move right. This is very cool indeed! I give CodeMonkey’s entire learning platform an enthusiastic thumbs up!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738266835789/e029f61e-3437-40cd-a931-512e68f2dcde.png align="center")
+![CodeMonkey_AI](img/02-10-25/CodeMonkey_AI.png)
 
 ---
 
@@ -519,11 +517,10 @@ CodeMonkey also offers a **Teacher account**, through which educators can crea
 * [Kickstart Your Coding Journey: A Guide to Free Web Development Resources](https://www.htmlallthethings.com/blog-posts/kickstart-your-coding-journey-a-guide-to-free-web-development-resources)
     
 * [How to Get Started Learning Web Development from Scratch](https://www.htmlallthethings.com/blog-posts/how-to-get-started-learning-web-development-from-scratch)
-    
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1738622321008/bbbc1662-3642-4db5-9010-ccc10b74ced9.png align="center")
+![YouTube cover](img/02-10-25/YouTube cover +.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -542,7 +539,7 @@ CodeMonkey also offers a **Teacher account**, through which educators can crea
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1736962527854/f12ab2eb-7800-4a2a-928b-4469c66db06b.jpeg align="left")
+![CodeMonkey-TryForFree](img/02-10-25/CodeMonkey-TryForFree.jpeg)
 
 ### Affiliate & Discounts Links!
 
@@ -597,6 +594,6 @@ As technology continues to evolve, platforms like CodeMonkey play a crucial role
 
 ---
 
-###### *Are you excited about CodeMonkey’s potential to turn young learners into tech creators? Do you see the value in giving children essential coding skills for future career success? Please share the article and leave a comment!*
+###### *Are you excited about CodeMonkey’s potential to turn young learners into tech creators? Do you see the value in giving children essential coding skills for future career success? Please share the article and leave a comment*
 
 ---
