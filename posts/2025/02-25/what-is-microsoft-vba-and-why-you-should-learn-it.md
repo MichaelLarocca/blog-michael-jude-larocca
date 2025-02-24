@@ -212,7 +212,7 @@ If you enjoyed this article and are interested in learning VBA, look for my upco
 
 ---
 
-![TXG-0](../../../src/images/TXG-0.jpg)
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -233,7 +233,7 @@ If you enjoyed this article and are interested in learning VBA, look for my upco
 
 ### Affiliate & Discounts Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey-TryForFree](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -252,7 +252,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
