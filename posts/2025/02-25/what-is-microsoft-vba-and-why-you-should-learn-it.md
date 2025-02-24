@@ -57,7 +57,7 @@ To begin using VBA in Excel, you first need to enable the "Developer" tab, which
 
 *By following these steps, you can easily set up your Excel environment for using VBA, allowing you to automate tasks and enhance your productivity.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740249450044/33414e80-a261-4a06-a254-3b16e40b7a55.png align="center")
+![DeveloperTab](img/02-24-25/DeveloperTab.png)
 
 ---
 
@@ -89,7 +89,7 @@ End Sub
 
 **When you run this program, a message box will appear displaying the text "Hello, World!". This simple program introduces you to the basic structure of a VBA macro and how to display output using a message box.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740250603822/99cfb499-db7a-4b49-9128-ebafa5d38db7.png align="center")
+![HelloWorld](img/02-24-25/HelloWorld.png)
 
 ---
 
@@ -165,7 +165,7 @@ This program checks each task's due date and sends an email notification if the 
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740430446090/c3373b83-1c82-496f-bb9b-e1112d1ec955.png align="center")
+![VBA_Button_New](img/02-24-25/VBA_Button_New.png)
 
 ### Creating a Button to Run the VBA Program
 
@@ -202,7 +202,7 @@ To make it easier for users to execute the "Automated Email Notification" progra
 
 *By following these steps, you can provide users with a convenient way to execute the VBA program directly from the Excel interface, enhancing usability and efficiency.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740422883262/a6cebab2-a88f-4f47-97d5-7e07cec8bc54.png align="center")
+![VBA_Button](img/02-24-25/VBA_Button.png)
 
 ---
 
