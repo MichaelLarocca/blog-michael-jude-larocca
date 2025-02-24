@@ -212,7 +212,7 @@ If you enjoyed this article and are interested in learning VBA, look for my upco
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![TXG-0](../../../src/images/TXG-0.jpg)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
