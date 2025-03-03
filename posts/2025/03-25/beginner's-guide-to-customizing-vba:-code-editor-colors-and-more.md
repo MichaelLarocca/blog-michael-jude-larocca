@@ -252,6 +252,6 @@ Whether you're fine-tuning the color scheme for a more comfortable way to work, 
 
 ---
 
-###### *Are you ready to boost your VBA productivity with personalized settings? Do you have other useful VBA tips to share? Please share the article and comment*
+###### *Are you ready to boost your VBA productivity with personalized settings? Do you have other useful VBA tips to share? Please share the article and comment!*
 
 ---
