@@ -1,5 +1,5 @@
 ---
-title: ""
+title: "Beginner's Guide to Customizing VBA: Code Editor Colors and More"
 tags:
   [
     "excel",
