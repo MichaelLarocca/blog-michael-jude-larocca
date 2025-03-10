@@ -277,4 +277,4 @@ I wrote a simple program that you can copy to demonstrate VBA debugging. It show
 
 ---
 
-###### *Do you now feel more confident in debugging VBA code using the Immediate and Locals Windows? Have you discovered new techniques for efficient debugging? Please share the article and comment*
+###### *Do you now feel more confident in debugging VBA code using the Immediate and Locals Windows? Have you discovered new techniques for efficient debugging? Please share the article and comment!*
