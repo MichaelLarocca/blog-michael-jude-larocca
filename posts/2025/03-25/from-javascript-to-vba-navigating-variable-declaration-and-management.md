@@ -318,6 +318,6 @@ Understanding these concepts of variable declaration, typing, and scope will enh
 
 ---
 
-###### *Do you now understand the difference in variable declaration between VBA and JavaScript?* *Do you feel more confident in transitioning from JavaScript to VBA? Please share the article and comment*
+###### *Do you now understand the difference in variable declaration between VBA and JavaScript?* *Do you feel more confident in transitioning from JavaScript to VBA? Please share the article and comment!*
 
 ---
