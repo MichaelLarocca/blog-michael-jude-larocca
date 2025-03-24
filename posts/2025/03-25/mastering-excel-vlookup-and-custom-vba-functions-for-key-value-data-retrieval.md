@@ -377,6 +377,6 @@ By mastering both VLOOKUP and creating custom VBA functions, you’ll improve yo
 
 ---
 
-###### *Are you now confident in using Excel's VLOOKUP function and creating custom VBA functions? Do you have other tips for handling key-value data in Excel? Please share the article and comment*
+###### *Are you now confident in using Excel's VLOOKUP function and creating custom VBA functions? Do you have other tips for handling key-value data in Excel? Please share the article and comment!*
 
 ---
