@@ -154,6 +154,12 @@ Coding in VBA empowers you to manipulate data in Excel in any manner you please,
 
 So, let's now go above and beyond and examine how the VLOOKUP function is constructed in VBA!
 
+---
+
+**💡 Note:** *To use VBA in Excel, enable the "Developer" tab to access the VBA editor and macro tools. For setup details, see my article "*[*Getting Started with VBA in Excel*](https://selftaughttxg.com/2025/02-25/what-is-microsoft-vba-and-why-you-should-learn-it/)*."*
+
+---
+
 **To create a custom VLOOKUP function in VBA, you'll need to set up a module in the VBA editor. Here's how you can do it:**
 
 **Open the VBA Editor**
