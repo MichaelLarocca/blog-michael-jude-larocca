@@ -47,15 +47,8 @@ It’s important to note that IFNA function is not checking for greater or less 
 * **Adjusted Price (Column D):** Discounts or special pricing; "N/A" if not applicable.
     
 * **Final Price (Column E):** In row 2, the formula in the Final Price column uses `=IFNA(D2, C2)` to default to the "Retail Price" if the "Adjusted Price" is unavailable.
-    
 
-| Item Code | Item Description | Retail Price | Adjusted Price | Final Price |
-| --- | --- | --- | --- | --- |
-| 001 | Lightsaber | 250 Credits | 200 Credits | 200 Credits |
-| 002 | Blaster Rifle | 150 Credits | N/A | 150 Credits |
-| 003 | Thermal Detonator | 500 Credits | 450 Credits | 450 Credits |
-| 004 | Vibroblade | 300 Credits | N/A | 300 Credits |
-| 005 | Bowcaster | 400 Credits | 450 Credits | 450 Credits |
+![1](img/03-31-25/1.png)
 
 *In this example, the "Final Price" for the Bowcaster reflects the "Adjusted Price" of 450 Credits, demonstrating that the IFNA function can return the adjusted price regardless of whether it is higher or lower.*
 
@@ -67,9 +60,7 @@ In the Star Wars-themed example, the IFNA function first checks the "Adjusted Pr
 
 **For instance, consider the pricing for a Lightsaber:**
 
-| Item Code | Item Description | Retail Price | Adjusted Price | Final Price |
-| --- | --- | --- | --- | --- |
-| 001 | Lightsaber | 250 Credits | 200 Credits | 200 Credits |
+![2](img/03-31-25/2.png)
 
 *In this example, the "Final Price" for the Lightsaber reflects the "Adjusted Price" of 200 Credits, demonstrating how the IFNA function prioritizes the "Adjusted Price" when it is available.*
 
@@ -89,13 +80,7 @@ So, I was able to retrieve the correct price by using the IFNA function. I set u
 
 **In this table, the "Final Price" reflects the "Prioritized Price" from Price List Two if available. Otherwise, it defaults to the "Default Price" from Price List One.**
 
-| Item Code | Item Description | Price List One (Default Price) | Price List Two (Prioritized Price) | Final Price |
-| --- | --- | --- | --- | --- |
-| 001 | Case of Apples | N/A | $35.00 | $35.00 |
-| 002 | Case of Bananas | $25.00 | N/A | $25.00 |
-| 003 | Case of Carrots | $30.00 | $28.00 | $28.00 |
-| 004 | Case of Lettuce | N/A | $38.00 | $38.00 |
-| 005 | Case of Tomatoes | $45.00 | $47.00 | $47.00 |
+![3](img/03-31-25/3.png)
 
 ---
 
