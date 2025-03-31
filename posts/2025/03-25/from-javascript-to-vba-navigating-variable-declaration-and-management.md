@@ -5,6 +5,7 @@ tags:
     "excel",
     "microsoft",
     "vba",
+    "tutorial",
   ]
 published: true
 date: "2025-03-17"
