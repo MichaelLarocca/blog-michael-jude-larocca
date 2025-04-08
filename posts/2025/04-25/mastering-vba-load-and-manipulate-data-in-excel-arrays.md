@@ -35,18 +35,7 @@ On an individual basis, you will need to learn how to export the required data i
 
 **For simplicity, let's use make-believe exported customer addresses from the Star Wars universe to load into an array:**
 
-| CUSTOMER | CUSTOMER Name | ADDRESS | ZIP CODE |
-| --- | --- | --- | --- |
-| TAT01 | Tatooine Traders | 123 Sand Dune Lane, Tatooine | 12345 |
-| HOTH02 | Hoth Ice Sculptures | 456 Ice Cave Blvd, Hoth | 67890 |
-| END03 | Endor Ewok Emporium | 789 Forest Path, Endor | 11223 |
-| COR04 | Coruscant Couture | 101 Sky City Ave, Coruscant | 33445 |
-| NAB05 | Naboo Nifty Novelties | 202 Lake Retreat Rd, Naboo | 55678 |
-| TAT06 | Tatooine Textiles | 321 Desert Way, Tatooine | 12345 |
-| HOTH07 | Hoth Hot Drinks | 654 Snowflake St, Hoth | 67890 |
-| END08 | Endor Exotic Exports | 987 Treehouse Ln, Endor | 11223 |
-| COR09 | Coruscant Crafts | 202 Galactic Blvd, Coruscant | 33445 |
-| NAB10 | Naboo Nature Goods | 303 Waterfall Way, Naboo | 55678 |
+![Table-01](img/04-07-25/Table-01.png)
 
 ---
 
