@@ -256,6 +256,6 @@ By applying these concepts, you can develop tailored applications, leveraging th
 
 ---
 
-###### *Have you gained insights into breaking programs into VBA modules for efficient solutions? Are you ready to apply modular design to your projects? Please share the article and comment*
+###### *Have you gained insights into breaking programs into VBA modules for efficient solutions? Are you ready to apply modular design to your projects? Please share the article and comment!*
 
 ---
