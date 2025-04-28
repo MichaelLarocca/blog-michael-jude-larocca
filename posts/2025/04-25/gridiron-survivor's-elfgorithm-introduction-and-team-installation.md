@@ -84,8 +84,7 @@ The GitHub repo: [elecretanta](https://github.com/LetsGetTechnical/elecretanta)
     
 * Choose “clone using the web URL” by clicking on the copy URL to clipboard icon.
     
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745596471083/afae1b17-1ea4-45c9-a4f3-4a72a7cb3d51.png align="center")
+![CloneProject](img/04-28-25/CloneProject.png)
 
 ---
 
@@ -105,7 +104,7 @@ Once the project is downloaded, use the `ls` command to list the files and direc
 
 Then use the `cd` command to change into the directory of the downloaded project, allowing you to navigate to the project's root folder and begin working with its files.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745599412645/5942b015-c2fd-4847-b0bd-951d8f553be7.png align="center")
+![SwitchToDevelopBranch](img/04-28-25/SwitchToDevelopBranch.png)
 
 *Note that you are starting on the (develop) branch. More on this branch later.*
 
@@ -117,11 +116,11 @@ Now that you have the ( develop ) branch open in the Bash terminal, it is time t
 
 In the VS Code File Explorer, click the blue **Open Folder** button, and then navigate to and select the *elecretanta* project folder, which has been downloaded to your computer.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745600066533/727d4171-8108-42cf-9fdb-6f9069b230c2.png align="center")
+![OpenFolder](img/04-28-25/OpenFolder.png)
 
 **Once you have the *elecretanta* project folder selected, click the Select Folder button, which opens the project in VS Code.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745600623113/4c027295-4f53-4d5d-a5a0-acfe54aceec0.png align="center")
+![SelectedFolder](img/04-28-25/SelectedFolder.png)
 
 **Note:** *You may need to reopen your Bash terminal. Once reopened, you should already be on the (develop) branch.*
 
@@ -131,7 +130,7 @@ In the VS Code File Explorer, click the blue **Open Folder** button, and then 
 
 In the project’s root directory folder (ELECRETANTA) in the VS Code Explorer, right-click the New File icon (the first icon) and create an .env file.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745603083721/9b37b824-2867-4f6f-a872-706cbe8f203a.png align="center")
+![NewFileIcon](img/04-28-25/NewFileIcon.png)
 
 ---
 
@@ -141,7 +140,7 @@ In the project’s root directory folder (ELECRETANTA) in the VS Code Explorer, 
 
 **You will know you have successfully created the env file by verifying that it is represented with a gear icon, as depicted in the image below.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745603335753/fddb2487-d207-4508-995f-49b653ef9298.png align="center")
+![GearIcon](img/04-28-25/GearIcon.png)
 
 ---
 
@@ -187,11 +186,11 @@ pnpm dev
 
 **Once the development server is running, hover over the localhost URL and press (Ctrl + click) to open it in your browser.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745606599727/b49cdb99-5db1-4813-aed8-0f5953e057ce.png align="center")
+![RunTheDevServer](img/04-28-25/RunTheDevServer.png)
 
 *Congratulations! You have successfully cloned the repository, navigated to the project directory, and opened it in VS Code. You created and verified the .env file, installed the necessary project dependencies using pnpm, and ensured your local repository is up to date. Finally, you started the development server and accessed the project in your browser!*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745607130304/fb356871-04de-47f3-a629-cbc4eff8a052.png align="center")
+![RunTheDevServer](img/04-28-25/TheProject.png)
 
 ---
 
