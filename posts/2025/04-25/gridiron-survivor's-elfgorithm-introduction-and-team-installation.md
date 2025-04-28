@@ -9,7 +9,7 @@ tags:
 published: true
 date: "2025-04-28"
 ---
-#### This article introduces Gridiron Survivor's Elfgorithm, an AI-powered Secret Santa app currently in production, and serves as an installation guide using Git and pnpm for project team members!
+#### This article introduces Gridiron Survivor's Elfgorithm, an AI-powered Secret Santa app currently in production, and it also serves as an installation guide using Git and pnpm for project team members!
 
 ---
 
