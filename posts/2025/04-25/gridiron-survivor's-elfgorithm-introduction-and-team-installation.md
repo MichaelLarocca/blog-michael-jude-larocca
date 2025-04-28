@@ -327,5 +327,5 @@ Be sure to stay tuned for Gridiron Survivor's [livestream events](https://www.yo
 
 ---
 
-###### *Are you interested in using the app for your next Secret Santa event? As a team member, are you comfortable with setting up and navigating the Gridiron Survivor's Elfgorithm project? Please share the article and comment*
+###### *Are you interested in using the app for your next Secret Santa event? As a team member, are you comfortable with setting up and navigating the Gridiron Survivor's Elfgorithm project? Please share the article and comment!*
 
