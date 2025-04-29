@@ -43,7 +43,7 @@ How Elfgorithm works: Create a group, invite participants, and let the intellige
 
 ---
 
-### What is Gridiron Survivor
+### What is Gridiron Survivor?
 
 [Gridiron Survivor](https://www.htmlallthethings.com/blog-posts/bridging-the-skills-gap-empowering-junior-developers-through-apprenticeship-programs) is an apprenticeship program initiated by Shashi Lo, Senior UX Engineer at Microsoft, designed to provide essential work experience for developers entering the tech industry. The program offers practical training in project management, coding practices, and team collaboration, equipping aspiring developers with the mentorship and skills needed to succeed in their first tech jobs.
 
@@ -235,6 +235,17 @@ git checkout -b michaelL/303-add-story-avatar
 2. Committing your code
     
 3. Creating a pull request (PR)
+    
+
+---
+
+![GitKraken Fronten Mentor](img/04-28-25/GitKrakenFM.png)
+
+### Gridiron Survivor Sponsors
+
+* [GitKraken](https://www.gitkraken.com/)
+    
+* [Frontend Mentor](https://www.frontendmentor.io/)
     
 
 ---
