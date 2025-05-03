@@ -29,7 +29,7 @@ May the Force, and May the 4th, be with you! Feel free to clone or fork the proj
 * [Netlify deployed project](https://star-wars-aurebesh-translator-function.netlify.app/)
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1745521516091/767eb338-0924-4b80-bf86-5a7549a18cc8.png align="center")
+![App](img/05-04-25/App.png)
 
 ---
 
@@ -92,7 +92,7 @@ May the Force, and May the 4th, be with you! Feel free to clone or fork the proj
 
 As an avid Star Wars fan, I was always intrigued by the Aurebesh language. Exactly what is the Aurebesh language? Fortunately, it is just English; a symbol represents each letter of the alphabet. For more information, please refer to the [Wikipedia page](https://en.wikipedia.org/wiki/Languages_in_Star_Wars).
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746033099964/dec36239-7cfd-47a0-bf9e-fa49b1617d81.png align="center")
+![Star-Wars-aurek-besh-alphabet-chart](img/05-04-25/Star-Wars-aurek-besh-alphabet-chart.png)
 
 ---
 
@@ -137,9 +137,9 @@ With a sprite-style transparent PNG file, I previously mapped out each letter in
 
 **I also mapped out the numbers and special characters from the following sprite sheet:**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746035289593/cba7d174-5d48-422a-944f-9073588cfc28.png align="center")
+![SpriteSheet](img/05-04-25/SpriteSheet.png)
 
-⚠ **Note:** Use the lowercase class letters only, as they properly represent Aurebesh charters as seen in Star Wars media. Although I mapped out the uppercase letters, you will notice each Aurebesh charter is reversed (mirror-imaged).
+⚠ **Note:** Use the lowercase class letters only, as they properly represent Aurebesh characters as seen in Star Wars media. Although I mapped out the uppercase letters, you will notice each Aurebesh character is reversed (mirror-imaged).
 
 ---
 
@@ -612,11 +612,11 @@ I quickly created a Star Wars restaurant menu to showcase the Aurebesh Translato
 
 #### Appetizer Menu in Aurebesh
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746288965866/49a557d5-8b38-4304-942e-b250cdc6d8ee.png align="center")
+![Menu Aurebesh](img/05-04-25/MenuAurebesh.png)
 
 #### Appetizer Menu in English
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746288973121/00a9906c-ce77-4c0f-a178-99b193fec7a9.png align="center")
+![Menu English](img/05-04-25/MenuEnglish.png)
 
 ---
 
