@@ -708,6 +708,6 @@ May the Force, and May the 4th, be with you!
 
 ---
 
-###### *Are you now excited to integrate the Aurebesh translator into your React projects? Do you have any creative ideas for using this component in your own applications? Please share the article and comment*
+###### *Are you now excited to integrate the Aurebesh translator into your React projects? Do you have any creative ideas for using this component in your own applications? Please share the article and comment!*
 
 ---
