@@ -52,13 +52,7 @@ In versioning, particularly Semantic Versioning (SemVer), version numbers are ty
 
 The chart below, based on information from [Wikipedia](https://en.wikipedia.org/wiki/Software_versioning), shows how software versions are named during development stages. In early stages, like alpha or beta, a zero in the major version shows that development is still happening. Semantic Versioning uses suffixes like -alpha to show the status, while numeric status uses numbers in the sequence. The numeric 90+ scheme, used by older projects, puts a large number at the end to mark pre-releases, helping users understand how stable the software is.
 
-| Development Stage | Semantic Versioning | Numeric Status | Numeric 90+ |
-| --- | --- | --- | --- |
-| Alpha | 1.2.0-a.1 | 1.2.0.1 | 1.1.90 |
-| Beta | 1.2.0-b.2 | 1.2.1.2 | 1.1.93 |
-| Release Candidate (RC) | 1.2.0-rc.3 | 1.2.2.3 | 1.1.97 |
-| Release | 1.2.0 | 1.2.3.0 | 1.2.0 |
-| Post-release Fixes | 1.2.5 | 1.2.3.5 | 1.2.5 |
+![](img/05-12-25/TableSemVer.png)
 
 ---
 
