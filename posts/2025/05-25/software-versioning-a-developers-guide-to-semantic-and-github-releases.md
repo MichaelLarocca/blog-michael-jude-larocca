@@ -68,11 +68,11 @@ You'll find a section labeled 'Releases' on the main GitHub repository page for 
 
 *So far, we have three release tags in the Elecretanta project's GitHub repository that show how the software has developed. These tags help track the project's progress and understand the changes made over time.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746806900422/c240a951-e07a-40c7-afd6-e3a7acd6381e.png align="center")
+![Releases](img/05-12-25/Releases.png)
 
 The Elecretanta project has three alpha release tags, each representing a different stage of development. The latest, 0.3.0-alpha, includes new features and improvements still being tested. The 0.2.0-alpha tag shows earlier development progress with foundational updates, while 0.1.0-alpha marks the initial release, introducing the software's basic functions. All releases are available for download in zip and tar.gz formats, and they share the same commit identifier, indicating they were part of a rapid development cycle.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746807308029/e92e1ac0-e06e-4012-94ca-e40166a1831c.png align="center")
+![Tags](img/05-12-25/Tags.png)
 
 ---
 
@@ -130,7 +130,7 @@ After our tech lead, Shashi, completed the update from version 2 to 3, he utiliz
 4. **Benefits**: This automated process saves time and ensures accuracy in documenting changes. It provides a clear and organized summary of what has been updated, fixed, or added, making it easier for team members and users to understand the progression of the project.
     
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746818925031/8842b850-f049-40c1-ba1b-e4b58a9b6564.png align="center")
+![Notes](img/05-12-25/Notes.png)
 
 *By utilizing these features, teams can maintain a well-documented history of their project's development, enhancing collaboration and transparency!*
 
@@ -146,7 +146,7 @@ After our tech lead, Shashi, completed the update from version 2 to 3, he utiliz
 
 [*Elfgorithm*](https://github.com/LetsGetTechnical/elecretanta) *is an AI-driven Secret Santa app set to launch in winter 2025. It streamlines gift exchanges by removing the guesswork from Secret Santa activities. The app manages gift-giving details and provides personalized gift suggestions, ensuring you find the perfect presents for everyone.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1746822066474/f4885573-cda7-4148-8baf-df596b93a282.png align="center")
+![Sponsors-GIS](img/05-12-25/Sponsors-GIS.png)
 
 ### Gridiron Survivor Sponsors
 
@@ -172,7 +172,7 @@ After our tech lead, Shashi, completed the update from version 2 to 3, he utiliz
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -193,7 +193,7 @@ After our tech lead, Shashi, completed the update from version 2 to 3, he utiliz
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -212,7 +212,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
