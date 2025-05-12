@@ -80,6 +80,13 @@ module.exports = {
       color: "#fff",
     },
     {
+      tag: "gis",
+      tech: "Gridiron Survivor",
+      name: "",
+      size: 20,
+      color: "#fff",
+    },    
+    {
       tag: "hacktoberfest",
       tech: "Hacktoberfest",
       name: "",
