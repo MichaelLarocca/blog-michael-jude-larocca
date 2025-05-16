@@ -14,7 +14,7 @@ date: "2025-05-19"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747259377190/ac629fac-1ba6-4a73-b082-e557f4b91a47.png align="center")
+![TN-TXG-137](img/05-19-25/TN-TXG-137.png)
 
 ---
 
@@ -32,7 +32,7 @@ Atoms are the most basic building blocks in Atomic Design. They are the smallest
 
 In web design, atoms are like HTML tags—simple and standalone. Focusing on atoms ensures consistency and reusability across your design system. For example, a button atom can be styled once and used throughout your entire project, maintaining a uniform look and feel. Understanding atoms is crucial because they form the foundation for more complex components.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747415378173/d62874a3-4f47-4aa3-bfe1-69c2bc42ac92.png align="center")
+![Button](img/05-19-25/Button.png)
 
 ---
 
@@ -42,7 +42,7 @@ Molecules are groups of atoms bonded together, serving as the next step in build
 
 By grouping atoms into molecules, you create more functional and interactive components. Molecules help organize your design system by providing reusable patterns that can be used across different project parts. They are essential for building consistent and efficient interfaces, allowing you to manage and update multiple atoms simultaneously.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747414978873/09fbe0f2-f343-4517-af2a-02bec8f051f5.png align="center")
+![Header](img/05-19-25/Header.png)
 
 **Above is an image of the header section of our Elfgorithm App, which consists of an SVG icon and a styled text element. This combination forms a molecule in the context of Atomic Design. The header is structured as follows:**
 
@@ -63,7 +63,7 @@ Organisms are more complex components in Atomic Design. They are composed of gro
 
 Using organisms, you can build more dynamic and interactive parts of your application, ensuring that the design remains consistent and scalable. They also allow you to manage and update multiple molecules and atoms collectively, making it easier to maintain the overall design system.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747415630376/44b803ad-bf76-4b46-a2ee-93abccceec74.png align="center")
+![Section](img/05-19-25/Section.png)
 
 **The image above illustrates an organism within the context of Atomic Design. This section, titled "How It Works," combines multiple molecules into a cohesive unit that serves a specific purpose. Each step in the process (Create a Group, AI Matches & Suggests, Enjoy the Exchange) is a molecule, consisting of a number icon, a heading, and a descriptive paragraph.**
 
@@ -87,7 +87,7 @@ Pages are crucial for testing the effectiveness of your design system, as they a
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747245377926/cd41ec22-b237-40b2-8663-7ccb5dc1e95f.png align="center")
+![BradFrost](img/05-19-25/BradFrost.png)
 
 ###### *“*[*Atomic Design*](https://youtu.be/W-h1FtNYim4)*” by Brad Frost—An Event Apart Austin 2015*
 
@@ -105,13 +105,13 @@ I was tasked with creating a Google Doc that organizes our forty components and 
 
 **Since the main goal is to write documentation for each component, and we were waiting for this clarification before we began, I utilized AI to analyze each component and categorize them as Atoms, Molecules, or Organisms. This demonstrates the effectiveness of proper component naming conventions, as the AI successfully sorted them all accordingly.**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747257191905/00f32d6a-b2d2-4a9c-bbba-7dbbf014cdce.png align="center")
+![DocX](img/05-19-25/DocX.png)
 
 However, it was not enough just to have AI label each component; I needed to understand why each component was labeled as it was. So, I took the AI assistance further and asked it to write definitions for each component.
 
 **Using AI as a tool in this manner saved our team time on the mundane task of manually labeling each component as Atoms, Molecules, or Organisms. With the Google Doc completed, with all the labeled components and their definitions, we can quickly approve or disapprove each labeled component and update if necessary, allowing us to finish this task and start the components documentation!**
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1747254633137/4afd8218-7a29-469b-baa9-cf45c28a5452.png align="center")
+![DocDef](img/05-19-25/DocDef.png)
 
 ---
 
