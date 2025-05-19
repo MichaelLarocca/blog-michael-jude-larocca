@@ -239,6 +239,6 @@ By following these principles, designers and developers can create efficient, co
 
 ---
 
-###### *Do you now feel confident applying Atomic Design principles to your web projects? Have you created more cohesive and scalable design systems and have tips to share? Please share the article and comment*
+###### *Do you now feel confident applying Atomic Design principles to your web projects? Have you created more cohesive and scalable design systems and have tips to share? Please share the article and comment!*
 
 ---
