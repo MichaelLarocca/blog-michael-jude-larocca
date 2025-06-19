@@ -5,7 +5,6 @@ tags:
      "react",
     "project",
       "tutorial",
-      "gis",
   ]
 published: true
 date: "2025-05-04"
