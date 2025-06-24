@@ -87,7 +87,7 @@ In my JavaScript Pac-Man project, inspired by [Ania Kubów](https://www.youtube.
 
 To achieve this effect, I created the functions `setTitleScreen()` and `setScoreScreen()`, which manages the display of the title and score screens in the game.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1750713377957/7a6686ea-e93c-4109-a3be-23b8158b8286.png align="center")
+![TitleAndScoreScreen](img/06-23-25/TitleAndScoreScreen.png)
 
 ---
 
