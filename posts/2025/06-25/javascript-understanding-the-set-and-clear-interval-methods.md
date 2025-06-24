@@ -210,7 +210,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-[Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
