@@ -14,7 +14,7 @@ date: "2025-06-23"
 
 ---
 
-![TN-TXG-136](img/05-04-25/TN-TXG-136.png)
+![TN-TXG-136](img/06-23-25/TN-TXG-138.png)
 
 ---
 
@@ -170,7 +170,7 @@ export function endToggleTitleAndScoreScreen() {
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -191,7 +191,7 @@ export function endToggleTitleAndScoreScreen() {
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -210,7 +210,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+[Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
