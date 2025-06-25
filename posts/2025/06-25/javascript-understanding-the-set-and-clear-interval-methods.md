@@ -243,6 +243,6 @@ Use what you’ve learned about setInterval and clearInterval in your projects t
 
 ---
 
-###### *Do you now feel confident using JavaScript's setInterval and clearInterval methods? Have you started applying these techniques in your projects to improve interactivity and efficiency? Please share the article and leave a comment*
+###### *Do you now feel confident using JavaScript's setInterval and clearInterval methods? Have you started applying these techniques in your projects to improve interactivity and efficiency? Please share the article and leave a comment!*
 
 ---
