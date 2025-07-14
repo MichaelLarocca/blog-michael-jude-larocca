@@ -46,7 +46,7 @@ Using Windows Update on your computer is the easiest way to upgrade to Windows 1
 
 In Update & Security, run **Windows Update**. Once your computer receives all the required updates, you should see a “Download and install“ button to upgrade to Windows 11, if it’s not already displayed.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752255915581/74042961-90ce-411f-a2a8-1f502e0cf76b.png align="center")
+![WindowsUpdate](img/07-14-25/WindowsUpdate.png)
 
 *Be sure to read and follow all of Microsoft’s prompts and documentation to ensure a smooth upgrade from Windows 10 to 11.*
 
@@ -56,7 +56,7 @@ In Update & Security, run **Windows Update**. Once your computer receives all th
 
 After running **Windows Update**, if you still do not see an option to upgrade to Windows 11, you can use Microsoft's official [PC Health Check App](https://www.microsoft.com/en-us/windows/windows-11#pchealthcheck).
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752256771872/6947c222-ec45-411f-970c-6a9725399777.png align="center")
+![PCHealthApp](img/07-14-25/PCHealthApp.png)
 
 *Next to the “Download PC Health Check app“ button is a helpful link to Windows 11 system requirements.*
 
@@ -68,7 +68,7 @@ Unfortunately, if your computer fails the compatibility test, you will not be ab
 
 *My main home laptop doesn't meet the requirements because of the processor. Luckily, I already own another laptop that came with Windows 11 preinstalled, which will now be my primary device as I retire my older one with Windows 10, since it will no longer be supported.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1752511947970/463f9d89-5569-4195-b6fa-abd7decb498a.png align="center")
+![DoesNotMeetRequirements](img/07-14-25/DoesNotMeetRequirements.png)
 
 ---
 
@@ -87,7 +87,7 @@ Unfortunately, if your computer fails the compatibility test, you will not be ab
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -108,7 +108,7 @@ Unfortunately, if your computer fails the compatibility test, you will not be ab
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -127,7 +127,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
