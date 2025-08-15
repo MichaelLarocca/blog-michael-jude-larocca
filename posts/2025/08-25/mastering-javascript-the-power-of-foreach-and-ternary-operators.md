@@ -15,7 +15,7 @@ date: "2025-08-18"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1755105031209/12a1c778-3cfd-4890-880d-0af923826cae.png align="center")
+![TN-TXG-140](img/08-18-25/TN-TXG-140.png)
 
 ###### *Image credit: Star Wars character © Lucasfilm Ltd. & TM. All Rights Reserved. Coca-Cola can © The Coca-Cola Company. Used under fair use for educational purposes.*
 
@@ -139,7 +139,7 @@ As a personal project, I am working on a JavaScript Pac-Man game based on Ania K
 
 #### 🔗 Here is a [link](https://codepen.io/Michael_Larocca/project/full/ZvpWdE) to my JavaScript Pac-Man game, which is in progress.
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1754949308618/0535686e-7868-4553-ad77-c7d4aff0d9cd.png align="left")
+![LC-Pac-Man-screen-shot](img/08-18-25/LC-Pac-Man-screen-shot.png)
 
 **I added levels to my game. When each level is completed, I increase the speed of Pac-Man and all the ghosts.**
 
