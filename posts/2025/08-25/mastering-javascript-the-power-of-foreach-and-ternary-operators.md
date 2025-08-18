@@ -272,6 +272,6 @@ Most importantly, enjoy the process of coding! I created objects featuring Star 
 
 ---
 
-###### *Are you now confident in using JavaScript's forEach method and ternary operators to write more efficient code? Do you have other tips for mastering these JavaScript concepts? Please share the article and comment*
+###### *Are you now confident in using JavaScript's forEach method and ternary operators to write more efficient code? Do you have other tips for mastering these JavaScript concepts? Please share the article and comment!*
 
 ---
