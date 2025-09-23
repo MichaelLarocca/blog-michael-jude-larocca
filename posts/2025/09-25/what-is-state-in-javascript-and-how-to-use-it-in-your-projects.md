@@ -44,7 +44,7 @@ State in JavaScript refers to the underlying data that represents the current co
     
 * 🔗 [Link to the sprint board](https://github.com/users/MichaelLarocca/projects/1)
 
-###### Disclaimer: Since I’m following team development practices and pushing updates to the develop branch, some of the changes I describe in this article may not be live in the deployed version of the game yet. If you try out the game and notice differences, it’s because new features and fixes are still being tested before release.*
+###### *Disclaimer: Since I’m following team development practices and pushing updates to the develop branch, some of the changes I describe in this article may not be live in the deployed version of the game yet. If you try out the game and notice differences, it’s because new features and fixes are still being tested before release.*
 
 ---
 
