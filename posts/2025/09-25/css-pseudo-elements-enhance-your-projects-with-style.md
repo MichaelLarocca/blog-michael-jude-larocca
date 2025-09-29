@@ -7,7 +7,7 @@ tags:
     "tutorial",
   ]
 published: true
-date: "2025-09-22"
+date: "2025-09-29"
 ---
 
 #### This article explores CSS pseudo-elements, which enable easy styling and content modification without additional HTML elements, and how I used them to create eyes for the ghosts in my JS Pac-Man game!
