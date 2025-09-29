@@ -3,6 +3,7 @@ title: "Ania Kubow: Building Tetris with JavaScript"
 tags:
   [
     "javascript",
+    "css",
     "project",
     "freecodecamp",
     "tutorial",
@@ -475,3 +476,4 @@ By adding your own enhancements to the Tetris game, you will better understand h
 ###### Are you now interested in coding games to learn JavaScript? Have you already coded Ania's Tetris and added your own enhancements? Please share the article and comment!
 
 ---
+
