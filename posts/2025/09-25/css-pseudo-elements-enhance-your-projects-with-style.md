@@ -2,7 +2,7 @@
 title: "CSS Pseudo-Elements: Enhance Your Projects with Style!"
 tags:
   [
-    "CSS",
+    "css",
     "javascript",
     "tutorial",
   ]
