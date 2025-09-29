@@ -14,7 +14,7 @@ date: "2025-09-22"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758911098388/a64c1c00-ce16-4fe5-ac91-e7960708e155.png align="center")
+![TN-TXG-142](img/09-29-25/TN-TXG-142.png)
 
 ---
 
@@ -45,7 +45,7 @@ Understanding and utilizing CSS pseudo-elements is valuable because they enhance
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758581894926/5d0a7df6-97c0-48c6-bcd0-4b056cc8d178.png align="center")
+![Pac-Man-screen-shot](img/09-29-25/LC-Pac-Man-screen-shot.png)
 
 ### JS Pac-Man Project Links:
 
@@ -70,7 +70,7 @@ Taking creative liberty, I reposition the eyes to create the effect, differentia
 
 🔗 [Link to the CodePen project](https://codepen.io/Michael_Larocca/pen/YzNqBWj?editors=1100)
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1758836601263/dd3e80dd-55f0-4672-8383-f7e92870507a.png align="center")
+![Pac-Ghosts](img/09-29-25/Pac-Ghosts.png)
 
 **First, I created a main ghost class. Using a black background, I rounded out the ghost’s head with the top left and right border radius, and I used a clip-path to create the jagged bottom of the ghost.**
 
@@ -221,7 +221,7 @@ Within the function that moves the ghosts, there is code to determine a valid di
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -242,7 +242,7 @@ Within the function that moves the ghosts, there is code to determine a valid di
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -261,7 +261,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -296,7 +296,7 @@ Can you think of other unique styling ideas for your projects that utilize pseud
 
 **Let’s connect! I’m active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca).
 
-![](https://miro.medium.com/v2/resize:fit:700/0*WkkMi-AgjubeODf8.jpeg align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
