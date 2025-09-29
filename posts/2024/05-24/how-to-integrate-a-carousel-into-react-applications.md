@@ -4,6 +4,7 @@ tags:
   [
     "react",
     "javascript",
+    "css",
     "tutorial",
   ]
 published: true
