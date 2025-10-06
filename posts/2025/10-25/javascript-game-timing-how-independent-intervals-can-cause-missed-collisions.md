@@ -12,7 +12,7 @@ date: "2025-10-06"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759510415854/75bf4131-2dc9-4b05-9ce4-0527c1e2454c.png align="center")
+![TN-TXG-143](img/10-06-25/TN-TXG-143.png)
 
 ---
 
@@ -113,7 +113,7 @@ For anyone developing games in JavaScript, using state management—particularly
 
 ##### ***Note:*** *Since I’m following team development practices and pushing updates to the develop branch, some of the changes I describe in this article may not be live in the deployed version of the game yet.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1759271049893/b91c44cf-e68b-401f-b61f-d25bc986d617.png align="center")
+![LC-Pac-Man-screen-shot](https://github.com/MichaelLarocca/blog-michael-jude-larocca/blob/main/posts/2025/09-25/img/09-29-25/LC-Pac-Man-screen-shot.png?raw=true)
 
 ---
 
@@ -132,7 +132,7 @@ For anyone developing games in JavaScript, using state management—particularly
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -153,7 +153,7 @@ For anyone developing games in JavaScript, using state management—particularly
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -172,7 +172,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -205,7 +205,7 @@ For JavaScript game developers, using state management to compare both current a
 
 **Let’s connect! I’m active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca).
 
-![](https://miro.medium.com/v2/resize:fit:700/0*WkkMi-AgjubeODf8.jpeg align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
