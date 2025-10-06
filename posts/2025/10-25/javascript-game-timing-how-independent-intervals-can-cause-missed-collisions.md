@@ -209,6 +209,6 @@ For JavaScript game developers, using state management to compare both current a
 
 ---
 
-###### *Are you now confident in implementing robust collision detection in JavaScript games? Have you encountered other timing or state management challenges in your own projects? Please share the article and comment*
+###### *Are you now confident in implementing robust collision detection in JavaScript games? Have you encountered other timing or state management challenges in your own projects? Please share the article and comment!*
 
 ---
