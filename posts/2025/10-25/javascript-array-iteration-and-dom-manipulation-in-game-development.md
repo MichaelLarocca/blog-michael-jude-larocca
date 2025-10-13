@@ -204,6 +204,6 @@ If you’re building interactive apps or games, try leveraging array-driven stat
 
 ---
 
-###### *Do you now have a better understanding of JavaScript array iteration and DOM manipulation? Are you ready to use these techniques to improve your own projects? Please share the article and comment*
+###### *Do you now have a better understanding of JavaScript array iteration and DOM manipulation? Are you ready to use these techniques to improve your own projects? Please share the article and comment!*
 
 ---
