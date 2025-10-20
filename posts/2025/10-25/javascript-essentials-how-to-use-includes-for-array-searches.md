@@ -277,6 +277,6 @@ Just as I used `.includes()` with an array of intersections to improve game logi
 
 ---
 
-###### *Do you now feel confident using JavaScript's .includes() for array searches? Have you applied similar techniques in your projects? Please share the article and comment*
+###### *Do you now feel confident using JavaScript's .includes() for array searches? Have you applied similar techniques in your projects? Please share the article and comment!*
 
 ---
