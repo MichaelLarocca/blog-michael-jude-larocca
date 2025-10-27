@@ -13,7 +13,7 @@ date: "2025-10-27"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761590638908/431e8cea-bb7e-4398-a6cb-81748b603bb0.png align="center")
+![TN-TXG-146](img/10-27-25/TN-TXG-146.png)
 
 ---
 
@@ -146,9 +146,7 @@ Sprint planning is the meeting where the team decides which tasks or tickets wil
 
 [*Elfgorithm*](https://github.com/LetsGetTechnical/elecretanta) *is an AI-driven Secret Santa app set to launch in winter 2025. It streamlines gift exchanges by removing the guesswork from Secret Santa activities. The app manages gift-giving details and provides personalized gift suggestions, ensuring you find the perfect presents for everyone.*
 
-![Sponsors-GIS](../../../src/images/Sponsors-GIS.png align="left")
-
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761580852525/b77a17c5-e6ce-4d24-a142-ea4c65dbc9de.png align="center")
+![Sponsors-GIS](../../../src/images/Sponsors-GIS.png)
 
 ### Gridiron Survivor Sponsors
 
@@ -176,7 +174,7 @@ Sprint planning is the meeting where the team decides which tasks or tickets wil
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -197,7 +195,7 @@ Sprint planning is the meeting where the team decides which tasks or tickets wil
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -216,7 +214,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -250,8 +248,8 @@ Regular team meetings keep everyone aligned and productive. Daily stand-ups help
 
 **Let’s connect! I’m active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca).
 
-![](https://miro.medium.com/v2/resize:fit:700/0*WkkMi-AgjubeODf8.jpeg align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
-###### *Do you now feel confident in managing tasks using a sprint board? Are you ready to enhance your team's efficiency with agile development? Please share the article and comment!*
+###### *Do you now feel confident in managing tasks using a sprint board? Are you ready to enhance your team's efficiency with agile development? Please share the article and comment*
