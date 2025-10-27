@@ -252,4 +252,4 @@ Regular team meetings keep everyone aligned and productive. Daily stand-ups help
 
 ---
 
-###### *Do you now feel confident in managing tasks using a sprint board? Are you ready to enhance your team's efficiency with agile development? Please share the article and comment*
+###### *Do you now feel confident in managing tasks using a sprint board? Are you ready to enhance your team's efficiency with agile development? Please share the article and comment!*
