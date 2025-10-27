@@ -46,9 +46,7 @@ Agile development is a way of building software that focuses on flexibility, tea
 
 *The index card lists tasks and moves through each column of the corkboard as the tasks are completed.*
 
-| To Do | In Progress | In Review | Testing | Done |
-| --- | --- | --- | --- | --- |
-| (TICKET) |  |  |  |  |
+![Table](img/10-27-25/Table.png)
 
 #### To Do
 
