@@ -12,7 +12,7 @@ date: "2025-11-03"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1762190404182/4c751a73-a725-46e8-a001-da2757c43247.png align="center")
+![TN-TXG-147](img/11-03-25/TN-TXG-147.png)
 
 ---
 
@@ -65,7 +65,7 @@ Here is a branch created by team member Tony to write tests for a “Group Card�
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761861050306/7c684f6e-3dc4-4cbc-8e6a-4f51f24280a6.png align="center")
+![Tony](img/11-03-25/Tony.png)
 
 ###### ***Note:*** *In the screenshot, the extra number (#619) at the end of the commit message indicates the pull request (PR) or merge request number linked to the branch or commit, aiding teams in tracking both the original issue and the PR that fixed it.*
 
@@ -118,7 +118,7 @@ Conventional branches also make it easier to link commits to specific issues, en
 
 [*Elfgorithm*](https://github.com/LetsGetTechnical/elecretanta) *is an AI-driven Secret Santa app set to launch in winter 2025. It streamlines gift exchanges by removing the guesswork from Secret Santa activities. The app manages gift-giving details and provides personalized gift suggestions, ensuring you find the perfect presents for everyone.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1761860652279/ea4c6d15-1672-43c6-a4fc-394ee05ce571.png align="center")
+![Sponsors-GIS](../../../src/images/Sponsors-GIS.png)
 
 ### Gridiron Survivor Sponsors
 
@@ -148,7 +148,7 @@ Conventional branches also make it easier to link commits to specific issues, en
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -169,7 +169,7 @@ Conventional branches also make it easier to link commits to specific issues, en
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -188,7 +188,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -221,7 +221,7 @@ When working with different teams, each will likely have its own naming conventi
 
 **Let’s connect! I’m active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca).
 
-![](https://miro.medium.com/v2/resize:fit:700/0*WkkMi-AgjubeODf8.jpeg align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
