@@ -225,4 +225,4 @@ When working with different teams, each will likely have its own naming conventi
 
 ---
 
-###### *Do you now feel confident in using conventional branch naming patterns in Git? Have you already enhanced your team's workflow with these practices? Please share the article and comment*
+###### *Do you now feel confident in using conventional branch naming patterns in Git? Have you already enhanced your team's workflow with these practices? Please share the article and comment!*
