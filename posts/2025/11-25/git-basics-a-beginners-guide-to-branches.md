@@ -12,7 +12,7 @@ date: "2025-11-11"
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1762817008465/2fbf2984-19a6-4d23-b41c-7d804d10346e.png align="center")
+![TN-TXG-148](img/11-10-25/TN-TXG-148.png)
 
 ---
 
@@ -109,7 +109,7 @@ By understanding and resolving merge conflicts, you ensure that your team's work
 
 [*Elfgorithm*](https://github.com/LetsGetTechnical/elecretanta) *is an AI-driven Secret Santa app set to launch in winter 2025. It streamlines gift exchanges by removing the guesswork from Secret Santa activities. The app manages gift-giving details and provides personalized gift suggestions, ensuring you find the perfect presents for everyone.*
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1762879391246/c68671cf-87e7-49a2-af0e-ca5d3f3ac7cf.png align="center")
+![Sponsors-GIS](../../../src/images/Sponsors-GIS.png)
 
 ### Gridiron Survivor Sponsors
 
@@ -141,7 +141,7 @@ By understanding and resolving merge conflicts, you ensure that your team's work
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168177634/1ff578a9-5d03-4800-9c0c-9092e4e60c4f.png align="center")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -162,7 +162,7 @@ By understanding and resolving merge conflicts, you ensure that your team's work
 
 ### Affiliate & Discount Links!
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740168473785/c85789c9-1594-4000-aa2f-43e842f9825f.jpeg align="center")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -181,7 +181,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![](https://cdn.hashnode.com/res/hashnode/image/upload/v1740169191630/ac8c5360-d1c5-4c85-8504-18b9c755841e.png align="center")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -216,10 +216,10 @@ Practicing is the best way to learn! Even if you're working solo, you can apply 
 
 **Let’s connect! I’m active on** [**LinkedIn**](https://www.linkedin.com/in/michaeljudelarocca/) **and** [**Twitter**](https://twitter.com/MikeJudeLarocca).
 
-![](https://miro.medium.com/v2/resize:fit:700/0*WkkMi-AgjubeODf8.jpeg align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
-###### *Are you now confident in managing Git branches for collaborative projects? Do you have other tips for handling merge conflicts effectively? Please share the article and comment!*
+###### *Are you now confident in managing Git branches for collaborative projects? Do you have other tips for handling merge conflicts effectively? Please share the article and comment*
 
 ---
