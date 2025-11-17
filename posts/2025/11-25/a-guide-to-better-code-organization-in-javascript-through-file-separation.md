@@ -29,14 +29,6 @@ But how exactly do you break down your project into separate files? Let me share
 
 ### GitHub Copilot in VS Code
 
-If you're using Visual Studio Code as your code editor, you can enhance it with an AI tool called GitHub Copilot by installing it as an extension. This tool helps you write code more quickly by suggesting lines or blocks of code as you type, enhancing efficiency and reducing errors. The Pro version includes a chat feature, allowing for interactive assistance and real-time explanations.
-
-**I frequently use the GitHub Copilot chat feature while coding. It not only assists with code review but also acts as a tireless senior developer you can consult for questions! I’ve benefited from asking Copilot how to reorganize my project like the pros do, and I believe YOU will gain the same benefits while building your projects with the help of AI, too!**
-
----
-
-### GitHub Copilot in VS Code
-
 If you're using Visual Studio Code as your code editor, you can enhance it with an AI tool called GitHub Copilot by installing it as an extension. This tool helps you write code more quickly by suggesting lines or blocks of code as you type, enhancing efficiency and reducing errors.
 
 GitHub Copilot also offers an interactive chat feature, [GitHub Copilot Chat](https://docs.github.com/en/copilot/how-tos/chat-with-copilot), which is available to Copilot subscribers. This chat allows you to ask questions, receive real-time explanations, and get help with code review, refactoring, and debugging, all right inside VS Code.
