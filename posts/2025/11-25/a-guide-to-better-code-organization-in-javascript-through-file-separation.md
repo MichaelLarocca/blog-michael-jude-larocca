@@ -206,6 +206,6 @@ A good start for learning how to refactor a main JavaScript file into separate f
 
 ---
 
-###### *Do you now feel more confident in organizing your JavaScript code through file separation? Have you started implementing these techniques in your own projects? Please share the article and comment*
+###### *Do you now feel more confident in organizing your JavaScript code through file separation? Have you started implementing these techniques in your own projects? Please share the article and comment!*
 
 ---
