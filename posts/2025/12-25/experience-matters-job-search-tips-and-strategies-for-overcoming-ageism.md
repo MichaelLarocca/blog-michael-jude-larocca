@@ -13,7 +13,7 @@ date: "2025-12-15"
 
 ---
 
-![TN-TXG-150.png](12-25/img/TN-TXG-150.png)
+![TN-TXG-150.png](img/TN-TXG-150.png)
 
 ---
 
