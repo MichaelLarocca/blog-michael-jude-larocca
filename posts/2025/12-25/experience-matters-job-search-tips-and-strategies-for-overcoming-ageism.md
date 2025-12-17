@@ -267,6 +267,6 @@ Remember, there’s more to a successful job search than just combating ageism w
 
 ---
 
-###### *Are you now confident in overcoming ageism in your job search? Do you have additional strategies to share for experienced professionals? Please share the article and comment*
+###### *Are you now confident in overcoming ageism in your job search? Do you have additional strategies to share for experienced professionals? Please share the article and comment!*
 
 ---
