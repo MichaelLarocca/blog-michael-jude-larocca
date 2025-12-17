@@ -186,7 +186,7 @@ Jessica Hernandez is the founder and CEO of Great Resumes Fast, an executive res
 
 ---
 
-![image.png](https://codahosted.io/docs/uPgi6YtRNl/blobs/bl-dWh6tnrfJE/a3212b58d07d15a1b28aba19d5e4822b2e948e306aae3d13970ff65987d63f123c29f8cd70e928959c9ec0a4201e2746798811be4b9b4827c4d58a55bf1c0398ce3ce4b0b45954694bf7be84860b5bfeb8d3428a19e2e9166d4f1eed908b24285cc1ff6d align="left")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -207,7 +207,7 @@ Jessica Hernandez is the founder and CEO of Great Resumes Fast, an executive res
 
 ### Affiliate & Discount Links!
 
-![image.jpeg](https://codahosted.io/docs/uPgi6YtRNl/blobs/bl-kvYVO_f_9U/ff04a512745ceaaed37efc780f6dc1fd7ab7e9750cabbdfcac22e97523bfef28b5a21f744f9422099bbdc87debddf142094f8021bdf1880e0c14b2cb9fc31efb9deed47d4a33ae140d7fe5729b99c60deecaff0cc39498d2df91fb8d44ec7bc068aab796 align="left")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -226,7 +226,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![image.png](https://codahosted.io/docs/uPgi6YtRNl/blobs/bl-RZ4QIrKSz1/9f75652100f5a65f6c1431e9e35763315c406f2f89f60671496c8942e38a3b8936277feb2bcb9335729ab952fc329484e32587c7903e74f03330af5b76b45e881271b707c7d7fa9a0af2df1afe2b05d7303609a1845a307b63617e8aec78599cc3d7a333 align="left")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -263,7 +263,7 @@ Remember, there’s more to a successful job search than just combating ageism w
 
 **Let’s connect! I’m active on** [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) **and** [Twitter](https://twitter.com/MikeJudeLarocca).
 
-![0_WkkMi-AgjubeODf8.jpg](https://codahosted.io/docs/uPgi6YtRNl/blobs/bl-yIOZdCqCIA/14f8cd36d2ef58a75b61dbe5e91315868f9c1cad6bf945885675327bdb74f498dda9f602cab28a2ec2b3baf3783eed868dd5186fa8ad08abe7c37a3f6d5595fce3ac89a12406b757aff9f2d6a7c3154b13ccc36a75d83a04cfc150123f19b2d8a165caf3 align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
