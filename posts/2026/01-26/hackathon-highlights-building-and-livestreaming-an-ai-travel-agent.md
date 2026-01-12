@@ -178,6 +178,6 @@ Curious how it all comes together in real time? Follow our journey for updates, 
 
 ---
 
-###### *Are you excited to follow our hackathon journey and learn how to build an AI agent? Do you have your own tips or stories from hackathons? Please share the article and comment*
+###### *Are you excited to follow our hackathon journey and learn how to build an AI agent? Do you have your own tips or stories from hackathons? Please share the article and comment!*
 
 ---
