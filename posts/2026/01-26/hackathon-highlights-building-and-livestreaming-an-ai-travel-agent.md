@@ -12,7 +12,7 @@ date: "2026-01-12"
 
 ---
 
-![TN-TXG-151.png](https://codahosted.io/docs/Bg6gPUf5P3/blobs/bl-lQBIUotFd_/b15a7a74e11f0bc619721a5e8663c61ee6ded3f351ee6edf17e8658cfff51280203c763cf9b3bae3d62ca965f34030fcba14abf243aeadeda0acd8543d4e63ed0f40ee240394084c78ee8b02701477b163dcd0112794d7e7df00a79bcd4542b4afaa9d4c align="left")
+![TN-TXG-151](img/01-12-26/TN-TXG-151.png)
 
 ---
 
@@ -63,7 +63,7 @@ In upcoming articles, I’ll take you behind the scenes of this hackathon, shari
 
 ---
 
-![Sponsors-GIS-2026.png](https://codahosted.io/docs/Bg6gPUf5P3/blobs/bl-vLKp0IpEv1/40a4a0e472b1a0f25d41607d2fd36de818fc19f44056598cd317f285e3ead6ca647c49c05ce653a5a6b72e162f9f2ada25e17d29b7eadb88b40abdbacb21a5b916641d4e8a51e89fcfe9f0d7b091336a3032137d157dd77bc4fb051b89359dab047e14ed align="left")
+![Torc](../../../src/images/Sponsors-GIS-2026.png)
 
 ### **Gridiron Survivor Sponsors**
 
@@ -112,7 +112,7 @@ In upcoming articles, I’ll take you behind the scenes of this hackathon, shari
 
 ---
 
-![torc_ambassador-ML.png](https://codahosted.io/docs/Bg6gPUf5P3/blobs/bl-b6sQplMIzZ/17d73e9d6199b381f4d989bd3dad8816a232e4e64eab3d68538ac8c674240f3a3e8bfe7e6540d4cd4166267bfd12119801fda7513ad109a582f04a90dd29683b42286901ebcd26a147d611248d76c398ea8e3fafdb79d7f2c3f7ed4701e273b22b9b7efd align="left")
+![Torc](../../../src/images/torc_ambassador-ML.png)
 
 **I’m excited to announce that I’m now a Torc Ambassador! As part of this global community, I’ll be sharing valuable insights from Torc’s virtual events, lessons from my own tech journey, and real-world perspectives on how teams are hiring and working today. I’ll be active in the Torc community through posts, events, Q&A sessions, and more—so stay tuned for updates and opportunities to connect. Whether you’re looking to advance your tech career or simply stay informed, I hope the insights I share will support and inspire you on your journey!**
 
@@ -178,6 +178,6 @@ Curious how it all comes together in real time? Follow our journey for updates, 
 
 ---
 
-###### *Are you excited to follow our hackathon journey and learn how to build an AI agent? Do you have your own tips or stories from hackathons? Please share the article and comment!*
+###### *Are you excited to follow our hackathon journey and learn how to build an AI agent? Do you have your own tips or stories from hackathons? Please share the article and comment*
 
 ---
