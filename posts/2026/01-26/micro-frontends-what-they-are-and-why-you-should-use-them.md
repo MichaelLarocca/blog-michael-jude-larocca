@@ -151,17 +151,11 @@ For an in-depth dive into Micro-Frontends, check out Jack Herrington’s excelle
 
 ---
 
-[https://www.youtube.com/watch?v=lKKsjpH09dU&t=0s](https://www.youtube.com/watch?v=lKKsjpH09dU&t=0s)
-
-{% youtube lKKsjpH09dU %}
-
-https://www.youtube.com/watch?v=lKKsjpH09dU&t=0s
-
 <iframe width="1090" height="613" src="https://www.youtube.com/embed/lKKsjpH09dU"></iframe>
 
 ---
 
-![Torc](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-xp-wM4KbnU/f2ab762c411116eee4f8be594b3b7f4f1de26bb632307ee3ad15a037bc1d128d31136ad55ed126c3af0bfea18f047cdb8f5d887982bd68e73f8107c0822f0fb2b5d019e38942c8ed574eff16d7e18937ff634cf693e5344fecdc3eafa384ad01e78a227e align="left")
+![Gridiron Survivor Sponsor](../../../src/images/Sponsors-GIS-2026.png)
 
 ### **Gridiron Survivor Sponsors**
 
@@ -191,7 +185,7 @@ https://www.youtube.com/watch?v=lKKsjpH09dU&t=0s
 
 ---
 
-![image.png](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-dWh6tnrfJE/ff750c69a529513bd8274d3b2bb85bee762fc7dce7b5c36af1a09a8de548e564fdd901d6b50f624619a5d62478970cae9cdc15b64fa935c6d311b790f92d1ea978fb0053c13e188a096e29efc7edc2d88d160deaf306b6e709f500cc1cad724fb8a01bf2 align="left")
+![HTML-ATT](../../../src/images/HTML-ATT.png)
 
 ### **Be sure to listen to the HTML All The Things Podcast!**
 
@@ -210,7 +204,7 @@ https://www.youtube.com/watch?v=lKKsjpH09dU&t=0s
 
 ---
 
-![torc_ambassador-ML.png](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-b6sQplMIzZ/f208c2e84569826c929c57885ff18ae2cb7b27a7d2cab614598a17a0027326071bd834a1ae6c6bb7a481f3dd9fc029da35cb3a6f0a4a8d304a20d4329e435d1756e254c69ab09fcf6eb59ebc11f8be4d8a8b3d2cbdc1aefc029e1963fc1c4ee59ed0ffee align="left")
+![Torc](../../../src/images/torc_ambassador-ML.png)
 
 ###### I’m excited to announce that I’m now a Torc Ambassador! As part of this global community, I’ll be sharing valuable insights from Torc’s virtual events, lessons from my own tech journey, and real-world perspectives on how teams are hiring and working today. I’ll be active in the Torc community through posts, events, Q&A sessions, and more—so stay tuned for updates and opportunities to connect. Whether you’re looking to advance your tech career or simply stay informed, I hope the insights I share will support and inspire you on your journey!
 
@@ -220,7 +214,7 @@ https://www.youtube.com/watch?v=lKKsjpH09dU&t=0s
 
 ### Affiliate & Discount Links!
 
-![image.jpeg](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-kvYVO_f_9U/90cc76cba7c3c53e3155e65cc7c74640dd77e5ea1ec8020902044dd76ed8fdfb668be2c465bb702dec32a6f8c8290a2e8442866fadea66b937c4fd2012b4e27f580ea5b37dcd3c7331cb1c08904db2dbd9da068fce68d6941caa6d3e14ae5f3511b34afb align="left")
+![CodeMonkey](../../../src/images/CodeMonkey-TryForFree.jpeg)
 
 **With CodeMonkey, learning can be all fun and games!** CodeMonkey transforms education into an engaging experience, enabling children to evolve from tech consumers to creators. Use CodeMonkey's **FREE trial** to unlock the incredible potential of young tech creators!
 
@@ -239,7 +233,7 @@ Through fun games, hands-on projects, and community interaction, CodeMonkey help
 
 ---
 
-![image.png](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-RZ4QIrKSz1/8b0dc833c7bd6b0e910d84660dd95c36dc1c9c79c020c034413f3a1efac834ab3bfe045c7beec060564a10d973eb91e5dbe4c74b8ade08602e20edc1daf52f00e2bb61d9f3da8fc361db1c429e25ae332d49b5aae79c6c831dd8d7d391abb48100d95635 align="left")
+![Scrimba_Banner](../../../src/images/Scrimba_Banner.png)
 
 ### Advance your career with a 20% discount on Scrimba Pro using this [affiliate link](https://scrimba.com/?via=MichaelLarocca)!
 
@@ -272,10 +266,10 @@ Working hands-on with micro-frontends and Module Federation during the hackathon
 
 **Let’s connect! I’m active on** [LinkedIn](https://www.linkedin.com/in/michaeljudelarocca/) **and** [Twitter](https://twitter.com/MikeJudeLarocca).
 
-![0_WkkMi-AgjubeODf8.jpg](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-yIOZdCqCIA/8292d0c45d9f3fbb170d26c623828695ea00e6e6168aad6f991e4158a56219b25520de4fa5bc1453d2f1c6580c5e01770d4665e9e11bd8e97881a5a705ce7f3fbfb8394a3f38d684fb2f54f9b7b8e8774793373e8b116a66a6a0938b8bd2cdd1e9e7582f align="left")
+![Logo-White-Slogan](../../../src/images/Logo-White-Slogan.jpg)
 
 ---
 
-###### *Are you now curious about building apps with micro-frontends and Module Federation? Are you considering using these tools in your next project? Please share the article and comment!*
+###### *Are you now curious about building apps with micro-frontends and Module Federation? Are you considering using these tools in your next project? Please share the article and comment*
 
 ---
