@@ -114,9 +114,9 @@ In upcoming articles, I’ll take you behind the scenes of this hackathon, shari
 
 ![Torc](../../../src/images/torc_ambassador-ML.png)
 
-**I’m excited to announce that I’m now a Torc Ambassador! As part of this global community, I’ll be sharing valuable insights from Torc’s virtual events, lessons from my own tech journey, and real-world perspectives on how teams are hiring and working today. I’ll be active in the Torc community through posts, events, Q&A sessions, and more—so stay tuned for updates and opportunities to connect. Whether you’re looking to advance your tech career or simply stay informed, I hope the insights I share will support and inspire you on your journey!**
+###### **I’m excited to announce that I’m now a Torc Ambassador! As part of this global community, I’ll be sharing valuable insights from Torc’s virtual events, lessons from my own tech journey, and real-world perspectives on how teams are hiring and working today. I’ll be active in the Torc community through posts, events, Q&A sessions, and more—so stay tuned for updates and opportunities to connect. Whether you’re looking to advance your tech career or simply stay informed, I hope the insights I share will support and inspire you on your journey!**
 
-*Torc is an AI-powered platform and vibrant global network that connects skilled professionals with top opportunities and forward-thinking companies. If you’re interested in joining, you can create a free profile using my referral link*: [https://platform.torc.dev/#/r/b5QZ7k5h/cp](https://platform.torc.dev/#/r/b5QZ7k5h/cp)
+###### *Torc is an AI-powered platform and vibrant global network that connects skilled professionals with top opportunities and forward-thinking companies. If you’re interested in joining, you can create a free profile using my referral link*: [https://platform.torc.dev/#/r/b5QZ7k5h/cp](https://platform.torc.dev/#/r/b5QZ7k5h/cp)
 
 ---
 
