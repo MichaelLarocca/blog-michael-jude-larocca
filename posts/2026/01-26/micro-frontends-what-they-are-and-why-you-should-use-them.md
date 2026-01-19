@@ -124,6 +124,8 @@ To help everything work smoothly together, Module Federation was also used. This
 
 <iframe width="1090" height="613" src="https://www.youtube.com/embed/BG7HjHaezl4"></iframe>
 
+---
+
 ### Gridiron Survivor Hackathon & Zephyr Cloud
 
 This video introduces the Gridiron Survivor’s Hackathon, sponsored by Zephyr Cloud, with a focus on AI and building specialized agents. Zach Chapel, CEO and co-founder of Zephyr Cloud, discusses the launch of Zephyr Agency—a platform designed to create powerful, purpose-driven AI agents that go beyond generic tools.
