@@ -106,7 +106,7 @@ Micro-frontends also let teams share things like components or helper functions,
 
 ---
 
-![TripWeave.png](img/01-19-26/TripWeave.png)
+![TripWeave.png](img/01-19-26/TripWeave2.png)
 
 ###### **Team Champs TripWeave app in progress**
 
@@ -154,6 +154,8 @@ For an in-depth dive into Micro-Frontends, check out Jack Herrington’s excelle
 ---
 
 <iframe width="1090" height="613" src="https://www.youtube.com/embed/lKKsjpH09dU"></iframe>
+
+---
 
 ---
 
