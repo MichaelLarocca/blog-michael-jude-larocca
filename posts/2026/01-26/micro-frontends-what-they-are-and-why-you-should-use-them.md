@@ -272,6 +272,6 @@ Working hands-on with micro-frontends and Module Federation during the hackathon
 
 ---
 
-###### *Are you now curious about building apps with micro-frontends and Module Federation? Are you considering using these tools in your next project? Please share the article and comment*
+###### *Are you now curious about building apps with micro-frontends and Module Federation? Are you considering using these tools in your next project? Please share the article and comment!*
 
 ---
