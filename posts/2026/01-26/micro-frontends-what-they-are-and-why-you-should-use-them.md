@@ -11,7 +11,7 @@ date: "2026-01-19"
 
 ### **In this continuing hackathon coverage article, we explore how the team is progressing in building an AI-powered travel agent app using micro-frontends, Module Federation, and other modern tools!**
 
-![TN-TXG-152.png](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-V-oeWut6Pr/636db073bab396f6db367a0d041e35228b47610f08eac06186c9232a0c0366dbc2530d598ebd79e94e6981f0de204c3f5c820f8d74bfbd7b4d501f7282149eb5794d0e3854b0860767baf14846c79a6bfba2fbb6acbef92175c16b4555d0caaf35c801d9 align="left")
+![TN-TXG-152](img/01-19-26/TN-TXG-152.png)
 
 ---
 
@@ -23,41 +23,41 @@ To follow our journey, ask questions, and share your feedback in real time, subs
 
 **Hackathon/Gridiron Survivor Team Members:**
 
-[Alex Appleget](https://www.linkedin.com/in/alex-appleget?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Alex Appleget](https://www.linkedin.com/in/alex-appleget?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Cody Epstein](https://www.linkedin.com/in/cody-epstein?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Cody Epstein](https://www.linkedin.com/in/cody-epstein?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Hector Suazo](https://www.linkedin.com/in/hector-suazo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Hector Suazo](https://www.linkedin.com/in/hector-suazo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Will Cooley](https://www.linkedin.com/in/cooleywc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Will Cooley](https://www.linkedin.com/in/cooleywc?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Dominic J. Monaco](https://www.linkedin.com/in/dominick-j-monaco?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Dominic J. Monaco](https://www.linkedin.com/in/dominick-j-monaco?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Jennifer Tieu](https://www.linkedin.com/in/jennifertieu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Jennifer Tieu](https://www.linkedin.com/in/jennifertieu?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[David Terzano](https://www.linkedin.com/in/david-terzano-b15657329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [David Terzano](https://www.linkedin.com/in/david-terzano-b15657329?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Michael Larocca](https://www.linkedin.com/in/michaeljudelarocca/)
+* [Michael Larocca](https://www.linkedin.com/in/michaeljudelarocca/)
 
-[Tony Briely](https://www.linkedin.com/in/tony-brierly?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Tony Briely](https://www.linkedin.com/in/tony-brierly?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Aman Lokhande](https://www.linkedin.com/in/amanlokhande?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Aman Lokhande](https://www.linkedin.com/in/amanlokhande?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Bradley Diep](https://www.linkedin.com/in/bradley-diep-2170451b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Bradley Diep](https://www.linkedin.com/in/bradley-diep-2170451b2?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Parys G Khazaie](https://www.linkedin.com/in/paryssatis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Parys G Khazaie](https://www.linkedin.com/in/paryssatis?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Kerilne Moncy](https://www.linkedin.com/in/kerline-moncy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Kerilne Moncy](https://www.linkedin.com/in/kerline-moncy?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Calypso Hernandez MFA CSM](https://www.linkedin.com/in/calypso-hernandez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Calypso Hernandez MFA CSM](https://www.linkedin.com/in/calypso-hernandez?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Jeremy Fischer](https://www.linkedin.com/in/jeremy-ev-fischer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Jeremy Fischer](https://www.linkedin.com/in/jeremy-ev-fischer?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Mike Chen](https://www.linkedin.com/in/chenhmike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Mike Chen](https://www.linkedin.com/in/chenhmike?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Nicktaylor](https://www.linkedin.com/in/nickytonline?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Nicktaylor](https://www.linkedin.com/in/nickytonline?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
-[Shashi Lo](https://www.linkedin.com/in/shashilo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
+* [Shashi Lo](https://www.linkedin.com/in/shashilo?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app)
 
 ---
 
@@ -106,7 +106,7 @@ Micro-frontends also let teams share things like components or helper functions,
 
 ---
 
-![TripWeave.png](https://codahosted.io/docs/FP_rDa-vEk/blobs/bl-jlMnOZoEan/e0f0208fb666eb52ef3e90bca24b258be8b81933bc7aed4e3e3a22f06cec615b7989d4012592fa4e3c61767cf4de40a89f8042344f59dee88836a0314b5c3c6d0ad78171955fbf53e513453521ec480f54e16d75212a59b1b64b00a69088d5540712f07a align="left")
+![TripWeave.png](img/01-19-26/TripWeave.png)
 
 ###### **Team Champs TripWeave app in progress**
 
@@ -121,12 +121,6 @@ To organize and connect all the pieces, the team used a tool called Rsbuild. Rsb
 To help everything work smoothly together, Module Federation was also used. This allowed the team to share code and features between sections, so there was no need to copy and paste the same things everywhere. Zephyr (one of this Hackathon’s sponsors) was also brought in to help automatically check and share code safely between the groups, making collaboration even easier. Zephyr is a platform and set of tools that helps deploy, manage, and connect micro-frontends in the cloud. It also helps generate TypeScript types for shared code, making sure everything fits together and reducing mistakes. In addition, Zephyr was used to deploy the app to the cloud, streamlining the launch process for the entire team.
 
 ---
-
-{% youtube BG7HjHaezl4 %}
-
-[https://www.youtube.com/watch?v=BG7HjHaezl4](https://www.youtube.com/watch?v=BG7HjHaezl4)
-
-https://www.youtube.com/watch?v=BG7HjHaezl4
 
 <iframe width="1090" height="613" src="https://www.youtube.com/embed/BG7HjHaezl4"></iframe>
 
